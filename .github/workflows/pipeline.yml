@@ -1,0 +1,72 @@
+name: Whale Copy Pipeline
+
+on:
+  schedule:
+    # 每 30 分鐘跑一次（GHA cron 最短 5 分鐘建議；30 分鐘可確保免費額度內）
+    # 注意：cron 在 GHA 高負載時會延遲 5-15 分鐘，這對「等鯨魚低價開倉」可接受
+    - cron: '*/30 * * * *'
+  workflow_dispatch:  # 手動觸發
+
+# 用 concurrency 防止上一輪還沒跑完又起一輪
+concurrency:
+  group: pipeline
+  cancel-in-progress: false
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write  # 為了 commit state 回 repo
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: polytest/requirements.txt
+
+      - name: Install deps
+        working-directory: polytest
+        run: pip install -r requirements.txt
+
+      - name: Write .env from secrets
+        run: |
+          mkdir -p ~/.polymarket
+          cat > ~/.polymarket/.env <<EOF
+          WALLET_PRIVATE_KEY=${{ secrets.WALLET_PRIVATE_KEY }}
+          POLY_API_KEY=${{ secrets.POLY_API_KEY }}
+          POLY_API_SECRET=${{ secrets.POLY_API_SECRET }}
+          POLY_API_PASSPHRASE=${{ secrets.POLY_API_PASSPHRASE }}
+          POLYGON_RPC_URL=${{ secrets.POLYGON_RPC_URL }}
+          TG_BOT_TOKEN=${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID=${{ secrets.TG_CHAT_ID }}
+          LIVE_MODE=false
+          MAX_BET_USDC=10
+          MAX_TOTAL_OPEN_USDC=100
+          DAILY_LOSS_LIMIT_USDC=10
+          WHALE_FOLLOW_RATIO=0.001
+          INITIAL_CAPITAL_USDC=100
+          EOF
+
+      - name: Run pipeline
+        working-directory: polytest
+        run: python -m scripts.run_pipeline
+
+      - name: Commit state back to repo
+        # 把 monitor_state.json / signals.jsonl / pending_orders.jsonl / processed_signal_hashes.json
+        # 等狀態檔提交回 repo，這樣下次 cron 跑時能讀到上次的進度
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add polytest/data/
+          if git diff --staged --quiet; then
+            echo "no state changes"
+          else
+            git commit -m "data: pipeline state @ $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi

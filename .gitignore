@@ -1,0 +1,35 @@
+# === 機密：絕對不能 commit ===
+.env
+.env.*
+*.env
+*.pem
+*.key
+secrets/
+
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.coverage
+venv/
+.venv/
+
+# === IDE / OS ===
+.idea/
+.vscode/
+*.swp
+*.swo
+desktop.ini
+.DS_Store
+Thumbs.db
+
+# === 本機回測產出（檔案大、不需 push） ===
+data/backtest/
+
+# === Logs ===
+*.log

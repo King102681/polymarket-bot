@@ -1,0 +1,62 @@
+name: Refresh Whales (weekly)
+
+on:
+  schedule:
+    # 每週一台北時間早上 8 點（UTC 00:00）
+    - cron: '0 0 * * 1'
+  workflow_dispatch:
+
+jobs:
+  discovery:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: polytest/requirements.txt
+
+      - name: Install deps
+        working-directory: polytest
+        run: pip install -r requirements.txt
+
+      - name: Write .env
+        run: |
+          mkdir -p ~/.polymarket
+          cat > ~/.polymarket/.env <<EOF
+          WALLET_PRIVATE_KEY=${{ secrets.WALLET_PRIVATE_KEY }}
+          POLY_API_KEY=${{ secrets.POLY_API_KEY }}
+          POLY_API_SECRET=${{ secrets.POLY_API_SECRET }}
+          POLY_API_PASSPHRASE=${{ secrets.POLY_API_PASSPHRASE }}
+          POLYGON_RPC_URL=${{ secrets.POLYGON_RPC_URL }}
+          TG_BOT_TOKEN=${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID=${{ secrets.TG_CHAT_ID }}
+          LIVE_MODE=false
+          MAX_BET_USDC=10
+          MAX_TOTAL_OPEN_USDC=100
+          DAILY_LOSS_LIMIT_USDC=10
+          WHALE_FOLLOW_RATIO=0.001
+          INITIAL_CAPITAL_USDC=100
+          EOF
+
+      - name: Refresh whales
+        working-directory: polytest
+        run: python -m scripts.run_whale_discovery
+
+      - name: Commit whales.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add polytest/data/whales.json
+          if git diff --staged --quiet; then
+            echo "no changes to whales.json"
+          else
+            git commit -m "data: refresh whales @ $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi
