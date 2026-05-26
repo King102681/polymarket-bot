@@ -147,3 +147,4 @@
 {"signal_tx_hash": "0xc26873b4561273c1259ffb6a582fe798102bb5435b3871161830e6133e98a828", "whale_pseudonym": "Countryside", "market_title": "Will the San Antonio Spurs win the 2026 NBA Finals?", "reason": "wallet 在黑名單（回測虧損）"}
 {"signal_tx_hash": "0x97246e1241928fee21efd888f595e661fc2986d3f510551738ef1bd904680bd2", "whale_pseudonym": "Countryside", "market_title": "Will the Oklahoma City Thunder win the 2026 NBA Finals?", "reason": "wallet 在黑名單（回測虧損）"}
 {"signal_tx_hash": "0x83fcd116b0d556985675f9f401c460b79d08d3ca6b8b05c088867dcba27ecda6", "whale_pseudonym": "Countryside", "market_title": "Will the New York Knicks win the 2026 NBA Finals?", "reason": "wallet 在黑名單（回測虧損）"}
+{"signal_tx_hash": "0x8e1380be702fa3868464de8f5ed7bea4a51ee7a11e700a16833c3ad11520ee3e", "whale_pseudonym": "newdogbeginning", "market_title": "NHL: Stanley Cup Winner USA or Canada?", "reason": "鯨魚單 $793 < $2000"}
