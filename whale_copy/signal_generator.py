@@ -49,6 +49,10 @@ WHALE_BLACKLIST: set[str] = {
     "0xbddf61af533ff524d27154e589d2d7a81510c684",
 }
 
+# 允許的市場類別（回測：other IS=+30% OOS=+27%；sports IS=-24% 捨棄）
+# 設成空 set = 不限制類別
+ALLOWED_CATEGORIES: set[str] = {"other"}
+
 
 @dataclass
 class Order:
@@ -203,6 +207,13 @@ def process_all() -> tuple[list[Order], list[Rejected]]:
         if sig["whale_wallet"] in WHALE_BLACKLIST:
             reject(sig, f"wallet 在黑名單（回測虧損）")
             continue
+
+        # 類別過濾（在 API 呼叫之前做，省資源）
+        if ALLOWED_CATEGORIES:
+            cat_early = classify(sig.get("market_slug"), sig.get("market_title"))
+            if cat_early not in ALLOWED_CATEGORIES:
+                reject(sig, f"類別 {cat_early} 不在允許清單（只跟 {ALLOWED_CATEGORIES}）")
+                continue
 
         whale_price = float(sig["whale_price"])
         whale_usdc = whale_price * sig["whale_size"]

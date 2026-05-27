@@ -19,7 +19,7 @@ import core  # noqa  # DNS bypass + UTF-8
 import requests
 
 from core import config
-from whale_copy import monitor, signal_generator
+from whale_copy import monitor, signal_generator, executor
 
 
 def send_telegram(text: str) -> bool:
@@ -44,17 +44,33 @@ def send_telegram(text: str) -> bool:
 
 
 def format_order(o) -> str:
-    mode_tag = "🔴 <b>LIVE</b>" if config.LIVE_MODE else "🟡 dry-run"
+    mode_tag = "🔴 <b>LIVE 已下單</b>" if config.LIVE_MODE else "🟡 <b>dry-run</b>"
     return (
-        f"🐋 <b>新跟單訊號</b>  {mode_tag}\n"
+        f"🐋 <b>跟單訊號</b>  {mode_tag}\n"
         f"━━━━━━━━━━━━━━━━━━━\n"
-        f"鯨魚: <i>{o.whale_pseudonym}</i>\n"
+        f"鯨魚: <i>{o.whale_pseudonym}</i>  （鯨魚單 ${o.whale_size_usdc:,.0f}）\n"
         f"市場: {o.market_title[:80]}\n"
         f"類別: <code>{o.market_category}</code>\n"
         f"動作: BUY <b>{o.outcome}</b> @ {o.suggested_price:.3f}\n"
-        f"建議: ${o.suggested_cost_usdc:.2f} USDC × {o.suggested_size:.2f} shares\n"
-        f"鯨魚單規模: ${o.whale_size_usdc:,.0f}\n"
+        f"下單: ${o.suggested_cost_usdc:.2f} USDC → {o.suggested_size:.2f} shares\n"
         + (f"⚠️ {o.notes}\n" if o.notes else "")
+    )
+
+
+def format_execution(r) -> str:
+    """executor 執行結果的 Telegram 格式。"""
+    icon = {"submitted": "✅", "dry-run": "🟡", "skipped": "⛔", "error": "❌"}.get(r.status, "?")
+    detail = ""
+    if r.status == "submitted":
+        detail = f"order_id: <code>{r.order_id}</code>"
+    elif r.status == "error":
+        detail = f"錯誤: {r.error[:80]}"
+    elif r.status == "skipped":
+        detail = r.error[:80]
+    return (
+        f"{icon} <b>{r.status.upper()}</b>  BUY {r.outcome} @ {r.suggested_price:.3f}\n"
+        f"   {r.market_title[:60]}\n"
+        + (f"   {detail}\n" if detail else "")
     )
 
 
@@ -68,21 +84,24 @@ def main() -> None:
     print("\n[1/2] monitor.scan_once()")
     new_raw = monitor.scan_once()
 
-    print("\n[2/2] signal_generator.process_all()")
+    print("\n[2/3] signal_generator.process_all()")
     new_orders, rejected = signal_generator.process_all()
 
-    if new_orders:
-        print(f"\n📡 推送 {len(new_orders)} 筆新訊號到 Telegram...")
-        for o in new_orders:
-            ok = send_telegram(format_order(o))
-            print(f"   {'✓' if ok else '✗'} {o.market_title[:50]}")
-    elif new_raw:
-        # 有原始訊號但全被過濾，發個 summary
-        send_telegram(
-            f"📊 Pipeline @ {ts}\n"
-            f"raw 訊號: {len(new_raw)}  通過: 0  拒絕: {len(rejected)}\n"
-            f"<i>本輪無新跟單建議</i>"
+    print("\n[3/3] executor.execute_all()")
+    exec_results = executor.execute_all(new_orders)
+
+    # ── Telegram 推送 ─────────────────────────────────────────────────
+    if exec_results:
+        mode_tag = "🔴 LIVE" if config.LIVE_MODE else "🟡 dry-run"
+        header = (
+            f"🐋 <b>新跟單執行</b>  {mode_tag}  @ {ts}\n"
+            f"━━━━━━━━━━━━━━━━━━━\n"
         )
+        body = "\n".join(format_execution(r) for r in exec_results)
+        send_telegram(header + body)
+    elif new_raw and not new_orders:
+        # 有原始訊號但全被過濾，靜默（不再每次推送）
+        print(f"   raw 訊號 {len(new_raw)} 筆，全被過濾，不推送")
 
     elapsed = time.time() - t0
     print(f"\n✅ Pipeline 完成（{elapsed:.1f}s）")
