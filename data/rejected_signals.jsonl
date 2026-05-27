@@ -236,3 +236,6 @@
 {"signal_tx_hash": "0x78a0915ac0e19b86e2fbaf931fe56b3851e78f31bd2eb0cb9cc3c6dcb233ca19", "whale_pseudonym": "newdogbeginning", "market_title": "Spread: Knicks (-12.5)", "reason": "類別 sports 不在允許清單（只跟 {'other'}）"}
 {"signal_tx_hash": "0x06bf4eedc80a8252c2c2132d98e78adc1ca6dbb57b1899769ed6f2cfdf4963e6", "whale_pseudonym": "newdogbeginning", "market_title": "Knicks vs. Cavaliers: O/U 213.5", "reason": "類別 sports 不在允許清單（只跟 {'other'}）"}
 {"signal_tx_hash": "0x95652e294cc42d0817929524a2cd7139279d5d4736c9fa32fd3a0625b67ab4c2", "whale_pseudonym": "newdogbeginning", "market_title": "Spread: Knicks (-9.5)", "reason": "類別 sports 不在允許清單（只跟 {'other'}）"}
+{"signal_tx_hash": "0xefa879eb4c91a8f810b39dce12a7688c64812ab55ced2abe214391c2c12b09a0", "whale_pseudonym": "newdogbeginning", "market_title": "Will AS Saint-Etienne achieve promotion from Ligue 2 to Ligue 1 for the 2026-27 season?", "reason": "距結算 -68.6h < 6.0h"}
+{"signal_tx_hash": "0x1a27a26783972e3d4aac7954f48f11e98f2dd7963b2c724a71cf8ce1e962c214", "whale_pseudonym": "newdogbeginning", "market_title": "Spread: FC Nantes (-1.5)", "reason": "鯨魚單 $107 < $500"}
+{"signal_tx_hash": "0x930ffee4604c49377304cf384d89e1a8e02e704bba03044df104d7683b23d03e", "whale_pseudonym": "newdogbeginning", "market_title": "Will FC Nantes win on 2026-05-17?", "reason": "距結算 -241.6h < 6.0h"}
