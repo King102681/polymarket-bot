@@ -6,6 +6,7 @@
 """
 import json
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
 import requests
@@ -14,7 +15,8 @@ from whale_copy import discovery
 
 DATA_BASE = "https://data-api.polymarket.com"
 CLOB_BASE = "https://clob.polymarket.com"
-_TIMEOUT = 20
+_TIMEOUT = 12
+_WORKERS = 10          # 同時查 10 個市場（並行）
 _BACKTEST_DIR = Path(__file__).resolve().parent.parent / "data" / "backtest"
 _MARKETS_PATH = _BACKTEST_DIR / "markets_resolved.json"
 
@@ -59,18 +61,42 @@ def _fetch_market_clob(condition_id: str) -> dict | None:
 
 
 def fetch_markets_for_conditions(condition_ids: list[str]) -> dict[str, dict]:
-    out: dict[str, dict] = {}
     unique = sorted(set(condition_ids))
-    print(f"   查 {len(unique)} 個唯一市場（CLOB /markets/{{cid}}）...")
-    for i, cid in enumerate(unique, 1):
-        try:
-            m = _fetch_market_clob(cid)
+
+    # ── 快取：載入已有的結果，只查缺少的 ──────────────────────────────
+    cached: dict[str, dict] = {}
+    if _MARKETS_PATH.exists():
+        with open(_MARKETS_PATH, encoding="utf-8") as f:
+            cached = json.load(f)
+        already = len(cached)
+    else:
+        already = 0
+
+    to_fetch = [cid for cid in unique if cid not in cached]
+    print(
+        f"   查 {len(unique)} 個唯一市場（快取 {already} / 新查 {len(to_fetch)}）..."
+    )
+
+    if not to_fetch:
+        return {cid: cached[cid] for cid in unique if cid in cached}
+
+    # ── 並行查詢（ThreadPoolExecutor，最多 _WORKERS 個同時進行）──────
+    out: dict[str, dict] = dict(cached)  # 從快取開始
+    done = 0
+
+    def _fetch(cid: str) -> tuple[str, dict | None]:
+        return cid, _fetch_market_clob(cid)
+
+    with ThreadPoolExecutor(max_workers=_WORKERS) as pool:
+        futures = {pool.submit(_fetch, cid): cid for cid in to_fetch}
+        for fut in as_completed(futures):
+            done += 1
+            cid, m = fut.result()
             if m:
                 out[cid] = m
-        except Exception:
-            pass
-        if i % 100 == 0 or i == len(unique):
-            print(f"   ...{i}/{len(unique)}")
+            if done % 100 == 0 or done == len(to_fetch):
+                print(f"   ...{done}/{len(to_fetch)} 新市場查詢完成")
+
     return out
 
 
