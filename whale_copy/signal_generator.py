@@ -25,6 +25,7 @@ from whale_copy import discovery
 from whale_copy.market_classifier import classify
 
 GAMMA_BASE = "https://gamma-api.polymarket.com"
+CLOB_BASE = "https://clob.polymarket.com"
 _TIMEOUT = 15
 _DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 _SIGNALS_PATH = _DATA_DIR / "signals.jsonl"
@@ -33,7 +34,7 @@ _REJECTED_PATH = _DATA_DIR / "rejected_signals.jsonl"
 _PROCESSED_PATH = _DATA_DIR / "processed_signal_hashes.json"
 
 SLIPPAGE_BUFFER = 0.005          # 0.5%
-MIN_WHALE_SIZE_USDC = 2000.0     # 鯨魚單規模門檻（過濾 noise）
+MIN_WHALE_SIZE_USDC = 500.0      # 鯨魚單規模門檻（$500：捕捉中型押注，過濾噪音）
 MIN_MARKET_HOURS_LEFT = 6.0      # 距結算太近不跟
 MIN_BET_USDC = 1.0               # 下單金額地板
 
@@ -104,17 +105,40 @@ def _append(path: Path, items: list) -> None:
             f.write(json.dumps(asdict(x), ensure_ascii=False) + "\n")
 
 
-def _fetch_market(condition_id: str) -> dict | None:
-    r = requests.get(
-        f"{GAMMA_BASE}/markets",
-        params={"condition_ids": condition_id},
-        timeout=_TIMEOUT,
-    )
-    r.raise_for_status()
-    data = r.json()
-    if isinstance(data, list) and data:
-        return data[0]
+def _fetch_market_gamma(condition_id: str) -> dict | None:
+    """用 Gamma API 查詢市場（優先）。回傳 None 表示找不到。"""
+    try:
+        r = requests.get(
+            f"{GAMMA_BASE}/markets",
+            params={"condition_ids": condition_id},
+            timeout=_TIMEOUT,
+        )
+        r.raise_for_status()
+        data = r.json()
+        if isinstance(data, list) and data:
+            return data[0]
+    except Exception:
+        pass
     return None
+
+
+def _fetch_market_clob(condition_id: str) -> dict | None:
+    """用 CLOB API 查詢市場（fallback）。Gamma 看不到已關閉市場時使用。"""
+    try:
+        r = requests.get(f"{CLOB_BASE}/markets/{condition_id}", timeout=_TIMEOUT)
+        if r.status_code == 200:
+            return r.json()
+    except Exception:
+        pass
+    return None
+
+
+def _fetch_market(condition_id: str) -> dict | None:
+    """先試 Gamma，找不到則 fallback 到 CLOB。"""
+    data = _fetch_market_gamma(condition_id)
+    if data:
+        return data
+    return _fetch_market_clob(condition_id)
 
 
 def _hours_until_close(market: dict) -> float:
@@ -186,13 +210,9 @@ def process_all() -> tuple[list[Order], list[Rejected]]:
             reject(sig, f"鯨魚單 ${whale_usdc:.0f} < ${MIN_WHALE_SIZE_USDC:.0f}")
             continue
 
-        try:
-            market = _fetch_market(sig["condition_id"])
-        except Exception as e:
-            reject(sig, f"Gamma /markets 失敗: {type(e).__name__}")
-            continue
+        market = _fetch_market(sig["condition_id"])
         if not market:
-            reject(sig, "Gamma 找不到此 condition_id")
+            reject(sig, "Gamma + CLOB 均找不到此 condition_id")
             continue
         if market.get("closed") or not market.get("active"):
             reject(sig, "市場已關閉或非 active")
