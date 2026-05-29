@@ -21,24 +21,28 @@ _BACKTEST_DIR = Path(__file__).resolve().parent.parent / "data" / "backtest"
 _MARKETS_PATH = _BACKTEST_DIR / "markets_resolved.json"
 
 
-def _fetch_trades_page(wallet: str, limit: int, offset: int) -> list[dict]:
+def _fetch_trades_page(wallet: str, limit: int, offset: int) -> list[dict] | None:
+    """回傳 None 代表 API 拒絕（通常是 offset 超限）。"""
     r = requests.get(
         f"{DATA_BASE}/trades",
         params={"user": wallet, "limit": limit, "offset": offset},
         timeout=_TIMEOUT,
     )
+    if r.status_code == 400:
+        return None   # offset 超過 API 上限，停止分頁
     r.raise_for_status()
     return r.json()
 
 
 def fetch_all_trades(wallet: str, since_ts: int) -> list[dict]:
-    """分頁拉 trades 直到時間早於 since_ts。trades 預設按時間倒序"""
+    """分頁拉 trades 直到時間早於 since_ts 或 API 拒絕。trades 預設按時間倒序。"""
     all_trades: list[dict] = []
     offset = 0
     page_size = 500
+    _MAX_OFFSET = 3000   # Data API offset 上限約 3000
     while True:
         page = _fetch_trades_page(wallet, page_size, offset)
-        if not page:
+        if not page:          # None（400 錯誤）或空列表
             break
         all_trades.extend(page)
         oldest = min((int(t.get("timestamp", 0)) for t in page), default=0)
@@ -47,7 +51,8 @@ def fetch_all_trades(wallet: str, since_ts: int) -> list[dict]:
         if len(page) < page_size:
             break
         offset += page_size
-        if offset > 5000:
+        if offset > _MAX_OFFSET:
+            print(f"   （offset {offset} 達上限 {_MAX_OFFSET}，停止分頁）")
             break
     return [t for t in all_trades if int(t.get("timestamp", 0)) >= since_ts]
 

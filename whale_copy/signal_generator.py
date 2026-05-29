@@ -50,8 +50,9 @@ WHALE_BLACKLIST: set[str] = {
 }
 
 # 允許的市場類別（回測：other IS=+30% OOS=+27%；sports IS=-24% 捨棄）
-# 設成空 set = 不限制類別
-ALLOWED_CATEGORIES: set[str] = {"other"}
+# 設成空 set = 不限制類別（dry-run 期間先收集所有類別數據）
+# 上線 live 後改回 {"other"}
+ALLOWED_CATEGORIES: set[str] = set()
 
 
 @dataclass
