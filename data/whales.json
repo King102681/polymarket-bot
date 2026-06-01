@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "proxy_wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "pseudonym": "swisstony",
+    "profit_30d": 22011.574067128822,
+    "volume_30d": 319523.4405220001,
+    "roi_30d": 0.06888876143537039,
+    "wallet_value_now": 590021.2488,
+    "recent_trade_count_7d": 50,
+    "last_trade_ts": 1780294073,
+    "sports_ratio": 0.5,
+    "category_breakdown": {
+      "sports": 25,
+      "crypto": 0,
+      "politics": 0,
+      "tech": 0,
+      "other": 25
+    }
+  },
+  {
+    "proxy_wallet": "0x0c0e270cf879583d6a0142fc817e05b768d0434e",
+    "pseudonym": "The Spirit of Ukraine>UMA",
+    "profit_30d": 10749.870790426176,
+    "volume_30d": 248792.72515100002,
+    "roi_30d": 0.04320813956236761,
+    "wallet_value_now": 935556.3613,
+    "recent_trade_count_7d": 50,
+    "last_trade_ts": 1780281190,
+    "sports_ratio": 0.0,
+    "category_breakdown": {
+      "sports": 0,
+      "crypto": 1,
+      "politics": 9,
+      "tech": 0,
+      "other": 40
+    }
+  }
+]

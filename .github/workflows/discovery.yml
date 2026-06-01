@@ -45,7 +45,7 @@ jobs:
           EOF
 
       - name: Refresh whales
-        run: python -m scripts.run_whale_discovery
+        run: python -m scripts.run_smart_discovery
 
       - name: Commit whales.json
         run: |
