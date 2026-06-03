@@ -44,7 +44,7 @@ MIN_ENTRY_HOURS_REMAINING = 24.0
 # === 從 90 天回測學到的 alpha 過濾（Day 5 結果） ===
 # 鯨魚進場價 0.20-0.80 區間 ROI +5%；其他區間虧或扣費後微虧
 MIN_ENTRY_PRICE = 0.20
-MAX_ENTRY_PRICE = 0.80
+MAX_ENTRY_PRICE = 0.87   # 從 0.80 調高（2026-06-03，捕捉 swisstony 0.81-0.86 大單）
 
 # 黑名單：回測虧損的鯨魚 wallet
 # 0xbddf61af... (Countryside / "Unique-Congressperson") 90d 回測 -$32, 47% 勝率
