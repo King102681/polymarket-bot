@@ -2,9 +2,9 @@ name: Whale Copy Pipeline
 
 on:
   schedule:
-    # 每 30 分鐘跑一次（GHA cron 最短 5 分鐘建議；30 分鐘可確保免費額度內）
-    # 注意：cron 在 GHA 高負載時會延遲 5-15 分鐘，這對「等鯨魚低價開倉」可接受
-    - cron: '*/30 * * * *'
+    # 每 5 分鐘跑一次（加速捕捉鯨魚訊號，避免市場 30 分鐘內移動到 0.99+）
+    # GHA cron 最短間隔 5 分鐘，公開 repo 不限 Actions 分鐘
+    - cron: '*/5 * * * *'
   workflow_dispatch:  # 手動觸發
 
 # 用 concurrency 防止上一輪還沒跑完又起一輪

@@ -37,6 +37,9 @@ SLIPPAGE_BUFFER = 0.005          # 0.5%
 MIN_WHALE_SIZE_USDC = 500.0      # 鯨魚單規模門檻（$500：捕捉中型押注，過濾噪音）
 MIN_MARKET_HOURS_LEFT = 6.0      # 距結算太近不跟
 MIN_BET_USDC = 1.0               # 下單金額地板
+# 鯨魚進場時市場至少剩這麼多小時（避免跟到快結算的當日賽事）
+# 鯨魚進場剩餘 = 現在剩餘 + (現在 - detected_at)
+MIN_ENTRY_HOURS_REMAINING = 24.0
 
 # === 從 90 天回測學到的 alpha 過濾（Day 5 結果） ===
 # 鯨魚進場價 0.20-0.80 區間 ROI +5%；其他區間虧或扣費後微虧
@@ -233,6 +236,13 @@ def process_all() -> tuple[list[Order], list[Rejected]]:
         hours_left = _hours_until_close(market)
         if hours_left < MIN_MARKET_HOURS_LEFT:
             reject(sig, f"距結算 {hours_left:.1f}h < {MIN_MARKET_HOURS_LEFT}h")
+            continue
+
+        # 鯨魚進場時，市場剩餘時間 = 現在剩餘 + 自偵測至今的時間
+        hours_since_detection = (time.time() - sig.get("detected_at", time.time())) / 3600
+        entry_hours_remaining = hours_left + hours_since_detection
+        if entry_hours_remaining < MIN_ENTRY_HOURS_REMAINING:
+            reject(sig, f"鯨魚進場時市場剩 {entry_hours_remaining:.0f}h < {MIN_ENTRY_HOURS_REMAINING:.0f}h（當日快結算賽事）")
             continue
 
         try:
