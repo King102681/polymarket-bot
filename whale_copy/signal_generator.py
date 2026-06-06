@@ -1,15 +1,14 @@
 """把 monitor 產生的 raw signal 轉成下單建議。
 
-讀取：
-  - data/signals.jsonl            raw 訊號（monitor 產出）
-  - data/whales.json              認可鯨魚清單
-  - data/processed_signal_hashes.json  已處理的 tx hash
+每個策略獨立運行，各自使用獨立的輸出檔案：
+  - data/pending_orders_{strategy}.jsonl
+  - data/rejected_{strategy}.jsonl
+  - data/processed_{strategy}.json
 
-輸出：
-  - data/pending_orders.jsonl     通過所有檢查、可下單的建議
-  - data/rejected_signals.jsonl   被拒絕的訊號 + 原因（debug 用）
-
-不下單。下單由 executor.py 處理且預設 dry-run。
+使用方式：
+    from whale_copy.strategies import STRATEGIES
+    from whale_copy.signal_generator import process_all
+    orders, rejected = process_all(STRATEGIES["political"])
 """
 import json
 import time
@@ -23,43 +22,40 @@ from core import config
 from core.polymarket_client import PolymarketClient
 from whale_copy import discovery
 from whale_copy.market_classifier import classify
+from whale_copy.strategies import StrategyConfig
 
 GAMMA_BASE = "https://gamma-api.polymarket.com"
-CLOB_BASE = "https://clob.polymarket.com"
-_TIMEOUT = 15
-_DATA_DIR = Path(__file__).resolve().parent.parent / "data"
+CLOB_BASE  = "https://clob.polymarket.com"
+_TIMEOUT   = 15
+_DATA_DIR  = Path(__file__).resolve().parent.parent / "data"
 _SIGNALS_PATH = _DATA_DIR / "signals.jsonl"
-_PENDING_PATH = _DATA_DIR / "pending_orders.jsonl"
-_REJECTED_PATH = _DATA_DIR / "rejected_signals.jsonl"
-_PROCESSED_PATH = _DATA_DIR / "processed_signal_hashes.json"
 
-SLIPPAGE_BUFFER = 0.005          # 0.5%
-MIN_WHALE_SIZE_USDC = 100.0      # 降低門檻（$100：捕捉 Spirit of Ukraine 類的早期試水單）
-MIN_MARKET_HOURS_LEFT = 6.0      # 距結算太近不跟
-MIN_BET_USDC = 1.0               # 下單金額地板
-# 鯨魚進場時市場至少剩這麼多小時（避免跟到快結算的當日賽事）
-# 鯨魚進場剩餘 = 現在剩餘 + (現在 - detected_at)
-MIN_ENTRY_HOURS_REMAINING = 168.0  # 7 天：只跟長期市場（方向3），過濾當日/短期賽事
+SLIPPAGE_BUFFER = 0.005   # 0.5%
+MIN_BET_USDC    = 1.0     # 單筆最低下單金額
 
-# === 從 90 天回測學到的 alpha 過濾（Day 5 結果） ===
-# 鯨魚進場價 0.20-0.80 區間 ROI +5%；其他區間虧或扣費後微虧
-MIN_ENTRY_PRICE = 0.20
-MAX_ENTRY_PRICE = 0.87   # 從 0.80 調高（2026-06-03，捕捉 swisstony 0.81-0.86 大單）
-
-# 黑名單：回測虧損的鯨魚 wallet
-# 0xbddf61af... (Countryside / "Unique-Congressperson") 90d 回測 -$32, 47% 勝率
+# 黑名單：回測虧損的鯨魚 wallet（全策略共用）
 WHALE_BLACKLIST: set[str] = {
-    "0xbddf61af533ff524d27154e589d2d7a81510c684",
+    "0xbddf61af533ff524d27154e589d2d7a81510c684",  # Countryside（-$32, 47%勝率）
 }
 
-# 允許的市場類別（回測：other IS=+30% OOS=+27%；sports IS=-24% 捨棄）
-# 設成空 set = 不限制類別（dry-run 期間先收集所有類別數據）
-# 上線 live 後改回 {"other"}
-ALLOWED_CATEGORIES: set[str] = set()
 
+# ── 輸出路徑 ─────────────────────────────────────────────────────────────────
+
+def _pending_path(strategy: StrategyConfig) -> Path:
+    return _DATA_DIR / f"pending_orders_{strategy.name}.jsonl"
+
+def _rejected_path(strategy: StrategyConfig) -> Path:
+    return _DATA_DIR / f"rejected_{strategy.name}.jsonl"
+
+def _processed_path(strategy: StrategyConfig) -> Path:
+    return _DATA_DIR / f"processed_{strategy.name}.json"
+
+
+# ── 資料類型 ──────────────────────────────────────────────────────────────────
 
 @dataclass
 class Order:
+    strategy: str
     signal_tx_hash: str
     detected_at: int
     whale_wallet: str
@@ -81,22 +77,27 @@ class Order:
 
 @dataclass
 class Rejected:
+    strategy: str
     signal_tx_hash: str
     whale_pseudonym: str
     market_title: str
     reason: str
 
 
-def _load_processed() -> set[str]:
-    if not _PROCESSED_PATH.exists():
+# ── 工具函式 ──────────────────────────────────────────────────────────────────
+
+def _load_processed(strategy: StrategyConfig) -> set[str]:
+    p = _processed_path(strategy)
+    if not p.exists():
         return set()
-    with open(_PROCESSED_PATH, encoding="utf-8") as f:
+    with open(p, encoding="utf-8") as f:
         return set(json.load(f))
 
 
-def _save_processed(hashes: set[str]) -> None:
-    _PROCESSED_PATH.parent.mkdir(parents=True, exist_ok=True)
-    with open(_PROCESSED_PATH, "w", encoding="utf-8") as f:
+def _save_processed(strategy: StrategyConfig, hashes: set[str]) -> None:
+    p = _processed_path(strategy)
+    p.parent.mkdir(parents=True, exist_ok=True)
+    with open(p, "w", encoding="utf-8") as f:
         json.dump(sorted(hashes), f)
 
 
@@ -114,7 +115,6 @@ def _append(path: Path, items: list) -> None:
 
 
 def _fetch_market_gamma(condition_id: str) -> dict | None:
-    """用 Gamma API 查詢市場（優先）。回傳 None 表示找不到。"""
     try:
         r = requests.get(
             f"{GAMMA_BASE}/markets",
@@ -131,7 +131,6 @@ def _fetch_market_gamma(condition_id: str) -> dict | None:
 
 
 def _fetch_market_clob(condition_id: str) -> dict | None:
-    """用 CLOB API 查詢市場（fallback）。Gamma 看不到已關閉市場時使用。"""
     try:
         r = requests.get(f"{CLOB_BASE}/markets/{condition_id}", timeout=_TIMEOUT)
         if r.status_code == 200:
@@ -142,7 +141,6 @@ def _fetch_market_clob(condition_id: str) -> dict | None:
 
 
 def _fetch_market(condition_id: str) -> dict | None:
-    """先試 Gamma，找不到則 fallback 到 CLOB。"""
     data = _fetch_market_gamma(condition_id)
     if data:
         return data
@@ -168,36 +166,54 @@ def _best_ask(book) -> tuple[float, float] | None:
         return None
     a0 = asks[0]
     price = float(getattr(a0, "price", None) or a0.get("price"))
-    size = float(getattr(a0, "size", None) or a0.get("size"))
+    size  = float(getattr(a0, "size",  None) or a0.get("size"))
     return price, size
 
 
-def process_all() -> tuple[list[Order], list[Rejected]]:
+# ── 主邏輯 ────────────────────────────────────────────────────────────────────
+
+def process_all(strategy: StrategyConfig) -> tuple[list[Order], list[Rejected]]:
+    """
+    處理 signals.jsonl，依 strategy 的過濾條件輸出建議訂單。
+    每個策略使用獨立的 processed hash 和輸出檔案。
+    """
+    print(f"\n  [{strategy.emoji} {strategy.name}] {strategy.display_name}")
+
     whales = discovery.load()
     if not whales:
-        print("⚠️  whales.json 空")
+        print("  ⚠️  whales.json 空")
         return [], []
+
+    # whale_filter: 若策略指定 pseudonym 白名單，只跟那些
+    if strategy.whale_filter:
+        allowed_names = set(strategy.whale_filter)
+        whales = [w for w in whales if w.pseudonym in allowed_names]
+        if not whales:
+            print(f"  ⚠️  whale_filter {strategy.whale_filter} 無匹配鯨魚")
+            return [], []
+
     whale_addrs = {w.proxy_wallet for w in whales}
 
-    signals = _load_signals()
-    processed = _load_processed()
+    signals   = _load_signals()
+    processed = _load_processed(strategy)
+
     new_signals = [
         s for s in signals
         if s.get("transaction_hash")
         and s["transaction_hash"] not in processed
         and s["whale_wallet"] in whale_addrs
     ]
-    print(f"📥 載入 {len(signals)} 筆訊號，已處理 {len(processed)} 筆")
-    print(f"🔍 待處理（屬於認可鯨魚 + 未處理）: {len(new_signals)} 筆")
+    print(f"  📥 signals: {len(signals)} 筆  已處理: {len(processed)}  待處理: {len(new_signals)}")
     if not new_signals:
         return [], []
 
     mkt = PolymarketClient()
-    orders: list[Order] = []
+    orders: list[Order]    = []
     rejected: list[Rejected] = []
 
     def reject(s, why: str) -> None:
         rejected.append(Rejected(
+            strategy=strategy.name,
             signal_tx_hash=s["transaction_hash"],
             whale_pseudonym=s["whale_pseudonym"],
             market_title=s["market_title"],
@@ -208,23 +224,26 @@ def process_all() -> tuple[list[Order], list[Rejected]]:
         tx = sig["transaction_hash"]
         processed.add(tx)
 
+        # 黑名單
         if sig["whale_wallet"] in WHALE_BLACKLIST:
-            reject(sig, f"wallet 在黑名單（回測虧損）")
+            reject(sig, "wallet 在黑名單")
             continue
 
-        # 類別過濾（在 API 呼叫之前做，省資源）
-        if ALLOWED_CATEGORIES:
+        # 鯨魚單規模
+        whale_price = float(sig["whale_price"])
+        whale_usdc  = whale_price * sig["whale_size"]
+        if whale_usdc < strategy.min_size_usdc:
+            reject(sig, f"鯨魚單 ${whale_usdc:.0f} < ${strategy.min_size_usdc:.0f}")
+            continue
+
+        # 類別過濾（在 API 呼叫前做，省流量）
+        if strategy.allowed_categories:
             cat_early = classify(sig.get("market_slug"), sig.get("market_title"))
-            if cat_early not in ALLOWED_CATEGORIES:
-                reject(sig, f"類別 {cat_early} 不在允許清單（只跟 {ALLOWED_CATEGORIES}）")
+            if cat_early not in strategy.allowed_categories:
+                reject(sig, f"類別 {cat_early} 不在 {strategy.allowed_categories}")
                 continue
 
-        whale_price = float(sig["whale_price"])
-        whale_usdc = whale_price * sig["whale_size"]
-        if whale_usdc < MIN_WHALE_SIZE_USDC:
-            reject(sig, f"鯨魚單 ${whale_usdc:.0f} < ${MIN_WHALE_SIZE_USDC:.0f}")
-            continue
-
+        # 查市場
         market = _fetch_market(sig["condition_id"])
         if not market:
             reject(sig, "Gamma + CLOB 均找不到此 condition_id")
@@ -234,17 +253,19 @@ def process_all() -> tuple[list[Order], list[Rejected]]:
             continue
 
         hours_left = _hours_until_close(market)
-        if hours_left < MIN_MARKET_HOURS_LEFT:
-            reject(sig, f"距結算 {hours_left:.1f}h < {MIN_MARKET_HOURS_LEFT}h")
+        if hours_left < strategy.min_market_hours_left:
+            reject(sig, f"距結算 {hours_left:.1f}h < {strategy.min_market_hours_left}h")
             continue
 
-        # 鯨魚進場時，市場剩餘時間 = 現在剩餘 + 自偵測至今的時間
-        hours_since_detection = (time.time() - sig.get("detected_at", time.time())) / 3600
-        entry_hours_remaining = hours_left + hours_since_detection
-        if entry_hours_remaining < MIN_ENTRY_HOURS_REMAINING:
-            reject(sig, f"鯨魚進場時市場剩 {entry_hours_remaining:.0f}h < {MIN_ENTRY_HOURS_REMAINING:.0f}h（當日快結算賽事）")
-            continue
+        # 鯨魚進場時剩餘時間過濾（避免跟當日短暫市場）
+        if strategy.min_entry_hours_remaining > 0:
+            hours_since = (time.time() - sig.get("detected_at", time.time())) / 3600
+            entry_hours = hours_left + hours_since
+            if entry_hours < strategy.min_entry_hours_remaining:
+                reject(sig, f"進場時剩 {entry_hours:.0f}h < {strategy.min_entry_hours_remaining:.0f}h")
+                continue
 
+        # 訂單簿
         try:
             book = mkt.get_orderbook(sig["asset"])
         except Exception as e:
@@ -256,30 +277,29 @@ def process_all() -> tuple[list[Order], list[Rejected]]:
             continue
         best_ask_price, best_ask_size = ba
 
-        # 用「實際會進場的價」做 alpha 過濾，不是鯨魚當時的成交價
-        # 鯨魚可能已把市場推到極端，使現在進場 fees 吃光獲利
+        # alpha price 過濾
         suggested_price = round(min(best_ask_price * (1 + SLIPPAGE_BUFFER), 0.999), 4)
-        if not (MIN_ENTRY_PRICE <= suggested_price <= MAX_ENTRY_PRICE):
-            reject(sig, f"目前 entry {suggested_price:.3f} 不在 alpha 區間 [{MIN_ENTRY_PRICE}, {MAX_ENTRY_PRICE}]")
+        if not (strategy.min_price <= suggested_price <= strategy.max_price):
+            reject(sig, f"entry {suggested_price:.3f} 不在 [{strategy.min_price}, {strategy.max_price}]")
             continue
 
+        # 計算下單規模
         target_usdc = whale_usdc * config.WHALE_FOLLOW_RATIO
         target_usdc = min(target_usdc, config.MAX_BET_USDC)
         if target_usdc < MIN_BET_USDC:
             reject(sig, f"建議金額 ${target_usdc:.2f} < ${MIN_BET_USDC}")
             continue
         suggested_size = round(target_usdc / suggested_price, 2)
-        actual_cost = round(suggested_size * suggested_price, 2)
+        actual_cost    = round(suggested_size * suggested_price, 2)
 
         notes_parts: list[str] = []
         if best_ask_size < suggested_size:
-            notes_parts.append(
-                f"⚠️ ask size {best_ask_size:.0f} < 需要 {suggested_size:.0f}"
-            )
+            notes_parts.append(f"⚠️ ask size {best_ask_size:.0f} < 需要 {suggested_size:.0f}")
         if whale_usdc > config.MAX_BET_USDC * 1000:
-            notes_parts.append(f"鯨魚單規模 ${whale_usdc:,.0f}（已被 cap）")
+            notes_parts.append(f"鯨魚單 ${whale_usdc:,.0f}（已 cap）")
 
         orders.append(Order(
+            strategy=strategy.name,
             signal_tx_hash=tx,
             detected_at=int(time.time()),
             whale_wallet=sig["whale_wallet"],
@@ -300,11 +320,10 @@ def process_all() -> tuple[list[Order], list[Rejected]]:
         ))
 
     if orders:
-        _append(_PENDING_PATH, orders)
+        _append(_pending_path(strategy), orders)
     if rejected:
-        _append(_REJECTED_PATH, rejected)
-    _save_processed(processed)
+        _append(_rejected_path(strategy), rejected)
+    _save_processed(strategy, processed)
 
-    print(f"\n✅ 通過: {len(orders)} → data/pending_orders.jsonl")
-    print(f"❌ 拒絕: {len(rejected)} → data/rejected_signals.jsonl")
+    print(f"  ✅ 通過: {len(orders)}  ❌ 拒絕: {len(rejected)}")
     return orders, rejected

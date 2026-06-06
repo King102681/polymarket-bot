@@ -34,5 +34,23 @@
       "tech": 0,
       "other": 40
     }
+  },
+  {
+    "proxy_wallet": "0xdf17f4a8dd01a4cfa6fc3da323a2baee5f8697d1",
+    "pseudonym": "Soft-Lantern",
+    "profit_30d": 129418.0,
+    "volume_30d": 32819981.0,
+    "roi_30d": 0.00394,
+    "wallet_value_now": 651819.0,
+    "recent_trade_count_7d": 50,
+    "last_trade_ts": 1780757524,
+    "sports_ratio": 0.02,
+    "category_breakdown": {
+      "sports": 1,
+      "crypto": 7,
+      "politics": 10,
+      "tech": 0,
+      "other": 32
+    }
   }
 ]

@@ -1,12 +1,12 @@
-"""一鍵跑 monitor → signal_generator → Telegram 推送。
+"""一鍵跑 monitor → 所有策略 → Telegram 推送。
+
+三個策略同時運行，各自輸出獨立的訂單檔案：
+  data/pending_orders_political.jsonl    政治/地緣市場
+  data/pending_orders_sports_live.jsonl  體育直播跟單
+  data/pending_orders_open.jsonl         開放探索
 
 執行：
     python -m scripts.run_pipeline
-
-排程方式擇一：
-    1. PowerShell loop: scripts/run_loop.ps1
-    2. Windows Task Scheduler 排程
-    3. GitHub Actions cron: .github/workflows/pipeline.yml
 """
 import sys
 import time
@@ -19,7 +19,9 @@ import core  # noqa  # DNS bypass + UTF-8
 import requests
 
 from core import config
-from whale_copy import monitor, signal_generator, executor
+from whale_copy import monitor, executor
+from whale_copy import signal_generator
+from whale_copy.strategies import STRATEGIES
 
 
 def send_telegram(text: str) -> bool:
@@ -43,32 +45,15 @@ def send_telegram(text: str) -> bool:
         return False
 
 
-def format_order(o) -> str:
-    mode_tag = "🔴 <b>LIVE 已下單</b>" if config.LIVE_MODE else "🟡 <b>dry-run</b>"
-    return (
-        f"🐋 <b>跟單訊號</b>  {mode_tag}\n"
-        f"━━━━━━━━━━━━━━━━━━━\n"
-        f"鯨魚: <i>{o.whale_pseudonym}</i>  （鯨魚單 ${o.whale_size_usdc:,.0f}）\n"
-        f"市場: {o.market_title[:80]}\n"
-        f"類別: <code>{o.market_category}</code>\n"
-        f"動作: BUY <b>{o.outcome}</b> @ {o.suggested_price:.3f}\n"
-        f"下單: ${o.suggested_cost_usdc:.2f} USDC → {o.suggested_size:.2f} shares\n"
-        + (f"⚠️ {o.notes}\n" if o.notes else "")
-    )
-
-
-def format_execution(r) -> str:
-    """executor 執行結果的 Telegram 格式。"""
+def format_execution(r, strategy_display: str, emoji: str) -> str:
     icon = {"submitted": "✅", "dry-run": "🟡", "skipped": "⛔", "error": "❌"}.get(r.status, "?")
     detail = ""
     if r.status == "submitted":
         detail = f"order_id: <code>{r.order_id}</code>"
-    elif r.status == "error":
-        detail = f"錯誤: {r.error[:80]}"
-    elif r.status == "skipped":
-        detail = r.error[:80]
+    elif r.status in ("error", "skipped"):
+        detail = r.error[:80] if r.error else ""
     return (
-        f"{icon} <b>{r.status.upper()}</b>  BUY {r.outcome} @ {r.suggested_price:.3f}\n"
+        f"{icon} [{emoji} {strategy_display}]  BUY {r.outcome} @ {r.suggested_price:.3f}\n"
         f"   {r.market_title[:60]}\n"
         + (f"   {detail}\n" if detail else "")
     )
@@ -81,27 +66,42 @@ def main() -> None:
     print(f" 🚀 Pipeline @ {ts}")
     print(f"{'=' * 60}")
 
+    # ── Step 1: 掃描鯨魚最新交易 ─────────────────────────────────────
     print("\n[1/2] monitor.scan_once()")
     new_raw = monitor.scan_once()
 
-    print("\n[2/3] signal_generator.process_all()")
-    new_orders, rejected = signal_generator.process_all()
+    # ── Step 2: 每個策略分別過濾 ─────────────────────────────────────
+    print("\n[2/2] signal_generator — 三策略並行")
+    all_exec_results = []
 
-    print("\n[3/3] executor.execute_all()")
-    exec_results = executor.execute_all(new_orders)
+    for strat in STRATEGIES.values():
+        if not strat.enabled:
+            print(f"  [{strat.name}] 已停用，跳過")
+            continue
 
-    # ── Telegram 推送 ─────────────────────────────────────────────────
-    if exec_results:
-        mode_tag = "🔴 LIVE" if config.LIVE_MODE else "🟡 dry-run"
-        header = (
-            f"🐋 <b>新跟單執行</b>  {mode_tag}  @ {ts}\n"
-            f"━━━━━━━━━━━━━━━━━━━\n"
-        )
-        body = "\n".join(format_execution(r) for r in exec_results)
-        send_telegram(header + body)
-    elif new_raw and not new_orders:
-        # 有原始訊號但全被過濾，靜默（不再每次推送）
-        print(f"   raw 訊號 {len(new_raw)} 筆，全被過濾，不推送")
+        new_orders, rejected = signal_generator.process_all(strat)
+
+        # 每個策略的訂單分別送給 executor
+        exec_results = executor.execute_all(new_orders)
+        all_exec_results.extend(exec_results)
+
+        # 各策略各自推送 Telegram
+        if exec_results:
+            mode_tag = "🔴 LIVE" if config.LIVE_MODE else "🟡 dry-run"
+            header = (
+                f"{strat.emoji} <b>{strat.display_name}</b>  {mode_tag}  @ {ts}\n"
+                f"━━━━━━━━━━━━━━━━━━━\n"
+            )
+            body = "\n".join(
+                format_execution(r, strat.display_name, strat.emoji)
+                for r in exec_results
+            )
+            send_telegram(header + body)
+
+    # ── 沒有任何訂單時，靜默（不每次推空訊息）─────────────────────
+    if not all_exec_results:
+        total_raw = len(new_raw) if new_raw else 0
+        print(f"\n   raw 訊號 {total_raw} 筆，全策略均無通過")
 
     elapsed = time.time() - t0
     print(f"\n✅ Pipeline 完成（{elapsed:.1f}s）")
