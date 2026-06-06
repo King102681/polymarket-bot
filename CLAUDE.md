@@ -56,11 +56,11 @@ scripts/
 ## 關鍵設定（signal_generator.py）
 
 ```python
-MIN_WHALE_SIZE_USDC = 500.0       # 鯨魚單最小規模
+MIN_WHALE_SIZE_USDC = 100.0       # 降低門檻（捕捉 Spirit of Ukraine 類的政治市場早期試水單）
 MIN_MARKET_HOURS_LEFT = 6.0       # 距結算 < 6h 不跟（現在）
-MIN_ENTRY_HOURS_REMAINING = 24.0  # 鯨魚進場時市場剩餘 < 24h 不跟（過濾當日賽事）
+MIN_ENTRY_HOURS_REMAINING = 168.0 # 鯨魚進場時市場剩餘 < 7 天不跟（過濾短期賽事）
 MIN_ENTRY_PRICE = 0.20            # entry price alpha 區間
-MAX_ENTRY_PRICE = 0.80
+MAX_ENTRY_PRICE = 0.87
 SLIPPAGE_BUFFER = 0.005           # 0.5% slippage
 
 # ★ dry-run 期間設成 set()（收集所有類別數據）

@@ -34,7 +34,7 @@ _REJECTED_PATH = _DATA_DIR / "rejected_signals.jsonl"
 _PROCESSED_PATH = _DATA_DIR / "processed_signal_hashes.json"
 
 SLIPPAGE_BUFFER = 0.005          # 0.5%
-MIN_WHALE_SIZE_USDC = 500.0      # 鯨魚單規模門檻（$500：捕捉中型押注，過濾噪音）
+MIN_WHALE_SIZE_USDC = 100.0      # 降低門檻（$100：捕捉 Spirit of Ukraine 類的早期試水單）
 MIN_MARKET_HOURS_LEFT = 6.0      # 距結算太近不跟
 MIN_BET_USDC = 1.0               # 下單金額地板
 # 鯨魚進場時市場至少剩這麼多小時（避免跟到快結算的當日賽事）
