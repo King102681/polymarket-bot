@@ -1,0 +1,20 @@
+[Unit]
+Description=Polymarket Whale Copy Bot (1-min pipeline)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/opt/bot
+ExecStart=/opt/bot/venv/bin/python -m scripts.run_loop
+Restart=always
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+
+# 環境變數
+Environment=PYTHONUNBUFFERED=1
+
+[Install]
+WantedBy=multi-user.target

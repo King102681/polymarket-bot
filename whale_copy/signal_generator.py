@@ -39,7 +39,7 @@ MIN_MARKET_HOURS_LEFT = 6.0      # 距結算太近不跟
 MIN_BET_USDC = 1.0               # 下單金額地板
 # 鯨魚進場時市場至少剩這麼多小時（避免跟到快結算的當日賽事）
 # 鯨魚進場剩餘 = 現在剩餘 + (現在 - detected_at)
-MIN_ENTRY_HOURS_REMAINING = 24.0
+MIN_ENTRY_HOURS_REMAINING = 168.0  # 7 天：只跟長期市場（方向3），過濾當日/短期賽事
 
 # === 從 90 天回測學到的 alpha 過濾（Day 5 結果） ===
 # 鯨魚進場價 0.20-0.80 區間 ROI +5%；其他區間虧或扣費後微虧
