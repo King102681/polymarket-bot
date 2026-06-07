@@ -1,0 +1,83 @@
+name: TrendRadar Pipeline
+
+on:
+  schedule:
+    # 每 30 分鐘跑一次：對齊 newsnow 刷新頻率 + 「社媒領先定價 30-120 分鐘」的假設，
+    # 同時控制 LLM 成本。要更省可改成每小時 '0 * * * *'。
+    - cron: '*/30 * * * *'
+  workflow_dispatch:  # 手動觸發
+
+# 防止上一輪還沒跑完又起一輪
+concurrency:
+  group: trend_pipeline
+  cancel-in-progress: false
+
+jobs:
+  trend-pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15      # LLM 呼叫比規則式慢，多給一點 headroom
+    permissions:
+      contents: write        # 為了 commit state 回 repo
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Write .env from secrets
+        run: |
+          mkdir -p ~/.polymarket
+          cat > ~/.polymarket/.env <<EOF
+          WALLET_PRIVATE_KEY=${{ secrets.WALLET_PRIVATE_KEY }}
+          POLY_API_KEY=${{ secrets.POLY_API_KEY }}
+          POLY_API_SECRET=${{ secrets.POLY_API_SECRET }}
+          POLY_API_PASSPHRASE=${{ secrets.POLY_API_PASSPHRASE }}
+          POLYGON_RPC_URL=${{ secrets.POLYGON_RPC_URL }}
+          TG_BOT_TOKEN=${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID=${{ secrets.TG_CHAT_ID }}
+          ANTHROPIC_API_KEY=${{ secrets.ANTHROPIC_API_KEY }}
+          LIVE_MODE=false
+          MAX_BET_USDC=10
+          MAX_TOTAL_OPEN_USDC=100
+          DAILY_LOSS_LIMIT_USDC=10
+          INITIAL_CAPITAL_USDC=100
+          TREND_MATCHER_MODEL=claude-haiku-4-5
+          TREND_EVALUATOR_MODEL=claude-haiku-4-5
+          EOF
+          # ↑ dry-run 階段用 Haiku 控成本；上 live 前把 TREND_EVALUATOR_MODEL 改回 claude-opus-4-8
+
+      - name: Run trend pipeline
+        run: python -m scripts.run_trend_pipeline
+
+      - name: Commit trend state back to repo
+        # 只提交策略 B 自己的狀態檔，先 rebase 再 push，避免與每 5 分鐘的鯨魚
+        # workflow 互撞（contents:write 同分支會 race）。
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add \
+            data/trend_state.json \
+            data/pending_orders_trend.jsonl \
+            data/rejected_trend.jsonl \
+            data/processed_trend.json \
+            data/executed_orders_trend.jsonl \
+            data/executed_trend_hashes.json 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "no trend state changes"
+          else
+            git commit -m "data: trend pipeline state @ $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            for i in 1 2 3; do
+              git pull --rebase --autostash && git push && break
+              echo "push attempt $i failed, retrying..."
+              sleep 5
+            done
+          fi

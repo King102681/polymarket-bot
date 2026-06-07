@@ -90,3 +90,49 @@ class PolymarketClient:
         r = requests.get(url, params=params, timeout=_TIMEOUT)
         r.raise_for_status()
         return r.json()
+
+    def search_markets(self, query: str, limit: int = 20) -> list[dict[str, Any]]:
+        """Gamma public-search：以關鍵字搜尋市場（策略 B 用：趨勢話題 → 市場）。
+
+        public-search 的回傳結構可能把 markets 包在 events 底下，且不同時期欄位
+        命名略有差異，因此採防禦式解析：凡是帶 conditionId + question/slug 的
+        物件都視為候選市場。找不到時回空列表（呼叫端需自行處理）。
+        """
+        url = f"{GAMMA_BASE}/public-search"
+        params = {"q": query, "limit_per_type": limit, "events_status": "active"}
+        try:
+            r = requests.get(url, params=params, timeout=_TIMEOUT)
+            r.raise_for_status()
+            data = r.json()
+        except Exception:
+            return []
+
+        def _is_market(obj: Any) -> bool:
+            return (
+                isinstance(obj, dict)
+                and bool(obj.get("conditionId") or obj.get("condition_id"))
+                and bool(obj.get("question") or obj.get("slug"))
+            )
+
+        markets: list[dict[str, Any]] = []
+        containers = data if isinstance(data, list) else [data]
+        for c in containers:
+            if not isinstance(c, dict):
+                continue
+            for key in ("markets", "events", "tags"):
+                for it in (c.get(key) or []):
+                    if _is_market(it):
+                        markets.append(it)
+                    if isinstance(it, dict):
+                        for m in (it.get("markets") or []):
+                            if _is_market(m):
+                                markets.append(m)
+        # 去重（依 conditionId）
+        seen: set[str] = set()
+        unique: list[dict[str, Any]] = []
+        for m in markets:
+            cid = str(m.get("conditionId") or m.get("condition_id"))
+            if cid not in seen:
+                seen.add(cid)
+                unique.append(m)
+        return unique[:limit]

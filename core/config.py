@@ -27,6 +27,24 @@ DAILY_LOSS_LIMIT_USDC = float(os.getenv("DAILY_LOSS_LIMIT_USDC", "10"))
 WHALE_FOLLOW_RATIO = float(os.getenv("WHALE_FOLLOW_RATIO", "0.001"))
 INITIAL_CAPITAL_USDC = float(os.getenv("INITIAL_CAPITAL_USDC", "100"))
 
+# ── 策略 B：TrendRadar × Claude 自主交易 ──────────────────────────────────
+# headless 管線呼叫 Anthropic API 由 Claude 判斷情緒與下注（與鯨魚跟單獨立）。
+ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
+# 配對/翻譯用便宜模型；下注判斷用較強模型。皆可用環境變數覆寫。
+TREND_MATCHER_MODEL = os.getenv("TREND_MATCHER_MODEL", "claude-haiku-4-5")
+TREND_EVALUATOR_MODEL = os.getenv("TREND_EVALUATOR_MODEL", "claude-opus-4-8")
+# newsnow 平台（以財經/國際線為主——對應 Polymarket 政治/地緣/宏觀市場）
+TREND_PLATFORMS = os.getenv(
+    "TREND_PLATFORMS",
+    "wallstreetcn-hot,cls-hot,jin10,gelonghui,xueqiu,cankaoxiaoxi,zaobao,sputniknewscn,weibo,baidu",
+)
+TREND_MIN_HEAT = float(os.getenv("TREND_MIN_HEAT", "40"))         # 熱度門檻（0-100）
+TREND_MAX_PER_RUN = int(os.getenv("TREND_MAX_PER_RUN", "8"))      # 每輪最多評估幾個趨勢（控成本）
+TREND_MIN_CONFIDENCE = float(os.getenv("TREND_MIN_CONFIDENCE", "0.60"))
+TREND_MIN_HOURS_LEFT = float(os.getenv("TREND_MIN_HOURS_LEFT", "48"))  # 距結算 < 48h 不下
+TREND_MIN_ENTRY_PRICE = float(os.getenv("TREND_MIN_ENTRY_PRICE", "0.10"))
+TREND_MAX_ENTRY_PRICE = float(os.getenv("TREND_MAX_ENTRY_PRICE", "0.90"))
+
 USDC_ADDRESS = "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359"
 POLYMARKET_CTF_EXCHANGE = "0x4bFb9717357033D56508891DE7463f66f97dF2b6"
 CHAIN_ID = 137
@@ -43,3 +61,12 @@ def validate() -> None:
     missing = [k for k, v in required.items() if not v]
     if missing:
         raise ValueError(f"缺少必要環境變數: {missing}")
+
+
+def validate_trend() -> None:
+    """策略 B 額外需要 ANTHROPIC_API_KEY；下單部分仍沿用 validate() 的 Polymarket 金鑰。"""
+    if not ANTHROPIC_API_KEY:
+        raise ValueError(
+            "缺少 ANTHROPIC_API_KEY——策略 B 需要它呼叫 Claude API。"
+            "請加到 ~/.polymarket/.env"
+        )
