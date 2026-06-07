@@ -15,7 +15,7 @@ concurrency:
 jobs:
   trend-pipeline:
     runs-on: ubuntu-latest
-    timeout-minutes: 15      # LLM 呼叫比規則式慢，多給一點 headroom
+    timeout-minutes: 10      # 規則式版不呼叫 LLM，速度更快
     permissions:
       contents: write        # 為了 commit state 回 repo
 
@@ -44,16 +44,16 @@ jobs:
           POLYGON_RPC_URL=${{ secrets.POLYGON_RPC_URL }}
           TG_BOT_TOKEN=${{ secrets.TG_BOT_TOKEN }}
           TG_CHAT_ID=${{ secrets.TG_CHAT_ID }}
-          ANTHROPIC_API_KEY=${{ secrets.ANTHROPIC_API_KEY }}
           LIVE_MODE=false
           MAX_BET_USDC=10
           MAX_TOTAL_OPEN_USDC=100
           DAILY_LOSS_LIMIT_USDC=10
           INITIAL_CAPITAL_USDC=100
-          TREND_MATCHER_MODEL=claude-haiku-4-5
-          TREND_EVALUATOR_MODEL=claude-haiku-4-5
+          TREND_MIN_HEAT=40
+          TREND_MIN_CONFIDENCE=0.55
+          TREND_MIN_HOURS_LEFT=48
           EOF
-          # ↑ dry-run 階段用 Haiku 控成本；上 live 前把 TREND_EVALUATOR_MODEL 改回 claude-opus-4-8
+          # 規則版：不需要 ANTHROPIC_API_KEY，完全免費
 
       - name: Run trend pipeline
         run: python -m scripts.run_trend_pipeline
