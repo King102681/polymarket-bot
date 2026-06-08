@@ -88,5 +88,41 @@
       "tech": 0,
       "other": 24
     }
+  },
+  {
+    "proxy_wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+    "pseudonym": "beachboy4",
+    "profit_30d": 4674285.0,
+    "volume_30d": 222153209.0,
+    "roi_30d": 0.021,
+    "wallet_value_now": 5152.0,
+    "recent_trade_count_7d": 50,
+    "last_trade_ts": 1780888410,
+    "sports_ratio": 0.758,
+    "category_breakdown": {
+      "sports": 76,
+      "crypto": 0,
+      "politics": 0,
+      "tech": 0,
+      "other": 24
+    }
+  },
+  {
+    "proxy_wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "pseudonym": "RN1",
+    "profit_30d": 341764.0,
+    "volume_30d": 16581953.0,
+    "roi_30d": 0.0206,
+    "wallet_value_now": 134312.0,
+    "recent_trade_count_7d": 50,
+    "last_trade_ts": 1780888410,
+    "sports_ratio": 0.47,
+    "category_breakdown": {
+      "sports": 47,
+      "crypto": 0,
+      "politics": 0,
+      "tech": 0,
+      "other": 53
+    }
   }
 ]
