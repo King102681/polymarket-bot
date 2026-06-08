@@ -52,5 +52,41 @@
       "tech": 0,
       "other": 32
     }
+  },
+  {
+    "proxy_wallet": "0xf284ad6d607f777f34bc643cea587c33a886b9f9",
+    "pseudonym": "strike123",
+    "profit_30d": 275319.38233243587,
+    "volume_30d": 13907869.764734,
+    "roi_30d": 0.019795941937172833,
+    "wallet_value_now": 478942.4663,
+    "recent_trade_count_7d": 50,
+    "last_trade_ts": 1780888410,
+    "sports_ratio": 0.66,
+    "category_breakdown": {
+      "sports": 33,
+      "crypto": 0,
+      "politics": 0,
+      "tech": 1,
+      "other": 16
+    }
+  },
+  {
+    "proxy_wallet": "0xbddf61af533ff524d27154e589d2d7a81510c684",
+    "pseudonym": "Countryside",
+    "profit_30d": 469986.9771408937,
+    "volume_30d": 44665147.971885994,
+    "roi_30d": 0.010522454273222648,
+    "wallet_value_now": 1084421.6982,
+    "recent_trade_count_7d": 24,
+    "last_trade_ts": 1780872652,
+    "sports_ratio": 0.52,
+    "category_breakdown": {
+      "sports": 26,
+      "crypto": 0,
+      "politics": 0,
+      "tech": 0,
+      "other": 24
+    }
   }
 ]
