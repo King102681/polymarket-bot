@@ -10,18 +10,29 @@ _SPORTS_SLUG_PREFIXES = (
     # 歐式 / 國際足球
     "epl-", "ucl-", "uefa-", "fifa-", "concacaf-", "mls-", "la-liga-",
     "bundesliga-", "serie-a-", "ligue-1-", "soccer-", "champions-league-",
-    # 網球
+    # 網球（ATP/WTA 巡迴賽分站）
     "atp-", "wta-", "wimbledon-", "us-open-", "australian-open-",
     "french-open-", "roland-garros-", "geneva-open-", "hamburg-",
+    "birmingham-", "eastbourne-", "halle-", "queens-", "nottingham-",
+    # ITF / 挑戰賽（J2100, M25, W25 等）
+    "itf-", "challenger-", "j2100-", "j3100-", "m15-", "m25-", "w15-", "w25-",
     # 格鬥 / 賽車 / 高爾夫 / 其他
     "ufc-", "mma-", "boxing-", "f1-", "nascar-", "indycar-", "motogp-",
     "pga-", "lpga-", "golf-", "ipl-", "cricket-", "olympics-", "ryder-cup-",
     # 區域聯盟
     "kbo-", "cpbl-", "npb-", "nrl-", "afl-", "rugby-",
+    # 各國足球聯賽（win/loss 市場格式）
+    "j2100-", "j1-", "j2-", "j3-", "k-league-", "csl-", "a-league-",
 )
 
 _SPORTS_TITLE_HINTS = (
-    " vs. ", " vs ", " v ", "Spread:", "O/U ", "Moneyline",
+    " vs. ", " vs ", " v ",
+    "Spread:", "O/U ", "Moneyline",
+    # 「Will X win?」類球賽市場
+    "Roland Garros", "Wimbledon", "US Open", "Australian Open", "French Open",
+    "Birmingham", "Eastbourne", "Halle ", "Queen's ", "ITF ",
+    " ATP:", " WTA:", " ATP ", " WTA ",
+    "Roland-Garros",
 )
 
 _CRYPTO_HINTS = (

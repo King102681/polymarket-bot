@@ -41,7 +41,9 @@ STRATEGIES: dict[str, StrategyConfig] = {
         min_entry_hours_remaining=168.0,  # 7 天以上才跟
         min_price=0.20,
         max_price=0.87,
-        allowed_categories={"other"},  # 只跟政治/地緣
+        # "other" = 地緣/宏觀兜底類；"politics" = 選舉類
+        # classify() 對部分市場回傳 "politics"（如加州初選），這裡都收
+        allowed_categories={"other", "politics"},
         enabled=True,
     ),
 
@@ -56,7 +58,9 @@ STRATEGIES: dict[str, StrategyConfig] = {
         min_entry_hours_remaining=0.0, # 不限制進場時距（允許當日賽事）
         min_price=0.70,                # 他通常在 0.75-0.97 進場
         max_price=0.97,
-        allowed_categories={"sports"},
+        # whale_filter 已鎖定 swisstony（體育專門戶），category 冗餘且誤殺
+        # classify() 對 "Will X win?" 格式球賽判為 "other" → 23% 大單被誤過濾
+        allowed_categories=set(),      # 不做類別過濾，讓 price + size + market 把關
         enabled=True,
     ),
 
