@@ -22,6 +22,7 @@ from core import config
 from core.polymarket_client import PolymarketClient
 from whale_copy import discovery
 from whale_copy.market_classifier import classify
+from whale_copy.sport_classifier import sport_type
 from whale_copy.strategies import StrategyConfig
 
 GAMMA_BASE = "https://gamma-api.polymarket.com"
@@ -243,6 +244,13 @@ def process_all(strategy: StrategyConfig) -> tuple[list[Order], list[Rejected]]:
                 reject(sig, f"類別 {cat_early} 不在 {strategy.allowed_categories}")
                 continue
 
+        # 細分運動過濾（如 soccer 策略只跟足球，濾掉鯨魚的棒球/網球單）
+        if strategy.sport_filter:
+            st = sport_type(sig.get("market_slug"), sig.get("market_title"))
+            if st not in strategy.sport_filter:
+                reject(sig, f"運動 {st} 不在 {strategy.sport_filter}")
+                continue
+
         # 查市場
         market = _fetch_market(sig["condition_id"])
         if not market:
@@ -283,11 +291,14 @@ def process_all(strategy: StrategyConfig) -> tuple[list[Order], list[Rejected]]:
             reject(sig, f"entry {suggested_price:.3f} 不在 [{strategy.min_price}, {strategy.max_price}]")
             continue
 
-        # 計算下單規模
-        target_usdc = whale_usdc * config.WHALE_FOLLOW_RATIO
-        target_usdc = min(target_usdc, config.MAX_BET_USDC)
-        if target_usdc < MIN_BET_USDC:
-            reject(sig, f"建議金額 ${target_usdc:.2f} < ${MIN_BET_USDC}")
+        # 計算下單規模（優先用 per-strategy 參數，否則沿用全域 config）
+        follow_ratio = strategy.follow_ratio or config.WHALE_FOLLOW_RATIO
+        max_bet      = strategy.max_bet_usdc or config.MAX_BET_USDC
+        min_follow   = strategy.min_follow_usdc or MIN_BET_USDC
+        target_usdc = whale_usdc * follow_ratio
+        target_usdc = min(target_usdc, max_bet)
+        if target_usdc < min_follow:
+            reject(sig, f"建議金額 ${target_usdc:.2f} < ${min_follow}")
             continue
         suggested_size = round(target_usdc / suggested_price, 2)
         actual_cost    = round(suggested_size * suggested_price, 2)

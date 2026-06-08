@@ -24,8 +24,15 @@ class StrategyConfig:
     min_entry_hours_remaining: float   # 鯨魚進場時市場至少剩多少小時
     min_price: float                   # entry price 下限
     max_price: float                   # entry price 上限
-    allowed_categories: set            # 允許類別，空 = 全部
+    allowed_categories: set            # 允許類別（classify: other/sports/politics），空 = 全部
     enabled: bool = True               # 可關閉個別策略
+    # ── 細分運動過濾（sport_classifier: soccer/tennis/...），空 = 不過濾 ──
+    sport_filter: set = field(default_factory=set)
+    # ── per-strategy 下注參數（0 = 沿用全域 config）──────────────────────
+    follow_ratio: float = 0.0          # 跟單比例（鯨魚單 × 此值）
+    max_bet_usdc: float = 0.0          # 單筆上限
+    min_follow_usdc: float = 1.0       # 單筆最低（低於則跳過）
+    stop_loss_pct: float = 0.0         # 止損閾值（0 = 不啟用；0.15 = 跌破進場價85%賣出）
 
 
 STRATEGIES: dict[str, StrategyConfig] = {
@@ -61,6 +68,28 @@ STRATEGIES: dict[str, StrategyConfig] = {
         # whale_filter 已鎖定 swisstony（體育專門戶），category 冗餘且誤殺
         # classify() 對 "Will X win?" 格式球賽判為 "other" → 23% 大單被誤過濾
         allowed_categories=set(),      # 不做類別過濾，讓 price + size + market 把關
+        enabled=True,
+    ),
+
+    # ── 策略D：世界盃 / 足球狙擊（實盤候選，小注 + 止損）────────────────
+    # 回測依據：beachboy4 edge+21%、RN1 大單 edge+11.8%、swisstony 足球 edge+6~9%
+    # 關鍵：避開超熱門(>0.80，賠率太差)，鎖定甜區 0.55-0.80
+    "soccer": StrategyConfig(
+        name="soccer",
+        display_name="世界盃足球狙擊",
+        emoji="⚽",
+        whale_filter=["beachboy4", "RN1", "swisstony"],  # 三隻足球鯨魚
+        min_size_usdc=500.0,           # 只跟鯨魚 $500+ 大單
+        min_market_hours_left=0.5,
+        min_entry_hours_remaining=0.0, # 允許賽前/當日盤
+        min_price=0.55,                # ↓ 避開超熱門：甜區下限
+        max_price=0.80,                # ↑ 避開超熱門：賠率太差不跟
+        allowed_categories=set(),      # 類別不過濾，改用 sport_filter
+        sport_filter={"soccer"},       # 只跟足球（濾掉 swisstony 的棒球/網球）
+        follow_ratio=0.004,            # 鯨魚$500→跟$2, $750→$3(觸頂)
+        max_bet_usdc=3.0,              # 單筆上限 $3（小注）
+        min_follow_usdc=0.5,           # 最低 $0.5（多跟中等大單）
+        stop_loss_pct=0.20,            # 跌破進場價 80% 止損（待止損模組實作）
         enabled=True,
     ),
 
