@@ -19,9 +19,17 @@ from typing import Any
 import requests
 
 from core import config
+from trend_trade import external_sources
 
 NEWSNOW = "https://newsnow.busiyi.world/api/s"
 _TIMEOUT = 15
+# newsnow 會擋預設的 python-requests UA（回 403），需帶瀏覽器 UA。
+_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+    )
+}
 _DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 _STATE_PATH = _DATA_DIR / "trend_state.json"
 
@@ -68,7 +76,7 @@ def _extract_items(data: Any) -> list[dict]:
 
 def _fetch_platform(pid: str) -> list[dict]:
     try:
-        r = requests.get(f"{NEWSNOW}?id={pid}&latest", timeout=_TIMEOUT)
+        r = requests.get(f"{NEWSNOW}?id={pid}&latest", headers=_HEADERS, timeout=_TIMEOUT)
         r.raise_for_status()
         return _extract_items(r.json())[:PER_PLATFORM]
     except Exception as e:
@@ -120,6 +128,25 @@ def fetch_trends(platforms: list[str] | None = None) -> list[TrendItem]:
             rec["best_rank"] = min(rec["best_rank"], rank)
             if not rec["url"]:
                 rec["url"] = it.get("mobileUrl") or it.get("url") or ""
+
+    # 併入 newsnow 以外的英文政治/地緣 RSS 源（同一套去重/熱度流程）
+    if config.TREND_EXTERNAL_ENABLED:
+        for it in external_sources.fetch_external():
+            title = str(it.get("title", "")).strip()
+            key = _normalize(title)
+            if not key:
+                continue
+            erank = it["rank"]
+            rec = agg.setdefault(key, {
+                "title": title,
+                "platforms": set(),
+                "best_rank": erank,
+                "url": it.get("url") or "",
+            })
+            rec["platforms"].add(it["source"])
+            rec["best_rank"] = min(rec["best_rank"], erank)
+            if not rec["url"]:
+                rec["url"] = it.get("url") or ""
 
     prev = _load_state()
     out: list[TrendItem] = []

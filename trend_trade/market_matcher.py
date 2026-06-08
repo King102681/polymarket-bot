@@ -23,57 +23,79 @@ from trend_trade.trend_fetcher import TrendItem
 # ── 關鍵字對照表：中文詞組 → 英文搜尋詞 ─────────────────────────────────
 # 按優先順序排列，第一個匹配到就用
 KEYWORD_MAP: list[tuple[list[str], str]] = [
-    # 美國政治
-    (["川普", "特朗普", "trump"], "Trump"),
+    # 關鍵字以「簡體大陸詞優先 + 繁體 + 英文」三種寫法並列（newsnow 回簡體）；
+    # 英文只用夠長夠 specific 的詞，避免 substring 誤判（不可用 ai/eth/eu/uk/fed）。
+    # ── 美國政治 ──
+    (["特朗普", "川普", "trump"], "Trump"),
     (["拜登", "biden"], "Biden"),
-    (["美國大選", "美國選舉", "總統選"], "US presidential election"),
-    (["國會", "參議院", "眾議院"], "US Congress"),
-    # 中美 / 台灣
-    (["台灣", "台海", "兩岸", "台獨", "統一"], "Taiwan"),
-    (["中美關係", "美中關係", "中美貿易"], "US China trade"),
-    (["關稅", "貿易戰"], "US China tariffs"),
-    (["習近平", "中共二十"], "China Xi"),
-    # 中東
-    (["以色列", "加沙", "哈馬斯", "巴勒斯坦"], "Israel Gaza ceasefire"),
-    (["伊朗", "核武", "核協議", "核彈"], "Iran nuclear deal"),
-    (["中東", "胡塞", "葉門", "沙烏地"], "Middle East"),
-    (["霍爾木茲"], "Strait Hormuz"),
-    # 俄烏
-    (["烏克蘭", "俄羅斯", "俄烏", "普丁", "澤倫斯基"], "Russia Ukraine war"),
-    (["停火協議", "和平協議"], "ceasefire peace deal"),
-    # 北韓 / 東亞
-    (["北韓", "金正恩", "核試"], "North Korea"),
-    (["日本選舉", "日相", "岸田", "石破"], "Japan election"),
-    (["南韓", "韓國選舉"], "South Korea"),
-    # 總體經濟
-    (["聯準會", "fed", "降息", "升息", "利率"], "Fed interest rate"),
-    (["通膨", "CPI", "PCE"], "US inflation CPI"),
-    (["衰退", "recession"], "US recession"),
-    # 加密
-    (["比特幣", "btc"], "Bitcoin price"),
-    (["以太", "eth", "ethereum"], "Ethereum"),
-    (["加密貨幣", "幣圈"], "crypto"),
-    # 能源 / 商品
-    (["石油", "原油", "opec"], "oil OPEC"),
-    (["黃金", "gold"], "gold price"),
-    # AI / 科技
-    (["人工智能", "ai", "openai", "chatgpt", "gpt"], "AI artificial intelligence"),
-    # 歐洲
-    (["歐盟", "歐洲選舉", "德國選舉", "法國選舉"], "Europe election"),
-    (["英國", "脫歐"], "UK Brexit"),
+    (["贺锦丽", "賀錦麗", "哈里斯", "harris"], "Kamala Harris"),
+    (["万斯", "萬斯", "vance"], "JD Vance"),
+    (["美国大选", "美國大選", "美国总统", "美國總統", "总统选举", "presidentialelection"], "US presidential election"),
+    (["国会", "國會", "参议院", "參議院", "众议院", "眾議院", "congress", "senate"], "US Congress"),
+    (["最高法院", "supremecourt", "scotus"], "US Supreme Court"),
+    (["政府关门", "政府關門", "shutdown", "债务上限", "債務上限", "debtceiling"], "US government shutdown"),
+    # ── 中美 / 台灣 ──
+    (["台湾", "台灣", "台海", "两岸", "兩岸", "台独", "台獨", "taiwan"], "Taiwan China"),
+    (["关税", "關稅", "贸易战", "貿易戰", "tariff"], "US China tariffs"),
+    (["习近平", "習近平", "xijinping"], "China Xi Jinping"),
+    (["中美", "美中", "uschina", "chinaus"], "US China relations"),
+    # ── 中東 ──
+    (["以色列", "加沙", "哈马斯", "哈馬斯", "巴勒斯坦", "israel", "gaza", "hamas"], "Israel Gaza ceasefire"),
+    (["伊朗", "核协议", "核協議", "iran"], "Iran nuclear deal"),
+    (["黎巴嫩", "真主党", "真主黨", "hezbollah"], "Hezbollah Lebanon"),
+    (["也门", "葉門", "胡塞", "houthi"], "Houthi Yemen"),
+    (["叙利亚", "敘利亞", "syria"], "Syria"),
+    # ── 俄烏 ──
+    (["乌克兰", "烏克蘭", "俄罗斯", "俄羅斯", "俄乌", "俄烏", "普京", "普丁", "泽连斯基", "澤倫斯基", "ukraine", "russia", "putin", "zelensky"], "Russia Ukraine war"),
+    (["停火", "停战", "停戰", "和平协议", "和平協議", "ceasefire"], "ceasefire peace deal"),
+    # ── 北韓 / 東亞 ──
+    (["朝鲜", "朝鮮", "北韓", "金正恩", "northkorea", "kimjong"], "North Korea"),
+    (["韩国", "韓國", "南韓", "尹锡悦", "李在明", "southkorea"], "South Korea"),
+    (["日本首相", "高市", "石破", "日本大选", "japanelection", "japanpm"], "Japan election"),
+    # ── 總體經濟 ──
+    (["美联储", "聯準會", "联储", "鲍威尔", "鮑威爾", "powell", "federalreserve"], "Fed interest rate"),
+    (["降息", "加息", "升息", "利率", "ratecut", "ratehike", "interestrate"], "Fed interest rate"),
+    (["通胀", "通膨", "cpi", "inflation"], "US inflation CPI"),
+    (["衰退", "recession", "非农", "非農", "nonfarm"], "US recession"),
+    # ── 加密 ──
+    (["比特币", "比特幣", "bitcoin", "btc"], "Bitcoin price"),
+    (["以太坊", "ethereum"], "Ethereum"),
+    (["加密货币", "加密貨幣", "币圈", "幣圈", "crypto", "solana"], "crypto"),
+    # ── 能源 / 商品 ──
+    (["石油", "原油", "opec", "crudeoil"], "oil price"),
+    (["黄金", "黃金", "goldprice"], "gold price"),
+    # ── AI / 科技 ──
+    (["openai", "chatgpt", "altman", "gpt-"], "OpenAI"),
+    (["anthropic", "claude"], "Anthropic"),
+    (["gemini", "deepmind"], "Google Gemini"),
+    (["英伟达", "輝達", "nvidia"], "Nvidia"),
+    (["马斯克", "馬斯克", "musk", "特斯拉", "tesla", "spacex", "starship"], "Elon Musk Tesla"),
+    (["人工智能", "人工智慧", "artificialintelligence"], "AI"),
+    # ── 歐洲 ──
+    (["欧盟", "歐盟", "德国大选", "法国大选", "europeanunion"], "Europe election"),
+    (["脱欧", "脫歐", "brexit", "英国首相", "britishpm"], "UK politics"),
+    # ── 選舉泛詞（最後兜底，只用中文避免英文 selection 誤判）──
+    (["大选", "大選", "选举", "選舉"], "election"),
 ]
 
 # ── 排除模式：這些話題在 Polymarket 幾乎找不到對應市場 ─────────────────
 EXCLUDE_PATTERNS: list[str] = [
+    # 教育 / 考試（高考類噪音）
+    "高考", "中考", "考研", "录取", "錄取", "作文", "试卷", "試卷",
     # 娛樂 / 八卦
-    "八卦", "緋聞", "離婚", "結婚", "懷孕", "藝人", "明星", "偶像",
-    "綜藝", "電視劇", "電影票房", "網紅", "直播",
-    # 國內體育比分（非預測市場）
-    "進球", "比分", "冠軍賽季", "聯賽",
-    # 中國地方民生
-    "地鐵", "高鐵", "塌方", "火災", "颱風", "地震",
+    "八卦", "绯闻", "緋聞", "离婚", "離婚", "结婚", "結婚", "怀孕", "懷孕",
+    "艺人", "藝人", "明星", "偶像", "综艺", "綜藝", "电视剧", "電視劇",
+    "票房", "网红", "網紅", "演唱会", "演唱會", "粉丝", "粉絲",
+    # 個股 / A股噪音（非 Polymarket 標的）
+    "股份", "涨停", "漲停", "跌停", "回购", "回購", "停牌", "港股", "a股",
+    "板块", "板塊", "财报", "財報", "业绩", "業績",
+    # 即時體育比分（太快跟不上）
+    "进球", "進球", "比分", "联赛", "聯賽", "球员", "球員",
+    # 地方民生 / 災害
+    "地铁", "地鐵", "高铁", "高鐵", "塌方", "火灾", "火災", "台风", "颱風",
+    "暴雨", "车祸", "車禍",
     # 其他
-    "食安", "醫療", "疫情", "感冒",
+    "食安", "医疗", "醫療", "感冒", "彩票",
 ]
 
 

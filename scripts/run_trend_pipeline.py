@@ -1,10 +1,10 @@
-"""策略 B 主入口：趨勢抓取 → 市場配對 → Claude 評估 → dry-run → Telegram。
+"""策略 B 主入口：趨勢抓取 → 市場配對 → 規則式評估 → dry-run → Telegram。
 
 執行：
     python -m scripts.run_trend_pipeline
 
-網路：Polymarket 在家會被 ISP 攔截，需接手機熱點 / VPN；
-newsnow 與 Anthropic API 不受該攔截影響。
+網路：Polymarket 在家會被 ISP 攔截，需接手機熱點 / VPN；newsnow 不受該攔截影響。
+規則版不呼叫任何 AI API，完全免費。
 """
 import sys
 import time
@@ -43,7 +43,10 @@ def send_telegram(text: str) -> bool:
 
 
 def main() -> None:
-    config.validate_trend()  # 確認 ANTHROPIC_API_KEY 已設定
+    # 規則版不需要 ANTHROPIC_API_KEY；dry-run 讀取市場/訂單簿是公開端點，無需金鑰。
+    # 只有 LIVE_MODE 真實下單才需要 Polymarket 金鑰（送單時才驗證）。
+    if config.LIVE_MODE:
+        config.validate()
     t0 = time.time()
     ts = time.strftime("%Y-%m-%d %H:%M:%S")
     print(f"\n{'=' * 60}\n 🌊 Trend Pipeline @ {ts}\n{'=' * 60}")
@@ -59,14 +62,14 @@ def main() -> None:
 
     client = PolymarketClient()
 
-    # ── 2. 配對市場（Claude 翻譯 + Gamma 搜尋）─────────────────────
+    # ── 2. 配對市場（關鍵字字典 + Gamma 搜尋）─────────────────────
     print("\n[2/4] market_matcher.find_candidates()")
     pairs = market_matcher.find_candidates(hot, client)
     if not pairs:
         print("  無配對市場，結束")
         return
 
-    # ── 3. Claude 評估下注 ─────────────────────────────────────────
+    # ── 3. 規則式評估下注 ─────────────────────────────────────────
     print(f"\n[3/4] signal_evaluator.evaluate()（{len(pairs)} 組）")
     orders, _rejected = signal_evaluator.evaluate(pairs, client)
 

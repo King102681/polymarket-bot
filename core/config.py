@@ -36,14 +36,18 @@ TREND_EVALUATOR_MODEL = os.getenv("TREND_EVALUATOR_MODEL", "claude-opus-4-8")
 # newsnow 平台（以財經/國際線為主——對應 Polymarket 政治/地緣/宏觀市場）
 TREND_PLATFORMS = os.getenv(
     "TREND_PLATFORMS",
-    "wallstreetcn-hot,cls-hot,jin10,gelonghui,xueqiu,cankaoxiaoxi,zaobao,sputniknewscn,weibo,baidu",
+    # 財經快訊（宏觀·加密）+ 中文國際新聞（地緣·政治）+ 英文科技（AI·加密）
+    # 刻意排除純國內噪音源（weibo/baidu/douyin/xueqiu/gelonghui → 高考·個股·娛樂）
+    "wallstreetcn-hot,cls-hot,jin10,cankaoxiaoxi,zaobao,sputniknewscn,kaopu,toutiao,"
+    "hackernews,github-trending-today,producthunt",
 )
 TREND_MIN_HEAT = float(os.getenv("TREND_MIN_HEAT", "40"))         # 熱度門檻（0-100）
-TREND_MAX_PER_RUN = int(os.getenv("TREND_MAX_PER_RUN", "8"))      # 每輪最多評估幾個趨勢（控成本）
+TREND_MAX_PER_RUN = int(os.getenv("TREND_MAX_PER_RUN", "20"))     # 每輪最多評估幾個趨勢（規則式免費，可放寬）
 TREND_MIN_CONFIDENCE = float(os.getenv("TREND_MIN_CONFIDENCE", "0.60"))
 TREND_MIN_HOURS_LEFT = float(os.getenv("TREND_MIN_HOURS_LEFT", "48"))  # 距結算 < 48h 不下
 TREND_MIN_ENTRY_PRICE = float(os.getenv("TREND_MIN_ENTRY_PRICE", "0.10"))
 TREND_MAX_ENTRY_PRICE = float(os.getenv("TREND_MAX_ENTRY_PRICE", "0.90"))
+TREND_EXTERNAL_ENABLED = os.getenv("TREND_EXTERNAL_ENABLED", "true").lower() == "true"  # 併入英文政治/地緣 RSS 源
 
 USDC_ADDRESS = "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359"
 POLYMARKET_CTF_EXCHANGE = "0x4bFb9717357033D56508891DE7463f66f97dF2b6"
