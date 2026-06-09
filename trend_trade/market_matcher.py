@@ -160,23 +160,22 @@ def _liquidity(market: dict) -> float:
     return 0.0
 
 
-def _pick_best(markets: list[dict]) -> dict | None:
+def _pick_candidates(markets: list[dict], k: int = 5) -> list[dict]:
+    """回傳 top-K 二元活躍候選市場（依流動性排序），交給 LLM 從中挑最相關的。"""
     cands = [
         m for m in markets
         if _is_binary_active(m) and _hours_until(m) >= config.TREND_MIN_HOURS_LEFT
     ]
-    if not cands:
-        return None
     cands.sort(key=_liquidity, reverse=True)
-    return cands[0]
+    return cands[:k]
 
 
 def find_candidates(
     trends: list[TrendItem], client: PolymarketClient | None = None
-) -> list[tuple[TrendItem, dict]]:
-    """關鍵字匹配趨勢 → Polymarket 市場，不需要 AI API。"""
+) -> list[tuple[TrendItem, list[dict]]]:
+    """關鍵字匹配趨勢 → Polymarket 候選市場；每個趨勢回 top-K 候選，交 LLM 定奪。"""
     client = client or PolymarketClient()
-    pairs: list[tuple[TrendItem, dict]] = []
+    pairs: list[tuple[TrendItem, list[dict]]] = []
 
     for tr in trends:
         query = _find_query(tr.title)
@@ -190,13 +189,12 @@ def find_candidates(
             print(f"   ⚠️ 搜尋 '{query}' 失敗: {type(e).__name__}")
             continue
 
-        best = _pick_best(markets)
-        if not best:
+        cands = _pick_candidates(markets)
+        if not cands:
             print(f"   🔍 「{tr.title[:24]}」→ '{query}' 無合適市場")
             continue
 
-        q = best.get("question") or best.get("slug") or ""
-        print(f"   ✅ 「{tr.title[:24]}」→ {str(q)[:55]}")
-        pairs.append((tr, best))
+        print(f"   ✅ 「{tr.title[:24]}」→ '{query}' 配到 {len(cands)} 個候選")
+        pairs.append((tr, cands))
 
     return pairs

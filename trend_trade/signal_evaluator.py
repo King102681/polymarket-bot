@@ -1,9 +1,12 @@
-"""規則式評估（趨勢, 市場）是否值得下注（免 API 版）。
+"""用便宜 LLM（Haiku）評估（趨勢, 候選市場）並產生 dry-run 訂單建議。
 
-替代原本的 Claude Opus 評估，改用：
-  - 情緒關鍵字偵測（正面 → YES，負面 → NO）
-  - 熱度 × 情緒強度 → 信心分數
-  - 多平台出現加分、排名上升加分
+對每個趨勢＋其 top-K 候選市場，呼叫一次 LLM：
+  - 從候選裡挑出真正對應的市場（或都不相關 → 不下注）
+  - 判斷話題新資訊支持買 YES/NO（或無法判斷方向 → 不下注）
+  - 給 confidence
+這同時解決「規則情緒判不出方向」與「關鍵字亂配市場」兩個問題。
+
+無 ANTHROPIC_API_KEY 或 API 失敗時優雅降級（記錄並拒絕，不崩潰，pipeline 維持綠燈）。
 
 輸出（與鯨魚策略分開）：
   data/pending_orders_trend.jsonl
@@ -19,6 +22,7 @@ from pathlib import Path
 
 from core import config
 from core.polymarket_client import PolymarketClient
+from trend_trade import llm
 from trend_trade.market_matcher import _hours_until, _parse_json_list
 from trend_trade.trend_fetcher import TrendItem
 
@@ -28,67 +32,32 @@ _REJECTED_PATH = _DATA_DIR / "rejected_trend.jsonl"
 _PROCESSED_PATH = _DATA_DIR / "processed_trend.json"
 
 SLIPPAGE_BUFFER = 0.005
-MIN_BET_USDC    = 1.0
+MIN_BET_USDC = 1.0
 
-# ── 情緒關鍵字 ──────────────────────────────────────────────────────────────
-# 正向：暗示事情會「成功/發生/通過」→ 買 YES
-_POS: list[str] = [
-    # 中文（簡體優先 + 繁體）
-    "通过", "通過", "批准", "协议", "協議", "签署", "簽署", "达成", "達成",
-    "成功", "确认", "確認", "同意", "支持", "停火", "和平", "撤军", "撤軍",
-    "解除", "正式", "落实", "落實", "当选", "當選", "胜选", "勝選",
-    "连任", "連任", "获胜", "獲勝", "上涨", "上漲", "突破", "升值", "反弹", "反彈",
-    # English（_sentiment 會先轉小寫再比對）
-    "ceasefire", "approve", "elected", "victory", "breakthrough", "surge", "rally",
-]
-# 負向：暗示事情「不會發生/失敗/惡化」→ 買 NO
-_NEG: list[str] = [
-    # 中文（簡體優先 + 繁體）
-    "失败", "失敗", "崩溃", "崩潰", "拒绝", "拒絕", "否决", "否決", "撤回",
-    "取消", "制裁", "开战", "開戰", "宣战", "宣戰", "升级", "升級", "冲突", "衝突",
-    "空袭", "空襲", "袭击", "襲擊", "爆炸", "战争", "戰爭", "下跌", "暴跌",
-    "崩盘", "崩盤", "危机", "危機", "违约", "違約", "破产", "破產",
-    "落败", "落敗", "败选", "敗選", "下台", "辞职", "辭職", "弹劾", "彈劾",
-    # English
-    "sanction", "invasion", "airstrike", "attack", "collapse", "resign",
-    "impeach", "plunge", "crisis",
-]
+_EVAL_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "market_index": {"type": "integer"},
+        "side": {"type": "string", "enum": ["YES", "NO", "NONE"]},
+        "confidence": {"type": "number"},
+        "reasoning": {"type": "string"},
+    },
+    "required": ["market_index", "side", "confidence", "reasoning"],
+    "additionalProperties": False,
+}
 
-
-def _sentiment(title: str) -> tuple[str, float]:
-    """
-    回傳 (side, strength)。
-    side: "YES" / "NO" / ""
-    strength: 0.0-1.0（情緒明確程度）
-    英文標題先轉小寫再比對；中文不受 .lower() 影響。
-    """
-    t = title.lower()
-    pos_hits = sum(1 for w in _POS if w in t)
-    neg_hits = sum(1 for w in _NEG if w in t)
-    total = pos_hits + neg_hits
-    if total == 0:
-        return "", 0.0
-    if pos_hits > neg_hits:
-        return "YES", min(1.0, pos_hits / max(total, 2))
-    if neg_hits > pos_hits:
-        return "NO", min(1.0, neg_hits / max(total, 2))
-    return "", 0.0   # 平手 → 不確定
-
-
-def _confidence(tr: TrendItem, sentiment_strength: float) -> float:
-    """
-    綜合熱度、情緒強度、多平台、排名上升，算出 0-1 信心值。
-    """
-    heat_norm = tr.heat / 100.0                    # 0-1
-    freq_bonus = min(tr.frequency / 3, 1.0) * 0.1  # 多平台 +10%
-    rise_bonus = 0.05 if tr.rank_improved else 0.0  # 排名上升 +5%
-    # 追蹤夠久（≥30分鐘）代表話題持續，+5%
-    dur_bonus = 0.05 if tr.minutes_tracked >= 30 else 0.0
-
-    raw = (heat_norm * 0.5
-           + sentiment_strength * 0.35
-           + freq_bonus + rise_bonus + dur_bonus)
-    return round(min(1.0, raw), 3)
+_EVAL_SYSTEM = (
+    "你是 Polymarket 預測市場交易員。核心假設：社群媒體的熱度與情緒，在某些事件上會"
+    "『領先』市場定價 30–120 分鐘；目標是在市場還沒反應的窗口進場。\n\n"
+    "輸入是一條中文或英文熱門話題，以及數個候選的二元（Yes/No）市場（含目前 Yes 機率）。\n"
+    "請做三件事：\n"
+    "1. market_index：從候選裡挑出『真正對應這條話題』的那一個。若沒有任何一個真的相關，回 -1。\n"
+    "2. side：這條話題的新資訊支持買哪一邊（YES 或 NO）。若話題沒提供可判斷方向的新資訊、"
+    "或資訊明顯已被市場 price-in，回 NONE。\n"
+    "3. confidence：0–1，你對『方向正確且市場尚未充分反應』的把握。\n\n"
+    "嚴格要求：寧可錯過，不可亂下。只有當話題情緒方向與當前定價有明顯落差、且很可能很快被"
+    "市場修正時，才給較高 confidence。reasoning 用中文簡述。只回傳 JSON。"
+)
 
 
 @dataclass
@@ -155,97 +124,133 @@ def _best_ask(book) -> tuple[float, float] | None:
     a0 = asks[0]
     try:
         price = float(getattr(a0, "price", None) or a0.get("price"))
-        size  = float(getattr(a0, "size",  None) or a0.get("size"))
+        size = float(getattr(a0, "size", None) or a0.get("size"))
     except Exception:
         return None
     return price, size
 
 
+def _yes_prob(market: dict) -> str:
+    """取市場 Yes 的當前機率字串，給 LLM 當定價參考。"""
+    outcomes = _parse_json_list(market.get("outcomes"))
+    prices = _parse_json_list(market.get("outcomePrices"))
+    for i, o in enumerate(outcomes):
+        if str(o).upper() == "YES" and i < len(prices):
+            try:
+                return f"{float(prices[i]):.2f}"
+            except Exception:
+                return str(prices[i])
+    return "?"
+
+
+def _ask_llm(tr: TrendItem, candidates: list[dict]) -> dict | None:
+    lines = []
+    for i, m in enumerate(candidates):
+        q = str(m.get("question") or m.get("slug") or "")[:120]
+        lines.append(f"[{i}] {q}  (Yes={_yes_prob(m)})")
+    user = (
+        f"熱門話題：{tr.title}\n"
+        f"來源：{', '.join(tr.platforms)}；熱度 {tr.heat}/100\n\n"
+        f"候選市場：\n" + "\n".join(lines)
+    )
+    return llm.call_json(
+        model=config.TREND_EVALUATOR_MODEL,
+        system=_EVAL_SYSTEM,
+        user=user,
+        schema=_EVAL_SCHEMA,
+        max_tokens=512,
+    )
+
+
 def evaluate(
-    pairs: list[tuple[TrendItem, dict]],
+    pairs: list[tuple[TrendItem, list[dict]]],
     client: PolymarketClient | None = None,
 ) -> tuple[list[TrendOrder], list[TrendRejected]]:
-    """規則式評估每個 (趨勢, 市場) 對，不需要 AI API。"""
+    """用 LLM 評估每個趨勢＋其候選市場；無 key/失敗時優雅降級成拒絕。"""
     client = client or PolymarketClient()
     processed = _load_processed()
-    orders:   list[TrendOrder]    = []
+    orders: list[TrendOrder] = []
     rejected: list[TrendRejected] = []
 
-    for tr, market in pairs:
-        cid = str(market.get("conditionId") or market.get("condition_id") or "")
-        h = f"{tr.id}:{cid}"
-        if h in processed:
+    for tr, candidates in pairs:
+        if tr.id in processed:
             continue
-        processed.add(h)
+        processed.add(tr.id)
 
-        title    = str(market.get("question") or market.get("slug") or "")
-        outcomes = _parse_json_list(market.get("outcomes"))
-        prices   = _parse_json_list(market.get("outcomePrices"))
-        tok_ids  = _parse_json_list(market.get("clobTokenIds"))
-        hours_left = _hours_until(market)
-
-        def rej(reason: str) -> None:
+        def rej(reason: str, mkt_title: str = "") -> None:
             rejected.append(TrendRejected(
                 strategy="trend", trend_id=tr.id,
-                trend_title=tr.title, market_title=title[:80], reason=reason,
+                trend_title=tr.title, market_title=mkt_title[:80], reason=reason,
             ))
 
-        # ── 基本檢查 ──────────────────────────────────────────────────
+        if not candidates:
+            rej("無候選市場")
+            continue
+
+        res = _ask_llm(tr, candidates)
+        if not res:
+            rej("LLM 無回應（檢查 ANTHROPIC_API_KEY）")
+            continue
+
+        try:
+            idx = int(res.get("market_index", -1))
+            conf = max(0.0, min(1.0, float(res.get("confidence", 0))))
+        except Exception:
+            rej("LLM 回傳格式異常")
+            continue
+        side = str(res.get("side", "NONE")).upper()
+        reasoning = str(res.get("reasoning", ""))
+
+        if idx < 0 or idx >= len(candidates) or side == "NONE":
+            rej(f"LLM 判定不下注：{reasoning[:60]}")
+            continue
+        if conf < config.TREND_MIN_CONFIDENCE:
+            rej(f"信心 {conf:.2f} < {config.TREND_MIN_CONFIDENCE}：{reasoning[:40]}")
+            continue
+
+        market = candidates[idx]
+        title = str(market.get("question") or market.get("slug") or "")
+        cid = str(market.get("conditionId") or market.get("condition_id") or "")
+        outcomes = _parse_json_list(market.get("outcomes"))
+        prices = _parse_json_list(market.get("outcomePrices"))
+        tok_ids = _parse_json_list(market.get("clobTokenIds"))
+        hours_left = _hours_until(market)
+
         if len(outcomes) != 2 or len(tok_ids) != 2:
-            rej("非標準二元市場")
+            rej("非標準二元市場", title)
             continue
         if hours_left < config.TREND_MIN_HOURS_LEFT:
-            rej(f"距結算 {hours_left:.0f}h < {config.TREND_MIN_HOURS_LEFT:.0f}h")
+            rej(f"距結算 {hours_left:.0f}h < {config.TREND_MIN_HOURS_LEFT:.0f}h", title)
             continue
 
-        # ── 熱度檢查 ──────────────────────────────────────────────────
-        if tr.heat < config.TREND_MIN_HEAT:
-            rej(f"熱度 {tr.heat:.0f} < {config.TREND_MIN_HEAT:.0f}")
-            continue
-
-        # ── 情緒偵測 ──────────────────────────────────────────────────
-        side, strength = _sentiment(tr.title)
-        if not side:
-            rej(f"話題情緒中性，無法判斷方向（{tr.title[:40]}）")
-            continue
-
-        # ── 信心計算 ──────────────────────────────────────────────────
-        conf = _confidence(tr, strength)
-        if conf < config.TREND_MIN_CONFIDENCE:
-            rej(f"信心 {conf:.2f} < {config.TREND_MIN_CONFIDENCE} (heat={tr.heat}, strength={strength:.2f})")
-            continue
-
-        # ── 找對應 outcome ─────────────────────────────────────────────
         outcome_index = next(
             (i for i, o in enumerate(outcomes) if str(o).upper() == side), -1
         )
         if outcome_index < 0:
-            rej(f"side {side} 不在 outcomes {outcomes}")
+            rej(f"side {side} 不在 outcomes {outcomes}", title)
             continue
         token_id = str(tok_ids[outcome_index])
 
-        # ── 訂單簿 ────────────────────────────────────────────────────
         try:
             book = client.get_orderbook(token_id)
         except Exception as e:
-            rej(f"orderbook 失敗：{type(e).__name__}")
+            rej(f"orderbook 失敗：{type(e).__name__}", title)
             continue
         ba = _best_ask(book)
         if ba is None:
-            rej("訂單簿無 asks")
+            rej("訂單簿無 asks", title)
             continue
         best_ask_price, best_ask_size = ba
 
         suggested_price = round(min(best_ask_price * (1 + SLIPPAGE_BUFFER), 0.999), 4)
         if not (config.TREND_MIN_ENTRY_PRICE <= suggested_price <= config.TREND_MAX_ENTRY_PRICE):
-            rej(f"進場價 {suggested_price:.3f} 不在 [{config.TREND_MIN_ENTRY_PRICE}, {config.TREND_MAX_ENTRY_PRICE}]")
+            rej(f"進場價 {suggested_price:.3f} 不在 "
+                f"[{config.TREND_MIN_ENTRY_PRICE}, {config.TREND_MAX_ENTRY_PRICE}]", title)
             continue
 
-        # ── 下單規模 ──────────────────────────────────────────────────
-        ratio = conf            # 信心越高，比例越大（0-1）
-        target_usdc = max(MIN_BET_USDC, min(config.MAX_BET_USDC, config.MAX_BET_USDC * ratio))
+        target_usdc = max(MIN_BET_USDC, min(config.MAX_BET_USDC, config.MAX_BET_USDC * conf))
         suggested_size = round(target_usdc / suggested_price, 2)
-        actual_cost    = round(suggested_size * suggested_price, 2)
+        actual_cost = round(suggested_size * suggested_price, 2)
 
         try:
             mid = float(prices[outcome_index])
@@ -256,34 +261,16 @@ def evaluate(
         if best_ask_size < suggested_size:
             notes = f"⚠️ ask size {best_ask_size:.0f} < 需要 {suggested_size:.0f}"
 
-        pos_hits = [w for w in _POS if w in tr.title]
-        neg_hits = [w for w in _NEG if w in tr.title]
-        keywords_found = pos_hits if side == "YES" else neg_hits
-        reasoning = (
-            f"規則判斷 {side}：關鍵詞 {keywords_found[:3]}，"
-            f"熱度 {tr.heat:.0f}，{tr.frequency} 平台，信心 {conf:.2f}"
-        )
-
         orders.append(TrendOrder(
-            strategy="trend",
-            trend_id=tr.id,
-            detected_at=int(time.time()),
-            trend_title=tr.title,
-            trend_heat=tr.heat,
+            strategy="trend", trend_id=tr.id, detected_at=int(time.time()),
+            trend_title=tr.title, trend_heat=tr.heat,
             platforms=",".join(tr.platforms),
-            market_title=title[:120],
-            condition_id=cid,
-            asset=token_id,
-            outcome=str(outcomes[outcome_index]),
-            outcome_index=outcome_index,
-            market_price=mid,
-            suggested_price=suggested_price,
-            suggested_size=suggested_size,
-            suggested_cost_usdc=actual_cost,
-            confidence=conf,
-            market_end_iso=str(market.get("endDate") or ""),
-            reasoning=reasoning,
-            notes=notes,
+            market_title=title[:120], condition_id=cid, asset=token_id,
+            outcome=str(outcomes[outcome_index]), outcome_index=outcome_index,
+            market_price=mid, suggested_price=suggested_price,
+            suggested_size=suggested_size, suggested_cost_usdc=actual_cost,
+            confidence=conf, market_end_iso=str(market.get("endDate") or ""),
+            reasoning=reasoning, notes=notes,
         ))
         print(f"   ✅ {side} @ {suggested_price:.3f}  信心={conf:.2f}  {title[:50]}")
 

@@ -32,7 +32,7 @@ INITIAL_CAPITAL_USDC = float(os.getenv("INITIAL_CAPITAL_USDC", "100"))
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
 # 配對/翻譯用便宜模型；下注判斷用較強模型。皆可用環境變數覆寫。
 TREND_MATCHER_MODEL = os.getenv("TREND_MATCHER_MODEL", "claude-haiku-4-5")
-TREND_EVALUATOR_MODEL = os.getenv("TREND_EVALUATOR_MODEL", "claude-opus-4-8")
+TREND_EVALUATOR_MODEL = os.getenv("TREND_EVALUATOR_MODEL", "claude-haiku-4-5")  # LLM 評估層（便宜）
 # newsnow 平台（以財經/國際線為主——對應 Polymarket 政治/地緣/宏觀市場）
 TREND_PLATFORMS = os.getenv(
     "TREND_PLATFORMS",

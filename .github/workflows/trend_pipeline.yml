@@ -2,8 +2,8 @@ name: TrendRadar Pipeline
 
 on:
   schedule:
-    # 每 30 分鐘跑一次：對齊 newsnow 刷新頻率 + 「社媒領先定價 30-120 分鐘」的假設，
-    # 同時控制 LLM 成本。要更省可改成每小時 '0 * * * *'。
+    # 每 30 分鐘觸發；但 GitHub 對私有 repo 的排程 workflow 會大幅節流，
+    # 實際約每 1-2 小時跑一次（對齊「社媒領先定價 30-120 分鐘」的假設仍 OK）。
     - cron: '*/30 * * * *'
   workflow_dispatch:  # 手動觸發
 
@@ -15,7 +15,7 @@ concurrency:
 jobs:
   trend-pipeline:
     runs-on: ubuntu-latest
-    timeout-minutes: 10      # 規則式版不呼叫 LLM，速度更快
+    timeout-minutes: 10
     permissions:
       contents: write        # 為了 commit state 回 repo
 
@@ -44,6 +44,7 @@ jobs:
           POLYGON_RPC_URL=${{ secrets.POLYGON_RPC_URL }}
           TG_BOT_TOKEN=${{ secrets.TG_BOT_TOKEN }}
           TG_CHAT_ID=${{ secrets.TG_CHAT_ID }}
+          ANTHROPIC_API_KEY=${{ secrets.ANTHROPIC_API_KEY }}
           LIVE_MODE=false
           MAX_BET_USDC=10
           MAX_TOTAL_OPEN_USDC=100
@@ -52,8 +53,10 @@ jobs:
           TREND_MIN_HEAT=40
           TREND_MIN_CONFIDENCE=0.55
           TREND_MIN_HOURS_LEFT=48
+          TREND_EVALUATOR_MODEL=claude-haiku-4-5
           EOF
-          # 規則版：不需要 ANTHROPIC_API_KEY，完全免費
+          # LLM 評估層用便宜的 Haiku；需在 GitHub Secrets 加 ANTHROPIC_API_KEY。
+          # 沒設 key 時程式優雅降級成 0 單（不崩潰）。
 
       - name: Run trend pipeline
         run: python -m scripts.run_trend_pipeline
@@ -61,16 +64,15 @@ jobs:
       - name: Commit trend state back to repo
         # 只提交策略 B 自己的狀態檔，先 rebase 再 push，避免與每 5 分鐘的鯨魚
         # workflow 互撞（contents:write 同分支會 race）。
+        # ⚠️ 逐檔 add：0 單時 pending/executed 等檔不存在，多檔一次 add 會因
+        #    pathspec 不存在而整批失敗 → 之前 state 一直沒存回（已修）。
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add \
-            data/trend_state.json \
-            data/pending_orders_trend.jsonl \
-            data/rejected_trend.jsonl \
-            data/processed_trend.json \
-            data/executed_orders_trend.jsonl \
-            data/executed_trend_hashes.json 2>/dev/null || true
+          for f in trend_state.json pending_orders_trend.jsonl rejected_trend.jsonl \
+                   processed_trend.json executed_orders_trend.jsonl executed_trend_hashes.json; do
+            git add "data/$f" 2>/dev/null || true
+          done
           if git diff --staged --quiet; then
             echo "no trend state changes"
           else
