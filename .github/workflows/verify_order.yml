@@ -1,0 +1,50 @@
+name: Verify Live Order (US IP test)
+
+# 只手動觸發。在 GHA（美國 IP）上 post 一筆「絕不成交 + 必定取消」的 $1 驗證單，
+# 確認美國 IP 能否通過 Polymarket geoblock 真實下單。
+# 台灣本地測試是 403（close-only），此 workflow 驗證美國 IP 是否可用。
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: verify_order
+  cancel-in-progress: false
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest      # GitHub hosted runner（美國 Azure）
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Show runner geo (確認是否美國/允許地區)
+        run: |
+          echo "=== Runner 地理位置 ==="
+          curl -s https://ipinfo.io/json | grep -E '"country"|"region"|"city"|"org"' || echo "ipinfo 查詢失敗"
+
+      - name: Write .env from secrets
+        run: |
+          mkdir -p ~/.polymarket
+          cat > ~/.polymarket/.env <<EOF
+          WALLET_PRIVATE_KEY=${{ secrets.WALLET_PRIVATE_KEY }}
+          POLY_API_KEY=${{ secrets.POLY_API_KEY }}
+          POLY_API_SECRET=${{ secrets.POLY_API_SECRET }}
+          POLY_API_PASSPHRASE=${{ secrets.POLY_API_PASSPHRASE }}
+          POLYGON_RPC_URL=${{ secrets.POLYGON_RPC_URL }}
+          LIVE_MODE=false
+          INITIAL_CAPITAL_USDC=100
+          EOF
+
+      - name: Run verify_live_order (post 不成交單 + 取消)
+        run: python -m scripts.verify_live_order
