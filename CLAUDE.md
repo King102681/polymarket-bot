@@ -1,5 +1,11 @@
 # Polymarket Whale Copy Trading Bot — 專案上下文
 
+## 🔧 每次開始前：先選 Model（Koh 固定要求）
+**每個新環節 / 新任務開始時，Claude 要先評估複雜度、明確建議用 4.6 還是 4.8，並提醒 Koh 用 `/model` 確認後再動工。**
+- **4.6（sonnet，預設、省成本）**：討論、決策、debug、中小型腳本、資料分析、一般修改
+- **4.8（opus）**：從零設計複雜策略、大規模架構審查、需長鏈條多步推理的工程
+- ⚠️ 這是**軟性規則**（靠 Claude 每次讀 CLAUDE.md 遵守），不是系統強制彈窗。Claude Code 無「每次自動彈 model 選單」的原生功能，故用此 md 規則替代。
+
 ## ⚠️ 安全守則（絕對不能違反）
 - **任何真實交易前**，必須先有 dry-run 模式驗證，且讓 Koh 明確確認後才能切換 LIVE_MODE=true
 - 私鑰只放在 `~/.polymarket/.env`，絕對不能 hardcode 或 commit
