@@ -99,9 +99,13 @@ def _place_order_live(order: dict) -> tuple[str, str]:
     回傳 (order_id, error)。若成功 error=""，若失敗 order_id=""。
     """
     try:
+        # py_clob_client 0.34.x 正確 import：
+        #   - OrderArgs（非 LimitOrderArgs，後者已移除）
+        #   - BUY 在 order_builder.constants（非 constants）
+        #   - 下單分兩步：create_order(簽名) → post_order(送出, 帶 OrderType)
         from py_clob_client.client import ClobClient
-        from py_clob_client.clob_types import ApiCreds, LimitOrderArgs, OrderType
-        from py_clob_client.constants import BUY
+        from py_clob_client.clob_types import ApiCreds, OrderArgs, OrderType
+        from py_clob_client.order_builder.constants import BUY
 
         clob = ClobClient(
             host="https://clob.polymarket.com",
@@ -114,16 +118,14 @@ def _place_order_live(order: dict) -> tuple[str, str]:
             api_passphrase=config.POLY_API_PASSPHRASE,
         ))
 
-        order_args = LimitOrderArgs(
+        order_args = OrderArgs(
             token_id=order["asset"],
             price=float(order["suggested_price"]),
             size=float(order["suggested_size"]),
             side=BUY,
-            fee_rate_bps=int(TAKER_FEE_RATE * 10000),
-            nonce=0,
-            expiration=0,   # GTC（Good Till Cancelled）
         )
-        resp = clob.create_and_post_order(order_args)
+        signed = clob.create_order(order_args)
+        resp = clob.post_order(signed, OrderType.GTC)   # GTC = 掛單直到成交/取消
 
         # resp 通常是 {"orderID": "...", "status": "matched"|"live", ...}
         order_id = ""
