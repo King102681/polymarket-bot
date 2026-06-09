@@ -6,6 +6,15 @@
 - `.gitignore` 已排除 `.env*` 和 `data/backtest/`
 - `LIVE_MODE` 目前在 `.github/workflows/pipeline.yml` 裡寫死為 `false`
 
+## 🚧 地理封鎖（2026-06-09 重大發現，根本約束）
+- **Polymarket 對「下單」做伺服器端 IP 地理封鎖**，與 ISP 的 DNS 攔截是兩層不同的牆。
+- **台灣 = close-only**：可平倉，**不能開新倉**。Koh 人在台灣，本地 `post_order` 實測回 **403 Trading restricted**。
+- `dns_patch.py` 只繞過 ISP 的 DNS RPZ（讓你能「連上」讀資料），**繞不過** Polymarket 的合規封鎖。
+- **美國 2025-11 起 CFTC 合法** → GitHub Actions（美國 IP）**可能**可下單，但需實測（`verify_order.yml`）。
+- **風險**：用 GHA 美國 IP = 地理規避。Polymarket 偵測超越 IP（行為/鏈上/KYC），有「提款被凍真實案例」。
+  - 緩解：錢包是 **non-custodial EOA**（私鑰自控），閒置 USDC 凍不了、可鏈上轉走；只有「交易中資金」有提款被凍風險。
+  - Koh 決定：**分離錢包（先轉走多數資金）+ 先用 $1 不成交驗證單試 GHA**，再決定是否放 $20。
+
 ---
 
 ## 專案概覽
@@ -84,12 +93,26 @@ INITIAL_CAPITAL_USDC=100 # 初始資金（記錄用）
 
 ---
 
-## 當前鯨魚池（data/whales.json）
+## 當前鯨魚池（data/whales.json，2026-06-09 = 7 隻）
 
 | pseudonym | proxy_wallet | 備注 |
 |-----------|-------------|------|
-| swisstony | 0x204f72f35326db9321... | ROI 6.9%，other 50%，usable price 52% ✅ |
-| The Spirit of Ukraine>UMA | 0x0c0e270cf879583d6a... | ROI 4.3%，other 80%，usable price 30% ✅ |
+| swisstony | 0x204f72f35326db9321... | 綜合運動賭客；足球 edge +6~9%（大單） |
+| The Spirit of Ukraine>UMA | 0x0c0e270cf879583d6a... | 政治/地緣；ROI 4.3% |
+| Soft-Lantern | 0xdf17f4a8dd01a4cfa6... | 高量低 ROI 0.4%；7d 僅 1 訊號，幾乎無用 |
+| strike123 | 0xf284ad6d607f777f34... | GHA discovery 自動加入；sports 66% |
+| Countryside | 0xbddf61af533ff524d2... | ⚠️ **在黑名單卻被 GHA 加回**，待清理 |
+| **beachboy4** | 0xc2e7800b5af46e6093... | ⚽**狙擊手型** edge **+21%**；一天挑1場重倉勝負盤；但 value 僅 $5k（資金已撤）、樣本僅 12 場 |
+| **RN1** | 0x2005d16a84ceefa912... | ⚽撒網型；整體 edge +3% 但大單 edge **+11.8%**；value $134k 活躍 |
+
+### ⚽ 足球鯨魚回測核心結論（2026-06-09）
+- **判斷「常勝隊有沒有說法」用 EDGE = 實際勝率 − 平均進場價**（市場隱含勝率）。
+  - edge > 0 = 真 alpha（選對被低估的隊）；edge ≈ 0 = 只是跟賠率，跟單無意義。
+- **規律**：越選擇性（一天挑1場）→ edge 越大；越全押（一天7場）→ edge 趨近 0。
+- **跟單黃金公式：勝率 ÷ 進場價**（>1 且越大越賺）。進場價越低 + edge 越大 = 跟單越賺。
+  - swisstony 超大單押超熱門（進場價 0.83）→ 跟單 ROI **−8%**（賠率太差）。
+  - beachboy4（進場價 0.64）→ 跟單 ROI **+35%**；RN1（0.74）→ **+27%**。
+- **工具**：`scripts/run_soccer_backtest.py`（edge + 入場頻率）、`run_soccer_discovery.py`（找足球鯨魚）。
 
 **已移除**：
 - newdogbeginning（Tinted）：大單全在 0.995+ 市場，無法跟單
@@ -146,18 +169,25 @@ INITIAL_CAPITAL_USDC=100 # 初始資金（記錄用）
 
 ---
 
-## 待辦清單
+## 待辦清單（2026-06-09 更新）
 
-### 🔴 上 live 前必須做
-1. **等第一筆 dry-run 訊號通過** → Telegram 會推送（TG 已修好）
-2. **把 ALLOWED_CATEGORIES 改回 `{"other"}`**（signal_generator.py 第 55 行）
-3. **確認 Polygon 錢包有 USDC**（`python -m scripts.check_balance`）
-4. **在 pipeline.yml 改 `LIVE_MODE=true`**（Koh 明確確認後才動）
+### 🔴 LIVE 可行性（卡在地理封鎖）
+1. **看 GHA `verify_order.yml` 結果**：美國 IP 能否 `post_order`？
+   - ✅ 拿到 order_id → GHA 路線可行 → 分離錢包 + 放 $20 跟世界盃
+   - ❌ 403 → 美國也被擋 → 需日本 VPS 或放棄真錢、只做訊號
+2. **LIVE 技術前提已驗證**：USDC approve 已做（$100萬）、簽名鏈路通過、executor import 已修（0.34.6）。**唯一瓶頸是地理封鎖**。
+3. **若放 $20**：先把多數 USDC 轉到乾淨錢包（non-custodial 保護），下單錢包只留小額。
 
-### 🟡 重要但非緊急
-5. **監控新鯨魚效果**：swisstony 和 Ukraine 剛加入，觀察幾天看訊號質量
-6. **定期重跑 smart discovery**：每月一次補充新鯨魚
-7. **Forward PnL 追蹤**：等 pending_orders 累積 20+ 筆後跑 `run_pnl_tracker.py`
+### 🟡 策略 / 清理
+4. **清 Countryside**：它在 WHALE_BLACKLIST 卻被 GHA discovery 加回 whales.json，且 discovery 會覆蓋。需修 discovery 尊重黑名單。
+5. **soccer 策略**（dry-run 中）：跟 beachboy4/RN1/swisstony 足球單，價格甜區 0.55-0.80，小注 follow_ratio=0.004 cap $3。等世界盃（6/11）有足球市場才會出訊號。
+6. **世界盃 6/11 開賽**：soccer 策略 + TrendRader 都會受益。
+
+### 📁 本次新增檔案
+- `whale_copy/sport_classifier.py`：細分 soccer/tennis/baseball/basketball（世界盃策略用）
+- `scripts/run_soccer_backtest.py` / `run_soccer_discovery.py`：足球 edge 分析 + 鯨魚發現
+- `scripts/check_clob_auth.py` / `check_live_readiness.py` / `verify_live_order.py`：LIVE 就緒度與下單驗證
+- `.github/workflows/verify_order.yml`：GHA 美國 IP 下單驗證（手動觸發）
 
 ---
 
