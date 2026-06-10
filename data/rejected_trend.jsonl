@@ -73,3 +73,5 @@
 {"strategy": "trend", "trend_id": "中国已补齐台湾岛东部海底地图", "trend_title": "中国已补齐台湾岛东部海底地图", "market_title": "", "reason": "LLM 無回應（檢查 ANTHROPIC_API_KEY）"}
 {"strategy": "trend", "trend_id": "anthropicsmodelnamingextrapolated", "trend_title": "Anthropic's Model Naming, Extrapolated", "market_title": "", "reason": "LLM 無回應（檢查 ANTHROPIC_API_KEY）"}
 {"strategy": "trend", "trend_id": "israelkills16inlebanonuntoprobeinternationallawviolations", "trend_title": "Israel kills 16 in Lebanon, UN to probe international law violations", "market_title": "", "reason": "LLM 無回應（檢查 ANTHROPIC_API_KEY）"}
+{"strategy": "trend", "trend_id": "伊朗最高联合军事指挥部美国此前关于船只通过霍尔木兹海峡的说法是虚假的", "trend_title": "伊朗最高联合军事指挥部：美国此前关于船只通过霍尔木兹海峡的说法是虚假的。", "market_title": "", "reason": "LLM 無回應（檢查 ANTHROPIC_API_KEY）"}
+{"strategy": "trend", "trend_id": "somesenatedemsstillwontcommittograhamplatner", "trend_title": "Some Senate Dems still won’t commit to Graham Platner", "market_title": "", "reason": "LLM 無回應（檢查 ANTHROPIC_API_KEY）"}
