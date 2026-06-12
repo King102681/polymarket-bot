@@ -62,6 +62,12 @@ print(f"市價 YES={mid:.2f}  →  掛買單在 0.10（偏離 {(mid-0.10)*100:.0
 
 # ── 初始化（新 SDK：自動驗證憑證 + 偵測錢包類型）────────────────
 print("[auth] 建立 SecureClient ...")
+
+# Deposit Wallet（UUPS）已在鏈上部署（250 bytes code 確認），
+# 用 _create 直接構建 client（跳過 _ensure_wallet_ready 的 relayer 查詢）。
+# Relayer /deployed API 有延遲，但合約本身已部署，下單不受影響。
+DEPOSIT_WALLET = "0x001eE6A791009d5Ec19595B59D35FB4328fF3e77"
+
 creds = None
 if config.POLY_API_KEY and config.POLY_API_SECRET and config.POLY_API_PASSPHRASE:
     creds = ApiKeyCreds.model_validate({
@@ -71,10 +77,17 @@ if config.POLY_API_KEY and config.POLY_API_SECRET and config.POLY_API_PASSPHRASE
     })
 
 try:
-    clob = SecureClient.create(private_key=config.WALLET_PRIVATE_KEY, credentials=creds)
+    clob = SecureClient._create(
+        private_key=config.WALLET_PRIVATE_KEY,
+        wallet=DEPOSIT_WALLET,
+        credentials=creds,
+    )
 except Exception as e:
-    print(f"   既有 API 憑證無法使用（{type(e).__name__}: {str(e)[:60]}），改用自動衍生 ...")
-    clob = SecureClient.create(private_key=config.WALLET_PRIVATE_KEY)
+    print(f"   既有憑證無效（{type(e).__name__}: {str(e)[:60]}），改用自動衍生 ...")
+    clob = SecureClient._create(
+        private_key=config.WALLET_PRIVATE_KEY,
+        wallet=DEPOSIT_WALLET,
+    )
 
 print(f"   錢包: {clob.wallet}")
 print(f"   類型: {clob.wallet_type}\n")
@@ -84,14 +97,16 @@ try:
     # ── post：簽名 + 送出 ──────────────────────────────────────
     print("[post] 送出 $1 限價買單 @ 0.10 ...")
     resp = clob.place_limit_order(token_id=token_id, price=0.10, size=10, side="BUY")
-    print(f"   回應: success={resp.success} status={getattr(resp, 'status', '?')}")
+    # AcceptedOrder 欄位: ok / order_id / status / making_amount / taking_amount
+    ok = getattr(resp, "ok", None) if getattr(resp, "ok", None) is not None else bool(getattr(resp, "order_id", ""))
+    print(f"   回應: ok={ok} status={getattr(resp, 'status', '?')}")
 
-    order_id = resp.order_id or ""
+    order_id = getattr(resp, "order_id", "") or ""
     if order_id:
         print(f"   {OK} POST 成功！order_id={order_id}")
-        print(f"   {OK} geoblock 已突破 → LIVE 下單鏈路就緒")
+        print(f"   {OK} geoblock 已突破 → LIVE 下單鏈路 100% 就緒！")
     else:
-        print(f"   {FAIL} POST 未拿到 order_id（success={resp.success}）")
+        print(f"   {FAIL} POST 未拿到 order_id（ok={ok}）")
 
     # ── 查單狀態 ───────────────────────────────────────────────
     if order_id:

@@ -112,6 +112,9 @@ def _get_clob_client():
     except ImportError:  # beta 期間公開匯出路徑可能變動
         from polymarket.models.clob.api_key import ApiKeyCreds
 
+    # Deposit Wallet（UUPS）已部署，用 _create 跳過 relayer deployed 查詢（API 有延遲）
+    DEPOSIT_WALLET = "0x001eE6A791009d5Ec19595B59D35FB4328fF3e77"
+
     creds = None
     if config.POLY_API_KEY and config.POLY_API_SECRET and config.POLY_API_PASSPHRASE:
         creds = ApiKeyCreds.model_validate({
@@ -120,11 +123,16 @@ def _get_clob_client():
             "passphrase": config.POLY_API_PASSPHRASE,
         })
     try:
-        _clob_client = SecureClient.create(
-            private_key=config.WALLET_PRIVATE_KEY, credentials=creds)
+        _clob_client = SecureClient._create(
+            private_key=config.WALLET_PRIVATE_KEY,
+            wallet=DEPOSIT_WALLET,
+            credentials=creds,
+        )
     except Exception:
-        # 既有憑證失效 → 讓 SDK 重新衍生
-        _clob_client = SecureClient.create(private_key=config.WALLET_PRIVATE_KEY)
+        _clob_client = SecureClient._create(
+            private_key=config.WALLET_PRIVATE_KEY,
+            wallet=DEPOSIT_WALLET,
+        )
     return _clob_client
 
 
