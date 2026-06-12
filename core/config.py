@@ -30,6 +30,10 @@ INITIAL_CAPITAL_USDC = float(os.getenv("INITIAL_CAPITAL_USDC", "100"))
 # ── 策略 B：TrendRadar × Claude 自主交易 ──────────────────────────────────
 # headless 管線呼叫 Anthropic API 由 Claude 判斷情緒與下注（與鯨魚跟單獨立）。
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+# LLM 供應商：auto = 有 GEMINI_API_KEY 用 Gemini（免費），否則 Anthropic（計費）
+TREND_LLM_PROVIDER = os.getenv("TREND_LLM_PROVIDER", "auto")
+TREND_GEMINI_MODEL = os.getenv("TREND_GEMINI_MODEL", "gemini-2.5-flash-lite")  # 免費額度最寬鬆
 # 配對/翻譯用便宜模型；下注判斷用較強模型。皆可用環境變數覆寫。
 TREND_MATCHER_MODEL = os.getenv("TREND_MATCHER_MODEL", "claude-haiku-4-5")
 TREND_EVALUATOR_MODEL = os.getenv("TREND_EVALUATOR_MODEL", "claude-haiku-4-5")  # LLM 評估層（便宜）

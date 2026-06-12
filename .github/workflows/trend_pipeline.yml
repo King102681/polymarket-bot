@@ -44,6 +44,7 @@ jobs:
           POLYGON_RPC_URL=${{ secrets.POLYGON_RPC_URL }}
           TG_BOT_TOKEN=${{ secrets.TG_BOT_TOKEN }}
           TG_CHAT_ID=${{ secrets.TG_CHAT_ID }}
+          GEMINI_API_KEY=${{ secrets.GEMINI_API_KEY }}
           ANTHROPIC_API_KEY=${{ secrets.ANTHROPIC_API_KEY }}
           LIVE_MODE=false
           MAX_BET_USDC=10
@@ -54,9 +55,11 @@ jobs:
           TREND_MIN_CONFIDENCE=0.55
           TREND_MIN_HOURS_LEFT=48
           TREND_EVALUATOR_MODEL=claude-haiku-4-5
+          TREND_GEMINI_MODEL=gemini-2.5-flash-lite
           EOF
-          # LLM 評估層用便宜的 Haiku；需在 GitHub Secrets 加 ANTHROPIC_API_KEY。
-          # 沒設 key 時程式優雅降級成 0 單（不崩潰）。
+          # LLM 評估層：免費走 Gemini（Secrets 加 GEMINI_API_KEY，AI Studio 免費領）；
+          # 之後想升級品質改加 ANTHROPIC_API_KEY（計費，auto 模式 Gemini 優先）。
+          # 兩把 key 都沒設時程式優雅降級成 0 單（不崩潰）。
 
       - name: Run trend pipeline
         run: python -m scripts.run_trend_pipeline
