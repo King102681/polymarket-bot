@@ -93,47 +93,56 @@ def _total_open_usdc() -> float:
     return total
 
 
+_clob_client = None  # 快取（一次行程內重複下單免重複驗證憑證）
+
+
+def _get_clob_client():
+    """建立或重用新版官方 SDK（polymarket-client）的 SecureClient。
+
+    ⚠️ 2026-05 起舊 py-clob-client 被伺服器拒絕（400 invalid order version），
+       已遷移到 github.com/Polymarket/py-sdk。
+    """
+    global _clob_client
+    if _clob_client is not None:
+        return _clob_client
+
+    from polymarket import SecureClient
+    try:
+        from polymarket.models import ApiKeyCreds
+    except ImportError:  # beta 期間公開匯出路徑可能變動
+        from polymarket.models.clob.api_key import ApiKeyCreds
+
+    creds = None
+    if config.POLY_API_KEY and config.POLY_API_SECRET and config.POLY_API_PASSPHRASE:
+        creds = ApiKeyCreds.model_validate({
+            "apiKey": config.POLY_API_KEY,
+            "secret": config.POLY_API_SECRET,
+            "passphrase": config.POLY_API_PASSPHRASE,
+        })
+    try:
+        _clob_client = SecureClient.create(
+            private_key=config.WALLET_PRIVATE_KEY, credentials=creds)
+    except Exception:
+        # 既有憑證失效 → 讓 SDK 重新衍生
+        _clob_client = SecureClient.create(private_key=config.WALLET_PRIVATE_KEY)
+    return _clob_client
+
+
 def _place_order_live(order: dict) -> tuple[str, str]:
     """
-    送真實限價單到 Polymarket CLOB。
+    送真實限價單到 Polymarket CLOB（GTC，掛單直到成交/取消）。
     回傳 (order_id, error)。若成功 error=""，若失敗 order_id=""。
     """
     try:
-        # py_clob_client 0.34.x 正確 import：
-        #   - OrderArgs（非 LimitOrderArgs，後者已移除）
-        #   - BUY 在 order_builder.constants（非 constants）
-        #   - 下單分兩步：create_order(簽名) → post_order(送出, 帶 OrderType)
-        from py_clob_client.client import ClobClient
-        from py_clob_client.clob_types import ApiCreds, OrderArgs, OrderType
-        from py_clob_client.order_builder.constants import BUY
-
-        clob = ClobClient(
-            host="https://clob.polymarket.com",
-            key=config.WALLET_PRIVATE_KEY,
-            chain_id=config.CHAIN_ID,
-        )
-        clob.set_api_creds(ApiCreds(
-            api_key=config.POLY_API_KEY,
-            api_secret=config.POLY_API_SECRET,
-            api_passphrase=config.POLY_API_PASSPHRASE,
-        ))
-
-        order_args = OrderArgs(
+        clob = _get_clob_client()
+        resp = clob.place_limit_order(
             token_id=order["asset"],
             price=float(order["suggested_price"]),
             size=float(order["suggested_size"]),
-            side=BUY,
+            side="BUY",
         )
-        signed = clob.create_order(order_args)
-        resp = clob.post_order(signed, OrderType.GTC)   # GTC = 掛單直到成交/取消
-
-        # resp 通常是 {"orderID": "...", "status": "matched"|"live", ...}
-        order_id = ""
-        if isinstance(resp, dict):
-            order_id = resp.get("orderID") or resp.get("order_id") or str(resp)
-        elif hasattr(resp, "orderID"):
-            order_id = resp.orderID
-        return order_id or "submitted", ""
+        # resp: OrderResponse — order_id / status("live"|"matched"|"delayed") / success
+        return (resp.order_id or "submitted"), ""
 
     except Exception as e:
         return "", f"{type(e).__name__}: {e}"
