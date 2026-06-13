@@ -179,3 +179,6 @@
 {"strategy": "trend", "trend_id": "特朗普称美伊协议计划14日签署", "trend_title": "特朗普称美伊协议计划14日签署", "market_title": "", "reason": "LLM 判定不下注：話題是關於特朗普簽署美伊協議，但候選市場是關於解除霍爾木茲海峽封鎖，兩者沒有直接關聯性。"}
 {"strategy": "trend", "trend_id": "usirandealscheduledtobesignedonsundaysaystrump", "trend_title": "US-Iran deal scheduled to be signed on Sunday, says Trump", "market_title": "", "reason": "LLM 判定不下注：話題是關於美伊協議簽署，而候選市場是關於解除荷姆茲海峽封鎖，兩者關聯性不高，且市場定價（0.77-0.84）暗示了較高的"}
 {"strategy": "trend", "trend_id": "据第13频道援引以色列高级官员以色列在美伊协议这一问题上的影响力有限", "trend_title": "据第13频道援引以色列高级官员：以色列在（美伊协议）这一问题上的影响力有限。", "market_title": "", "reason": "LLM 判定不下注：該話題討論以色列在美伊協議上的影響力，與停火協議無關。"}
+{"strategy": "trend", "trend_id": "以军继续在黎巴嫩南部展开密集军事行动", "trend_title": "以军继续在黎巴嫩南部展开密集军事行动", "market_title": "", "reason": "信心 0.50 < 0.55：以军在黎巴嫩南部展开军事行动，增加了与真主党发生冲突的可能性，这可能阻碍双方达成"}
+{"strategy": "trend", "trend_id": "trumpsaysusirandealtobesignedonsundayastehrancastsdoubtontiming", "trend_title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing", "market_title": "", "reason": "LLM 判定不下注：此新聞關於美伊協議簽署時程，與市場關於『荷姆茲海峽封鎖解除』的到期日預測關聯性不高，且新聞內容本身未明確指出封鎖解除的訊"}
+{"strategy": "trend", "trend_id": "据耶路撒冷邮报援引以方官员的话报道在与贝鲁特达成协议后我们将研究分阶段有条件地从黎巴嫩南部撤军", "trend_title": "据《耶路撒冷邮报》援引以方官员的话报道：在与贝鲁特达成协议后，我们将研究分阶段、有条件地从黎巴嫩南部撤军。", "market_title": "", "reason": "信心 0.45 < 0.55：以方官员表示，与黎巴嫩达成协议后，将研究分阶段、有条件地从黎巴嫩南部撤军。这直接"}
