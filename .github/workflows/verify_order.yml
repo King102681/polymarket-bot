@@ -14,6 +14,8 @@ jobs:
   verify:
     runs-on: ubuntu-latest      # GitHub hosted runner（美國 Azure）
     timeout-minutes: 5
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - name: Checkout
         uses: actions/checkout@v4

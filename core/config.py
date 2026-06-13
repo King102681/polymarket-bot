@@ -72,9 +72,9 @@ def validate() -> None:
 
 
 def validate_trend() -> None:
-    """策略 B 額外需要 ANTHROPIC_API_KEY；下單部分仍沿用 validate() 的 Polymarket 金鑰。"""
-    if not ANTHROPIC_API_KEY:
+    """策略 B 需要至少一個 LLM 金鑰；Gemini 免費版優先，Anthropic 為備用。"""
+    if not GEMINI_API_KEY and not ANTHROPIC_API_KEY:
         raise ValueError(
-            "缺少 ANTHROPIC_API_KEY——策略 B 需要它呼叫 Claude API。"
-            "請加到 ~/.polymarket/.env"
+            "策略 B 需要 GEMINI_API_KEY（免費）或 ANTHROPIC_API_KEY（計費）至少一個。"
+            "建議先到 aistudio.google.com 取得免費 Gemini key，加到 ~/.polymarket/.env"
         )

@@ -193,7 +193,9 @@ def main():
                            if w["proxy_wallet"] not in BLACKLIST]
             current_addrs = {w["proxy_wallet"] for w in current}
 
-            merged = current + [asdict(w) for w in new_whales if w.proxy_wallet not in current_addrs]
+            merged = current + [asdict(w) for w in new_whales
+                                if w.proxy_wallet not in current_addrs
+                                and w.proxy_wallet not in BLACKLIST]
             _WHALES_PATH.write_text(
                 json.dumps(merged, indent=2, ensure_ascii=False),
                 encoding="utf-8"
