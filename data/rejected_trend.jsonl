@@ -194,3 +194,8 @@
 {"strategy": "trend", "trend_id": "英国首相斯塔默指示武装部队拦截试图通过英吉利海峡的影子舰队油轮", "trend_title": "英国首相斯塔默：指示武装部队拦截试图通过英吉利海峡的影子舰队油轮。", "market_title": "", "reason": "LLM 判定不下注：用户提供的话题是关于英国首相斯塔默指示拦截油轮的行动，这与任何一个关于英国未来首相的预测市场都无关。因此，选择 mark"}
 {"strategy": "trend", "trend_id": "特朗普扬言对敌人使用致幻武器", "trend_title": "特朗普扬言对敌人使用“致幻武器”", "market_title": "", "reason": "LLM 無回應（檢查 ANTHROPIC_API_KEY）"}
 {"strategy": "trend", "trend_id": "巴基斯坦总理称预计美伊协议将在24小时内敲定伊朗火速否认", "trend_title": "巴基斯坦总理称预计美伊协议将在24小时内敲定，伊朗火速否认", "market_title": "", "reason": "LLM 無回應（檢查 ANTHROPIC_API_KEY）"}
+{"strategy": "trend", "trend_id": "中国官媒吁日工商界就修正对华政策施压高市政府", "trend_title": "中国官媒吁日工商界就修正对华政策施压高市政府", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題關於中國官媒向日本工商界施壓，要求其修正對華政策，這與「日本國會是否於 2026 年解散」的市場主題完全無"}
+{"strategy": "trend", "trend_id": "以色列或在美伊达成协议的背景下停止在黎巴嫩的进攻", "trend_title": "以色列或在美伊达成协议的背景下停止在黎巴嫩的进攻", "market_title": "", "reason": "LLM 判定不下注：該話題指出以色列可能停止在黎巴嫩的進攻，這與市場『以色列與哈馬停火協議是否在6月30日取消』的相關性較低。停火協議通常涉"}
+{"strategy": "trend", "trend_id": "特朗普转发巴总理推文美伊协议签署时间未定", "trend_title": "特朗普转发巴总理推文，美伊协议签署时间未定", "market_title": "", "reason": "LLM 判定不下注：此話題與候選市場無關。話題提到美伊協議簽署時間未定，而候選市場是關於是否解除霍爾木茲海峽封鎖。"}
+{"strategy": "trend", "trend_id": "russiabeginsrestrictingpetrolsalesintatarstanmoscowandstpetersburg", "trend_title": "Russia begins restricting petrol sales in Tatarstan, Moscow and St Petersburg", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "外媒肯尼迪中心将特朗普名字移除", "trend_title": "外媒：肯尼迪中心将特朗普名字移除", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於肯尼迪中心移除特朗普名字的新聞，這與候選市場中關於特朗普宣布解除霍爾木茲海峽封鎖的預測完全無關。因此"}
