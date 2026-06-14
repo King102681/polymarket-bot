@@ -199,3 +199,6 @@
 {"strategy": "trend", "trend_id": "特朗普转发巴总理推文美伊协议签署时间未定", "trend_title": "特朗普转发巴总理推文，美伊协议签署时间未定", "market_title": "", "reason": "LLM 判定不下注：此話題與候選市場無關。話題提到美伊協議簽署時間未定，而候選市場是關於是否解除霍爾木茲海峽封鎖。"}
 {"strategy": "trend", "trend_id": "russiabeginsrestrictingpetrolsalesintatarstanmoscowandstpetersburg", "trend_title": "Russia begins restricting petrol sales in Tatarstan, Moscow and St Petersburg", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "外媒肯尼迪中心将特朗普名字移除", "trend_title": "外媒：肯尼迪中心将特朗普名字移除", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於肯尼迪中心移除特朗普名字的新聞，這與候選市場中關於特朗普宣布解除霍爾木茲海峽封鎖的預測完全無關。因此"}
+{"strategy": "trend", "trend_id": "美被曝同意伊朗稀释浓缩铀库存", "trend_title": "美被曝同意伊朗稀释浓缩铀库存", "market_title": "US-Iran nuclear deal before 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "大量日本民众抗议高市早苗政府军事扩张政策", "trend_title": "大量日本民众抗议高市早苗政府军事扩张政策", "market_title": "", "reason": "LLM 判定不下注：話題是關於民眾抗議日本政府的軍事擴張政策，這與國會是否在2026年解散沒有直接關聯。候選市場的議題與熱門話題的關聯性很低"}
+{"strategy": "trend", "trend_id": "巴勒斯坦各派别达成统一立场回应20点计划第二阶段安排", "trend_title": "巴勒斯坦各派别达成统一立场 回应“20点计划”第二阶段安排", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於巴勒斯坦各派別就“20點計劃”第二階段安排達成統一立場。這與候選市場“以色列 x 哈馬停火是否在6月"}
