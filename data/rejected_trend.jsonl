@@ -229,3 +229,8 @@
 {"strategy": "trend", "trend_id": "美国防长美国期望在达成协议后参与控制伊朗的核燃料", "trend_title": "美国防长：美国期望在达成协议后参与控制伊朗的核燃料", "market_title": "US-Iran nuclear deal by June 30?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "特朗普宣布美伊达成和平协议", "trend_title": "特朗普宣布美伊达成和平协议", "market_title": "", "reason": "LLM 無回應（檢查 ANTHROPIC_API_KEY）"}
 {"strategy": "trend", "trend_id": "据伊朗媒体farsnews伊朗已决定将有伊朗与阿曼协调对海湾地区的海上交通进行监管", "trend_title": "据伊朗媒体Fars News：伊朗已决定将有伊朗与阿曼协调，对海湾地区的海上交通进行监管。", "market_title": "", "reason": "LLM 判定不下注：该话题是关于伊朗和阿曼协调监管海湾地区海上交通，与美伊核协议的潜在到期时间或未来外交会议地点没有直接关联。"}
+{"strategy": "trend", "trend_id": "特朗普海峡永久免收通行费未达最终协议将重启对伊打击", "trend_title": "特朗普：海峡永久免收通行费 未达最终协议将重启对伊打击", "market_title": "", "reason": "LLM 判定不下注：這則熱門話題是關於川普關於海峽通行費和對伊朗的潛在打擊，並未提及任何有關解除封鎖海峽的資訊。所有候選市場都圍繞著『解除封"}
+{"strategy": "trend", "trend_id": "俄罗斯国防部防空系统击落104架乌克兰无人机", "trend_title": "俄罗斯国防部：防空系统击落104架乌克兰无人机", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "usandiranannouncedealtoendmilitaryoperations", "trend_title": "US and Iran announce deal to end military operations", "market_title": "", "reason": "LLM 無回應（檢查 ANTHROPIC_API_KEY）"}
+{"strategy": "trend", "trend_id": "波兰武装部队由于俄罗斯对乌克兰的攻击波兰空域内已开始军事航空行动", "trend_title": "波兰武装部队：由于俄罗斯对乌克兰的攻击，波兰空域内已开始军事航空行动。", "market_title": "", "reason": "LLM 無回應（檢查 ANTHROPIC_API_KEY）"}
+{"strategy": "trend", "trend_id": "康斯坦丁诺夫乌克兰和欧洲三驾马车注定失败", "trend_title": "康斯坦丁诺夫：乌克兰和“欧洲三驾马车”注定失败", "market_title": "", "reason": "LLM 無回應（檢查 ANTHROPIC_API_KEY）"}
