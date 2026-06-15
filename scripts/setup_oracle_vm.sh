@@ -8,7 +8,7 @@
 set -e
 
 REPO_URL="https://github.com/King102681/polymarket-bot.git"
-BOT_DIR="$HOME/polymarket-bot/polytest"
+BOT_DIR="$HOME/polymarket-bot"
 SERVICE_NAME="polymarket-bot"
 
 echo "======================================================"
@@ -63,7 +63,7 @@ POLY_API_KEY=
 POLY_API_SECRET=
 POLY_API_PASSPHRASE=
 
-LIVE_MODE=true
+LIVE_MODE=false
 MAX_BET_USDC=3
 MAX_TOTAL_OPEN_USDC=20
 DAILY_LOSS_LIMIT_USDC=10
