@@ -2,9 +2,8 @@ name: TrendRadar Pipeline
 
 on:
   schedule:
-    # 每 30 分鐘觸發；但 GitHub 對私有 repo 的排程 workflow 會大幅節流，
-    # 實際約每 1-2 小時跑一次（對齊「社媒領先定價 30-120 分鐘」的假設仍 OK）。
-    - cron: '*/30 * * * *'
+    # 每 10 分鐘觸發（GHA 最短 5 分鐘；趨勢去重所以不會重複呼叫 Gemini）
+    - cron: '*/10 * * * *'
   workflow_dispatch:  # 手動觸發
 
 # 防止上一輪還沒跑完又起一輪
