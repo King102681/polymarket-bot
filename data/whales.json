@@ -72,24 +72,6 @@
     }
   },
   {
-    "proxy_wallet": "0xbddf61af533ff524d27154e589d2d7a81510c684",
-    "pseudonym": "Countryside",
-    "profit_30d": 469986.9771408937,
-    "volume_30d": 44665147.971885994,
-    "roi_30d": 0.010522454273222648,
-    "wallet_value_now": 1084421.6982,
-    "recent_trade_count_7d": 24,
-    "last_trade_ts": 1780872652,
-    "sports_ratio": 0.52,
-    "category_breakdown": {
-      "sports": 26,
-      "crypto": 0,
-      "politics": 0,
-      "tech": 0,
-      "other": 24
-    }
-  },
-  {
     "proxy_wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
     "pseudonym": "beachboy4",
     "profit_30d": 4674285.0,
@@ -123,6 +105,42 @@
       "politics": 0,
       "tech": 0,
       "other": 53
+    }
+  },
+  {
+    "proxy_wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "pseudonym": "GoalLineGhost",
+    "profit_30d": 1421764.578703694,
+    "volume_30d": 24373511.745116994,
+    "roi_30d": 0.058332364805351915,
+    "wallet_value_now": 539429.7246,
+    "recent_trade_count_7d": 50,
+    "last_trade_ts": 1781498920,
+    "sports_ratio": 0.28,
+    "category_breakdown": {
+      "sports": 14,
+      "crypto": 0,
+      "politics": 0,
+      "tech": 0,
+      "other": 36
+    }
+  },
+  {
+    "proxy_wallet": "0x2c335066fe58fe9237c3d3dc7b275c2a034a0563",
+    "pseudonym": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+    "profit_30d": 2472243.2937096255,
+    "volume_30d": 91879581.185123,
+    "roi_30d": 0.026907428852210827,
+    "wallet_value_now": 2044553.1561,
+    "recent_trade_count_7d": 50,
+    "last_trade_ts": 1781496192,
+    "sports_ratio": 0.44,
+    "category_breakdown": {
+      "sports": 22,
+      "crypto": 0,
+      "politics": 0,
+      "tech": 0,
+      "other": 28
     }
   }
 ]
