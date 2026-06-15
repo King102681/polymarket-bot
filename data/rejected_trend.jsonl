@@ -234,3 +234,8 @@
 {"strategy": "trend", "trend_id": "usandiranannouncedealtoendmilitaryoperations", "trend_title": "US and Iran announce deal to end military operations", "market_title": "", "reason": "LLM 無回應（檢查 ANTHROPIC_API_KEY）"}
 {"strategy": "trend", "trend_id": "波兰武装部队由于俄罗斯对乌克兰的攻击波兰空域内已开始军事航空行动", "trend_title": "波兰武装部队：由于俄罗斯对乌克兰的攻击，波兰空域内已开始军事航空行动。", "market_title": "", "reason": "LLM 無回應（檢查 ANTHROPIC_API_KEY）"}
 {"strategy": "trend", "trend_id": "康斯坦丁诺夫乌克兰和欧洲三驾马车注定失败", "trend_title": "康斯坦丁诺夫：乌克兰和“欧洲三驾马车”注定失败", "market_title": "", "reason": "LLM 無回應（檢查 ANTHROPIC_API_KEY）"}
+{"strategy": "trend", "trend_id": "伊朗外交部即使达成备忘录仍不信任美国", "trend_title": "伊朗外交部：即使达成备忘录，仍不信任美国", "market_title": "US-Iran nuclear deal by June 30?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美伊达成和平协议", "trend_title": "美伊达成和平协议", "market_title": "", "reason": "LLM 無回應（檢查 ANTHROPIC_API_KEY）"}
+{"strategy": "trend", "trend_id": "trumpsaysushasagreedtoirandealplansimminentannouncement", "trend_title": "Trump says US has agreed to Iran deal, plans imminent announcement", "market_title": "Trump announces US x Iran ceasefire over by June 30?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "trumpheraldsirandealbutquestionsandrisksremain", "trend_title": "Trump heralds Iran deal but questions - and risks - remain", "market_title": "", "reason": "LLM 無回應（檢查 ANTHROPIC_API_KEY）"}
+{"strategy": "trend", "trend_id": "本周超级央行周美联储利率决议沃什首秀日本央行或加息中国5月经济数据", "trend_title": "本周“超级央行周”：美联储利率决议沃什首秀、日本央行或加息、中国5月经济数据", "market_title": "", "reason": "LLM 判定不下注：該熱門話題主要聚焦於即將到來的「超級央行周」，其中提到美聯儲、日本央行以及中國的經濟數據。然而，所有候選市場都圍繞著 2"}
