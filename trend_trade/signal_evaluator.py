@@ -189,7 +189,7 @@ def evaluate(
 
         res = _ask_llm(tr, candidates)
         if not res:
-            rej("LLM 無回應（檢查 ANTHROPIC_API_KEY）")
+            rej("LLM 無回應（安全過濾或 API 失敗）")
             continue
 
         try:

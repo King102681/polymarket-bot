@@ -141,7 +141,17 @@ def _call_gemini(
 
         try:
             data = r.json()
-            text = data["candidates"][0]["content"]["parts"][0]["text"]
+            candidates = data.get("candidates", [])
+            if not candidates:
+                last_err = f"回傳無候選（可能被安全過濾）: {r.text[:160]}"
+                break
+            cand = candidates[0]
+            finish = cand.get("finishReason", "")
+            if finish in ("SAFETY", "RECITATION", "PROHIBITED_CONTENT"):
+                # Gemini 安全過濾器觸發（地緣政治/軍事新聞常見）→ 優雅降級
+                print(f"   ⚠️ Gemini 安全過濾（{finish}），此趨勢跳過")
+                return None
+            text = cand["content"]["parts"][0]["text"]
         except Exception:
             # 可能被 safety 擋下或回傳結構異常
             last_err = f"回傳結構異常: {r.text[:160]}"
