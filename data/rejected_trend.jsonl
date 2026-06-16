@@ -287,3 +287,5 @@
 {"strategy": "trend", "trend_id": "俄教育部长俄罗斯中小学学习中文的人数超过47万", "trend_title": "俄教育部长：俄罗斯中小学学习中文的人数超过4.7万", "market_title": "", "reason": "LLM 判定不下注：该话题是关于俄罗斯中小学学习中文的人数增加，与俄罗斯和乌克兰停火协议的候选市场没有直接或间接的关联性。话题本身也没有提供"}
 {"strategy": "trend", "trend_id": "美防长称伊朗履行承诺后才解冻资产", "trend_title": "美防长称伊朗履行承诺后才解冻资产", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by June 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "tehransellingdealwithusasvictorybutforiraniansitwasnecessity", "trend_title": "Tehran selling deal with US as victory – but for Iranians it was necessity", "market_title": "", "reason": "信心 0.40 < 0.45：文章指出伊朗將與美國達成協議視為勝利，但對伊朗人民而言是必要之舉。這暗示協議的達"}
+{"strategy": "trend", "trend_id": "普京将于6月17日至18日出席俄罗斯东盟喀山峰会", "trend_title": "普京将于6月17日至18日出席俄罗斯 — 东盟喀山峰会", "market_title": "", "reason": "信心 0.30 < 0.45：此話題是關於普京參加峰會，雖然與俄羅斯有關，但與俄烏停火協議的直接關聯性不高。市"}
+{"strategy": "trend", "trend_id": "美联储本周维持利率不变的概率为995", "trend_title": "美联储本周维持利率不变的概率为99.5%", "market_title": "Will there be no change in Fed interest rates after the July 2026 meeting?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
