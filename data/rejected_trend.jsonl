@@ -318,3 +318,10 @@
 {"strategy": "trend", "trend_id": "美联储启动改革沃什拟设立五大工作组重塑央行框架", "trend_title": "美联储启动改革：沃什拟设立五大工作组重塑央行框架", "market_title": "", "reason": "LLM 判定不下注：新聞是關於美聯儲的框架改革，將設立工作組，但並未提及具體的利率政策變動。候選市場均是關於 2026 年 7 月會議後的利"}
 {"strategy": "trend", "trend_id": "tehransaysconsideringplanforiranuspresidentstosigndeal", "trend_title": "Tehran says considering plan for Iran, US presidents to sign deal", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
 {"strategy": "trend", "trend_id": "据伊朗伊斯兰共和国通讯社霍尔木兹海峡免费通行仅适用于60天的期限", "trend_title": "据伊朗伊斯兰共和国通讯社：（霍尔木兹海峡）免费通行仅适用于60天的期限。", "market_title": "", "reason": "LLM 判定不下注：此新聞內容關於霍爾木茲海峽的通行限制，與候選市場中所有關於『美伊外交會議地點』的預測無直接關聯，因此無法判斷市場方向或信"}
+{"strategy": "trend", "trend_id": "据axios两名美国官员表示美国和伊朗已于周三签署了结束战争的谅解备忘录现已生效", "trend_title": "据AXIOS：两名美国官员表示，美国和伊朗已于周三签署了结束战争的谅解备忘录，现已生效。", "market_title": "", "reason": "LLM 判定不下注：該話題指出美伊已簽署結束戰爭的諒解備忘錄，這是一個重大的地緣政治事件。然而，所有候選市場都僅僅圍繞『下一次外交會議的地點"}
+{"strategy": "trend", "trend_id": "特朗普或恢复对俄制裁", "trend_title": "特朗普：或恢复对俄制裁", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "revealedusirandealincludes425billionfundimmediateendtooilsanctions", "trend_title": "Revealed: US-Iran deal includes $425 billion fund, immediate end to oil sanctions", "market_title": "", "reason": "LLM 判定不下注：該熱門話題討論的是美伊之間的資金和石油制裁協議，但候選市場全部是關於下次外交會議的地點。話題內容與任何一個市場的預測目標"}
+{"strategy": "trend", "trend_id": "michiganpollsteraccusesmcmorrowcampaignofkillingunfavorablesenatepoll", "trend_title": "Michigan pollster accuses McMorrow campaign of killing unfavorable Senate poll", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "dontmeddlelulacallsontrumptostayoutofbrazilselections", "trend_title": "‘Don’t meddle’: Lula calls on Trump to stay out of Brazil’s elections", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "美联储按兵不动但释放鹰派信号年内利率变化预期由降息变加息", "trend_title": "美联储按兵不动但释放鹰派信号 年内利率变化预期由降息变加息", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "伊朗方面称美伊双方已签署备忘录", "trend_title": "伊朗方面称美伊双方已签署备忘录", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
