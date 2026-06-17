@@ -314,3 +314,7 @@
 {"strategy": "trend", "trend_id": "iransendstankersloadedwithoilpastusmilitaryblockade", "trend_title": "Iran sends tankers loaded with oil past US military blockade", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
 {"strategy": "trend", "trend_id": "美国总统特朗普没有人故意袭击伊朗的学校", "trend_title": "美国总统特朗普：没有人故意袭击伊朗的学校。", "market_title": "Trump announces US x Iran ceasefire over by June 30?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "g7领导人欢迎美伊达成协议一致支持乌克兰", "trend_title": "G7领导人欢迎美伊达成协议 一致支持乌克兰", "market_title": "", "reason": "信心 0.40 < 0.45：新聞提到G7領導人一致支持烏克蘭，且美伊達成協議，這代表國際局勢可能趨於緩和，這"}
+{"strategy": "trend", "trend_id": "今夜全球瞩目沃什美联储首秀会向市场扔炸弹吗", "trend_title": "今夜全球瞩目，沃什“美联储首秀”会向市场扔炸弹吗？", "market_title": "", "reason": "LLM 判定不下注：話題是關於「美聯儲首秀」的利率決策，但所有候選市場的會議時間均為「2026年7月」，這與近期「首秀」的預期時間不符，因此"}
+{"strategy": "trend", "trend_id": "美联储启动改革沃什拟设立五大工作组重塑央行框架", "trend_title": "美联储启动改革：沃什拟设立五大工作组重塑央行框架", "market_title": "", "reason": "LLM 判定不下注：新聞是關於美聯儲的框架改革，將設立工作組，但並未提及具體的利率政策變動。候選市場均是關於 2026 年 7 月會議後的利"}
+{"strategy": "trend", "trend_id": "tehransaysconsideringplanforiranuspresidentstosigndeal", "trend_title": "Tehran says considering plan for Iran, US presidents to sign deal", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "据伊朗伊斯兰共和国通讯社霍尔木兹海峡免费通行仅适用于60天的期限", "trend_title": "据伊朗伊斯兰共和国通讯社：（霍尔木兹海峡）免费通行仅适用于60天的期限。", "market_title": "", "reason": "LLM 判定不下注：此新聞內容關於霍爾木茲海峽的通行限制，與候選市場中所有關於『美伊外交會議地點』的預測無直接關聯，因此無法判斷市場方向或信"}
