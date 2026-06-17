@@ -292,3 +292,8 @@
 {"strategy": "trend", "trend_id": "日本财务省日本5月对欧盟出口同比增长145", "trend_title": "日本财务省：日本5月对欧盟出口同比增长14.5%。", "market_title": "", "reason": "LLM 判定不下注：此話題是關於日本對歐盟的出口數據，與候選市場中關於冰島或西班牙的政治事件無任何關聯。"}
 {"strategy": "trend", "trend_id": "美伊协议内容将在19日签署后公布美方披露停火60天重开霍尔木兹海峡核心是两步核查机制还有3000亿美元激励投资", "trend_title": "美伊协议内容将在19日签署后公布，美方披露“停火60天、重开霍尔木兹海峡”，核心是“两步核查机制”，还有3000亿美元“激励投资”", "market_title": "", "reason": "LLM 判定不下注：話題是關於美伊協議的細節，預計在 60 天停火、重開霍爾木茲海峽、兩步核查機制等，但候選市場都是關於『永久和平協議』的到"}
 {"strategy": "trend", "trend_id": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸今日美国5月零售销售数据将公布次日凌晨两点美联储公布利率决议", "trend_title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日美国5月零售销售数据将公布，次日凌晨两点美联储公布利率决议", "market_title": "", "reason": "LLM 判定不下注：該話題主要預告了即將公布的美國零售銷售數據和美聯儲的利率決議，但並未提供任何關於這些數據或決議結果的預期或觀點。候選市場"}
+{"strategy": "trend", "trend_id": "报道以色列无人机再次空袭黎南城镇", "trend_title": "报道：以色列无人机再次空袭黎南城镇", "market_title": "Israel x Hamas ceasefire cancelled by June 30?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "国台办始终支持两岸青年双向奔赴", "trend_title": "国台办：始终支持两岸青年“双向奔赴”", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "leakedopenaifinancialsshow385blossandcomputeburn", "trend_title": "Leaked OpenAI financials show $38.5B loss and compute burn", "market_title": "Will OpenAI not IPO by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "readthe14pointdraftmemorandumbetweentheusandiran", "trend_title": "Read the 14-Point Draft Memorandum Between the US and Iran", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "伊朗战争永久性地改变了全球经济中国是最大赢家", "trend_title": "伊朗战争永久性地改变了全球经济，中国是最大赢家？", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
