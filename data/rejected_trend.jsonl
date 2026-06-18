@@ -329,3 +329,7 @@
 {"strategy": "trend", "trend_id": "伊朗外交部不会就伊朗导弹计划进行谈判", "trend_title": "伊朗外交部：不会就伊朗导弹计划进行谈判", "market_title": "", "reason": "LLM 判定不下注：此話題是關於伊朗的外交立場，表明其不會就導彈計劃進行談判。這是一個關於伊朗自身政策的聲明，與目前所有候選市場（均為關於未"}
 {"strategy": "trend", "trend_id": "美联储继续按兵不动但暗示鹰派倾向强调通胀承诺半数决策者料年内加息", "trend_title": "美联储继续按兵不动但暗示鹰派倾向，强调通胀承诺，半数决策者料年内加息", "market_title": "Will there be no change in Fed interest rates after the July 2026 meeting?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "早报美联储转鹰美股三大指数集体收跌黄金白银下跌葡萄牙队爆冷战平", "trend_title": "【早报】美联储转鹰；美股三大指数集体收跌；黄金、白银下跌；葡萄牙队爆冷战平", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "瑞士政府目前计划仍为美国与伊朗连同巴基斯坦卡塔尔及其他相关国家于周五在比尔根山就和平协议的执行进行初步谈判", "trend_title": "瑞士政府：目前计划仍为美国与伊朗，连同巴基斯坦、卡塔尔及其他相关国家，于周五在比尔根山就和平协议的执行进行初步谈判。", "market_title": "Will the next diplomatic US-Iran meeting be in Qatar?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "日本央行将政策利率上调至1", "trend_title": "日本央行将政策利率上调至1%", "market_title": "", "reason": "LLM 判定不下注：話題是關於日本央行，而所有候選市場都是關於美聯儲。話題內容與市場無關。"}
+{"strategy": "trend", "trend_id": "whatsintheusiranagreement", "trend_title": "What's in the US-Iran agreement?", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "完整版首秀问答美联储主席沃什坚守2通胀目标成立五个特别工作组个人未提交点阵图", "trend_title": "完整版首秀问答！美联储主席沃什：坚守2%通胀目标，成立五个特别工作组，个人未提交点阵图", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
