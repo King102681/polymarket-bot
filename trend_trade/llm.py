@@ -106,6 +106,14 @@ def _call_gemini(
             # 2.5 系列的 thinking token 也算在輸出額度內，給足空間避免空回應
             "maxOutputTokens": max(max_tokens, 2048),
         },
+        # 關閉安全過濾器：地緣政治/軍事/經濟新聞是本策略核心輸入，
+        # 預設 BLOCK_MEDIUM_AND_ABOVE 會把 Iran/Israel 等合法財經分析擋掉。
+        "safetySettings": [
+            {"category": "HARM_CATEGORY_HARASSMENT",        "threshold": "BLOCK_NONE"},
+            {"category": "HARM_CATEGORY_HATE_SPEECH",       "threshold": "BLOCK_NONE"},
+            {"category": "HARM_CATEGORY_SEXUALLY_EXPLICIT", "threshold": "BLOCK_NONE"},
+            {"category": "HARM_CATEGORY_DANGEROUS_CONTENT", "threshold": "BLOCK_NONE"},
+        ],
     }
     url = _GEMINI_URL.format(model=config.TREND_GEMINI_MODEL)
     # key 走 header，不放 URL（避免進日誌）
