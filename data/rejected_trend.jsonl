@@ -325,3 +325,7 @@
 {"strategy": "trend", "trend_id": "dontmeddlelulacallsontrumptostayoutofbrazilselections", "trend_title": "‘Don’t meddle’: Lula calls on Trump to stay out of Brazil’s elections", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
 {"strategy": "trend", "trend_id": "美联储按兵不动但释放鹰派信号年内利率变化预期由降息变加息", "trend_title": "美联储按兵不动但释放鹰派信号 年内利率变化预期由降息变加息", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
 {"strategy": "trend", "trend_id": "伊朗方面称美伊双方已签署备忘录", "trend_title": "伊朗方面称美伊双方已签署备忘录", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "美联储鹰派转向美股债遭双杀spacex首度收跌芯片指数逆市收涨黄金下挫", "trend_title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫", "market_title": "Will there be no change in Fed interest rates after the July 2026 meeting?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "伊朗外交部不会就伊朗导弹计划进行谈判", "trend_title": "伊朗外交部：不会就伊朗导弹计划进行谈判", "market_title": "", "reason": "LLM 判定不下注：此話題是關於伊朗的外交立場，表明其不會就導彈計劃進行談判。這是一個關於伊朗自身政策的聲明，與目前所有候選市場（均為關於未"}
+{"strategy": "trend", "trend_id": "美联储继续按兵不动但暗示鹰派倾向强调通胀承诺半数决策者料年内加息", "trend_title": "美联储继续按兵不动但暗示鹰派倾向，强调通胀承诺，半数决策者料年内加息", "market_title": "Will there be no change in Fed interest rates after the July 2026 meeting?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "早报美联储转鹰美股三大指数集体收跌黄金白银下跌葡萄牙队爆冷战平", "trend_title": "【早报】美联储转鹰；美股三大指数集体收跌；黄金、白银下跌；葡萄牙队爆冷战平", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
