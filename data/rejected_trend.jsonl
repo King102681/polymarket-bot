@@ -333,3 +333,8 @@
 {"strategy": "trend", "trend_id": "日本央行将政策利率上调至1", "trend_title": "日本央行将政策利率上调至1%", "market_title": "", "reason": "LLM 判定不下注：話題是關於日本央行，而所有候選市場都是關於美聯儲。話題內容與市場無關。"}
 {"strategy": "trend", "trend_id": "whatsintheusiranagreement", "trend_title": "What's in the US-Iran agreement?", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
 {"strategy": "trend", "trend_id": "完整版首秀问答美联储主席沃什坚守2通胀目标成立五个特别工作组个人未提交点阵图", "trend_title": "完整版首秀问答！美联储主席沃什：坚守2%通胀目标，成立五个特别工作组，个人未提交点阵图", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "美伊停火涉3000亿美元基金海湾国家态度审慎", "trend_title": "美伊停火涉3000亿美元基金 海湾国家态度审慎", "market_title": "", "reason": "LLM 判定不下注：該話題主要講述美伊之間的停火談判，涉及基金和海灣國家的態度，與候選市場中提出的以色列與伊朗或真主黨之間的『永久和平協議』"}
+{"strategy": "trend", "trend_id": "乌克兰对莫斯科发动创纪录的无人机袭击直逼炼油厂", "trend_title": "乌克兰对莫斯科发动创纪录的无人机袭击 直逼炼油厂", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "zelenskyyonmoscowinflamesjustifiedresponsetorussianattacks", "trend_title": "Zelenskyy on Moscow in flames: \"justified response\" to Russian attacks", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "taiwanhopesusarmssalepackagecanbeapprovedsoonpresidentsays", "trend_title": "Taiwan hopes US arms sale package can be approved soon, president says", "market_title": "Will China invade Taiwan by June 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "外媒伊朗战事以来首艘lng船通过霍尔木兹海峡", "trend_title": "外媒：伊朗战事以来首艘LNG船通过霍尔木兹海峡", "market_title": "", "reason": "LLM 判定不下注：该话题涉及伊朗船只通过霍尔木兹海峡，与外交会议地点无关。市场数据似乎已经反映了相关信息，因此没有显而易见的交易机会。"}
