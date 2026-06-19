@@ -42,7 +42,10 @@ STRATEGIES: dict[str, StrategyConfig] = {
         name="political",
         display_name="政治/地緣市場",
         emoji="🗳️",
-        whale_filter=[],               # 所有非黑名單鯨魚
+        # 2026-06-20：原 whale_filter=[]（全部鯨魚）跟策略thesis不符——
+        # 61%訊號死在「類別不符」，因為swisstony/RN1/beachboy4等主力是體育鯨魚。
+        # 只有 Spirit of Ukraine>UMA 的 category_breakdown 真正政治/地緣導向（80% other, 0% sports）。
+        whale_filter=["The Spirit of Ukraine>UMA"],
         min_size_usdc=100.0,           # $100：抓 Spirit of Ukraine 小額試水單
         min_market_hours_left=6.0,
         min_entry_hours_remaining=168.0,  # 7 天以上才跟
