@@ -400,3 +400,6 @@
 {"strategy": "trend", "trend_id": "howistheiranusagreementbeingviewedinisrael", "trend_title": "How is the Iran-US agreement being viewed in Israel?", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
 {"strategy": "trend", "trend_id": "中国大模型何时能达fable级别马斯克预计明年q1唐杰称不用那么久", "trend_title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
 {"strategy": "trend", "trend_id": "谷歌旗下deepmind高级研究科学家johnjumper决定离开公司加入anthropic", "trend_title": "谷歌旗下Deepmind高级研究科学家John Jumper决定离开公司，加入Anthropic。", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "美国总统特朗普透露卡塔尔赠予的空军一号专机已经搭载了星链通信网络", "trend_title": "美国总统特朗普透露，卡塔尔赠予的空军一号专机已经搭载了星链通信网络。", "market_title": "", "reason": "LLM 判定不下注：話題提到特朗普總統透露卡塔尔赠予的空军一号专机已搭载星链通信网络，此信息与地缘政治（如伊朗军事区域、总统任期、停火、海峡"}
+{"strategy": "trend", "trend_id": "特朗普习近平和莫迪是国际舞台最伟大领导人", "trend_title": "特朗普：习近平和莫迪是国际舞台最伟大领导人", "market_title": "", "reason": "LLM 判定不下注：此話題為特朗普稱讚習近平和莫迪，與所有候選市場（均圍繞美國與伊朗的軍事、政治協議）無關。"}
+{"strategy": "trend", "trend_id": "美国总统特朗普我要特别致谢250名工作人员他们不分昼夜赶工促成这架专机正式投入使用这当中也包含安德鲁斯联合基地的大量空军官兵", "trend_title": "美国总统特朗普：我要特别致谢250名工作人员，他们不分昼夜赶工，促成这架专机正式投入使用，这当中也包含安德鲁斯联合基地的大量空军官兵。", "market_title": "", "reason": "LLM 判定不下注：该话题是关于特朗普对250名工作人员的感谢，以及一架专机正式投入使用。这与任何一个候选项市场都没有直接关联。"}
