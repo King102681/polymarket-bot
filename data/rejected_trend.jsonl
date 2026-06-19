@@ -380,3 +380,10 @@
 {"strategy": "trend", "trend_id": "伊朗推迟赴瑞士行程黎巴嫩问题成变数万斯指责以色列对美缺乏信任", "trend_title": "伊朗推迟赴瑞士行程！黎巴嫩问题成变数 万斯指责以色列对美缺乏信任", "market_title": "", "reason": "信心 0.40 < 0.45：新聞提到 JD Vance 指責以色列，同時伊朗推遲了行程，這可能增加 Vanc"}
 {"strategy": "trend", "trend_id": "伊朗外交部发言人表示美国对以色列袭击黎巴嫩负有直接责任", "trend_title": "伊朗外交部发言人表示，美国对以色列袭击黎巴嫩负有直接责任。", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
 {"strategy": "trend", "trend_id": "外媒特朗普暂未决定是否在以色列大选中支持内塔尼亚胡", "trend_title": "外媒：特朗普“暂未决定”是否在以色列大选中支持内塔尼亚胡", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "伊朗外交部国际原子能机构能否进入核设施取决于伊美对话结果", "trend_title": "伊朗外交部：国际原子能机构能否进入核设施取决于伊美对话结果", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "claudecodeartifacts", "trend_title": "Claude Code Artifacts", "market_title": "", "reason": "LLM 判定不下注：Claude Code Artifacts是Anthropic推出的新功能，雖然與Anthropic公司相關，但此熱門話"}
+{"strategy": "trend", "trend_id": "straitofhormuzshutagainiransnavyissueswarningafterisraelistrikesonlebanon", "trend_title": "Strait Of Hormuz Shut Again: Iran's Navy Issues Warning After Israeli Strikes On Lebanon", "market_title": "", "reason": "LLM 判定不下注：該話題主要聚焦於伊朗海軍的警告和以色列對黎巴嫩的襲擊，這與候選市場中關於以色列與哈馬斯停火協議是否被取消的議題關聯性不大"}
+{"strategy": "trend", "trend_id": "italysmelonisaystrumpmadeupstorythatshebeggedhimforphotoatg7", "trend_title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "destructionisthegoalisraelsteersbetweentheusiranandlebanon", "trend_title": "‘Destruction is the goal’: Israel steers between the US, Iran, and Lebanon", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "欧洲理事会主席科斯塔只有乌克兰总统泽连斯基才有合法性代表乌克兰进行谈判", "trend_title": "欧洲理事会主席科斯塔：只有乌克兰总统泽连斯基才有合法性代表乌克兰进行谈判。", "market_title": "Russia x Ukraine ceasefire agreement by June 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "大陆海警船端午节驶入东沙岛限制水域与台海巡船舰对峙", "trend_title": "大陆海警船端午节驶入东沙岛限制水域 与台海巡船舰对峙", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
