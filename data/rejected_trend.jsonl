@@ -374,3 +374,9 @@
 {"strategy": "trend", "trend_id": "台海巡署通报以夹击造浪方式干扰驱离大陆科研船", "trend_title": "台海巡署通报以夹击造浪方式干扰驱离大陆科研船", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
 {"strategy": "trend", "trend_id": "usirantalkspostponedasvancepullsoutofswitzerlandtrip", "trend_title": "US-Iran talks postponed as Vance pulls out of Switzerland trip", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
 {"strategy": "trend", "trend_id": "黎巴嫩媒体以色列空袭黎南部造成至少16人死亡", "trend_title": "黎巴嫩媒体：以色列空袭黎南部造成至少16人死亡", "market_title": "", "reason": "LLM 判定不下注：該新聞是關於以色列與黎巴嫩南部衝突的，與以色列和哈馬斯停火的市場無直接關聯。因此，無法判斷該新聞對市場的影響方向。"}
+{"strategy": "trend", "trend_id": "伊朗外交部发言人伊朗将采取一切必要措施保护其利益和盟友", "trend_title": "伊朗外交部发言人：伊朗将采取一切必要措施保护其利益和盟友。", "market_title": "", "reason": "信心 0.40 < 0.45：伊朗外交部发言人表示将保护其利益和盟友，这通常意味着一种强硬的立场，而不是缓和。"}
+{"strategy": "trend", "trend_id": "外媒万斯罕见批评以色列部分内阁成员", "trend_title": "外媒：万斯罕见批评以色列部分内阁成员", "market_title": "", "reason": "信心 0.30 < 0.45：外媒報導指出萬斯罕見批評以色列部分內閣成員，這與他擔任副總統職位的可能性無直接關"}
+{"strategy": "trend", "trend_id": "usirantalksinswitzerlandpostponedasfightinginlebanonintensifies", "trend_title": "US-Iran talks in Switzerland postponed as fighting in Lebanon intensifies", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題關於美伊談判因黎巴嫩衝突加劇而推遲，但候選市場均為談判地點，與熱門話題內容無直接關聯，且話題本身並未提供任"}
+{"strategy": "trend", "trend_id": "伊朗推迟赴瑞士行程黎巴嫩问题成变数万斯指责以色列对美缺乏信任", "trend_title": "伊朗推迟赴瑞士行程！黎巴嫩问题成变数 万斯指责以色列对美缺乏信任", "market_title": "", "reason": "信心 0.40 < 0.45：新聞提到 JD Vance 指責以色列，同時伊朗推遲了行程，這可能增加 Vanc"}
+{"strategy": "trend", "trend_id": "伊朗外交部发言人表示美国对以色列袭击黎巴嫩负有直接责任", "trend_title": "伊朗外交部发言人表示，美国对以色列袭击黎巴嫩负有直接责任。", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "外媒特朗普暂未决定是否在以色列大选中支持内塔尼亚胡", "trend_title": "外媒：特朗普“暂未决定”是否在以色列大选中支持内塔尼亚胡", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
