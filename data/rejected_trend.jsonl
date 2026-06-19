@@ -370,3 +370,7 @@
 {"strategy": "trend", "trend_id": "伊朗据称因以军持续袭击黎推迟赴瑞士谈判万斯指责以色列醒醒认清现实不可能通过杀戮解决所有国家安全问题", "trend_title": "伊朗据称因以军持续袭击黎推迟赴瑞士谈判，万斯指责以色列：醒醒认清现实，不可能通过杀戮解决所有国家安全问题", "market_title": "", "reason": "信心 0.30 < 0.45：話題提到伊朗因以軍襲擊黎巴嫩推遲與瑞士的談判，並引用萬斯指責以色列。此話題的重點"}
 {"strategy": "trend", "trend_id": "早报芯片股暴涨伊朗推迟赴瑞士行程瑞士41波黑", "trend_title": "【早报】芯片股暴涨；伊朗推迟赴瑞士行程；瑞士4-1波黑", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
 {"strategy": "trend", "trend_id": "韩国国会启动选票短缺事件国政调查", "trend_title": "韩国国会启动选票短缺事件国政调查", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "韩国总统李在明特朗普总统是和平缔造者我们是和平推动者", "trend_title": "韩国总统李在明：特朗普总统是和平缔造者，我们是和平推动者。", "market_title": "", "reason": "信心 0.30 < 0.45：李在明稱特朗普為“和平締造者”，並將韓國定位為“和平推動者”，這暗示了在朝鮮半島"}
+{"strategy": "trend", "trend_id": "台海巡署通报以夹击造浪方式干扰驱离大陆科研船", "trend_title": "台海巡署通报以夹击造浪方式干扰驱离大陆科研船", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "usirantalkspostponedasvancepullsoutofswitzerlandtrip", "trend_title": "US-Iran talks postponed as Vance pulls out of Switzerland trip", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "黎巴嫩媒体以色列空袭黎南部造成至少16人死亡", "trend_title": "黎巴嫩媒体：以色列空袭黎南部造成至少16人死亡", "market_title": "", "reason": "LLM 判定不下注：該新聞是關於以色列與黎巴嫩南部衝突的，與以色列和哈馬斯停火的市場無直接關聯。因此，無法判斷該新聞對市場的影響方向。"}
