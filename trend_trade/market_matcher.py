@@ -35,15 +35,18 @@ KEYWORD_MAP: list[tuple[list[str], str]] = [
     (["最高法院", "supremecourt", "scotus"], "US Supreme Court"),
     (["政府关门", "政府關門", "shutdown", "债务上限", "債務上限", "debtceiling"], "US government shutdown"),
     # ── 中美 / 台灣 ──
-    # 「对台/涉台」是常見縮寫（針對台灣/涉及台灣），不含「台湾/台灣」子字串需單獨列
-    (["台湾", "台灣", "台海", "两岸", "兩岸", "台独", "台獨", "对台", "對台", "涉台", "涉臺", "taiwan"], "Taiwan China"),
+    # 「对台/涉台/犯台/台岛」是常見縮寫（針對/涉及/進犯台灣、台灣島），不含「台湾/台灣」子字串需單獨列
+    # 民进党＝台灣執政黨，新聞常單獨出現不帶「台灣」字樣
+    (["台湾", "台灣", "台海", "两岸", "兩岸", "台独", "台獨", "对台", "對台", "涉台", "涉臺",
+      "犯台", "犯臺", "台岛", "台島", "民进党", "民進黨", "taiwan"], "Taiwan China"),
     (["关税", "關稅", "贸易战", "貿易戰", "tariff"], "US China tariffs"),
     (["习近平", "習近平", "xijinping"], "China Xi Jinping"),
     (["中美", "美中", "uschina", "chinaus"], "US China relations"),
     # ── 中東 ──
     (["以色列", "加沙", "哈马斯", "哈馬斯", "巴勒斯坦", "israel", "gaza", "hamas"], "Israel Gaza ceasefire"),
-    (["伊朗", "美伊", "核协议", "核協議", "iran"], "Iran nuclear deal"),
-    (["黎巴嫩", "真主党", "真主黨", "hezbollah"], "Hezbollah Lebanon"),
+    (["伊朗", "美伊", "伊美", "核协议", "核協議", "iran"], "Iran nuclear deal"),
+    (["霍尔木兹", "霍爾木茲", "hormuz"], "Strait of Hormuz blockade"),
+    (["黎巴嫩", "真主党", "真主黨", "黎以", "hezbollah"], "Hezbollah Lebanon"),
     (["也门", "葉門", "胡塞", "houthi"], "Houthi Yemen"),
     (["叙利亚", "敘利亞", "syria"], "Syria"),
     # ── 俄烏 ──
@@ -79,7 +82,7 @@ KEYWORD_MAP: list[tuple[list[str], str]] = [
     (["欧盟", "歐盟", "德国大选", "法国大选", "europeanunion"], "Europe election"),
     (["脱欧", "脫歐", "brexit", "英国首相", "britishpm"], "UK politics"),
     (["伯纳姆", "伯納姆", "burnham"], "Andy Burnham UK Prime Minister"),
-    (["赫格塞思", "hegseth"], "NATO defense spending"),
+    (["赫格塞思", "北约", "北約", "hegseth", "nato"], "NATO defense spending"),
     # ── 選舉泛詞（最後兜底，只用中文避免英文 selection 誤判）──
     (["大选", "大選", "选举", "選舉"], "election"),
 ]
