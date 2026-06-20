@@ -446,3 +446,7 @@
 {"strategy": "trend", "trend_id": "伊朗暂停赴日内瓦与美谈判行程", "trend_title": "伊朗暂停赴日内瓦与美谈判行程", "market_title": "", "reason": "LLM 判定不下注：此話題指出伊朗暫停了與美國在日內瓦的談判，但所有候選市場均詢問的是「下一次」外交會議的地點或時間，或是是否「有」會議。此"}
 {"strategy": "trend", "trend_id": "iranwarnsofreciprocalactionifusdoesnthonourmoucommitments", "trend_title": "Iran warns of ‘reciprocal action’ if US doesn’t honour MOU commitments", "market_title": "", "reason": "LLM 判定不下注：該話題是關於伊朗對美國發出警告，暗示若美國不履行諒解備忘錄承諾，將採取對等行動。這與候選市場中關於未來外交會議地點的預測"}
 {"strategy": "trend", "trend_id": "伊朗谈判代表已启程前往瑞士", "trend_title": "伊朗谈判代表已启程前往瑞士", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "iransaysstraitofhormuzwillbeclosedoverisraelattacksonlebanon", "trend_title": "Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon", "market_title": "", "reason": "LLM 判定不下注：話題提到伊朗關閉荷姆茲海峽，這與以色列-哈瑪斯停火協議的取消沒有直接關聯，因此挑選不出相關的市場。"}
+{"strategy": "trend", "trend_id": "伊朗革命卫队警告船只远离霍尔木兹海峡", "trend_title": "伊朗革命卫队警告船只远离霍尔木兹海峡", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "俄国防部俄空天军用航弹摧毁顿涅茨克人民共和国境内乌军部署点和无人机指挥点", "trend_title": "俄国防部：俄空天军用航弹摧毁顿涅茨克人民共和国境内乌军部署点和无人机指挥点", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "泽连斯基警告俄军正准备发动大规模袭击", "trend_title": "泽连斯基警告俄军正准备发动大规模袭击", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
