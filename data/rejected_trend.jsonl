@@ -408,3 +408,8 @@
 {"strategy": "trend", "trend_id": "特朗普表示将再次访问中国", "trend_title": "特朗普表示将再次访问中国", "market_title": "", "reason": "LLM 判定不下注：此話題與伊朗無關，無法判斷任何現有市場。"}
 {"strategy": "trend", "trend_id": "黎以冲突致247名儿童死亡黎方和谈前景生变", "trend_title": "黎以冲突致247名儿童死亡 黎方和谈前景生变", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
 {"strategy": "trend", "trend_id": "iranwarlivetehransaysusmustensureisraelendsattacksonlebanon", "trend_title": "Iran war live: Tehran says US must ensure Israel ends attacks on Lebanon", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "以色列再次袭击黎巴嫩南部奈拜提耶", "trend_title": "以色列再次袭击黎巴嫩南部奈拜提耶", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "法媒爆料特朗普与高市在g7晚宴上发生口角", "trend_title": "法媒爆料：特朗普与高市在G7晚宴上发生“口角”", "market_title": "", "reason": "LLM 判定不下注：該話題為法媒爆料特朗普與高市在G7晚宴上發生口角，但所有候選市場都與伊朗事務或特朗普總統任期有關，與該話題並無直接關聯。"}
+{"strategy": "trend", "trend_id": "美国大型制药公司如何在疫情期间利用美国人和乌克兰人当作小白鼠来获利", "trend_title": "美国大型制药公司如何在疫情期间利用美国人和乌克兰人当作小白鼠来获利", "market_title": "Russia x Ukraine ceasefire agreement by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "平潭打造两岸融合新模式", "trend_title": "平潭打造两岸融合新模式", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "港媒特朗普近期无意就对台军售与赖清德通话", "trend_title": "港媒：特朗普近期无意就对台军售与赖清德通话", "market_title": "", "reason": "LLM 判定不下注：該熱門話題主要討論特朗普對台軍售與賴清德的潛在通話，而所有候選市場皆與伊朗局勢、特朗普總統任期或伊朗核武有關，與話題內容"}
