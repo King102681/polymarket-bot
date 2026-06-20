@@ -413,3 +413,11 @@
 {"strategy": "trend", "trend_id": "美国大型制药公司如何在疫情期间利用美国人和乌克兰人当作小白鼠来获利", "trend_title": "美国大型制药公司如何在疫情期间利用美国人和乌克兰人当作小白鼠来获利", "market_title": "Russia x Ukraine ceasefire agreement by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "平潭打造两岸融合新模式", "trend_title": "平潭打造两岸融合新模式", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
 {"strategy": "trend", "trend_id": "港媒特朗普近期无意就对台军售与赖清德通话", "trend_title": "港媒：特朗普近期无意就对台军售与赖清德通话", "market_title": "", "reason": "LLM 判定不下注：該熱門話題主要討論特朗普對台軍售與賴清德的潛在通話，而所有候選市場皆與伊朗局勢、特朗普總統任期或伊朗核武有關，與話題內容"}
+{"strategy": "trend", "trend_id": "以色列被曝与黎真主党达成停火伊朗证实推迟与美谈判特朗普施压耗完60天白宫放风准备尽早启程谈判", "trend_title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判", "market_title": "Trump announces US x Iran ceasefire over by June 30?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "伊朗国防部持续努力提升军事准备改善防御能力", "trend_title": "伊朗国防部：持续努力提升军事准备，改善防御能力。", "market_title": "", "reason": "LLM 判定不下注：该话题关于伊朗提升军事准备，与候选市场关于外交会议的地点没有直接关联。"}
+{"strategy": "trend", "trend_id": "以色列对黎巴嫩东部发动空袭", "trend_title": "以色列对黎巴嫩东部发动空袭", "market_title": "", "reason": "LLM 判定不下注：該話題是關於以色列對黎巴嫩的襲擊，與當前市場『以色列x哈瑪斯停火』的議題關聯性不高，無法判斷市場方向。"}
+{"strategy": "trend", "trend_id": "美伊签署停战备忘录美国立即解冻伊朗资产", "trend_title": "美伊签署停战备忘录，美国立即解冻伊朗资产", "market_title": "", "reason": "LLM 判定不下注：話題提到美伊簽署停戰備忘錄並解凍資產，這與外交會議地點的市場無關，且沒有提供任何支持買入 YES 或 NO 的新資訊。"}
+{"strategy": "trend", "trend_id": "usiranmemorandumofunderstandinginfull", "trend_title": "US-Iran memorandum of understanding in full", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "monakhalillebanonsturtleadvocatediesafterisraeliattack", "trend_title": "Mona Khalil, Lebanon’s turtle advocate, dies after Israeli attack", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "特朗普接收新空军一号", "trend_title": "特朗普接收新“空军一号”", "market_title": "", "reason": "LLM 判定不下注：此話題是關於特朗普接收新的“空军一号”飛機，與候選市場中關於伊朗、軍隊撤離、總統職位、停火、海峽通行費或核鈾濃縮等議題均"}
+{"strategy": "trend", "trend_id": "以色列空袭黎南部致五人死亡", "trend_title": "以色列空袭黎南部 致五人死亡", "market_title": "", "reason": "LLM 判定不下注：該話題是關於以色列與黎巴嫩南部之間的軍事衝突，但候選市場是關於以色列與哈馬斯停火協議的取消，兩者關聯性不足。且該話題本身"}
