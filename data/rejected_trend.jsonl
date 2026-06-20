@@ -434,3 +434,10 @@
 {"strategy": "trend", "trend_id": "israelandhezbollahcontinuestrikesdespiteceasefireagreement", "trend_title": "Israel and Hezbollah continue strikes despite ceasefire agreement", "market_title": "Israel x Hamas ceasefire cancelled by June 30?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "特朗普伊朗已被打垮民主党是一帮蠢货", "trend_title": "特朗普：伊朗已被打垮 民主党是一帮“蠢货”", "market_title": "Trump announces US x Iran ceasefire over by June 30?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "泽连斯基对白俄罗斯发出威胁", "trend_title": "泽连斯基对白俄罗斯发出威胁", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "美国军方美国军方始终保持在场并保持警惕以确保与伊朗的协议各方面得到遵守执行并全面有效", "trend_title": "美国军方：美国军方始终保持在场并保持警惕，以确保与伊朗的协议各方面得到遵守、执行，并全面有效。", "market_title": "", "reason": "LLM 判定不下注：该话题是关于美国军方对与伊朗协议的遵守情况保持警惕，并没有提供任何关于未来外交会议地点的信息。因此，无法将此话题与任何一"}
+{"strategy": "trend", "trend_id": "特朗普为新专机揭幕称飞行白宫飞更快更远", "trend_title": "特朗普为新专机揭幕 称“飞行白宫”飞更快更远", "market_title": "", "reason": "LLM 判定不下注：此話題僅是特朗普為其新專機揭幕，並未提及任何與政治決策、軍事行動或總統任期相關的資訊，因此與所有候選市場均無關聯。"}
+{"strategy": "trend", "trend_id": "乌军袭击扎波罗热核电站卫星城幼儿园发电机", "trend_title": "乌军袭击扎波罗热核电站卫星城幼儿园发电机", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "iranclosesstraitofhormuzoverceasefireviolations", "trend_title": "Iran closes Strait of Hormuz over ceasefire violations", "market_title": "", "reason": "LLM 判定不下注：此熱門話題關於荷姆茲海峽關閉，與候選市場中關於美伊外交會議地點無直接關聯，無法判斷買賣方向。"}
+{"strategy": "trend", "trend_id": "美国军方今天通过霍尔木兹海峡运输了超过1700万桶石油", "trend_title": "美国军方：今天通过霍尔木兹海峡运输了超过1700万桶石油。", "market_title": "Strait of Hormuz traffic returns to normal by end of June?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "波兰总统撤销颁给泽连斯基的最高荣誉", "trend_title": "波兰总统撤销颁给泽连斯基的最高荣誉", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "特朗普冒犯意日领导人梅洛尼讥欺友畏敌", "trend_title": "特朗普冒犯意日领导人 梅洛尼讥“欺友畏敌”", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
