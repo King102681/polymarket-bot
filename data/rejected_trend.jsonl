@@ -403,3 +403,8 @@
 {"strategy": "trend", "trend_id": "美国总统特朗普透露卡塔尔赠予的空军一号专机已经搭载了星链通信网络", "trend_title": "美国总统特朗普透露，卡塔尔赠予的空军一号专机已经搭载了星链通信网络。", "market_title": "", "reason": "LLM 判定不下注：話題提到特朗普總統透露卡塔尔赠予的空军一号专机已搭载星链通信网络，此信息与地缘政治（如伊朗军事区域、总统任期、停火、海峡"}
 {"strategy": "trend", "trend_id": "特朗普习近平和莫迪是国际舞台最伟大领导人", "trend_title": "特朗普：习近平和莫迪是国际舞台最伟大领导人", "market_title": "", "reason": "LLM 判定不下注：此話題為特朗普稱讚習近平和莫迪，與所有候選市場（均圍繞美國與伊朗的軍事、政治協議）無關。"}
 {"strategy": "trend", "trend_id": "美国总统特朗普我要特别致谢250名工作人员他们不分昼夜赶工促成这架专机正式投入使用这当中也包含安德鲁斯联合基地的大量空军官兵", "trend_title": "美国总统特朗普：我要特别致谢250名工作人员，他们不分昼夜赶工，促成这架专机正式投入使用，这当中也包含安德鲁斯联合基地的大量空军官兵。", "market_title": "", "reason": "LLM 判定不下注：该话题是关于特朗普对250名工作人员的感谢，以及一架专机正式投入使用。这与任何一个候选项市场都没有直接关联。"}
+{"strategy": "trend", "trend_id": "市场消息随着对美伊谈判可能破裂的担忧加剧以色列提高了军事戒备", "trend_title": "市场消息：随着对美伊谈判可能破裂的担忧加剧，以色列提高了军事戒备。", "market_title": "Israel x Hamas ceasefire cancelled by June 30?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "中国借外交文件强化反军国主义叙事学者对日施压关键在台湾问题", "trend_title": "中国借外交文件强化“反军国主义”叙事 学者：对日施压关键在台湾问题", "market_title": "Will China invade Taiwan by June 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "特朗普表示将再次访问中国", "trend_title": "特朗普表示将再次访问中国", "market_title": "", "reason": "LLM 判定不下注：此話題與伊朗無關，無法判斷任何現有市場。"}
+{"strategy": "trend", "trend_id": "黎以冲突致247名儿童死亡黎方和谈前景生变", "trend_title": "黎以冲突致247名儿童死亡 黎方和谈前景生变", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "iranwarlivetehransaysusmustensureisraelendsattacksonlebanon", "trend_title": "Iran war live: Tehran says US must ensure Israel ends attacks on Lebanon", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
