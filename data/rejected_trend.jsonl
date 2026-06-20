@@ -441,3 +441,8 @@
 {"strategy": "trend", "trend_id": "美国军方今天通过霍尔木兹海峡运输了超过1700万桶石油", "trend_title": "美国军方：今天通过霍尔木兹海峡运输了超过1700万桶石油。", "market_title": "Strait of Hormuz traffic returns to normal by end of June?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "波兰总统撤销颁给泽连斯基的最高荣誉", "trend_title": "波兰总统撤销颁给泽连斯基的最高荣誉", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
 {"strategy": "trend", "trend_id": "特朗普冒犯意日领导人梅洛尼讥欺友畏敌", "trend_title": "特朗普冒犯意日领导人 梅洛尼讥“欺友畏敌”", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "据沙特媒体哈达斯伊朗代表团前往瑞士成员包括伊朗中央银行行长和副石油部长", "trend_title": "据沙特媒体哈达斯：伊朗代表团前往瑞士，成员包括伊朗中央银行行长和副石油部长。", "market_title": "", "reason": "LLM 判定不下注：此熱門話題提及伊朗代表團前往瑞士，但候選市場均為美國與伊朗的『外交會議地點』。話題本身並未提及是否將有外交會議，也未指明"}
+{"strategy": "trend", "trend_id": "特朗普称梅洛尼无法再与美国交好", "trend_title": "特朗普称梅洛尼无法再与美国交好", "market_title": "", "reason": "LLM 判定不下注：该话题是关于特朗普与梅洛尼的关系，而提供的市场选项均与此无关，主要涉及美国在伊朗地区、特朗普总统任期、美伊停火及海峡通行"}
+{"strategy": "trend", "trend_id": "伊朗暂停赴日内瓦与美谈判行程", "trend_title": "伊朗暂停赴日内瓦与美谈判行程", "market_title": "", "reason": "LLM 判定不下注：此話題指出伊朗暫停了與美國在日內瓦的談判，但所有候選市場均詢問的是「下一次」外交會議的地點或時間，或是是否「有」會議。此"}
+{"strategy": "trend", "trend_id": "iranwarnsofreciprocalactionifusdoesnthonourmoucommitments", "trend_title": "Iran warns of ‘reciprocal action’ if US doesn’t honour MOU commitments", "market_title": "", "reason": "LLM 判定不下注：該話題是關於伊朗對美國發出警告，暗示若美國不履行諒解備忘錄承諾，將採取對等行動。這與候選市場中關於未來外交會議地點的預測"}
+{"strategy": "trend", "trend_id": "伊朗谈判代表已启程前往瑞士", "trend_title": "伊朗谈判代表已启程前往瑞士", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
