@@ -453,3 +453,7 @@
 {"strategy": "trend", "trend_id": "volodymyrzelenskyyreturnedtheorderofthewhiteeagletopolishpresidentkarolnawrocki", "trend_title": "Volodymyr Zelenskyy returned the Order of the White Eagle to Polish President Karol Nawrocki", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
 {"strategy": "trend", "trend_id": "aljazeeracameramanahmedwishahkilledinisraeliattackingaza", "trend_title": "Al Jazeera cameraman Ahmed Wishah killed in Israeli attack in Gaza", "market_title": "", "reason": "LLM 判定不下注：該話題報導記者在衝突中喪生，這是對現有衝突的悲劇性確認，但並未提供新資訊，足以影響停火協議是否取消的預測。市場價格（0."}
 {"strategy": "trend", "trend_id": "伊朗伊斯兰革命卫队海军政治事务官员任何协议的真正保障来自于我们的实力", "trend_title": "伊朗伊斯兰革命卫队海军政治事务官员：任何协议的真正保障来自于我们的实力。", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "美方尚未就霍尔木兹海峡关闭作出正式回应", "trend_title": "美方尚未就霍尔木兹海峡关闭作出正式回应", "market_title": "Strait of Hormuz traffic returns to normal by end of June?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "以军称在黎巴嫩境内进行防御行动未主动开火", "trend_title": "以军称在黎巴嫩境内进行防御行动未主动开火", "market_title": "", "reason": "信心 0.10 < 0.45：新聞提到以軍在黎巴嫩境內進行『防御行動』且『未主動開火』，這暗示衝突並未升級，甚"}
+{"strategy": "trend", "trend_id": "overplayingstraitofhormuzcardwillturniranintoapariahstate", "trend_title": "Overplaying Strait of Hormuz card will turn Iran into a pariah state", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "特朗普若与伊朗不能达成协议美或收取海峡通行费", "trend_title": "特朗普：若与伊朗不能达成协议 美或收取海峡通行费", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
