@@ -490,3 +490,7 @@
 {"strategy": "trend", "trend_id": "andyburnhamsaysisraelwouldbehisfirstoverseasvisitinoldclip", "trend_title": "Andy Burnham says Israel would be his first overseas visit in old clip", "market_title": "", "reason": "LLM 判定不下注：這則話題是關於英國政治人物 Andy Burnham 在過去的發言，他表示以色列將是他第一次的海外訪問。這與「以色列與哈"}
 {"strategy": "trend", "trend_id": "消息人士称伊朗谈判代表团拒绝与美方合影", "trend_title": "消息人士称伊朗谈判代表团拒绝与美方合影", "market_title": "", "reason": "LLM 判定不下注：該熱門話題提到伊朗談判代表團拒絕與美方合影，這屬於外交談判中的一個小插曲，但並未提供任何關於下次外交會議地點的資訊。因此"}
 {"strategy": "trend", "trend_id": "伊方消息以色列若不停火海峡不会重开", "trend_title": "伊方消息：以色列若不停火 海峡不会重开", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "以军总参谋长在黎巴嫩军事行动仍在继续", "trend_title": "以军总参谋长：在黎巴嫩军事行动仍在继续", "market_title": "Israel x Hezbollah permanent peace deal by June 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "波兰前总理退还勋章乌克兰应该把武器还回来", "trend_title": "波兰前总理：退还勋章？乌克兰应该把武器还回来", "market_title": "Russia x Ukraine ceasefire agreement by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "usandiranbegintalksoninitialpeacedealinswitzerland", "trend_title": "US and Iran begin talks on initial peace deal in Switzerland", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "syriafreesactivisthassanakkaddaysafterhewasdetained", "trend_title": "Syria frees activist Hassan Akkad days after he was detained", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
