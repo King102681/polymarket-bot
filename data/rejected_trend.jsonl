@@ -470,3 +470,7 @@
 {"strategy": "trend", "trend_id": "usirantalkstobegininswitzerlandastehransaysitclosedstraitofhormuz", "trend_title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
 {"strategy": "trend", "trend_id": "据以色列广播台以色列表示自上周五以来6名士兵包括一名高级军官在黎巴嫩的真主党袭击中遇难超过20名士兵受伤", "trend_title": "据以色列广播台：以色列表示自上周五以来，6名士兵，包括一名高级军官，在黎巴嫩的真主党袭击中遇难，超过20名士兵受伤。", "market_title": "Israel x Hamas ceasefire cancelled by June 30?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "特朗普美国可能对霍尔木兹海峡征收通行费", "trend_title": "特朗普：美国可能对霍尔木兹海峡征收通行费", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "美伊谈判在即伊朗军方宣布关闭霍尔木兹海峡", "trend_title": "美伊谈判在即，伊朗军方宣布关闭霍尔木兹海峡", "market_title": "", "reason": "LLM 判定不下注：新闻提到伊朗关闭霍尔木兹海峡，这是军事行动而非外交谈判地点，与所有外交会议地点的候选市场均无直接关联。"}
+{"strategy": "trend", "trend_id": "特朗普持续抨击梅洛尼美伊停战后意总理又想重修旧好", "trend_title": "特朗普持续抨击梅洛尼：美伊停战后，意总理又想“重修旧好”", "market_title": "", "reason": "LLM 判定不下注：话题讨论的是特朗普批评意大利总理梅洛尼，并提及美伊停战和梅洛尼想“重修旧好”，但这与任何一个候选市场都没有直接或间接的关"}
+{"strategy": "trend", "trend_id": "伊媒伊朗外长在瑞士会见瑞士外长", "trend_title": "伊媒：伊朗外长在瑞士会见瑞士外长", "market_title": "", "reason": "LLM 判定不下注：此新聞報導的是伊朗外長與瑞士外長的會晤，但候選市場均為『美國-伊朗』的『下次外交會議地點』。此新聞與市場預測事件的關聯性"}
+{"strategy": "trend", "trend_id": "梅洛尼怼特朗普我的受欢迎程度与您无关", "trend_title": "梅洛尼怼特朗普：“我的受欢迎程度与您无关”", "market_title": "", "reason": "LLM 判定不下注：该话题是关于意大利总理梅洛尼和前美国总统特朗普之间的政治言论，内容是梅洛尼回应特朗普关于她受欢迎程度的评论。这与所提供的"}
