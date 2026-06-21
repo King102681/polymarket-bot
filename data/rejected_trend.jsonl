@@ -494,3 +494,10 @@
 {"strategy": "trend", "trend_id": "波兰前总理退还勋章乌克兰应该把武器还回来", "trend_title": "波兰前总理：退还勋章？乌克兰应该把武器还回来", "market_title": "Russia x Ukraine ceasefire agreement by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "usandiranbegintalksoninitialpeacedealinswitzerland", "trend_title": "US and Iran begin talks on initial peace deal in Switzerland", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
 {"strategy": "trend", "trend_id": "syriafreesactivisthassanakkaddaysafterhewasdetained", "trend_title": "Syria frees activist Hassan Akkad days after he was detained", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "据路透社伊朗消息人士表示伊朗与美国在瑞士的谈判已暂停但并未结束", "trend_title": "据路透社：伊朗消息人士表示，伊朗与美国在瑞士的谈判已暂停，但并未结束。", "market_title": "", "reason": "信心 0.30 < 0.45：话题提到谈判暂停但未结束，这对于‘伊朗在12月31日前同意停止铀浓缩’的市场（目"}
+{"strategy": "trend", "trend_id": "以军总参谋长称黎巴嫩停火局势十分脆弱", "trend_title": "以军总参谋长称黎巴嫩停火局势十分脆弱", "market_title": "Israel x Hezbollah permanent peace deal by June 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "伊朗称美伊谅解备忘录拟数日内远程签署", "trend_title": "伊朗称美伊谅解备忘录拟数日内远程签署", "market_title": " Iran agrees to end enrichment of uranium by June 30?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "trumpsaysuswillresumeattacksifirandoesnotrestrainhezbollahallies", "trend_title": "Trump says US will resume attacks if Iran does not restrain Hezbollah allies", "market_title": "Trump announces US x Iran ceasefire over by June 30?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "fifaplaysflagfootballagainstiranianprotesters", "trend_title": "FIFA plays flag football against Iranian protesters", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "whatsnextinthestraitofhormuzcrisis", "trend_title": "What’s next in the Strait of Hormuz crisis?", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
+{"strategy": "trend", "trend_id": "埃塞俄比亚执政党繁荣党赢得议会选举", "trend_title": "埃塞俄比亚执政党繁荣党赢得议会选举", "market_title": "", "reason": "LLM 無回應（安全過濾或 API 失敗）"}
