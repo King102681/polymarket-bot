@@ -633,3 +633,4 @@
 {"strategy": "trend", "trend_id": "万斯否认被伊朗高级官员冷落", "trend_title": "万斯否认被伊朗高级官员冷落", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "lebanondiscussesdeconflictionmechanismaheadofisraeltalks", "trend_title": "Lebanon discusses ‘deconfliction’ mechanism ahead of Israel talks", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "委内瑞拉央行2026年第一季度石油出口收入升至549亿美元", "trend_title": "委内瑞拉央行：2026年第一季度石油出口收入升至54.9亿美元。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "莫斯科与德黑兰就落实美伊备忘录的前景问题进行磋商", "trend_title": "莫斯科与德黑兰就落实美伊备忘录的前景问题进行磋商", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
