@@ -597,3 +597,4 @@
 {"strategy": "trend", "trend_id": "德防长霍尔木兹海峡关闭责任在美方", "trend_title": "德防长：霍尔木兹海峡关闭责任在美方", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
 {"strategy": "trend", "trend_id": "乌外长下周访韩商讨朝鲜战俘赴韩事宜", "trend_title": "乌外长下周访韩 商讨朝鲜战俘赴韩事宜", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "德黑兰宣布伊朗总统将于6月23日访问巴基斯坦", "trend_title": "德黑兰宣布伊朗总统将于6月23日访问巴基斯坦", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "内塔尼亚胡重申以军在黎巴嫩南部行动不受限制", "trend_title": "内塔尼亚胡重申以军在黎巴嫩南部行动“不受限制”", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
