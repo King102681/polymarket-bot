@@ -10453,3 +10453,4 @@
 {"strategy": "sports_live", "signal_tx_hash": "0xf3bca186a3d150d5fcd8b38b7b6a80c18c258d20ad8be89318d86ff3fe2dd52a", "whale_pseudonym": "swisstony", "market_title": "Will France win on 2026-06-26?", "reason": "鯨魚單 $25 < $500"}
 {"strategy": "sports_live", "signal_tx_hash": "0x607c31f301ac9446927c1ad131b9e08e48f29848fdd419487bae4b84412caab4", "whale_pseudonym": "swisstony", "market_title": "Will France win on 2026-06-26?", "reason": "鯨魚單 $12 < $500"}
 {"strategy": "sports_live", "signal_tx_hash": "0xfd5adddf60781dcd4d84bed56612701a82c69b84ead7212131eb8b6bd70d3692", "whale_pseudonym": "swisstony", "market_title": "France vs. Iraq: France 1st Half O/U 0.5", "reason": "鯨魚單 $78 < $500"}
+{"strategy": "sports_live", "signal_tx_hash": "0xd414b348d2a8a270b45d75dd70a875e766b5f0b23c2ac1889ddf18ce883569f0", "whale_pseudonym": "swisstony", "market_title": "Will Sweden win on 2026-06-25?", "reason": "entry 0.995 不在 [0.7, 0.97]"}
