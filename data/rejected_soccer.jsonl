@@ -16315,3 +16315,4 @@
 {"strategy": "soccer", "signal_tx_hash": "0xa93d5caa20e0a67b05510ab34e1445b6f6363608a2c0006de01be6a67c41299d", "whale_pseudonym": "swisstony", "market_title": "Spread: New Zealand (-5.5)", "reason": "entry 0.995 不在 [0.55, 0.8]"}
 {"strategy": "soccer", "signal_tx_hash": "0x9af8989941cd70533cfaf021cfad76b555244ed235f8ec1c2a6356d3a66e799d", "whale_pseudonym": "swisstony", "market_title": "Spread: New Zealand (-5.5)", "reason": "鯨魚單 $2 < $100"}
 {"strategy": "soccer", "signal_tx_hash": "0x1f7f4e3271670fcba57144c91df61e4271c5cf7eae0d70c0be691011d8d7b5ff", "whale_pseudonym": "swisstony", "market_title": "Spread: New Zealand (-5.5)", "reason": "鯨魚單 $79 < $100"}
+{"strategy": "soccer", "signal_tx_hash": "0xcfcadacba79f3beb733b1215d9fb413125d8a0b963c28af6d3ba8a3749460bae", "whale_pseudonym": "swisstony", "market_title": "Will Iraq win on 2026-06-22?", "reason": "鯨魚單 $3 < $100"}
