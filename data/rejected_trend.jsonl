@@ -603,3 +603,7 @@
 {"strategy": "trend", "trend_id": "俄专家俄罗斯与东盟在喀山峰会后或将加快核能领域的合作", "trend_title": "俄专家：俄罗斯与东盟在喀山峰会后或将加快核能领域的合作", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "法英宣布霍尔木兹海峡护航行动随时启动", "trend_title": "法英宣布霍尔木兹海峡护航行动随时启动", "market_title": "Strait of Hormuz traffic returns to normal by end of June?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "ukrainesaysithitmissileelectronicsplantinwesternrussia", "trend_title": "Ukraine says it hit missile electronics plant in western Russia", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "据cnbcspacexspcxo与美国ai初创公司reflection签署算力协议交易金额最高达63亿美元", "trend_title": "据CNBC：SpaceX(SPCX.O)与美国AI初创公司Reflection签署算力协议，交易金额最高达63亿美元。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "泪别唐宁街英国首相斯塔默宣布辞职", "trend_title": "泪别唐宁街 英国首相斯塔默宣布辞职", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "vancesaysiranwillallownuclearinspectorsbackintothecountry", "trend_title": "Vance says Iran will allow nuclear inspectors back into the country", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "美国国务院发言人美国国务卿鲁比奥将在海湾之行期间讨论伊朗谅解备忘录及霍尔木兹海峡问题", "trend_title": "美国国务院发言人：美国国务卿鲁比奥将在海湾之行期间讨论伊朗谅解备忘录及霍尔木兹海峡问题。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
