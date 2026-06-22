@@ -578,3 +578,5 @@
 {"strategy": "trend", "trend_id": "美国副总统万斯黎巴嫩相关谈判已看到成果", "trend_title": "美国副总统万斯：黎巴嫩相关谈判已看到成果。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "美国副总统万斯该机制旨在遏制黎巴嫩冲突", "trend_title": "美国副总统万斯：该机制旨在遏制黎巴嫩冲突。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "巴基斯坦总理宣布美伊会谈取得成功", "trend_title": "巴基斯坦总理宣布美伊会谈取得成功", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "vanceswarningtoisraelsignalsanewphaseinusisraelirelations", "trend_title": "Vance’s warning to Israel signals a new phase in US-Israeli relations", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "polandspresidentnawrockiisbehavinglikeviktororbanzelenskyysays", "trend_title": "Poland’s President Nawrocki is Behaving Like Viktor Orban, Zelenskyy Says", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
