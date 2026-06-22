@@ -530,3 +530,5 @@
 {"strategy": "trend", "trend_id": "伊朗外长石油出口限制解除部分资产解冻", "trend_title": "伊朗外长：石油出口限制解除，部分资产解冻", "market_title": "US-Iran Final Nuclear Deal by July 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "zelenskyynawrockiisdoingwhatorbándidthiswillendbadly", "trend_title": "Zelenskyy: Nawrocki is doing what Orbán did. This will end badly", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
 {"strategy": "trend", "trend_id": "俄央行下调基准利率至1425", "trend_title": "俄央行下调基准利率至14.25%", "market_title": "", "reason": "LLM 判定不下注：此話題是關於俄羅斯央行的利率決策，而所有候選市場都與美聯儲（Fed）的利率決策有關，兩者毫無關聯。"}
+{"strategy": "trend", "trend_id": "金十图示2026年06月22日周一黄金etf持仓报告", "trend_title": "金十图示：2026年06月22日（周一）黄金ETF持仓报告", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "美军解除对伊朗海上封锁霍尔木兹海峡通行现争议", "trend_title": "美军解除对伊朗海上封锁 霍尔木兹海峡通行现争议", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
