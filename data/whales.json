@@ -124,5 +124,41 @@
       "tech": 0,
       "other": 28
     }
+  },
+  {
+    "proxy_wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+    "pseudonym": "BreakTheBank",
+    "profit_30d": 2617129.1114861765,
+    "volume_30d": 53975939.26720401,
+    "roi_30d": 0.04848695820799462,
+    "wallet_value_now": 542366.2394,
+    "recent_trade_count_7d": 10,
+    "last_trade_ts": 1781992649,
+    "sports_ratio": 0.5,
+    "category_breakdown": {
+      "sports": 5,
+      "crypto": 0,
+      "politics": 0,
+      "tech": 0,
+      "other": 5
+    }
+  },
+  {
+    "proxy_wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "pseudonym": "UpTheBlues",
+    "profit_30d": 959952.863318626,
+    "volume_30d": 27629439.701523,
+    "roi_30d": 0.03474384112341269,
+    "wallet_value_now": 68646.0296,
+    "recent_trade_count_7d": 3000,
+    "last_trade_ts": 1782096811,
+    "sports_ratio": 0.6063333333333333,
+    "category_breakdown": {
+      "sports": 1819,
+      "crypto": 0,
+      "politics": 0,
+      "tech": 0,
+      "other": 1181
+    }
   }
 ]
