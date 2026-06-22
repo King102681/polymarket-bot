@@ -20230,3 +20230,6 @@
 {"strategy": "open", "signal_tx_hash": "0x4a567db2368c4356793cd06e30afd66481abc396a320a24a1ca3873454e11eff", "whale_pseudonym": "GoalLineGhost", "market_title": "Spread: France (-3.5)", "reason": "entry 0.995 不在 [0.15, 0.95]"}
 {"strategy": "open", "signal_tx_hash": "0x6dd64871eb33cb1b3a3bcc4f91e3d63923af26570232e07db09e9f4c022a0db1", "whale_pseudonym": "swisstony", "market_title": "Norway vs. France: Norway O/U 2.5", "reason": "鯨魚單 $2 < $50"}
 {"strategy": "open", "signal_tx_hash": "0xfb881d10e2e1ea37e218b262c8f1d6bde192930608021e221c5e3e0004e48bb3", "whale_pseudonym": "swisstony", "market_title": "Spread: France (-5.5)", "reason": "鯨魚單 $9 < $50"}
+{"strategy": "open", "signal_tx_hash": "0x00499bf2c8ca4cbbb92fae02ae360ac25232b0bd230e696b724dfb6d9d6d5c47", "whale_pseudonym": "swisstony", "market_title": "Argentina vs. Austria: O/U 7.5", "reason": "entry 0.999 不在 [0.15, 0.95]"}
+{"strategy": "open", "signal_tx_hash": "0xe9625de1202348b9ec2774564df006c31d6cc1fa8175545ec81afe2b11a9be01", "whale_pseudonym": "swisstony", "market_title": "Argentina vs. Austria: O/U 8.5", "reason": "entry 0.999 不在 [0.15, 0.95]"}
+{"strategy": "open", "signal_tx_hash": "0x83b7cf2e58b6336dfb3312c48acf3326c4b71741916c633801b13946b54d31ee", "whale_pseudonym": "GoalLineGhost", "market_title": "Will Argentina win on 2026-06-22?", "reason": "entry 0.995 不在 [0.15, 0.95]"}
