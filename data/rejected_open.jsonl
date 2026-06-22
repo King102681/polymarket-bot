@@ -20122,3 +20122,4 @@
 {"strategy": "open", "signal_tx_hash": "0x0fbafb69ac6692d4bda0b1014d8f035466efe1270132f289ed08e60ff3f550a2", "whale_pseudonym": "swisstony", "market_title": "Bad Homburg Open (Doubles): Jiang/Xu vs Mihalikova/Nicholls", "reason": "鯨魚單 $14 < $50"}
 {"strategy": "open", "signal_tx_hash": "0x8fa79165749bc3f334dc426ae1c6e33b260dd9729a01f7a5321cd98565d33f7a", "whale_pseudonym": "swisstony", "market_title": "Argentina vs. Austria: Austria O/U 1.5", "reason": "entry 0.995 不在 [0.15, 0.95]"}
 {"strategy": "open", "signal_tx_hash": "0xb509ba910b6ffbd17c15ffefc0b9bd43228cb739f70adad31659686b9e6e51b8", "whale_pseudonym": "swisstony", "market_title": "Cabo Verde vs. Saudi Arabia: O/U 7.5", "reason": "entry 0.999 不在 [0.15, 0.95]"}
+{"strategy": "open", "signal_tx_hash": "0xdf9d72e04114ba518e9a029345426390f3d5d48b087eaf2774959409b301dda6", "whale_pseudonym": "swisstony", "market_title": "Spread: Argentina (-5.5)", "reason": "entry 0.999 不在 [0.15, 0.95]"}
