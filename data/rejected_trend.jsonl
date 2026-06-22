@@ -631,3 +631,4 @@
 {"strategy": "trend", "trend_id": "qatarspmtellsaljazeeraprogressmadeinusirantalks", "trend_title": "Qatar’s PM tells Al Jazeera progress made in US-Iran talks", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "据politico美国国防部长赫格塞思计划于周三在共和党研究委员会rsc午餐会上向一大群共和党众议员就特朗普政府的军事拨款目标和另一项党派法案进行机密简报", "trend_title": "据Politico：美国国防部长赫格塞思计划于周三在共和党研究委员会（RSC）午餐会上，向一大群共和党众议员就特朗普政府的军事拨款目标和另一项党派法案进行机密简报。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "万斯否认被伊朗高级官员冷落", "trend_title": "万斯否认被伊朗高级官员冷落", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "lebanondiscussesdeconflictionmechanismaheadofisraeltalks", "trend_title": "Lebanon discusses ‘deconfliction’ mechanism ahead of Israel talks", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
