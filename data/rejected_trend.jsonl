@@ -599,3 +599,5 @@
 {"strategy": "trend", "trend_id": "德黑兰宣布伊朗总统将于6月23日访问巴基斯坦", "trend_title": "德黑兰宣布伊朗总统将于6月23日访问巴基斯坦", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "内塔尼亚胡重申以军在黎巴嫩南部行动不受限制", "trend_title": "内塔尼亚胡重申以军在黎巴嫩南部行动“不受限制”", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "韩国拟参与中东冲突后的重建工作", "trend_title": "韩国拟参与中东冲突后的重建工作", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
+{"strategy": "trend", "trend_id": "spacexspcxo股价延续跌势最新报16850美元跌幅达9", "trend_title": "SpaceX(SPCX.O)股价延续跌势，最新报168.50美元，跌幅达9%。", "market_title": "Tesla and SpaceX merger officially announced by September 30?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "俄专家俄罗斯与东盟在喀山峰会后或将加快核能领域的合作", "trend_title": "俄专家：俄罗斯与东盟在喀山峰会后或将加快核能领域的合作", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
