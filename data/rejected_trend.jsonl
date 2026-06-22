@@ -588,3 +588,5 @@
 {"strategy": "trend", "trend_id": "ukrainehitsdubnaspacecommunicationscenterrussiaslargestsatelliteteleport", "trend_title": "Ukraine Hits Dubna Space Communications Center, Russia’s Largest Satellite Teleport", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "伊朗央行行长伊朗资产解冻有显著进展", "trend_title": "伊朗央行行长：伊朗资产解冻有“显著进展”", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "美伊谈判联合声明发布各方达成路线图力争在60天内达成最终协议", "trend_title": "美伊谈判联合声明发布：各方达成路线图，力争在60天内达成最终协议", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "华盛顿反思池变绿池特朗普促即刻修复", "trend_title": "华盛顿反思池变“绿池” 特朗普促即刻修复", "market_title": "", "reason": "LLM 判定不下注：此話題與華盛頓反思池變綠有關，而所有候選市場均與川普總統職位、伊朗政策或與普丁的會面相關，兩者之間沒有直接關聯。"}
+{"strategy": "trend", "trend_id": "俄联邦政府正在处理石油产品价格问题并在采取措施", "trend_title": "俄联邦政府正在处理石油产品价格问题并在采取措施", "market_title": "", "reason": "LLM 判定不下注：此新聞提到俄羅斯政府正在處理石油產品價格問題並採取措施，但沒有具體說明是漲價還是跌價措施，因此無法判斷對 WTI 原油價"}
