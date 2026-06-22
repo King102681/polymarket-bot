@@ -1,0 +1,43 @@
+name: Daily Heartbeat
+
+# 跟主 pipeline 完全獨立排程。重點不是訊號內容，是「這則訊息有沒有準時送到」——
+# 主 pipeline 0 單時故意沉默，這支 workflow 不管有沒有單，每天固定送一則狀態報告，
+# 讓 Koh 能分辨「安靜因為沒單」跟「悄悄壞掉」。
+on:
+  schedule:
+    - cron: '0 0 * * *'   # 每天 00:00 UTC（台北時間 08:00）
+  workflow_dispatch:        # 手動觸發，方便測試
+
+concurrency:
+  group: heartbeat
+  cancel-in-progress: false
+
+jobs:
+  heartbeat:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Write minimal .env (只需要 TG 金鑰)
+        run: |
+          mkdir -p ~/.polymarket
+          cat > ~/.polymarket/.env <<EOF
+          TG_BOT_TOKEN=${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID=${{ secrets.TG_CHAT_ID }}
+          EOF
+
+      - name: Send heartbeat
+        run: python -m scripts.send_heartbeat
