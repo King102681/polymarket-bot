@@ -20160,3 +20160,5 @@
 {"strategy": "open", "signal_tx_hash": "0x6bad3ba0fe7ead2b77f1b3d37b2934307946a9b3f0c38d5fff1b8919368de3ed", "whale_pseudonym": "swisstony", "market_title": "Will Jordan win on 2026-06-27?", "reason": "鯨魚單 $34 < $50"}
 {"strategy": "open", "signal_tx_hash": "0xfc137da835c73b1b7a335232307e2d47222fe32040ff8987a27f3fb05be29827", "whale_pseudonym": "GoalLineGhost", "market_title": "Spread: Türkiye (-1.5)", "reason": "entry 0.995 不在 [0.15, 0.95]"}
 {"strategy": "open", "signal_tx_hash": "0x7d80b294f141476741b3e10135b09c9e165bbcb359854329801caa19daa04109", "whale_pseudonym": "GoalLineGhost", "market_title": "Will Argentina vs. Austria end in a draw?", "reason": "entry 0.995 不在 [0.15, 0.95]"}
+{"strategy": "open", "signal_tx_hash": "0xc0270e2b9e52c17e477b39d31c91eb2397df376d798b29a5e1c382a2fb7360d6", "whale_pseudonym": "swisstony", "market_title": "Will Austria win on 2026-06-22?", "reason": "entry 0.995 不在 [0.15, 0.95]"}
+{"strategy": "open", "signal_tx_hash": "0xe5e9567b108774ff9212a6591d0080e04dda52390ddc903b7da58e4330a8647f", "whale_pseudonym": "swisstony", "market_title": "Spread: France (-5.5)", "reason": "entry 0.995 不在 [0.15, 0.95]"}

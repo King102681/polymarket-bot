@@ -10541,3 +10541,5 @@
 {"strategy": "sports_live", "signal_tx_hash": "0x04e1b7f55903c746ac3b85f42cdb132788e59641191e6468827627f359c12973", "whale_pseudonym": "swisstony", "market_title": "Will Jordan win on 2026-06-27?", "reason": "鯨魚單 $28 < $500"}
 {"strategy": "sports_live", "signal_tx_hash": "0xc28813c5753fd80f5ec231be830323f8735cd1da47f659e46c4c6c35e93ec3bb", "whale_pseudonym": "swisstony", "market_title": "Will Jordan win on 2026-06-27?", "reason": "鯨魚單 $23 < $500"}
 {"strategy": "sports_live", "signal_tx_hash": "0x6bad3ba0fe7ead2b77f1b3d37b2934307946a9b3f0c38d5fff1b8919368de3ed", "whale_pseudonym": "swisstony", "market_title": "Will Jordan win on 2026-06-27?", "reason": "鯨魚單 $34 < $500"}
+{"strategy": "sports_live", "signal_tx_hash": "0xc0270e2b9e52c17e477b39d31c91eb2397df376d798b29a5e1c382a2fb7360d6", "whale_pseudonym": "swisstony", "market_title": "Will Austria win on 2026-06-22?", "reason": "entry 0.995 不在 [0.7, 0.97]"}
+{"strategy": "sports_live", "signal_tx_hash": "0xe5e9567b108774ff9212a6591d0080e04dda52390ddc903b7da58e4330a8647f", "whale_pseudonym": "swisstony", "market_title": "Spread: France (-5.5)", "reason": "鯨魚單 $50 < $500"}
