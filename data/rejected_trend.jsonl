@@ -550,3 +550,4 @@
 {"strategy": "trend", "trend_id": "英国政局突变黄金下方锚更清晰市场赔率数据表", "trend_title": "英国政局突变，黄金下方锚更清晰｜市场赔率数据表", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "以色列军方在加沙地带打死两名哈马斯军官", "trend_title": "以色列军方：在加沙地带打死两名哈马斯军官", "market_title": "Israel x Hamas ceasefire cancelled by June 30?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "俄国防部防空系统一夜间击落301架乌克兰无人机", "trend_title": "俄国防部：防空系统一夜间击落301架乌克兰无人机", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "grokbyspacexaiforword", "trend_title": "Grok by SpaceXAI for Word", "market_title": "", "reason": "LLM 判定不下注：話題是关于 SpaceXAI 的 Grok，这与所有候选市场中的 Tesla 和 SpaceX 合并或 Tesla 的机"}
