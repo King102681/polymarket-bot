@@ -34,9 +34,10 @@ _SIGNALS_PATH = _DATA_DIR / "signals.jsonl"
 SLIPPAGE_BUFFER = 0.005   # 0.5%
 MIN_BET_USDC    = 1.0     # 單筆最低下單金額
 
-# 黑名單：回測虧損的鯨魚 wallet（全策略共用）
+# 黑名單：回測虧損或低價值鯨魚 wallet（全策略共用）
 WHALE_BLACKLIST: set[str] = {
     "0xbddf61af533ff524d27154e589d2d7a81510c684",  # Countryside（-$32, 47%勝率）
+    "0xdf17f4a8dd01a4cfa6fc3da323a2baee5f8697d1",  # Soft-Lantern（ROI 0.4%，幾乎無用，2026-06-22移除）
 }
 
 

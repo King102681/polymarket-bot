@@ -19,6 +19,7 @@ import core  # noqa: F401  DNS patch + UTF-8
 
 from whale_copy.discovery import Whale, _fetch_lb, _fetch_trades, _fetch_value
 from whale_copy.market_classifier import classify
+from whale_copy.signal_generator import WHALE_BLACKLIST
 
 _DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 _SMART_PATH  = _DATA_DIR / "whales_smart.json"
@@ -185,17 +186,17 @@ def main():
 
         # 若找到 ≥ 2 隻新鯨魚，合併進 whales.json
         if len(new_whales) >= 2:
-            # 保留現有鯨魚（除了黑名單）
-            BLACKLIST = {"0xbddf61af533ff524d27154e589d2d7a81510c684"}
+            # 保留現有鯨魚（除了黑名單）；黑名單共用 signal_generator.WHALE_BLACKLIST
+            # 唯一來源，避免再發生「兩處黑名單沒同步、鯨魚被悄悄加回來」的問題（Countryside / Soft-Lantern）
             current = []
             if _WHALES_PATH.exists():
                 current = [w for w in json.loads(_WHALES_PATH.read_text(encoding="utf-8"))
-                           if w["proxy_wallet"] not in BLACKLIST]
+                           if w["proxy_wallet"] not in WHALE_BLACKLIST]
             current_addrs = {w["proxy_wallet"] for w in current}
 
             merged = current + [asdict(w) for w in new_whales
                                 if w.proxy_wallet not in current_addrs
-                                and w.proxy_wallet not in BLACKLIST]
+                                and w.proxy_wallet not in WHALE_BLACKLIST]
             _WHALES_PATH.write_text(
                 json.dumps(merged, indent=2, ensure_ascii=False),
                 encoding="utf-8"
