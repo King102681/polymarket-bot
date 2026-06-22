@@ -10628,3 +10628,6 @@
 {"strategy": "sports_live", "signal_tx_hash": "0x5d02ce2457b975115482a5dfdc524581a2d936af96d4f5173e34933f39b93b28", "whale_pseudonym": "swisstony", "market_title": "Senegal leading at halftime?", "reason": "鯨魚單 $87 < $500"}
 {"strategy": "sports_live", "signal_tx_hash": "0x811ac7327395da25920fc1329858568563c2a0899f1a918b151a86e7302e11bf", "whale_pseudonym": "swisstony", "market_title": "Senegal leading at halftime?", "reason": "鯨魚單 $119 < $500"}
 {"strategy": "sports_live", "signal_tx_hash": "0x1635db4564a9fc3520e7278c79a1505a66e47d92a77fda924c0c51646ce4701e", "whale_pseudonym": "swisstony", "market_title": "France vs. Iraq: Iraq 1st Half O/U 0.5", "reason": "鯨魚單 $115 < $500"}
+{"strategy": "sports_live", "signal_tx_hash": "0xa4b0125d63dc0cd105cbf3395f4e9e5a387aeb34483f511123460e7307fdc244", "whale_pseudonym": "swisstony", "market_title": "Spread: Portugal (-1.5)", "reason": "entry 0.995 不在 [0.7, 0.97]"}
+{"strategy": "sports_live", "signal_tx_hash": "0x27e4f628b5967a1ced7759cdb4f55d64f17b5c55b610100bcd6af623419f715f", "whale_pseudonym": "swisstony", "market_title": "Spread: Portugal (-1.5)", "reason": "entry 0.995 不在 [0.7, 0.97]"}
+{"strategy": "sports_live", "signal_tx_hash": "0x6c7594fd5850b689580af42afc13358854dc81550503160d9da0f70ed94aa2c2", "whale_pseudonym": "swisstony", "market_title": "Spread: Norway (-3.5)", "reason": "鯨魚單 $18 < $500"}

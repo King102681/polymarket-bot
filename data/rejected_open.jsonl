@@ -20263,3 +20263,6 @@
 {"strategy": "open", "signal_tx_hash": "0x923b71080c776d8d0b0c19b5de45abc245796f62bdc008d8cf9b8b916bd74dcc", "whale_pseudonym": "GoalLineGhost", "market_title": "Will Portugal win on 2026-06-23?", "reason": "entry 0.995 不在 [0.15, 0.95]"}
 {"strategy": "open", "signal_tx_hash": "0xa18e0aa52356c238a198a2ac32f40606e7cefc51b7645ad1b3de84547ae1428d", "whale_pseudonym": "GoalLineGhost", "market_title": "Will Portugal win on 2026-06-23?", "reason": "entry 0.995 不在 [0.15, 0.95]"}
 {"strategy": "open", "signal_tx_hash": "0x8187c3bbc756dae935faf6a91e19c15bf7b327ff988cc92eeef3a5020c9e7b48", "whale_pseudonym": "GoalLineGhost", "market_title": "Spread: Portugal (-2.5)", "reason": "entry 0.995 不在 [0.15, 0.95]"}
+{"strategy": "open", "signal_tx_hash": "0xa4b0125d63dc0cd105cbf3395f4e9e5a387aeb34483f511123460e7307fdc244", "whale_pseudonym": "swisstony", "market_title": "Spread: Portugal (-1.5)", "reason": "entry 0.995 不在 [0.15, 0.95]"}
+{"strategy": "open", "signal_tx_hash": "0x27e4f628b5967a1ced7759cdb4f55d64f17b5c55b610100bcd6af623419f715f", "whale_pseudonym": "swisstony", "market_title": "Spread: Portugal (-1.5)", "reason": "entry 0.995 不在 [0.15, 0.95]"}
+{"strategy": "open", "signal_tx_hash": "0x6c7594fd5850b689580af42afc13358854dc81550503160d9da0f70ed94aa2c2", "whale_pseudonym": "swisstony", "market_title": "Spread: Norway (-3.5)", "reason": "鯨魚單 $18 < $50"}
