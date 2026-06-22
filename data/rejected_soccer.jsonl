@@ -22795,3 +22795,4 @@
 {"strategy": "soccer", "signal_tx_hash": "0x83cc48b2539c062a3c7aad27f72e60bcc632b52cd343bfd12969d48851cfd325", "whale_pseudonym": "swisstony", "market_title": "Will France win on 2026-06-22?", "reason": "鯨魚單 $10 < $100"}
 {"strategy": "soccer", "signal_tx_hash": "0x5ffe47c96a9015e9bf25a94104656cb6d5168d8b3fc08814987b675d96c20be7", "whale_pseudonym": "swisstony", "market_title": "Spread: France (-5.5)", "reason": "距結算 -0.9h < 0.5h"}
 {"strategy": "soccer", "signal_tx_hash": "0x0b71368ccac283b97df4f98380d5c323e4a63866ee51776d21801220dafb6eca", "whale_pseudonym": "swisstony", "market_title": "Spread: France (-5.5)", "reason": "鯨魚單 $74 < $100"}
+{"strategy": "soccer", "signal_tx_hash": "0xea0245c697d166a34af62bfcfafce014dc69eda3e1e3f2c7ea69954a0963668a", "whale_pseudonym": "RN1", "market_title": "Piracicaba: Matheus Pucinelli de Almeida vs Luciano Emanuel Ambrogi", "reason": "運動 tennis 不在 {'soccer'}"}
