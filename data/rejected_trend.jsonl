@@ -654,3 +654,4 @@
 {"strategy": "trend", "trend_id": "科技巨头下挫拖累美股大盘芯片股指小盘股指逆市新高原油高开走跌美债收益率补涨", "trend_title": "科技巨头下挫拖累美股大盘，芯片股指、小盘股指逆市新高，原油高开走跌，美债收益率“补涨”", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "useasesoilsanctionsasirandeniesvanceclaimonnuclearinspectors", "trend_title": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors", "market_title": "JD Vance out as VP by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "丹斯克银行预计2026年剩余时间内布伦特原油均价将为每桶80美元", "trend_title": "丹斯克银行：预计2026年剩余时间内布伦特原油均价将为每桶80美元", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "中国驻俄罗斯大使中俄已建立起世界上最大的高校联系网络", "trend_title": "中国驻俄罗斯大使：中俄已建立起世界上最大的高校联系网络", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
