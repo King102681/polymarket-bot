@@ -534,3 +534,5 @@
 {"strategy": "trend", "trend_id": "美军解除对伊朗海上封锁霍尔木兹海峡通行现争议", "trend_title": "美军解除对伊朗海上封锁 霍尔木兹海峡通行现争议", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "科威特罕见自提式原油招标进一步释放霍尔木兹海峡重启信号", "trend_title": "科威特罕见“自提式”原油招标，进一步释放霍尔木兹海峡重启信号", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "预期完全反转市场开始定价年内加息两次", "trend_title": "预期完全反转，市场开始定价年内加息两次", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "trumpbackedpoliticaloutsiderwinscolombiaelectioninitialcountshows", "trend_title": "Trump-backed political outsider wins Colombia election, initial count shows", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "russiantroopbuildupthreatenscityseenaskeytoseizingukrainesdonbas", "trend_title": "Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
