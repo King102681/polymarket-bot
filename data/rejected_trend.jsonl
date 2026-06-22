@@ -587,3 +587,4 @@
 {"strategy": "trend", "trend_id": "israelkillsturtleconservationistmonakhalil", "trend_title": "Israel kills turtle conservationist Mona Khalil", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "ukrainehitsdubnaspacecommunicationscenterrussiaslargestsatelliteteleport", "trend_title": "Ukraine Hits Dubna Space Communications Center, Russia’s Largest Satellite Teleport", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "伊朗央行行长伊朗资产解冻有显著进展", "trend_title": "伊朗央行行长：伊朗资产解冻有“显著进展”", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "美伊谈判联合声明发布各方达成路线图力争在60天内达成最终协议", "trend_title": "美伊谈判联合声明发布：各方达成路线图，力争在60天内达成最终协议", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
