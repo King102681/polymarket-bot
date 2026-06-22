@@ -552,3 +552,5 @@
 {"strategy": "trend", "trend_id": "俄国防部防空系统一夜间击落301架乌克兰无人机", "trend_title": "俄国防部：防空系统一夜间击落301架乌克兰无人机", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "grokbyspacexaiforword", "trend_title": "Grok by SpaceXAI for Word", "market_title": "", "reason": "LLM 判定不下注：話題是关于 SpaceXAI 的 Grok，这与所有候选市场中的 Tesla 和 SpaceX 合并或 Tesla 的机"}
 {"strategy": "trend", "trend_id": "伊朗国足多人再遭美拒签佩戴徽章悼念遇难儿童", "trend_title": "伊朗国足多人再遭美拒签 佩戴徽章悼念遇难儿童", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
+{"strategy": "trend", "trend_id": "斯塔默或辞职特朗普祝他安好", "trend_title": "斯塔默或辞职，特朗普：祝他安好", "market_title": "", "reason": "信心 0.30 < 0.45：話題提到斯塔默（Stam Stammer）的辭職傳聞，而市場索引0是關於特朗普是"}
+{"strategy": "trend", "trend_id": "德媒绝大多数以色列人认为伊朗是赢家", "trend_title": "德媒：绝大多数以色列人认为伊朗是赢家", "market_title": "", "reason": "LLM 判定不下注：這條話題討論的是以色列民眾對伊朗在衝突中獲勝的看法，與停火協議是否被取消沒有直接關聯。市場的定價也非常低，暗示被取消的可"}
