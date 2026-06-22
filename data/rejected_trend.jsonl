@@ -643,3 +643,4 @@
 {"strategy": "trend", "trend_id": "palestinianchildrenunprotectedasngosforcedoutofgazaandwestbank", "trend_title": "Palestinian children ‘unprotected’ as NGOs forced out of Gaza and West Bank", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是人道危機，但與停火是否在特定日期前取消的市場沒有直接關聯。話題主要關注的是人道援助的困難，並未提供關於停火"}
 {"strategy": "trend", "trend_id": "韩国6月消费者信心指数1066前值1061", "trend_title": "韩国6月消费者信心指数 106.6，前值106.1。", "market_title": "", "reason": "信心 0.20 < 0.45：消费者信心指数小幅上升，但并未达到足以影响韩国银行利率决定的程度。市场对7月会议"}
 {"strategy": "trend", "trend_id": "伊朗央行行长剩余的被冻结资金不一定仅用于基本商品伊朗将能够购买其他未受制裁的商品", "trend_title": "伊朗央行行长：剩余的被冻结资金不一定仅用于基本商品，伊朗将能够购买其他未受制裁的商品。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "俄副外长会见以色列大使就两国关系的发展问题进行讨论", "trend_title": "俄副外长会见以色列大使，就两国关系的发展问题进行讨论", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
