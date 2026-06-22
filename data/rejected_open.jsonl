@@ -20228,3 +20228,5 @@
 {"strategy": "open", "signal_tx_hash": "0xafca0e2d32887707e31bed19843270f4fd20b94db0e6c3041ee5d2a7a2ff7e98", "whale_pseudonym": "swisstony", "market_title": "Argentina vs. Austria: Austria O/U 2.5", "reason": "鯨魚單 $47 < $50"}
 {"strategy": "open", "signal_tx_hash": "0x1151dd25d21fafd992459e54512bb387c658a196cd3726a5106efd7c6c8e1297", "whale_pseudonym": "swisstony", "market_title": "Spread: Toronto Blue Jays (-1.5)", "reason": "鯨魚單 $32 < $50"}
 {"strategy": "open", "signal_tx_hash": "0x4a567db2368c4356793cd06e30afd66481abc396a320a24a1ca3873454e11eff", "whale_pseudonym": "GoalLineGhost", "market_title": "Spread: France (-3.5)", "reason": "entry 0.995 不在 [0.15, 0.95]"}
+{"strategy": "open", "signal_tx_hash": "0x6dd64871eb33cb1b3a3bcc4f91e3d63923af26570232e07db09e9f4c022a0db1", "whale_pseudonym": "swisstony", "market_title": "Norway vs. France: Norway O/U 2.5", "reason": "鯨魚單 $2 < $50"}
+{"strategy": "open", "signal_tx_hash": "0xfb881d10e2e1ea37e218b262c8f1d6bde192930608021e221c5e3e0004e48bb3", "whale_pseudonym": "swisstony", "market_title": "Spread: France (-5.5)", "reason": "鯨魚單 $9 < $50"}
