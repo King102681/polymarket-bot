@@ -652,3 +652,5 @@
 {"strategy": "trend", "trend_id": "乌克兰基辅市发布空袭警报政府呼吁市民寻求避难", "trend_title": "乌克兰基辅市发布空袭警报，政府呼吁市民寻求避难。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "沃罗涅日6月22日遭到乌军导弹袭击5人丧生", "trend_title": "沃罗涅日6月22日遭到乌军导弹袭击，5人丧生", "market_title": "Russia x Ukraine ceasefire agreement by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "科技巨头下挫拖累美股大盘芯片股指小盘股指逆市新高原油高开走跌美债收益率补涨", "trend_title": "科技巨头下挫拖累美股大盘，芯片股指、小盘股指逆市新高，原油高开走跌，美债收益率“补涨”", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "useasesoilsanctionsasirandeniesvanceclaimonnuclearinspectors", "trend_title": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors", "market_title": "JD Vance out as VP by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "丹斯克银行预计2026年剩余时间内布伦特原油均价将为每桶80美元", "trend_title": "丹斯克银行：预计2026年剩余时间内布伦特原油均价将为每桶80美元", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
