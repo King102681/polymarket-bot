@@ -625,3 +625,4 @@
 {"strategy": "trend", "trend_id": "美国总统特朗普所有人都清楚伊朗将同意接受重大武器核查以确保未来长期的核诚信", "trend_title": "美国总统特朗普：所有人都清楚，伊朗将同意接受重大武器核查，以确保未来长期的“核诚信”。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "鲁比奥值美伊谈判之际前往中东", "trend_title": "鲁比奥值美伊谈判之际前往中东", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "willausirandealtransformtheiranianeconomy", "trend_title": "Will a US-Iran deal transform the Iranian economy?", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "美伊达成协议文件美股盘初涨跌互现半导体股普涨油价跌超2", "trend_title": "美伊达成协议文件，美股盘初涨跌互现，半导体股普涨，油价跌超2%", "market_title": "US-Iran Final Nuclear Deal by July 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
