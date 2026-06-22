@@ -618,3 +618,4 @@
 {"strategy": "trend", "trend_id": "美国加利福尼亚州起诉特朗普政府原因是后者将该州的车辆排放法规提交给国会寻求可能将其废除", "trend_title": "美国加利福尼亚州起诉特朗普政府，原因是后者将该州的车辆排放法规提交给国会，寻求可能将其废除。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "美国暂时解除对伊朗石油制裁直至8月21日", "trend_title": "美国暂时解除对伊朗石油制裁 直至8月21日", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "俄外交部俄及其欧亚经济联盟伙伴希望亚美尼亚尽快在该联盟和欧盟之间做出选择", "trend_title": "俄外交部：俄及其欧亚经济联盟伙伴希望亚美尼亚尽快在该联盟和欧盟之间做出选择", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "lebanonlatestisraeliattackssurgedespiteceasefireefforts", "trend_title": "Lebanon Latest: Israeli attacks surge despite ceasefire efforts", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
