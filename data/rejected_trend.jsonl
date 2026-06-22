@@ -611,3 +611,4 @@
 {"strategy": "trend", "trend_id": "formerusfederalreservechairmanalangreenspandiesatage100", "trend_title": "Former US Federal Reserve Chairman Alan Greenspan dies at age 100", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "whattheworldcuplookslikefromgaza", "trend_title": "What the World Cup looks like from Gaza", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "美国至6月22日3个月国债竞拍得标利率配置百分比8755前值2515", "trend_title": "美国至6月22日3个月国债竞拍-得标利率配置百分比 87.55%，前值25.15%。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "美国财长伊朗同意保障霍尔木兹海峡船舶自由通行", "trend_title": "美国财长：伊朗同意保障霍尔木兹海峡船舶自由通行", "market_title": "", "reason": "LLM 判定不下注：財長聲明重點在於霍爾木茲海峽的航行自由，而非伊朗核協議的具體條款（如鈾濃縮）。因此，此話題與所有核協議相關的市場關聯度不"}
