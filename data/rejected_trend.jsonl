@@ -570,3 +570,4 @@
 {"strategy": "trend", "trend_id": "iransfansproandcon", "trend_title": "Iran's fans, pro and con", "market_title": "", "reason": "LLM 判定不下注：該熱門話題僅提及伊朗球迷的親疏，並未提供與核協議或鈾濃縮進程相關的任何新資訊，因此無法判斷市場方向或給予信心。候選市場均"}
 {"strategy": "trend", "trend_id": "特朗普称沙拉会代劳叙总统坚决否认", "trend_title": "特朗普称“沙拉会代劳” 叙总统坚决否认", "market_title": "", "reason": "LLM 判定不下注：此熱門話題內容關於特朗普稱「沙拉會代勞」以及敘利亞總統否認，此內容與任何一個候選市場均無直接關聯。候選市場均涉及特朗普與"}
 {"strategy": "trend", "trend_id": "普京在纪念与哀悼日向无名烈士墓献花", "trend_title": "普京在纪念与哀悼日向无名烈士墓献花", "market_title": "", "reason": "LLM 判定不下注：普京向无名烈士墓献花是例行公事，本身不包含任何足以影响俄乌停战协议的新信息，市场也未对此有过度的反应。"}
+{"strategy": "trend", "trend_id": "英国首相斯塔默辞职", "trend_title": "英国首相斯塔默辞职", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
