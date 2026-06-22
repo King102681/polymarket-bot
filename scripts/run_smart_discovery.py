@@ -1,7 +1,7 @@
 """智慧鯨魚發現：專找「other 類別 + 進場價 0.20-0.80」的鯨魚。
 
 除了傳統門檻，額外驗證：
-  - other_ratio ≥ 30%（過去 50 筆中 other 市場的比例）
+  - other_ratio ≥ 30%（過去 7 天全部交易中 other 市場的比例）
   - usable_price_ratio ≥ 25%（other 類別交易中，價格落在 0.20-0.80 的比例）
 
 這直接對應 signal_generator 的 alpha 過濾，避免找到「跟不了」的鯨魚。
@@ -17,7 +17,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 import core  # noqa: F401  DNS patch + UTF-8
 
-from whale_copy.discovery import Whale, _fetch_lb, _fetch_trades, _fetch_value
+from whale_copy.discovery import Whale, _fetch_lb, _fetch_value, fetch_trades_since
 from whale_copy.market_classifier import classify
 from whale_copy.signal_generator import WHALE_BLACKLIST
 
@@ -45,13 +45,15 @@ def _check_whale(i: int, addr: str, d: dict, seven_days_ago: int) -> Whale | Non
             print(f"   [{i:3d}] {name:22s}  value=${value_now:>9,.0f}  ✗ 資金不足")
             return None
 
-        trades = _fetch_trades(addr, limit=50)
-        recent = [t for t in trades if int(t.get("timestamp", 0)) >= seven_days_ago]
+        # 分頁抓 7 天內全部交易（舊版 limit=50 對高頻鯨魚會卡在 50，
+        # recent_trade_count_7d 因此失真——8 隻鯨魚全部剛好顯示 50 就是這個 bug）
+        recent = fetch_trades_since(addr, seven_days_ago)
         if len(recent) < MIN_TRADES_7D:
             print(f"   [{i:3d}] {name:22s}  7d={len(recent):2d}筆          ✗ 不活躍")
             return None
 
-        # 分類 + 價格分析
+        # 分類 + 價格分析（改用 7 天內全部交易，不再是任意「最近 50 筆」快照）
+        trades = recent
         breakdown = {"sports": 0, "crypto": 0, "politics": 0, "tech": 0, "other": 0}
         other_total, other_usable = 0, 0
         for t in trades:
@@ -179,9 +181,10 @@ def main():
     if new_whales:
         print("\n🆕 新鯨魚：")
         for w in new_whales:
+            total_trades = sum(w.category_breakdown.values()) if w.category_breakdown else 0
             print(
                 f"  {w.pseudonym[:28]:28s}  profit30d=${w.profit_30d:>10,.0f}  "
-                f"roi={w.roi_30d:.1%}  other={w.category_breakdown.get('other',0)}/50"
+                f"roi={w.roi_30d:.1%}  other={w.category_breakdown.get('other',0)}/{total_trades}"
             )
 
         # 若找到 ≥ 2 隻新鯨魚，合併進 whales.json

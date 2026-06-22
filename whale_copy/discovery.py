@@ -53,6 +53,41 @@ def _fetch_trades(wallet: str, limit: int = 50) -> list[dict]:
     return _get(f"{DATA_BASE}/trades", {"user": wallet, "limit": limit})
 
 
+def _fetch_trades_page(wallet: str, limit: int, offset: int) -> list[dict] | None:
+    """回傳 None 代表 API 拒絕（通常是 offset 超限）。"""
+    r = requests.get(
+        f"{DATA_BASE}/trades",
+        params={"user": wallet, "limit": limit, "offset": offset},
+        timeout=_TIMEOUT,
+    )
+    if r.status_code == 400:
+        return None
+    r.raise_for_status()
+    return r.json()
+
+
+def fetch_trades_since(wallet: str, since_ts: int, max_pages: int = 6) -> list[dict]:
+    """分頁拉 trades 直到時間早於 since_ts、API 拒絕、或頁數上限。
+
+    舊版 _fetch_trades(limit=50) 對高頻鯨魚會直接卡在 50 筆，
+    recent_trade_count_7d 因此失真（活躍鯨魚全部卡在剛好 50）。
+    這裡每頁 500 筆，最多翻 6 頁（3000 筆）才停，足以覆蓋真正 7 天活躍度。
+    """
+    all_trades: list[dict] = []
+    offset = 0
+    page_size = 500
+    for _ in range(max_pages):
+        page = _fetch_trades_page(wallet, page_size, offset)
+        if not page:
+            break
+        all_trades.extend(page)
+        oldest = min((int(t.get("timestamp", 0)) for t in page), default=0)
+        if oldest < since_ts or len(page) < page_size:
+            break
+        offset += page_size
+    return [t for t in all_trades if int(t.get("timestamp", 0)) >= since_ts]
+
+
 def _fetch_value(wallet: str) -> float:
     data = _get(f"{DATA_BASE}/value", {"user": wallet})
     if isinstance(data, list) and data:
