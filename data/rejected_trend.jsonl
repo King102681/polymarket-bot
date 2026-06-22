@@ -640,3 +640,4 @@
 {"strategy": "trend", "trend_id": "美国总统特朗普签署量子领域行政令", "trend_title": "美国总统特朗普签署量子领域行政令。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "ibmibmn与openai扩大网络安全合作推出前沿人工智能能力帮助企业抵御机器速度的网络威胁", "trend_title": "IBM(IBM.N)与OpenAI扩大网络安全合作，推出前沿人工智能能力，帮助企业抵御机器速度的网络威胁。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "媒体日本首相或将缺席土耳其北约峰会", "trend_title": "媒体：日本首相或将缺席土耳其北约峰会", "market_title": "", "reason": "LLM 判定不下注：該熱門話題討論的是日本首相是否會缺席土耳其的北約峰會，這與日本議會是否會在 2026 年解散完全無關。因此，沒有相關的市"}
+{"strategy": "trend", "trend_id": "palestinianchildrenunprotectedasngosforcedoutofgazaandwestbank", "trend_title": "Palestinian children ‘unprotected’ as NGOs forced out of Gaza and West Bank", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是人道危機，但與停火是否在特定日期前取消的市場沒有直接關聯。話題主要關注的是人道援助的困難，並未提供關於停火"}
