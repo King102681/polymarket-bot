@@ -650,3 +650,4 @@
 {"strategy": "trend", "trend_id": "俄常驻联合国代表团乌军攻击一辆载有白俄罗斯儿童的巴士可能旨在挑衅明斯克", "trend_title": "俄常驻联合国代表团：乌军攻击一辆载有白俄罗斯儿童的巴士可能旨在挑衅明斯克", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "尽管波斯湾的石油流动性持续恢复巴克莱仍维持2026年布伦特原油价格预测为每桶100美元", "trend_title": "尽管波斯湾的石油流动性持续恢复，巴克莱仍维持2026年布伦特原油价格预测为每桶100美元。", "market_title": "", "reason": "信心 0.30 < 0.45：话题提到了巴克莱维持2026年布伦特原油价格预测为100美元，但题目问的是WTI"}
 {"strategy": "trend", "trend_id": "乌克兰基辅市发布空袭警报政府呼吁市民寻求避难", "trend_title": "乌克兰基辅市发布空袭警报，政府呼吁市民寻求避难。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "沃罗涅日6月22日遭到乌军导弹袭击5人丧生", "trend_title": "沃罗涅日6月22日遭到乌军导弹袭击，5人丧生", "market_title": "Russia x Ukraine ceasefire agreement by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
