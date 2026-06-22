@@ -566,3 +566,5 @@
 {"strategy": "trend", "trend_id": "whatarethekeyoutcomesoftheiranustalksinswitzerlandwhatnext", "trend_title": "What are the key outcomes of the Iran-US talks in Switzerland, what next?", "market_title": "US-Iran Final Nuclear Deal by July 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "伊朗外交部伊美达成协议文件", "trend_title": "伊朗外交部：伊美达成协议文件", "market_title": "US-Iran Final Nuclear Deal by July 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "大空头查诺斯当前ai产业链存在巨大财务不匹配ai云实际是租赁中介看空spacex", "trend_title": "“大空头”查诺斯：当前AI产业链存在巨大“财务不匹配”，“AI云”实际是租赁中介，看空SpaceX", "market_title": "Tesla and SpaceX merger officially announced by September 30?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "supportforiransteambutnotforregime", "trend_title": "Support for Iran's team – but not for regime", "market_title": "", "reason": "LLM 判定不下注：該話題僅討論民眾對伊朗國家隊的支持與對政府的反對，與核協議或鈾濃縮的市場無直接關聯。"}
+{"strategy": "trend", "trend_id": "iransfansproandcon", "trend_title": "Iran's fans, pro and con", "market_title": "", "reason": "LLM 判定不下注：該熱門話題僅提及伊朗球迷的親疏，並未提供與核協議或鈾濃縮進程相關的任何新資訊，因此無法判斷市場方向或給予信心。候選市場均"}
