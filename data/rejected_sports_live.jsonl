@@ -10562,3 +10562,6 @@
 {"strategy": "sports_live", "signal_tx_hash": "0x8797b4c505caad76dd7208e6c6b5e8994d6adcb59e770c8ecd47a8837e850fc2", "whale_pseudonym": "swisstony", "market_title": "Spread: Portugal (-4.5)", "reason": "鯨魚單 $2 < $500"}
 {"strategy": "sports_live", "signal_tx_hash": "0x19126a6aa69be2c58992405ca364eda27d3770315b14ea7afaf4a65364020802", "whale_pseudonym": "swisstony", "market_title": "Spread: Portugal (-4.5)", "reason": "鯨魚單 $2 < $500"}
 {"strategy": "sports_live", "signal_tx_hash": "0xc8015765ed50d5fa05df42e4a012c2ffd064e82d3035396344f0efdfba381eda", "whale_pseudonym": "swisstony", "market_title": "Colombia vs. DR Congo: O/U 3.5", "reason": "entry 0.995 不在 [0.7, 0.97]"}
+{"strategy": "sports_live", "signal_tx_hash": "0xecaf40125474f1db18ed438f22772f95196facf09fd9e640a55151dfece41d1a", "whale_pseudonym": "swisstony", "market_title": "Will Jordan win on 2026-06-27?", "reason": "鯨魚單 $20 < $500"}
+{"strategy": "sports_live", "signal_tx_hash": "0x8da92087c3175a0dd98553547575f8231f65138a649922a9aa0c41cec2765001", "whale_pseudonym": "swisstony", "market_title": "Will Belgium win on 2026-06-26?", "reason": "鯨魚單 $191 < $500"}
+{"strategy": "sports_live", "signal_tx_hash": "0xbb5220bb688a21d8fca281929d323a525845c17cc95e9549ef1cc23bef24733b", "whale_pseudonym": "swisstony", "market_title": "Will Belgium win on 2026-06-26?", "reason": "entry 0.995 不在 [0.7, 0.97]"}
