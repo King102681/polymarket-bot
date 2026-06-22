@@ -19942,3 +19942,5 @@
 {"strategy": "open", "signal_tx_hash": "0x9c88ad1e60a276f4a8a23734b18b4b7093ca91100e21333ace4d5c3be90fb391", "whale_pseudonym": "swisstony", "market_title": "France vs. Iraq: O/U 5.5", "reason": "entry 0.995 不在 [0.15, 0.95]"}
 {"strategy": "open", "signal_tx_hash": "0x1f6feb8dc6e3444a79330fdde4021e8d56ddd4e096e908643a69bb5d9fa37eb3", "whale_pseudonym": "RN1", "market_title": "Exact Score: Norway 3 - 1 Senegal?", "reason": "entry 0.999 不在 [0.15, 0.95]"}
 {"strategy": "open", "signal_tx_hash": "0xe4f10036363d52680d4aa6d11dfd40a83755926d5bc892f3c2ba195d46e76af2", "whale_pseudonym": "RN1", "market_title": "Exact Score: Norway 3 - 1 Senegal?", "reason": "entry 0.999 不在 [0.15, 0.95]"}
+{"strategy": "open", "signal_tx_hash": "0x3e338c559ee9674e7daafbcce2faf8d195b619ce79ed64ff9f4963bc31d46b44", "whale_pseudonym": "swisstony", "market_title": "Will Argentina win on 2026-06-27?", "reason": "鯨魚單 $17 < $50"}
+{"strategy": "open", "signal_tx_hash": "0x22cc4454b1d2001aa9eedd49e36ec0e3dfe5a94652482f4218c8db5814681fb1", "whale_pseudonym": "swisstony", "market_title": "Will Argentina win on 2026-06-27?", "reason": "鯨魚單 $6 < $50"}
