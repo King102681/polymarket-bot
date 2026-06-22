@@ -623,3 +623,5 @@
 {"strategy": "trend", "trend_id": "据以色列i24news以色列国防军宣布将于周二上午在埃拉特地区举行军事演习预计安全部队和舰艇将有活跃的行动不会构成安全威胁", "trend_title": "据以色列i24News：以色列国防军宣布将于周二上午在埃拉特地区举行军事演习；预计安全部队和舰艇将有活跃的行动，不会构成安全威胁。", "market_title": "", "reason": "LLM 判定不下注：此新聞提及以色列的軍事演習，但與停火協議是否取消無關。因此，該話題與市場無關。"}
 {"strategy": "trend", "trend_id": "marcorubioheadstomiddleeasttoaddressiranmouhormuz", "trend_title": "Marco Rubio heads to Middle East to address Iran MoU, Hormuz", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "美国总统特朗普所有人都清楚伊朗将同意接受重大武器核查以确保未来长期的核诚信", "trend_title": "美国总统特朗普：所有人都清楚，伊朗将同意接受重大武器核查，以确保未来长期的“核诚信”。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "鲁比奥值美伊谈判之际前往中东", "trend_title": "鲁比奥值美伊谈判之际前往中东", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "willausirandealtransformtheiranianeconomy", "trend_title": "Will a US-Iran deal transform the Iranian economy?", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
