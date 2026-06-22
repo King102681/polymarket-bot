@@ -28,6 +28,16 @@ _GEMINI_URL = (
 _GEMINI_MIN_INTERVAL = 4.5  # 秒；免費額度約 15 RPM（flash-lite），保守留空隙
 _last_gemini_call = 0.0
 
+# call_json() 失敗時設定具體原因，供呼叫端（signal_evaluator）寫精確的拒絕記錄。
+# 不改 call_json 的回傳型別（仍是 dict|None），呼叫端在收到 None 後立刻呼叫
+# last_failure_reason() 取得這次失敗的真正原因，避免「安全過濾」和「API錯誤」混在一起記錄。
+_last_failure_reason: str = ""
+
+
+def last_failure_reason() -> str:
+    """回傳上一次 call_json() 失敗的具體原因：safety_block:* / rate_limited / api_error:* / no_key。"""
+    return _last_failure_reason
+
 
 def _provider() -> str | None:
     p = (config.TREND_LLM_PROVIDER or "auto").lower()
@@ -55,6 +65,8 @@ def call_json(
 
     `model` 只在 anthropic 路徑使用；gemini 路徑用 config.TREND_GEMINI_MODEL。
     """
+    global _last_failure_reason
+    _last_failure_reason = ""
     prov = _provider()
     if prov == "gemini":
         return _call_gemini(system=system, user=user, schema=schema, max_tokens=max_tokens)
@@ -63,6 +75,7 @@ def call_json(
             model=model, system=system, user=user, schema=schema, max_tokens=max_tokens
         )
     print("   ⚠️ 無可用 LLM 金鑰（GEMINI_API_KEY / ANTHROPIC_API_KEY 皆未設定）")
+    _last_failure_reason = "no_key"
     return None
 
 
@@ -82,14 +95,16 @@ def _extract_json(text: str) -> dict[str, Any] | None:
             return v if isinstance(v, dict) else None
         except Exception:
             pass
+    global _last_failure_reason
     print(f"   ⚠️ LLM 回傳非合法 JSON: {text[:120]}")
+    _last_failure_reason = "api_error:invalid_json"
     return None
 
 
 def _call_gemini(
     *, system: str, user: str, schema: dict[str, Any], max_tokens: int
 ) -> dict[str, Any] | None:
-    global _last_gemini_call
+    global _last_gemini_call, _last_failure_reason
 
     schema_hint = json.dumps(schema, ensure_ascii=False)
     body = {
@@ -151,22 +166,29 @@ def _call_gemini(
             data = r.json()
             candidates = data.get("candidates", [])
             if not candidates:
-                last_err = f"回傳無候選（可能被安全過濾）: {r.text[:160]}"
+                # Gemini 偶爾在 prompt-level 過濾時直接回空 candidates（無 finishReason 可查）
+                fb = data.get("promptFeedback", {}).get("blockReason", "")
+                last_err = f"回傳無候選（promptFeedback={fb or '無'}）: {r.text[:160]}"
+                _last_failure_reason = f"safety_block:prompt_feedback:{fb}" if fb else f"api_error:empty_candidates"
                 break
             cand = candidates[0]
             finish = cand.get("finishReason", "")
             if finish in ("SAFETY", "RECITATION", "PROHIBITED_CONTENT"):
                 # Gemini 安全過濾器觸發（地緣政治/軍事新聞常見）→ 優雅降級
                 print(f"   ⚠️ Gemini 安全過濾（{finish}），此趨勢跳過")
+                _last_failure_reason = f"safety_block:{finish}"
                 return None
             text = cand["content"]["parts"][0]["text"]
         except Exception:
             # 可能被 safety 擋下或回傳結構異常
             last_err = f"回傳結構異常: {r.text[:160]}"
+            _last_failure_reason = "api_error:malformed_response"
             break
         return _extract_json(text)
 
     print(f"   ⚠️ Gemini 呼叫失敗（{config.TREND_GEMINI_MODEL}）: {last_err}")
+    if not _last_failure_reason:
+        _last_failure_reason = f"api_error:{last_err}"
     return None
 
 
@@ -182,6 +204,7 @@ def _client():
 def _call_anthropic(
     *, model: str, system: str, user: str, schema: dict[str, Any], max_tokens: int
 ) -> dict[str, Any] | None:
+    global _last_failure_reason
     try:
         resp = _client().messages.create(
             model=model,
@@ -192,11 +215,13 @@ def _call_anthropic(
         )
     except Exception as e:
         print(f"   ⚠️ Claude 呼叫失敗（{model}）: {type(e).__name__}: {e}")
+        _last_failure_reason = f"api_error:{type(e).__name__}"
         return None
 
     text = next(
         (b.text for b in resp.content if getattr(b, "type", None) == "text"), None
     )
     if not text:
+        _last_failure_reason = "api_error:empty_response"
         return None
     return _extract_json(text)

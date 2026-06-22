@@ -189,7 +189,13 @@ def evaluate(
 
         res = _ask_llm(tr, candidates)
         if not res:
-            rej("LLM 無回應（安全過濾或 API 失敗）")
+            why = llm.last_failure_reason()
+            if why.startswith("safety_block"):
+                rej(f"Gemini 安全過濾擋下（{why}）")
+            elif why == "no_key":
+                rej("LLM 無回應（無可用 API key）")
+            else:
+                rej(f"LLM API 失敗（{why or '未知原因'}）")
             continue
 
         try:
