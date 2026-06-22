@@ -547,3 +547,6 @@
 {"strategy": "trend", "trend_id": "韩国交易所ceo正在努力在海外推出与韩国芯片制造商股票相关的杠杆etf例如在香港和伦敦", "trend_title": "韩国交易所CEO：正在努力在海外推出与韩国芯片制造商股票相关的杠杆ETF，例如在香港和伦敦。", "market_title": "", "reason": "LLM 判定不下注：该话题是关于韩国一家交易所计划在海外推出与韩国芯片制造商股票相关的杠杆ETF，这与所提供的任何市场（包括韩国政治、朝韩关"}
 {"strategy": "trend", "trend_id": "韩国交易所ceo为提高投资者对股市的信心将在明年之前对约2700家上市公司中的约300家实施退市", "trend_title": "韩国交易所CEO：为提高投资者对股市的信心，将在明年之前对约2700家上市公司中的约300家实施退市。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "俄国防部俄军天竺葵无人机击中哈尔科夫州的乌军物流中心", "trend_title": "俄国防部：俄军“天竺葵”无人机击中哈尔科夫州的乌军物流中心", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "英国政局突变黄金下方锚更清晰市场赔率数据表", "trend_title": "英国政局突变，黄金下方锚更清晰｜市场赔率数据表", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "以色列军方在加沙地带打死两名哈马斯军官", "trend_title": "以色列军方：在加沙地带打死两名哈马斯军官", "market_title": "Israel x Hamas ceasefire cancelled by June 30?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "俄国防部防空系统一夜间击落301架乌克兰无人机", "trend_title": "俄国防部：防空系统一夜间击落301架乌克兰无人机", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
