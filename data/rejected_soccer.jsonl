@@ -16520,3 +16520,5 @@
 {"strategy": "soccer", "signal_tx_hash": "0xa4b0125d63dc0cd105cbf3395f4e9e5a387aeb34483f511123460e7307fdc244", "whale_pseudonym": "swisstony", "market_title": "Spread: Portugal (-1.5)", "reason": "entry 0.995 不在 [0.55, 0.8]"}
 {"strategy": "soccer", "signal_tx_hash": "0x27e4f628b5967a1ced7759cdb4f55d64f17b5c55b610100bcd6af623419f715f", "whale_pseudonym": "swisstony", "market_title": "Spread: Portugal (-1.5)", "reason": "entry 0.995 不在 [0.55, 0.8]"}
 {"strategy": "soccer", "signal_tx_hash": "0x6c7594fd5850b689580af42afc13358854dc81550503160d9da0f70ed94aa2c2", "whale_pseudonym": "swisstony", "market_title": "Spread: Norway (-3.5)", "reason": "鯨魚單 $18 < $100"}
+{"strategy": "soccer", "signal_tx_hash": "0xbf234f316f7ccc5eba669eb1c3076d70242d7d7c2e49dd61944b6e7a3e644bd0", "whale_pseudonym": "swisstony", "market_title": "Spread: Norway (-3.5)", "reason": "鯨魚單 $3 < $100"}
+{"strategy": "soccer", "signal_tx_hash": "0x15fee2055d8b943bcfc85d8c7c7b30d323d941e6e5232336259f8e01d0de1f45", "whale_pseudonym": "swisstony", "market_title": "Spread: Portugal (-1.5)", "reason": "entry 0.995 不在 [0.55, 0.8]"}
