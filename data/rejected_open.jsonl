@@ -20118,3 +20118,4 @@
 {"strategy": "open", "signal_tx_hash": "0x7b3fba2de00e5f0001dd315fcc5c94a7d7b1c5b7ddad1e10e80d49afda416c9e", "whale_pseudonym": "swisstony", "market_title": "New Zealand vs. Belgium: New Zealand 1st Half O/U 1.5", "reason": "鯨魚單 $8 < $50"}
 {"strategy": "open", "signal_tx_hash": "0x026dcc1d495f9c17675da9bfce6944242d61f90ccdbd555ff1d181b551cf210e", "whale_pseudonym": "swisstony", "market_title": "Spread: France (-5.5)", "reason": "entry 0.995 不在 [0.15, 0.95]"}
 {"strategy": "open", "signal_tx_hash": "0xfe61e2043cd786799c2174b845ec545516635f1f2e0824dc105a5e787d298306", "whale_pseudonym": "swisstony", "market_title": "Egypt vs. IR Iran: O/U 1.5", "reason": "entry 0.995 不在 [0.15, 0.95]"}
+{"strategy": "open", "signal_tx_hash": "0x9e6a8720423d4e03581f836b2bc0cdb47723b9a200d1f7e3472b8fa234487160", "whale_pseudonym": "GoalLineGhost", "market_title": "Will Argentina vs. Austria end in a draw?", "reason": "entry 0.995 不在 [0.15, 0.95]"}
