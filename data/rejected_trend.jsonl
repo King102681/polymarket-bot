@@ -686,3 +686,4 @@
 {"strategy": "trend", "trend_id": "以色列与黎巴嫩新一轮谈判于周二在华盛顿启动", "trend_title": "以色列与黎巴嫩新一轮谈判于周二在华盛顿启动", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "美伊谈判后逾400艘大型船只聚集霍尔木兹海峡附近", "trend_title": "美伊谈判后 逾400艘大型船只聚集霍尔木兹海峡附近", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "kremlinsaysputintomeetlukashenkotoaddressukrainesultimatumondronehardware", "trend_title": "Kremlin Says Putin to Meet Lukashenko to Address Ukraine’s Ultimatum on Drone Hardware", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "财政部1个月期国库现金定存中标利率167上次为1683个月期国库现金定存中标利率169上次为170", "trend_title": "财政部1个月期国库现金定存中标利率1.67%，上次为1.68%；3个月期国库现金定存中标利率1.69%，上次为1.70%。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
