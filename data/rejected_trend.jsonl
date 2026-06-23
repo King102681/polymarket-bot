@@ -830,3 +830,4 @@
 {"strategy": "trend", "trend_id": "媒体欧盟委员会主席计划于7月1日访问亚美尼亚", "trend_title": "媒体：欧盟委员会主席计划于7月1日访问亚美尼亚", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "ussenatevotestohaltiranwarinrebuketotrump", "trend_title": "U.S. Senate votes to halt Iran war in rebuke to Trump", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "unstartsevacuating11000strandedsailorsfromstraitofhormuz", "trend_title": "UN starts evacuating 11,000 stranded sailors from Strait of Hormuz", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "阿曼与国际海事组织协调开辟霍尔木兹海峡临时航道", "trend_title": "阿曼与国际海事组织协调开辟霍尔木兹海峡临时航道", "market_title": "Strait of Hormuz traffic returns to normal by July 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
