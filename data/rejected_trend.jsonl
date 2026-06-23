@@ -661,3 +661,5 @@
 {"strategy": "trend", "trend_id": "美国称伊朗同意恢复核设施检查伊朗予以否认", "trend_title": "美国称伊朗同意恢复核设施检查 伊朗予以否认", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "videoshowsthemomentiranwalksoutoftheroomleavingjdvancetopromotepeacetalks", "trend_title": "Video shows the moment Iran walks out of the room, leaving JD Vance to promote peace talks", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "美股收盘三大股指涨跌不一spacex暴跌16美光续创历史新高", "trend_title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "早报spacex三日暴跌23油价下挫金价收涨梅西梅开二度加冕世界杯历史射手王", "trend_title": "【早报】SpaceX三日暴跌23%；油价下挫、金价收涨；梅西梅开二度，加冕世界杯历史射手王", "market_title": "", "reason": "LLM 判定不下注：該熱門話題包含 SpaceX 的股價下跌資訊，但沒有任何一個候選市場與 SpaceX 的股價變動有關，而是與 Tesla"}
+{"strategy": "trend", "trend_id": "韩国kospi指数6月23日周二开盘下跌1346点跌幅015报910109点", "trend_title": "韩国KOSPI指数6月23日（周二）开盘下跌13.46点，跌幅0.15%，报9101.09点。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
