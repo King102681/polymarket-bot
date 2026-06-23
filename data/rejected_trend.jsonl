@@ -803,3 +803,4 @@
 {"strategy": "trend", "trend_id": "普京俄准备与乌进行和平谈判", "trend_title": "普京：俄准备与乌进行和平谈判", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "israeliforcessetolivetreesonfireinoccupiedwestbank", "trend_title": "Israeli forces set olive trees on fire in occupied West Bank", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "mukul975anthropiccybersecurityskills", "trend_title": "mukul975 /      Anthropic-Cybersecurity-Skills", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "印度对中美和欧盟的化学品进口征收为期5年的反倾销税", "trend_title": "印度对中、美和欧盟的化学品进口征收为期5年的反倾销税", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
