@@ -696,3 +696,5 @@
 {"strategy": "trend", "trend_id": "uswatchdogopensprobeafterteslacrashesintotexashomekillingwoman", "trend_title": "US watchdog opens probe after Tesla crashes into Texas home, killing woman", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "伊美下一轮高级别谈判准备就绪", "trend_title": "伊美下一轮高级别谈判准备就绪", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "conservativeradiohostdefendstrumpsayshesbetterthanvance", "trend_title": "Conservative radio host defends Trump, says he’s better than Vance", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "特朗普美国汽车巨头将开始生产导弹", "trend_title": "特朗普：美国汽车巨头将开始生产导弹", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "马来西亚贸易部长因涉嫌强迫劳动问题7月24日后马来西亚面临潜在的10关税风险", "trend_title": "马来西亚贸易部长：因涉嫌强迫劳动问题，7月24日后马来西亚面临潜在的10%关税风险。", "market_title": "", "reason": "LLM 判定不下注：此話題討論的是馬來西亞與美國之間的關稅風險，但候選市場是關於美中貿易協定。兩者沒有直接關聯，因此選擇市場索引為 -1。"}
