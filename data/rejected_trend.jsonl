@@ -663,3 +663,6 @@
 {"strategy": "trend", "trend_id": "美股收盘三大股指涨跌不一spacex暴跌16美光续创历史新高", "trend_title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "早报spacex三日暴跌23油价下挫金价收涨梅西梅开二度加冕世界杯历史射手王", "trend_title": "【早报】SpaceX三日暴跌23%；油价下挫、金价收涨；梅西梅开二度，加冕世界杯历史射手王", "market_title": "", "reason": "LLM 判定不下注：該熱門話題包含 SpaceX 的股價下跌資訊，但沒有任何一個候選市場與 SpaceX 的股價變動有關，而是與 Tesla"}
 {"strategy": "trend", "trend_id": "韩国kospi指数6月23日周二开盘下跌1346点跌幅015报910109点", "trend_title": "韩国KOSPI指数6月23日（周二）开盘下跌13.46点，跌幅0.15%，报9101.09点。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "以色列三方高层联合声明继续黎南部军事行动", "trend_title": "以色列三方高层联合声明：继续黎南部军事行动", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "特朗普美国汽车巨头将开始生产武器包括战斧导弹与爱国者系统", "trend_title": "特朗普：美国汽车巨头将开始生产武器，包括“战斧”导弹与“爱国者”系统", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "内塔尼亚胡称以军不会撤出黎巴嫩南部", "trend_title": "内塔尼亚胡称以军不会撤出黎巴嫩南部", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
