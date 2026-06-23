@@ -707,3 +707,4 @@
 {"strategy": "trend", "trend_id": "消息人士印度6月份从美国进口液化石油气预计将突破100万吨", "trend_title": "消息人士：印度6月份从美国进口液化石油气预计将突破100万吨", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "俄国防部防空系统一夜间击落143架乌克兰无人机", "trend_title": "俄国防部：防空系统一夜间击落143架乌克兰无人机", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "乌克兰将与日本成立重建基金", "trend_title": "乌克兰将与日本成立重建基金", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "footballoffersescapeforgazabutworldcupspiritdimmed", "trend_title": "Football offers escape for Gaza, but World Cup spirit dimmed", "market_title": "", "reason": "信心 0.30 < 0.45：文章提到儘管有衝突，足球仍是加薩的逃避現實方式，但世界盃精神因衝突而黯淡。這暗示"}
