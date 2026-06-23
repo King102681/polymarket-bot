@@ -666,3 +666,5 @@
 {"strategy": "trend", "trend_id": "以色列三方高层联合声明继续黎南部军事行动", "trend_title": "以色列三方高层联合声明：继续黎南部军事行动", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "特朗普美国汽车巨头将开始生产武器包括战斧导弹与爱国者系统", "trend_title": "特朗普：美国汽车巨头将开始生产武器，包括“战斧”导弹与“爱国者”系统", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "内塔尼亚胡称以军不会撤出黎巴嫩南部", "trend_title": "内塔尼亚胡称以军不会撤出黎巴嫩南部", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "特朗普不满美国承担过多北约欧洲防务费用", "trend_title": "特朗普不满美国承担过多北约欧洲防务费用", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "霍尔木兹海峡恢复通航美海军开始协助船只通过", "trend_title": "霍尔木兹海峡恢复通航 美海军开始协助船只通过", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
