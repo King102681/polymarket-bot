@@ -702,3 +702,5 @@
 {"strategy": "trend", "trend_id": "trumpdrawsredlineforiransayspreventingnuclearweaponsupersedesdepressionrisk", "trend_title": "Trump draws red line for Iran, says preventing nuclear weapon ‘supersedes’ depression risk", "market_title": "Will Trump agree to Iranian enrichment of uranium by June 30?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "特斯拉5月份欧洲月销量增长逾一倍", "trend_title": "特斯拉5月份欧洲月销量增长逾一倍", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "日本首相承诺缩减驻冲绳美军基地", "trend_title": "日本首相承诺缩减驻冲绳美军基地", "market_title": "", "reason": "LLM 判定不下注：此話題是關於美軍基地遷移，與日本國會解散無關。"}
+{"strategy": "trend", "trend_id": "latinpatriarchofjerusalempizzaballamakessolidarityvisittogaza", "trend_title": "Latin Patriarch of Jerusalem Pizzaballa makes solidarity visit to Gaza", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "spacex跌超16跌穿ipo首日收盘价宣布发债后三连跌市值蒸发超6000亿美元", "trend_title": "SpaceX跌超16%，跌穿IPO首日收盘价！宣布发债后“三连跌”，市值蒸发超6000亿美元", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
