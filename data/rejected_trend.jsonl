@@ -692,3 +692,5 @@
 {"strategy": "trend", "trend_id": "alangreenspanformerusfederalreservechairmandiesat100", "trend_title": "Alan Greenspan, former US Federal Reserve chairman, dies at 100", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "以部长威胁将贝鲁特变成加沙", "trend_title": "以部长威胁将贝鲁特变成加沙", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "特朗普预计解冻的伊朗资产将全部用于购买美国产品", "trend_title": "特朗普预计解冻的伊朗资产将全部用于购买美国产品", "market_title": "", "reason": "信心 0.30 < 0.45：話題提到特朗普政府可能將解凍的伊朗資產用於購買美國產品，這與伊朗支付荷姆茲海峽過"}
+{"strategy": "trend", "trend_id": "thescaleoftrumpspoliticalblunderiniraniscomingintofocus", "trend_title": "The scale of Trump’s political blunder in Iran is coming into focus", "market_title": "Will Trump agree to Iranian transit fees in the Strait of Hormuz by June 30?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "uswatchdogopensprobeafterteslacrashesintotexashomekillingwoman", "trend_title": "US watchdog opens probe after Tesla crashes into Texas home, killing woman", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
