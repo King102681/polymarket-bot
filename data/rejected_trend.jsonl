@@ -717,3 +717,4 @@
 {"strategy": "trend", "trend_id": "特朗普再次威胁盟友或不予支援", "trend_title": "特朗普再次威胁盟友“或不予支援”", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "伊朗副外长伊美决定成立多个磋商工作组", "trend_title": "伊朗副外长：伊美决定成立多个磋商工作组", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "沙特4月原油出口量延续跌势跌至24年来新低", "trend_title": "沙特4月原油出口量延续跌势 跌至24年来新低", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "whyiranspresidentpezeshkianisheadingtopakistanafterusirantalks", "trend_title": "Why Iran’s President Pezeshkian is heading to Pakistan after US-Iran talks", "market_title": "", "reason": "LLM 判定不下注：此話題為伊朗總統訪問巴基斯坦，與核協議的到期日市場無直接關聯，因此無法判斷。"}
