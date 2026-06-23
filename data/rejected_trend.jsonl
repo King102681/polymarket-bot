@@ -776,3 +776,6 @@
 {"strategy": "trend", "trend_id": "美国在台协会处长10年前两岸相互吸引已不存在", "trend_title": "美国在台协会处长：10年前两岸相互吸引已不存在", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "特斯拉机器人量产在即上游供应商传出备战信号", "trend_title": "特斯拉机器人量产在即？上游供应商传出备战信号", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
 {"strategy": "trend", "trend_id": "欧洲央行副行长武伊契奇通胀预期在长期内仍然稳定", "trend_title": "欧洲央行副行长武伊契奇：通胀预期在长期内仍然稳定。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "科技热潮降温全球股市黑色星期二费城半导体指数跌超7spacex市值跌破2万亿美元现货黄金跌近2", "trend_title": "科技热潮降温 ，全球股市“黑色星期二”，费城半导体指数跌超7%，SpaceX市值跌破2万亿美元，现货黄金跌近2%", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "专家特朗普因武库耗尽欲推动汽车企业生产武器", "trend_title": "专家：特朗普因武库耗尽欲推动汽车企业生产武器", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "demandfortunnelmapsandpersonalweaponstestsgazatalks", "trend_title": "Demand for tunnel maps and personal weapons tests Gaza talks", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
