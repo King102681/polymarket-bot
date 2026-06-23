@@ -783,3 +783,4 @@
 {"strategy": "trend", "trend_id": "俄副外长俄罗斯认为美国已经脱离阿拉斯加峰会基本原则", "trend_title": "俄副外长：俄罗斯认为美国已经脱离阿拉斯加峰会基本原则", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "加拿大央行行长麦克勒姆食品通胀令人担忧", "trend_title": "加拿大央行行长麦克勒姆：食品通胀令人担忧。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "dozensofshipsheadthroughstraitofhormuzafterusirandeal", "trend_title": "Dozens of ships head through Strait of Hormuz after US-Iran deal", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "伊朗关闭霍尔木兹海峡美伊双方说法不一", "trend_title": "伊朗关闭霍尔木兹海峡 美伊双方说法不一", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
