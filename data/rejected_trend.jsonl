@@ -736,3 +736,4 @@
 {"strategy": "trend", "trend_id": "iransaystechnicaltalkswithusinswitzerlandconcludesuccessfully", "trend_title": "Iran says technical talks with US in Switzerland conclude successfully", "market_title": "", "reason": "LLM 判定不下注：雖然提到美伊的技術會談，但這只是技術層級的會談，且標題稱『成功結束』，這並不能直接導向任何特定到期日的核協議簽署。市場預"}
 {"strategy": "trend", "trend_id": "伊朗外交部伊朗不计划让国际原子能机构对受损核设施进行核查", "trend_title": "伊朗外交部：伊朗不计划让国际原子能机构对受损核设施进行核查", "market_title": "", "reason": "信心 0.40 < 0.45：伊朗外交部宣布不计划让国际原子能机构核查受损核设施，这明显对与伊朗达成核协议的进"}
 {"strategy": "trend", "trend_id": "伊拉克石油官员伊拉克将鲁迈拉油田产量提升至约110万桶日", "trend_title": "伊拉克石油官员：伊拉克将鲁迈拉油田产量提升至约110万桶/日。", "market_title": "", "reason": "信心 0.20 < 0.45：伊拉克提高产量是增供消息，理论上利空油价。但目前市场对WTI油价跌破65美元的预"}
+{"strategy": "trend", "trend_id": "俄外长西方要求谈判的真实目的是拯救泽连斯基", "trend_title": "俄外长：西方要求谈判的真实目的是拯救泽连斯基", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
