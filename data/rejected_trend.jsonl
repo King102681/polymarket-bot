@@ -678,3 +678,4 @@
 {"strategy": "trend", "trend_id": "台湾加权指数6月23日周二开盘上涨33482点涨幅07报4807633点", "trend_title": "台湾加权指数6月23日（周二）开盘上涨334.82点，涨幅0.7%，报48076.33点。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "欧盟委员会欧盟贸易专员将于6月29日会见中国商务部长", "trend_title": "欧盟委员会：欧盟贸易专员将于6月29日会见中国商务部长", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "美在台协会处长10年前两岸间的相互吸引已不存在", "trend_title": "美在台协会处长：10年前两岸间的相互吸引已不存在", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "israelistrikekillspalestiniangirlonherwaytositexam", "trend_title": "Israeli strike kills Palestinian girl on her way to sit exam", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
