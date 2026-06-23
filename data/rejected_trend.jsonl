@@ -786,3 +786,6 @@
 {"strategy": "trend", "trend_id": "伊朗关闭霍尔木兹海峡美伊双方说法不一", "trend_title": "伊朗关闭霍尔木兹海峡 美伊双方说法不一", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "timeisnotonmoscowssideusurgesrussiatomakeadealandsecureimmediateceasefire", "trend_title": "“Time Is Not on Moscow’s Side”: US Urges Russia to “Make a Deal” and Secure Immediate Ceasefire", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
 {"strategy": "trend", "trend_id": "金砖国家国际论坛主席金砖国家不顾制裁与俄罗斯保持经济关系", "trend_title": "金砖国家国际论坛主席：金砖国家不顾制裁与俄罗斯保持经济关系", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "据伊朗伊斯兰共和国通讯社irna伊朗和阿曼同意成立霍尔木兹海峡委员会", "trend_title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗和阿曼同意成立霍尔木兹海峡委员会。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "台国防部公布福建舰再航经台湾海峡", "trend_title": "台国防部公布福建舰再航经台湾海峡", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "伊朗总统佩泽希齐扬希望开启伊朗与巴基斯坦之间的新篇章", "trend_title": "伊朗总统佩泽希齐扬：希望开启伊朗与巴基斯坦之间的新篇章。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
