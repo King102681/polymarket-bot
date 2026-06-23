@@ -839,3 +839,4 @@
 {"strategy": "trend", "trend_id": "unisraelcommittedgenocidebytargetinggazachildren", "trend_title": "UN: Israel committed genocide by targeting Gaza children", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "特朗普表示美国所获收入是对委内瑞拉开展军事行动支出的28倍", "trend_title": "特朗普表示美国所获收入是对委内瑞拉开展军事行动支出的28倍", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "现货黄金回落至4100美元盎司下方日内跌024", "trend_title": "现货黄金回落至4100美元/盎司下方，日内跌0.24%。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "israelsdeliberatetargetingofpalestinianchildren", "trend_title": "Israel’s deliberate targeting of Palestinian children", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
