@@ -25220,3 +25220,8 @@
 {"strategy": "soccer", "signal_tx_hash": "0x4d7a494a03a5a0bfbd71498c1d9b87d0068d926db90729e6e9dabd8b7efce93c", "whale_pseudonym": "swisstony", "market_title": "Spread: Norway (-2.5)", "reason": "鯨魚單 $7 < $100"}
 {"strategy": "soccer", "signal_tx_hash": "0x3a449982c223c29f2bf8fce25aa169f3f474bd212dc3b6fdd79d49cba20d961f", "whale_pseudonym": "swisstony", "market_title": "Norway vs. Senegal: O/U 5.5", "reason": "距結算 -1.6h < 0.5h"}
 {"strategy": "soccer", "signal_tx_hash": "0x33b53f9453193ab46010f088f691d60b5bf8e0651fff3ebad7de3014e08a3a60", "whale_pseudonym": "swisstony", "market_title": "Will Côte d'Ivoire win on 2026-06-25?", "reason": "entry 0.995 不在 [0.55, 0.8]"}
+{"strategy": "soccer", "signal_tx_hash": "0x1903baf46cb3f752f293c5e2673a87be49b78b0238e174612398a1cfd46aeb5f", "whale_pseudonym": "RN1", "market_title": "Spread: Toronto Blue Jays (-1.5)", "reason": "鯨魚單 $1 < $100"}
+{"strategy": "soccer", "signal_tx_hash": "0x89f07fbfedd6bab355434f0af8e916fd548ed61abffd700c26cfc45ec6991b31", "whale_pseudonym": "RN1", "market_title": "Norway vs. Senegal: O/U 4.5", "reason": "距結算 -1.6h < 0.5h"}
+{"strategy": "soccer", "signal_tx_hash": "0x83894129a4aceccef9c16a225b78f4cdb459e5bc8a16596e2209cf2ebbeedff6", "whale_pseudonym": "RN1", "market_title": "Norway vs. Senegal: O/U 5.5", "reason": "距結算 -1.6h < 0.5h"}
+{"strategy": "soccer", "signal_tx_hash": "0x87411d9694c149e0fa1e1bd1ca09a9bb4c8de3968a81cdcecbcbc7afbba55f19", "whale_pseudonym": "RN1", "market_title": "Spread: Toronto Blue Jays (-1.5)", "reason": "鯨魚單 $1 < $100"}
+{"strategy": "soccer", "signal_tx_hash": "0x4cb9e7890f84a17f6c0e25b5a8aaa42ac1062c0f43fbd2f42a5b635c2c52d59a", "whale_pseudonym": "RN1", "market_title": "Boston Red Sox vs. Colorado Rockies: O/U 11.5", "reason": "鯨魚單 $13 < $100"}
