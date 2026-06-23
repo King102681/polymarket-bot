@@ -699,3 +699,4 @@
 {"strategy": "trend", "trend_id": "特朗普美国汽车巨头将开始生产导弹", "trend_title": "特朗普：美国汽车巨头将开始生产导弹", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "马来西亚贸易部长因涉嫌强迫劳动问题7月24日后马来西亚面临潜在的10关税风险", "trend_title": "马来西亚贸易部长：因涉嫌强迫劳动问题，7月24日后马来西亚面临潜在的10%关税风险。", "market_title": "", "reason": "LLM 判定不下注：此話題討論的是馬來西亞與美國之間的關稅風險，但候選市場是關於美中貿易協定。兩者沒有直接關聯，因此選擇市場索引為 -1。"}
 {"strategy": "trend", "trend_id": "中国海军83编队抵达俄罗斯开展访问", "trend_title": "中国海军83编队抵达俄罗斯开展访问", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "trumpdrawsredlineforiransayspreventingnuclearweaponsupersedesdepressionrisk", "trend_title": "Trump draws red line for Iran, says preventing nuclear weapon ‘supersedes’ depression risk", "market_title": "Will Trump agree to Iranian enrichment of uranium by June 30?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
