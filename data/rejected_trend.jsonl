@@ -676,3 +676,5 @@
 {"strategy": "trend", "trend_id": "伊朗谈判团队称伊美谈判达成5项要点", "trend_title": "伊朗谈判团队称伊美谈判达成5项要点", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "上海黄金交易所黄金td6月23日周二早盘盘初下跌001报9134元克br上海黄金交易所白银td6月23日周二早盘盘初下跌158报156530元千克", "trend_title": "上海黄金交易所黄金T+D 6月23日（周二）早盘盘初下跌0.01%报913.4元/克；<br/>上海黄金交易所白银T+D 6月23日（周二）早盘盘初下跌1.58%报15653.0元/千克。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "台湾加权指数6月23日周二开盘上涨33482点涨幅07报4807633点", "trend_title": "台湾加权指数6月23日（周二）开盘上涨334.82点，涨幅0.7%，报48076.33点。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "欧盟委员会欧盟贸易专员将于6月29日会见中国商务部长", "trend_title": "欧盟委员会：欧盟贸易专员将于6月29日会见中国商务部长", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "美在台协会处长10年前两岸间的相互吸引已不存在", "trend_title": "美在台协会处长：10年前两岸间的相互吸引已不存在", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
