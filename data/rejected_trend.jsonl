@@ -877,3 +877,4 @@
 {"strategy": "trend", "trend_id": "国台办两岸和平统一后台湾对外交往渠道全面拓宽", "trend_title": "国台办：两岸和平统一后 台湾对外交往渠道全面拓宽", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "加息噩梦真要来了高盛投资主管7月份概率较大", "trend_title": "“加息噩梦”真要来了？高盛投资主管：7月份概率较大！", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "印度央行行长对通胀的第二轮影响不确定上行风险已降低", "trend_title": "印度央行行长：对通胀的第二轮影响不确定。上行风险已降低。", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
+{"strategy": "trend", "trend_id": "德媒英国重返欧盟或将改变世界", "trend_title": "德媒：英国重返欧盟或将改变世界", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
