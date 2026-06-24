@@ -940,3 +940,5 @@
 {"strategy": "trend", "trend_id": "俄外长俄罗斯留在欧安组织原因是向对方陈述事实的机会", "trend_title": "俄外长：俄罗斯留在欧安组织原因是向对方陈述事实的机会", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "贝森特伊朗解冻资金将采购美国产品石油销售需重新以美元计价", "trend_title": "贝森特：伊朗解冻资金将采购美国产品，石油销售需重新以美元计价", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "whatdoespakistanstandtogainfromhelpingbrokertheusirandeal", "trend_title": "What does Pakistan stand to gain from helping broker the US-Iran deal?", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
+{"strategy": "trend", "trend_id": "外媒金正恩批评日本谋求军事大国化", "trend_title": "外媒：金正恩批评日本谋求“军事大国化”", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "外媒阿富汗塔利班官员与欧盟讨论遣返流亡者问题", "trend_title": "外媒：阿富汗塔利班官员与欧盟讨论遣返流亡者问题", "market_title": "", "reason": "LLM 判定不下注：該熱門話題討論的是阿富汗塔利班與歐盟之間關於遣返流亡者的問題，與所有候選市場（羅馬尼亞總理任命、西班牙選舉、冰島歐盟入盟"}
