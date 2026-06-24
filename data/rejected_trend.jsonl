@@ -868,3 +868,4 @@
 {"strategy": "trend", "trend_id": "美国务卿现在谈论谁将为伊朗重建基金投资还为时尚早但美国不出钱", "trend_title": "美国务卿：现在谈论谁将为伊朗重建基金投资还为时尚早但美国不出钱", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "美伊签署停战备忘录美国解冻伊朗资产设限", "trend_title": "美伊签署停战备忘录，美国解冻伊朗资产设限", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "英伟达受禁ai晶片在中国黑市价格翻倍", "trend_title": "英伟达受禁AI晶片在中国黑市价格翻倍", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "putincommentsonukrainianstrikesforfirsttimesinceattacksonmoscow", "trend_title": "Putin comments on Ukrainian strikes for first time since attacks on Moscow", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
