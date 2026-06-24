@@ -973,3 +973,6 @@
 {"strategy": "trend", "trend_id": "belarushaltsequipmentusedtoguiderussianstrikeszelenskysaysafterukrainesultimatum", "trend_title": "Belarus halts equipment used to guide Russian strikes, Zelensky says, after Ukraine's ultimatum", "market_title": "Russia x Ukraine ceasefire agreement by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美伊瑞士谈判达成部分共识核问题仍悬而未决", "trend_title": "美伊瑞士谈判达成部分共识 核问题仍悬而未决", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "iranspresidentawardedhonorarydoctorateinpakistan", "trend_title": "Iran’s president awarded honorary doctorate in Pakistan", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "美国能源部长过去24小时内2000万桶原油从霍尔木兹海峡运出", "trend_title": "美国能源部长：过去24小时内2000万桶原油从霍尔木兹海峡运出", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "didbrexitactuallywork", "trend_title": "Did Brexit actually work?", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "据politico特朗普政府官员已告知国会山共和党关键人物预计本周结束前将提交一份关于伊朗战事相关费用的追加拨款请求", "trend_title": "据Politico：特朗普政府官员已告知国会山共和党关键人物，预计本周结束前将提交一份关于伊朗战事相关费用的追加拨款请求。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
