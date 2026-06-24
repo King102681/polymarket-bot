@@ -39223,3 +39223,6 @@
 {"strategy": "soccer", "signal_tx_hash": "0xea7be3c93dfaa173135c329940e320ae96856fd3ed1f93bdc66f1b3f277970a8", "whale_pseudonym": "RN1", "market_title": "Atlanta Braves vs. San Diego Padres: O/U 11.5", "reason": "鯨魚單 $1 < $100"}
 {"strategy": "soccer", "signal_tx_hash": "0x82962cd7a94671020e5539d21eb7d3d02d0ba0a70d378ca6c13742b97594fb59", "whale_pseudonym": "RN1", "market_title": "Atlanta Braves vs. San Diego Padres", "reason": "鯨魚單 $12 < $100"}
 {"strategy": "soccer", "signal_tx_hash": "0x3257bcb31b6b826665f22c3110f2f11937b12803f76f8c1467a2ed413296cdc6", "whale_pseudonym": "RN1", "market_title": "Spread: San Diego Padres (-1.5)", "reason": "鯨魚單 $19 < $100"}
+{"strategy": "soccer", "signal_tx_hash": "0xe697cad9c01a0ca6721d69aef8282ac0a920f1c0265617cd54ae07d6329ce92e", "whale_pseudonym": "swisstony", "market_title": "Spread: San Diego Padres (-1.5)", "reason": "鯨魚單 $7 < $100"}
+{"strategy": "soccer", "signal_tx_hash": "0xda1f830ee043f7e21a742963c32c666272a1a719334952af842c4a42ef9fef8b", "whale_pseudonym": "swisstony", "market_title": "Scotland vs. Brazil: Brazil 1st Half O/U 1.5", "reason": "鯨魚單 $72 < $100"}
+{"strategy": "soccer", "signal_tx_hash": "0x782ff264b557f41dfab935a6d4be363b6d81498f2ad6c3a48d7c9fb7276ebd39", "whale_pseudonym": "RN1", "market_title": "Spread: San Francisco Giants (-2.5)", "reason": "鯨魚單 $25 < $100"}

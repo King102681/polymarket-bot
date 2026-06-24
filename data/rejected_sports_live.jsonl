@@ -30035,3 +30035,5 @@
 {"strategy": "sports_live", "signal_tx_hash": "0xe9fdcc3e3e8d364573198a96d2c250171280814e0f9e3d76c5c54bcf068006a1", "whale_pseudonym": "swisstony", "market_title": "Bosnia-Herzegovina vs. Qatar: O/U 7.5", "reason": "鯨魚單 $1 < $500"}
 {"strategy": "sports_live", "signal_tx_hash": "0x95cbf18ffa6c0f2fd33437e4639b8bcbf5be659fbf273dd0e356294c7e38e86b", "whale_pseudonym": "swisstony", "market_title": "Athletics vs. San Francisco Giants", "reason": "鯨魚單 $35 < $500"}
 {"strategy": "sports_live", "signal_tx_hash": "0x29ba976dd4506b3d81b6bafb83344f7bd78a1de3a8c070c8d56ef7b414fd124a", "whale_pseudonym": "swisstony", "market_title": "Switzerland vs. Canada: O/U 5.5", "reason": "鯨魚單 $30 < $500"}
+{"strategy": "sports_live", "signal_tx_hash": "0xe697cad9c01a0ca6721d69aef8282ac0a920f1c0265617cd54ae07d6329ce92e", "whale_pseudonym": "swisstony", "market_title": "Spread: San Diego Padres (-1.5)", "reason": "鯨魚單 $7 < $500"}
+{"strategy": "sports_live", "signal_tx_hash": "0xda1f830ee043f7e21a742963c32c666272a1a719334952af842c4a42ef9fef8b", "whale_pseudonym": "swisstony", "market_title": "Scotland vs. Brazil: Brazil 1st Half O/U 1.5", "reason": "鯨魚單 $72 < $500"}
