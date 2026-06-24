@@ -1001,3 +1001,5 @@
 {"strategy": "trend", "trend_id": "白宫特朗普补充预算请求包括6715亿美元用于国防部军事项目", "trend_title": "白宫：特朗普补充预算请求包括671.5亿美元用于国防部军事项目。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "familysuesteslaforwrongfuldeathinautopilotcrashintexasus", "trend_title": "Family sues Tesla for wrongful death in Autopilot crash in Texas, US", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "zimbabwessenateapprovesamendmentextendingpresidentialterm", "trend_title": "Zimbabwe’s Senate approves amendment extending presidential term", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "北约秘书长吕特德国等盟友正在加大力度增加国防开支", "trend_title": "北约秘书长吕特：德国等盟友正在加大力度，增加国防开支。", "market_title": "", "reason": "LLM 判定不下注：此話題提及北約盟友正在增加國防開支，這與北約整體實力增強的預期相關，與「美國是否退出北約」或「國家是否退出北約」等市場的"}
+{"strategy": "trend", "trend_id": "特朗普不接受美伊协议包含任何涉及航运的费用", "trend_title": "特朗普：不接受美伊协议包含任何涉及航运的费用", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
