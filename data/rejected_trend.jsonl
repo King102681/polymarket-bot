@@ -867,3 +867,4 @@
 {"strategy": "trend", "trend_id": "韩国海水部部分韩船正驶离霍尔木兹海峡", "trend_title": "韩国海水部：部分韩船正驶离霍尔木兹海峡", "market_title": "Strait of Hormuz traffic returns to normal by July 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美国务卿现在谈论谁将为伊朗重建基金投资还为时尚早但美国不出钱", "trend_title": "美国务卿：现在谈论谁将为伊朗重建基金投资还为时尚早但美国不出钱", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "美伊签署停战备忘录美国解冻伊朗资产设限", "trend_title": "美伊签署停战备忘录，美国解冻伊朗资产设限", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "英伟达受禁ai晶片在中国黑市价格翻倍", "trend_title": "英伟达受禁AI晶片在中国黑市价格翻倍", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
