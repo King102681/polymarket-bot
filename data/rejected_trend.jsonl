@@ -976,3 +976,4 @@
 {"strategy": "trend", "trend_id": "美国能源部长过去24小时内2000万桶原油从霍尔木兹海峡运出", "trend_title": "美国能源部长：过去24小时内2000万桶原油从霍尔木兹海峡运出", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "didbrexitactuallywork", "trend_title": "Did Brexit actually work?", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "据politico特朗普政府官员已告知国会山共和党关键人物预计本周结束前将提交一份关于伊朗战事相关费用的追加拨款请求", "trend_title": "据Politico：特朗普政府官员已告知国会山共和党关键人物，预计本周结束前将提交一份关于伊朗战事相关费用的追加拨款请求。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "加拿大央行谨慎应对通胀压力避免反应过度", "trend_title": "加拿大央行：谨慎应对通胀压力，避免反应过度", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
