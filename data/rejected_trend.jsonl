@@ -857,3 +857,4 @@
 {"strategy": "trend", "trend_id": "彭博不满中国人身攻击高市不愿在apec期间与习近平会面", "trend_title": "彭博：不满中国人身攻击 高市不愿在APEC期间与习近平会面", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "韩国方面表示由于需求呈现爆发式增长sk海力士和三星电子需要将芯片集群项目加速推进10年以上", "trend_title": "韩国方面表示，由于需求呈现爆发式增长，SK海力士和三星电子需要将芯片集群项目加速推进10年以上。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "hoyeralumadrianboafowinsmarylandhouseprimarywithhelpofcryptoproisraelmoney", "trend_title": "Hoyer alum Adrian Boafo wins Maryland House primary with help of crypto, pro-Israel money", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "ussenatevotestopauseiranwarinrarerebuketotrump", "trend_title": "US Senate votes to pause Iran war in rare rebuke to Trump", "market_title": "", "reason": "信心 0.30 < 0.45：參議院投票阻止特朗普政府針對伊朗發動戰爭，這增加了伊朗與美國談判的壓力，可能有利"}
