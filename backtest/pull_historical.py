@@ -34,12 +34,30 @@ def _fetch_trades_page(wallet: str, limit: int, offset: int) -> list[dict] | Non
     return r.json()
 
 
+# fetch_all_trades() 若因 API offset 上限而提前停止（來不及拉到 since_ts），
+# 會把這次的缺口記在這裡，供呼叫端用 coverage_shortfall() 偵測 —— 不能只看
+# 回傳的 list 本身，因為截斷後的部分結果長得跟「剛好就這麼多筆」一樣，
+# 呼叫端如果不主動查會誤以為拿到完整 lookback_days 的資料（2026-06-24 踩到：
+# 鯨魚單日爆量時，3000 offset 內全是同一天的單，90天回測其實只看到 <1 天）。
+_last_coverage_shortfall: dict | None = None
+
+
+def coverage_shortfall() -> dict | None:
+    """回傳上一次 fetch_all_trades() 是否未拉滿 since_ts 要求的範圍。
+    None=完整覆蓋；否則回傳 {"reached": ts, "requested": ts, "short_days": float}。
+    """
+    return _last_coverage_shortfall
+
+
 def fetch_all_trades(wallet: str, since_ts: int) -> list[dict]:
     """分頁拉 trades 直到時間早於 since_ts 或 API 拒絕。trades 預設按時間倒序。"""
+    global _last_coverage_shortfall
+    _last_coverage_shortfall = None
     all_trades: list[dict] = []
     offset = 0
     page_size = 500
-    _MAX_OFFSET = 3000   # Data API offset 上限約 3000
+    _MAX_OFFSET = 3000   # Data API offset 上限約 3000（實測 3500 即 400）
+    oldest = 0
     while True:
         page = _fetch_trades_page(wallet, page_size, offset)
         if not page:          # None（400 錯誤）或空列表
@@ -52,7 +70,12 @@ def fetch_all_trades(wallet: str, since_ts: int) -> list[dict]:
             break
         offset += page_size
         if offset > _MAX_OFFSET:
-            print(f"   （offset {offset} 達上限 {_MAX_OFFSET}，停止分頁）")
+            short_days = (oldest - since_ts) / 86400
+            print(f"   ⚠️  offset 達上限 {_MAX_OFFSET}，尚未拉到要求的時間範圍——"
+                  f"實際只拉到 {short_days:.1f} 天前（交易量過大，可能是單日爆量事件）")
+            _last_coverage_shortfall = {
+                "reached": oldest, "requested": since_ts, "short_days": round(short_days, 2),
+            }
             break
     return [t for t in all_trades if int(t.get("timestamp", 0)) >= since_ts]
 
