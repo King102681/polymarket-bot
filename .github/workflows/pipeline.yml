@@ -68,5 +68,9 @@ jobs:
             echo "no state changes"
           else
             git commit -m "data: pipeline state @ $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-            git push
+            for i in 1 2 3; do
+              git pull --rebase --autostash && git push && break
+              echo "push attempt $i failed, retrying..."
+              sleep 5
+            done
           fi
