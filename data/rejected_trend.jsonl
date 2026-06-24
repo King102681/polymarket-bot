@@ -871,3 +871,4 @@
 {"strategy": "trend", "trend_id": "putincommentsonukrainianstrikesforfirsttimesinceattacksonmoscow", "trend_title": "Putin comments on Ukrainian strikes for first time since attacks on Moscow", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "美媒美财长因乌克兰协议称商务部长是白痴", "trend_title": "美媒：美财长因乌克兰协议称商务部长是“白痴”", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "金正恩要打造万吨级战舰推动海军装备核武器", "trend_title": "金正恩要打造万吨级战舰 推动海军装备核武器", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "专家美国西方及所有其他国家也应投资于伊朗", "trend_title": "专家：美国、西方及所有其他国家也应投资于伊朗", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
