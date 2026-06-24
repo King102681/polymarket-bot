@@ -999,3 +999,5 @@
 {"strategy": "trend", "trend_id": "美国总统特朗普关于包括运输费用在内的伊朗协议将是不可接受的", "trend_title": "美国总统特朗普：（关于包括运输费用在内的伊朗协议）将是不可接受的。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "usjudgeblockstrumpsubpoenasintotransgendercareatnewyorkhospitals", "trend_title": "US judge blocks Trump subpoenas into transgender care at New York hospitals", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "白宫特朗普补充预算请求包括6715亿美元用于国防部军事项目", "trend_title": "白宫：特朗普补充预算请求包括671.5亿美元用于国防部军事项目。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "familysuesteslaforwrongfuldeathinautopilotcrashintexasus", "trend_title": "Family sues Tesla for wrongful death in Autopilot crash in Texas, US", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "zimbabwessenateapprovesamendmentextendingpresidentialterm", "trend_title": "Zimbabwe’s Senate approves amendment extending presidential term", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
