@@ -928,3 +928,4 @@
 {"strategy": "trend", "trend_id": "船舶追踪数据显示过去12小时内至少有两艘干散货船和一艘货船在联合国机制下通过霍尔木兹海峡", "trend_title": "船舶追踪数据显示，过去12小时内，至少有两艘干散货船和一艘货船在联合国机制下通过霍尔木兹海峡。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "northkoreacommissionswarshipaskimeyesnuclearnavy", "trend_title": "North Korea commissions warship as Kim eyes nuclear navy", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "俄外长俄罗斯担忧北约在亚太地区扩张利益范围", "trend_title": "俄外长：俄罗斯担忧北约在亚太地区扩张利益范围", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "ussenateapprovesiranwarpowersresolutionwhatthatmeansfortrump", "trend_title": "US Senate approves Iran war powers resolution: What that means for Trump", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
