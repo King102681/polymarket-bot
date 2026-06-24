@@ -69,7 +69,15 @@ def call_json(
     _last_failure_reason = ""
     prov = _provider()
     if prov == "gemini":
-        return _call_gemini(system=system, user=user, schema=schema, max_tokens=max_tokens)
+        result = _call_gemini(system=system, user=user, schema=schema, max_tokens=max_tokens)
+        # Gemini 免費額度常 429/503；若有備用的 ANTHROPIC_API_KEY，立刻切換重試，
+        # 不要白白丟掉這次評估機會（safety_block 是刻意跳過，不重試）。
+        if result is None and _last_failure_reason.startswith("api_error:") and config.ANTHROPIC_API_KEY:
+            print("   🔁 Gemini 失敗，改用 Anthropic 重試")
+            result = _call_anthropic(
+                model=model, system=system, user=user, schema=schema, max_tokens=max_tokens
+            )
+        return result
     if prov == "anthropic":
         return _call_anthropic(
             model=model, system=system, user=user, schema=schema, max_tokens=max_tokens
