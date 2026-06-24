@@ -872,3 +872,5 @@
 {"strategy": "trend", "trend_id": "美媒美财长因乌克兰协议称商务部长是白痴", "trend_title": "美媒：美财长因乌克兰协议称商务部长是“白痴”", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "金正恩要打造万吨级战舰推动海军装备核武器", "trend_title": "金正恩要打造万吨级战舰 推动海军装备核武器", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "专家美国西方及所有其他国家也应投资于伊朗", "trend_title": "专家：美国、西方及所有其他国家也应投资于伊朗", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "congresspasseswarpowersmeasureforfirsttimerebukingtrumpswarwithiran", "trend_title": "Congress passes war powers measure for first time, rebuking Trump's war with Iran", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
+{"strategy": "trend", "trend_id": "印度央行行长尚未看到通胀普遍化的迹象", "trend_title": "印度央行行长：尚未看到通胀普遍化的迹象。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
