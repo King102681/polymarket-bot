@@ -30286,3 +30286,5 @@
 {"strategy": "sports_live", "signal_tx_hash": "0x20f30563df4ef8b9d15eef2e9733f92fbf8b336362567ca13a99ef3bab673209", "whale_pseudonym": "swisstony", "market_title": "Switzerland vs. Canada: O/U 2.5", "reason": "entry 0.995 不在 [0.7, 0.97]"}
 {"strategy": "sports_live", "signal_tx_hash": "0x168d1073103458f0698df0c1c784df71f0e3861eeca1584ace1bc9de41ac0d7f", "whale_pseudonym": "swisstony", "market_title": "Exact Score: South Africa 0 - 1 Korea Republic?", "reason": "鯨魚單 $468 < $500"}
 {"strategy": "sports_live", "signal_tx_hash": "0x6fbed0b81afcfa110656a69176647669a78da7e8e753ed6076d743b0726b4916", "whale_pseudonym": "swisstony", "market_title": "Spread: South Africa (-1.5)", "reason": "鯨魚單 $21 < $500"}
+{"strategy": "sports_live", "signal_tx_hash": "0x78fa73b64c0b739aa854a84b82f34747751297d5c24549dbc95dd1e3d4e94581", "whale_pseudonym": "swisstony", "market_title": "Czechia vs. Mexico: 1st Half O/U 1.5", "reason": "鯨魚單 $38 < $500"}
+{"strategy": "sports_live", "signal_tx_hash": "0x1977a4b0044fa8e03dfe96dd54c69fff6c506e32207d5738eb77fdf13eab85d7", "whale_pseudonym": "swisstony", "market_title": "Czechia vs. Mexico: O/U 4.5", "reason": "鯨魚單 $5 < $500"}
