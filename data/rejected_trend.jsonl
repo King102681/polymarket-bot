@@ -852,3 +852,5 @@
 {"strategy": "trend", "trend_id": "普京祝贺苏联新闻社成立85周年", "trend_title": "普京祝贺苏联新闻社成立85周年", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "早报美股半导体指数暴跌超7芯片股全线重挫闪迪美光科技跌超13黄金原油齐跌c罗双响葡萄牙5球大胜英格兰00战平加纳", "trend_title": "【早报】美股半导体指数，暴跌超7%！芯片股全线重挫，闪迪、美光科技跌超13%；黄金、原油齐跌；C罗双响葡萄牙5球大胜、英格兰0-0战平加纳", "market_title": "Will WTI Crude Oil (WTI) hit (LOW) $65 in June?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "据美联社anthropic的mythos模型发现了美国政府机密系统的漏洞", "trend_title": "据美联社：Anthropic的Mythos模型发现了美国政府机密系统的漏洞。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "美参议院通过要求特朗普停止对伊军事行动的决议", "trend_title": "美参议院通过要求特朗普停止对伊军事行动的决议", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "俄外交部基辅伦敦协议下的铀最终可能流向第三国而非乌克兰", "trend_title": "俄外交部：基辅-伦敦协议下的铀最终可能流向第三国而非乌克兰", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
