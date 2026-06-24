@@ -849,3 +849,4 @@
 {"strategy": "trend", "trend_id": "iranwarlivetrumptehranatoddsovernuclearinspectionshormuz", "trend_title": "Iran war live: Trump, Tehran at odds over nuclear inspections, Hormuz", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "韩国kospi指数继续拉升涨幅扩大至4sk海力士涨超5", "trend_title": "韩国KOSPI指数继续拉升，涨幅扩大至4%，SK海力士涨超5%。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "华尔街科技股抛售潮加剧黄金市场压力亚市早盘一度跌破4100美元", "trend_title": "华尔街科技股抛售潮加剧黄金市场压力 亚市早盘一度跌破4100美元", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
+{"strategy": "trend", "trend_id": "普京祝贺苏联新闻社成立85周年", "trend_title": "普京祝贺苏联新闻社成立85周年", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
