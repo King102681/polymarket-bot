@@ -897,3 +897,4 @@
 {"strategy": "trend", "trend_id": "韩国4月新生儿人数增长18", "trend_title": "韩国4月新生儿人数增长18%", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
 {"strategy": "trend", "trend_id": "岛内民调显示为维系台海和平台当局需对大陆释出善意", "trend_title": "岛内民调显示：为维系台海和平，台当局需“对大陆释出善意”", "market_title": "Will China invade Taiwan by December 31, 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "sk海力士将利用收益在韩国建设工厂以及购买euv设备", "trend_title": "SK海力士：将利用收益在韩国建设工厂以及购买EUV设备。", "market_title": "", "reason": "LLM 判定不下注：话题关于SK海力士在韩国建厂和购买EUV设备，与韩国总统、朝鲜入侵、以及韩国央行利率决议等市场没有直接关联。"}
+{"strategy": "trend", "trend_id": "媒体乌克兰成欧盟候选国中问题最多成员", "trend_title": "媒体：乌克兰成欧盟候选国中“问题最多”成员", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
