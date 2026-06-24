@@ -846,3 +846,4 @@
 {"strategy": "trend", "trend_id": "日本央行将于十分钟后公布6月货币政策会议审议委员意见摘要", "trend_title": "日本央行将于十分钟后公布6月货币政策会议审议委员意见摘要。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "unbeginsevacuationof11000sailorsstrandedinstraitofhormuz", "trend_title": "UN begins evacuation of 11,000 sailors stranded in Strait of Hormuz", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "belarusoppositionwarnslukashenkoislininguptojoinrussiaswar", "trend_title": "Belarus Opposition Warns Lukashenko Is Lining Up to Join Russia’s War", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "iranwarlivetrumptehranatoddsovernuclearinspectionshormuz", "trend_title": "Iran war live: Trump, Tehran at odds over nuclear inspections, Hormuz", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
