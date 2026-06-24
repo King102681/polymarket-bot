@@ -898,3 +898,5 @@
 {"strategy": "trend", "trend_id": "岛内民调显示为维系台海和平台当局需对大陆释出善意", "trend_title": "岛内民调显示：为维系台海和平，台当局需“对大陆释出善意”", "market_title": "Will China invade Taiwan by December 31, 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "sk海力士将利用收益在韩国建设工厂以及购买euv设备", "trend_title": "SK海力士：将利用收益在韩国建设工厂以及购买EUV设备。", "market_title": "", "reason": "LLM 判定不下注：话题关于SK海力士在韩国建厂和购买EUV设备，与韩国总统、朝鲜入侵、以及韩国央行利率决议等市场没有直接关联。"}
 {"strategy": "trend", "trend_id": "媒体乌克兰成欧盟候选国中问题最多成员", "trend_title": "媒体：乌克兰成欧盟候选国中“问题最多”成员", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "伊朗议长说中东安全由中东国家决定", "trend_title": "伊朗议长说中东安全由中东国家决定", "market_title": "", "reason": "LLM 判定不下注：该话题讨论的是中东国家自主决定中东安全，与伊核协议的达成时间没有直接关联。因此，不选择任何市场。"}
+{"strategy": "trend", "trend_id": "市场消息现代汽车韩国工会投票批准罢工行动", "trend_title": "市场消息：现代汽车韩国工会投票批准罢工行动。", "market_title": "", "reason": "LLM 判定不下注：该话题关于现代汽车韩国工会投票批准罢工行动，与所有候选市场（韩国总统、朝鲜入侵、韩国银行利率政策）均无直接关联。"}
