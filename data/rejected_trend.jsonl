@@ -986,3 +986,5 @@
 {"strategy": "trend", "trend_id": "普京俄罗斯是4个可完全自主生产飞机发动机的国家之一", "trend_title": "普京：俄罗斯是4个可完全自主生产飞机发动机的国家之一", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "梅德韦杰夫俄罗斯从未有过殖民地因此可以与全球南方国家轻松对话", "trend_title": "梅德韦杰夫：俄罗斯从未有过殖民地 因此可以与全球南方国家轻松对话", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "据华尔街日报由anthropic公司的老将成立的初创公司打算帮助科学家开发自己的人工智能", "trend_title": "据华尔街日报：由Anthropic公司的老将成立的初创公司打算帮助科学家开发自己的人工智能。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "zelenskyysaysdronesignalrepeatersinbelarushavebeenswitchedoff", "trend_title": "Zelenskyy says drone signal repeaters in Belarus have been switched off", "market_title": "Russia x Ukraine ceasefire agreement by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "whydoesisraelwanttobelessdependentonusweapons", "trend_title": "Why does Israel want to be less dependent on US weapons?", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
