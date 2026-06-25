@@ -1035,3 +1035,4 @@
 {"strategy": "trend", "trend_id": "特朗普会见吕特称对北约盟友感到失望", "trend_title": "特朗普会见吕特 称对北约盟友感到失望", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "萨赫勒国家邦联电台赞扬今日俄罗斯保持了新闻传统", "trend_title": "萨赫勒国家邦联电台赞扬“今日俄罗斯”保持了新闻传统", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
 {"strategy": "trend", "trend_id": "rutteattemptstoeasetrumpnatoriftoveriranaheadofannualsummit", "trend_title": "Rutte attempts to ease Trump-NATO rift over Iran ahead of annual summit", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "霍尔木兹航运恢复缓解供应担忧油价抹去战时涨幅", "trend_title": "霍尔木兹航运恢复缓解供应担忧 油价抹去战时涨幅", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
