@@ -1088,3 +1088,5 @@
 {"strategy": "trend", "trend_id": "谷歌重组ai编码特遣队加速追赶anthropic", "trend_title": "谷歌重组AI编码“特遣队” 加速追赶Anthropic", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "特朗普再次批评德国夸赞乌克兰", "trend_title": "特朗普再次批评德国，夸赞乌克兰", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
 {"strategy": "trend", "trend_id": "美国务卿美伊最终协议将包含阻止德黑兰获取核武器的期限", "trend_title": "美国务卿：美伊最终协议将包含阻止德黑兰获取核武器的期限", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "台学者美淡化南中国海议题优先性北京趁势测试台湾应处能力", "trend_title": "台学者：美淡化南中国海议题优先性 北京趁势测试台湾应处能力", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "洪都拉斯澄清未与台湾就复交进行磋商", "trend_title": "洪都拉斯澄清未与台湾就复交进行磋商", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
