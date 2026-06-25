@@ -1023,3 +1023,5 @@
 {"strategy": "trend", "trend_id": "标普三连跌美元突破13个月高点黄金跌破4000油价跌破70比特币跌破60000大关美光高通拉动芯片股大反弹", "trend_title": "标普三连跌，美元突破13个月高点，黄金跌破4000、油价跌破70、比特币跌破60000大关，美光、高通拉动芯片股大反弹", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "iranwarliveusvowstodefendgulfinterestsisraelkills2inlebanon", "trend_title": "Iran war live: US vows to defend Gulf interests; Israel kills 2 in Lebanon", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "早报美股芯片股盘后逆袭美光高通大涨16多资产集体跳水黄金跌破4000美元原油暴跌比特币下探59000美元", "trend_title": "【早报】美股芯片股盘后逆袭，美光、高通大涨16%；多资产集体跳水！黄金跌破4000美元、原油暴跌、比特币下探59000美元", "market_title": "Will the price of Bitcoin be between $58,000 and $60,000 on June 27?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美官方鼓励各州和企业领袖扩大与台湾贸易投资交流", "trend_title": "美官方鼓励各州和企业领袖扩大与台湾贸易投资交流", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "王毅美伊绝不能重燃战火", "trend_title": "王毅：美伊绝不能重燃战火", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
