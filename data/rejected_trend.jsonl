@@ -1086,3 +1086,4 @@
 {"strategy": "trend", "trend_id": "北约宣布部署在俄加里宁格勒附近兵力将增至两个军团", "trend_title": "北约宣布部署在俄加里宁格勒附近兵力将增至两个军团", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "iranisraelandthebomb", "trend_title": "Iran, Israel and the Bomb", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "谷歌重组ai编码特遣队加速追赶anthropic", "trend_title": "谷歌重组AI编码“特遣队” 加速追赶Anthropic", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "特朗普再次批评德国夸赞乌克兰", "trend_title": "特朗普再次批评德国，夸赞乌克兰", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
