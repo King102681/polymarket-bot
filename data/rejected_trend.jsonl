@@ -1090,3 +1090,7 @@
 {"strategy": "trend", "trend_id": "美国务卿美伊最终协议将包含阻止德黑兰获取核武器的期限", "trend_title": "美国务卿：美伊最终协议将包含阻止德黑兰获取核武器的期限", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "台学者美淡化南中国海议题优先性北京趁势测试台湾应处能力", "trend_title": "台学者：美淡化南中国海议题优先性 北京趁势测试台湾应处能力", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "洪都拉斯澄清未与台湾就复交进行磋商", "trend_title": "洪都拉斯澄清未与台湾就复交进行磋商", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "俄外交部俄方对美韩两国在朝鲜边境附近开展军事活动表示关切", "trend_title": "俄外交部：俄方对美韩两国在朝鲜边境附近开展军事活动表示关切", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
+{"strategy": "trend", "trend_id": "irannegotiatorghalibafrejectsclaimunfrozenfundswillbuyusgoods", "trend_title": "Iran negotiator Ghalibaf rejects claim unfrozen funds will buy US goods", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "俄外交部俄方对韩国同意欧盟反俄言论表示遗憾", "trend_title": "俄外交部：俄方对韩国同意欧盟反俄言论表示遗憾", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "franceinterceptsrussianshadowfleetoiltankeroffcoastofsicily", "trend_title": "France intercepts Russian shadow fleet oil tanker off coast of Sicily", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
