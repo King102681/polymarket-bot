@@ -1049,3 +1049,4 @@
 {"strategy": "trend", "trend_id": "anthropicsaysalibabaillicitlyextractedclaudeaimodelcapabilities", "trend_title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "印度前大使尽管受到制裁俄罗斯仍将是印主要能源供应国", "trend_title": "印度前大使：尽管受到制裁，俄罗斯仍将是印主要能源供应国", "market_title": "", "reason": "信心 0.40 < 0.45：话题提到俄罗斯仍将是印度主要能源供应国，暗示俄罗斯的经济和国际关系在一定程度上保"}
 {"strategy": "trend", "trend_id": "trumpsaysukslikelynextleaderandyburnhamisextremelyliberal", "trend_title": "Trump says UK’s likely next leader Andy Burnham is ‘extremely liberal’", "market_title": "", "reason": "LLM 判定不下注：話題內容是關於 Trump 對英國潛在領導人 Andy Burnham 的評價，指出其『極度自由派』。這與候選市場上關於"}
+{"strategy": "trend", "trend_id": "韩国瑜21日率跨党派立委代表团访美", "trend_title": "韩国瑜21日率跨党派立委代表团访美", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
