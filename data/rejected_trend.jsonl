@@ -1019,3 +1019,4 @@
 {"strategy": "trend", "trend_id": "trumpslamsnatooverlaxparticipationiniranwarintalkwithmarkrutte", "trend_title": "Trump slams NATO over lax participation in Iran war in talk with Mark Rutte", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "特朗普与共和党参议员爆发激烈争吵伊朗战争分歧点燃党内火药桶", "trend_title": "特朗普与共和党参议员爆发激烈争吵，伊朗战争分歧点燃党内火药桶", "market_title": "", "reason": "信心 0.35 < 0.45：話題提到特朗普與共和黨參議員因伊朗戰爭分歧發生爭吵，這暗示了在伊朗相關議題上，特"}
 {"strategy": "trend", "trend_id": "伯纳姆能带英国工党翻身专家工党公信力崩塌换帅难挽颓势", "trend_title": "伯纳姆能带英国工党翻身？专家：工党公信力崩塌 换帅难挽颓势", "market_title": "", "reason": "LLM 判定不下注：该话题讨论的是英国工党的问题，重点在于伯纳姆能否带领工党翻身，以及工党公信力的问题。所有候选市场都涉及具体的个人是否会成"}
+{"strategy": "trend", "trend_id": "斯蒂芬奥尔森美国强迫劳动关税对东南亚意味着什么", "trend_title": "斯蒂芬·奥尔森：美国“强迫劳动”关税对东南亚意味着什么？", "market_title": "", "reason": "LLM 判定不下注：该话题是关于美国“强迫劳动”关税对东南亚的影响，与美中贸易协定没有直接关联。"}
