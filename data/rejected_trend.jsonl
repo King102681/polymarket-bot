@@ -1104,3 +1104,6 @@
 {"strategy": "trend", "trend_id": "伊朗阿曼外长通话讨论霍尔木兹海峡问题", "trend_title": "伊朗阿曼外长通话讨论霍尔木兹海峡问题", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "真主党议员问题不在于武器而在于保卫黎巴嫩", "trend_title": "真主党议员：问题不在于武器，而在于保卫黎巴嫩", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "以色列国防部长卡茨尽管面临压力我们反对从黎巴嫩的安全区撤军我们不会撤退", "trend_title": "以色列国防部长卡茨：尽管面临压力，我们反对从黎巴嫩的“安全区”撤军；我们不会撤退。", "market_title": "", "reason": "LLM 判定不下注：該話題關於以色列對黎巴嫩的立場，與候選市場『以色列與哈馬斯停火是否於 6 月 30 日取消』關聯性薄弱，因此選擇無相關市"}
+{"strategy": "trend", "trend_id": "美国与海湾国家重申无人会被迫离开加沙且有意离开者将可自由返回", "trend_title": "美国与海湾国家：重申无人会被迫离开加沙，且有意离开者将可自由返回。", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
+{"strategy": "trend", "trend_id": "白俄总统乌克兰现如今是大国博弈的一枚筹码", "trend_title": "白俄总统：乌克兰现如今是大国博弈的一枚“筹码”", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "市场消息波斯湾原油出口回升至战前水平的75截至周三的过去三天内该地区出口了1300万桶原油", "trend_title": "市场消息：波斯湾原油出口回升至战前水平的75%；截至周三的过去三天内，该地区出口了1300万桶原油。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
