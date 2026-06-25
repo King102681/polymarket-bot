@@ -65265,3 +65265,4 @@
 {"strategy": "open", "signal_tx_hash": "0xb7ceda362c121e083669fdb5d5e061d9f189691031b1fe423def676bd97da8af", "whale_pseudonym": "swisstony", "market_title": "Mallorca Championships: Ethan Quinn vs Vit Kopriva", "reason": "鯨魚單 $31 < $50"}
 {"strategy": "open", "signal_tx_hash": "0x6b9b7a1923e892f46cf3d6f02c6bac2999a922eac37f0dbf07d7add1dfd74e4b", "whale_pseudonym": "swisstony", "market_title": "ITF Gdansk: Hibah Shaikh vs Weronika Falkowska", "reason": "訂單簿無 asks"}
 {"strategy": "open", "signal_tx_hash": "0x4d04de30f095273f9780310811cae98f33e758005f4111e0b41d6b49fa2bbf7c", "whale_pseudonym": "swisstony", "market_title": "Mallorca Championships: Ethan Quinn vs Vit Kopriva", "reason": "鯨魚單 $6 < $50"}
+{"strategy": "open", "signal_tx_hash": "0x0148598cc8346cf83ebc3c773f57ac38b4937ebd98f181f8c97eb71d3a129d94", "whale_pseudonym": "GoalLineGhost", "market_title": "Will Japan vs. Sweden end in a draw?", "reason": "entry 0.999 不在 [0.15, 0.95]"}
