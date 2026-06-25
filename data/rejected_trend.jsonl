@@ -1147,3 +1147,4 @@
 {"strategy": "trend", "trend_id": "senatedemocratspropose25minimumwage", "trend_title": "Senate Democrats Propose $25 Minimum Wage", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "苹果微软拖累标普收平美光飙升15领涨芯片股油价涨黄金重回4000", "trend_title": "苹果微软拖累标普收平，美光飙升15%领涨芯片股，油价涨，黄金重回4000", "market_title": "Will Gold (XAUUSD) hit (HIGH) $4,600 in June?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "市场消息三星电子或将在韩国新建芯片工厂投资规模或达300万亿韩元", "trend_title": "市场消息：三星电子或将在韩国新建芯片工厂，投资规模或达300万亿韩元。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "russias4thlargestoilrefineryshutsdownafterukrainiandronestrikereutersreports", "trend_title": "Russia's 4th-largest oil refinery shuts down after Ukrainian drone strike, Reuters reports", "market_title": "Russia x Ukraine ceasefire agreement by June 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
