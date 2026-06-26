@@ -1250,3 +1250,4 @@
 {"strategy": "trend", "trend_id": "俄国防部俄乌互相交换160名战俘", "trend_title": "俄国防部：俄乌互相交换160名战俘", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "伊朗重申国家安全与合法自卫权不容谈判", "trend_title": "伊朗重申国家安全与合法自卫权不容谈判", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "俄侦委西方情报部门的系统性行动是想从内部破坏俄罗斯社会", "trend_title": "俄侦委：西方情报部门的系统性行动是想从内部破坏俄罗斯社会", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "extrumpadviserboltonpleadsguiltyinclassifieddocumentscase", "trend_title": "Ex-Trump adviser Bolton pleads guilty in classified documents case", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
