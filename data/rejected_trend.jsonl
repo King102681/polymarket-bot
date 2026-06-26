@@ -1165,3 +1165,5 @@
 {"strategy": "trend", "trend_id": "德国爆冷输球坑惨韩国", "trend_title": "德国爆冷输球坑惨韩国", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "ushavancekamalaharrisandhasanpikerwalkintoastadium", "trend_title": "Usha Vance, Kamala Harris and Hasan Piker walk into a ... stadium", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
 {"strategy": "trend", "trend_id": "金正恩视察瞄准韩国主要设施的新型火箭炮和导弹", "trend_title": "金正恩视察瞄准韩国主要设施的新型火箭炮和导弹", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "现货黄金再度失守4000美元盎司日内跌幅068", "trend_title": "现货黄金再度失守4000美元/盎司，日内跌幅0.68%。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "马克龙法国和意大利希望建立多国联盟支持黎巴嫩", "trend_title": "马克龙：法国和意大利希望建立多国联盟支持黎巴嫩", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
