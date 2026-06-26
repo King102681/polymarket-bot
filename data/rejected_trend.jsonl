@@ -1223,3 +1223,4 @@
 {"strategy": "trend", "trend_id": "russiareportsdowning660ukrainiandronesdeniesseekingbelaruswaraid", "trend_title": "Russia reports downing 660 Ukrainian drones, denies seeking Belarus war aid", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "欲益反损美国向台湾出售何武器", "trend_title": "欲益反损: 美国向台湾出售何武器？", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "台海基会抛三个停止新主张冀化解两岸僵局", "trend_title": "台海基会抛“三个停止”新主张 冀化解两岸僵局", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "supremecourtallowstrumptoendprotectedstatusforhaitianandsyrianimmigrants", "trend_title": "Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
