@@ -84144,3 +84144,4 @@
 {"strategy": "open", "signal_tx_hash": "0xaef147c2880768d317b906bc1357dc8928337231c8ce3f5e115e1fd2dfdb8514", "whale_pseudonym": "swisstony", "market_title": "Senegal vs. Iraq: O/U 6.5", "reason": "entry 0.999 不在 [0.15, 0.95]"}
 {"strategy": "open", "signal_tx_hash": "0x047847b2edad0b4a743aac6952c99b7e386178264ad4d0ad919573f0ccc4b656", "whale_pseudonym": "swisstony", "market_title": "Exact Score: Jordan 0 - 1 Argentina?", "reason": "鯨魚單 $3 < $50"}
 {"strategy": "open", "signal_tx_hash": "0x8e3260b28c69f96bd6e527286266ae2b461a63a956d5d8dd4d3d1fc8b791c466", "whale_pseudonym": "swisstony", "market_title": "Spread: France (-3.5)", "reason": "entry 0.999 不在 [0.15, 0.95]"}
+{"strategy": "open", "signal_tx_hash": "0xcdcb797e49823deaa4917e937cb75ca61f0c7108ef335841ffe7bed985b1f607", "whale_pseudonym": "GoalLineGhost", "market_title": "Senegal vs. Iraq: Draw at halftime?", "reason": "entry 0.995 不在 [0.15, 0.95]"}
