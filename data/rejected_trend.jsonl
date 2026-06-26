@@ -1230,3 +1230,5 @@
 {"strategy": "trend", "trend_id": "据俄新社俄罗斯前国防部长伊万诺夫去世", "trend_title": "据俄新社：俄罗斯前国防部长伊万诺夫去世。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "俄国防部击落660架乌克兰无人机", "trend_title": "俄国防部：击落660架乌克兰无人机", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "韩国将成立有能力与帕兰泰尔技术公司竞争的初创公司", "trend_title": "韩国将成立有能力与帕兰泰尔技术公司竞争的初创公司", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "克宫无法承认美国在乌克兰问题上绝对中立", "trend_title": "克宫无法承认美国在乌克兰问题上绝对中立", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "whatwesmooresaidabouttrumpamerica250andhowdemocratscanharnessinsurgentenergy", "trend_title": "What Wes Moore said about Trump, America 250 and how Democrats can harness insurgent energy", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
