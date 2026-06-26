@@ -1235,3 +1235,4 @@
 {"strategy": "trend", "trend_id": "克宫法国总统不能作为美方发言人来陈述美国在乌克兰问题中的角色", "trend_title": "克宫：法国总统不能作为美方发言人来陈述美国在乌克兰问题中的角色", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "geminispark", "trend_title": "Gemini Spark", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "俄罗斯强硬派施压普京升级局势克里姆林宫保持克制", "trend_title": "俄罗斯强硬派施压普京升级局势！克里姆林宫保持克制", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "以色列从黎巴嫩叙沙地带叙利亚撤军没有时间表", "trend_title": "以色列：从黎巴嫩叙沙地带叙利亚撤军 没有时间表", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
