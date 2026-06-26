@@ -1186,3 +1186,4 @@
 {"strategy": "trend", "trend_id": "伊朗袭击货船霍尔木兹海峡航运再次中断", "trend_title": "伊朗袭击货船，霍尔木兹海峡航运再次中断", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
 {"strategy": "trend", "trend_id": "据英国金融时报欧盟部长们准备限制布鲁塞尔在跨境电网方面的权力", "trend_title": "据英国金融时报：欧盟部长们准备限制布鲁塞尔在跨境电网方面的权力。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "counterpoint苹果公司进军折叠屏市场料将推高市场价格", "trend_title": "Counterpoint：苹果公司进军折叠屏市场料将推高市场价格", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "俄方支持白俄因乌军袭击平民召开安理会会议的请求", "trend_title": "俄方支持白俄因乌军袭击平民召开安理会会议的请求", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
