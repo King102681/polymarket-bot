@@ -1232,3 +1232,5 @@
 {"strategy": "trend", "trend_id": "韩国将成立有能力与帕兰泰尔技术公司竞争的初创公司", "trend_title": "韩国将成立有能力与帕兰泰尔技术公司竞争的初创公司", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "克宫无法承认美国在乌克兰问题上绝对中立", "trend_title": "克宫无法承认美国在乌克兰问题上绝对中立", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "whatwesmooresaidabouttrumpamerica250andhowdemocratscanharnessinsurgentenergy", "trend_title": "What Wes Moore said about Trump, America 250 and how Democrats can harness insurgent energy", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "克宫法国总统不能作为美方发言人来陈述美国在乌克兰问题中的角色", "trend_title": "克宫：法国总统不能作为美方发言人来陈述美国在乌克兰问题中的角色", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "geminispark", "trend_title": "Gemini Spark", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
