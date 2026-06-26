@@ -1241,3 +1241,4 @@
 {"strategy": "trend", "trend_id": "李强会见柬埔寨人民党主席参议院主席洪森", "trend_title": "李强会见柬埔寨人民党主席、参议院主席洪森", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "stateofemergencydeclaredinoccupiedcrimeabyrussianinstalledauthorities", "trend_title": "State of Emergency Declared in Occupied Crimea by Russian-Installed Authorities", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "美试图说服叙利亚加入对真主党战争", "trend_title": "美试图说服叙利亚加入对真主党战争", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
+{"strategy": "trend", "trend_id": "韩国最疯财阀是谁", "trend_title": "韩国最“疯”财阀是谁", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
