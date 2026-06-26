@@ -1158,3 +1158,6 @@
 {"strategy": "trend", "trend_id": "中国发布人工智能ai微短剧分类分层标准", "trend_title": "中国发布人工智能AI微短剧分类分层标准", "market_title": "", "reason": "LLM 判定不下注：中國發布AI微短劇分類分層標準，與候選市場中關於2026年哪個公司擁有最佳AI模型的預測並無直接關聯。此話題不提供判斷任"}
 {"strategy": "trend", "trend_id": "特朗普又提将用伊朗解冻资产购买美国农产品", "trend_title": "特朗普又提将用伊朗解冻资产购买美国农产品", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於特朗普提議使用伊朗解凍資產購買美國農產品，這是一個經濟和外交政策相關的討論。而候選市場全部是關於特朗"}
 {"strategy": "trend", "trend_id": "ushavancetoattendmatch", "trend_title": "Usha Vance to attend match", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "特朗普重申将用伊朗解冻资产购买美国农产品", "trend_title": "特朗普重申将用伊朗解冻资产购买美国农产品", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於特朗普聲稱將使用解凍的伊朗資產購買美國農產品，這與候選市場中關於特朗普在特定日期是否會公開侮辱他人的"}
+{"strategy": "trend", "trend_id": "franceseizesfifthrussianshadowfleettankerlinkedtoukrainewar", "trend_title": "France seizes fifth Russian ‘shadow fleet’ tanker linked to Ukraine war", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
+{"strategy": "trend", "trend_id": "美亚太助卿对台军售不取决与中国大陆谈判", "trend_title": "美亚太助卿：对台军售不取决与中国大陆谈判", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
