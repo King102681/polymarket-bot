@@ -1236,3 +1236,6 @@
 {"strategy": "trend", "trend_id": "geminispark", "trend_title": "Gemini Spark", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "俄罗斯强硬派施压普京升级局势克里姆林宫保持克制", "trend_title": "俄罗斯强硬派施压普京升级局势！克里姆林宫保持克制", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "以色列从黎巴嫩叙沙地带叙利亚撤军没有时间表", "trend_title": "以色列：从黎巴嫩叙沙地带叙利亚撤军 没有时间表", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "ukrainedecimatesrussianlogisticsbringingchaostocrimea", "trend_title": "Ukraine decimates Russian logistics, bringing chaos to Crimea", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "据伊朗presstv美国与伊朗在霍尔木兹海峡的沟通旨在防止军事升级", "trend_title": "据伊朗Press TV：美国与伊朗在霍尔木兹海峡的沟通旨在防止军事升级。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "李强会见柬埔寨人民党主席参议院主席洪森", "trend_title": "李强会见柬埔寨人民党主席、参议院主席洪森", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
