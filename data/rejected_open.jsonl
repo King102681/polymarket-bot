@@ -87767,3 +87767,6 @@
 {"strategy": "open", "signal_tx_hash": "0x34b3ad079adca31a52accc3efd579e074b4e7438421be997619de803f49d5b1f", "whale_pseudonym": "swisstony", "market_title": "Spread: Saudi Arabia (-1.5)", "reason": "鯨魚單 $48 < $50"}
 {"strategy": "open", "signal_tx_hash": "0x0e9c0d48fc08792fe89285dc2f8ec49873157fe76c32e0b27439348c4667a1d9", "whale_pseudonym": "swisstony", "market_title": "Spread: Saudi Arabia (-1.5)", "reason": "鯨魚單 $48 < $50"}
 {"strategy": "open", "signal_tx_hash": "0x97ab19ed68c21877490708adb5f3b2595cff51e6aa90186ae91283941f715a3b", "whale_pseudonym": "swisstony", "market_title": "Spread: Saudi Arabia (-1.5)", "reason": "鯨魚單 $47 < $50"}
+{"strategy": "open", "signal_tx_hash": "0x6330c9473b2fe12e5d2a66ac12b04bf3aa4d7b2a437d0935e9f973493160b6df", "whale_pseudonym": "RN1", "market_title": "Cincinnati Reds vs. Pittsburgh Pirates", "reason": "鯨魚單 $36 < $50"}
+{"strategy": "open", "signal_tx_hash": "0x3c0e8f98b3e9d74b94860b6d19982843e0e3e46831f866cdbe2712b86d165cf9", "whale_pseudonym": "RN1", "market_title": "Spread: Detroit Tigers (-1.5)", "reason": "鯨魚單 $9 < $50"}
+{"strategy": "open", "signal_tx_hash": "0x482698025413b042538a61c1af4d7850f893236c4ed9bbd569f8c94707c4ea9e", "whale_pseudonym": "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465", "market_title": "Will Saudi Arabia win on 2026-06-26?", "reason": "距結算 1.0h < 1.0h"}
