@@ -1239,3 +1239,4 @@
 {"strategy": "trend", "trend_id": "ukrainedecimatesrussianlogisticsbringingchaostocrimea", "trend_title": "Ukraine decimates Russian logistics, bringing chaos to Crimea", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "据伊朗presstv美国与伊朗在霍尔木兹海峡的沟通旨在防止军事升级", "trend_title": "据伊朗Press TV：美国与伊朗在霍尔木兹海峡的沟通旨在防止军事升级。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "李强会见柬埔寨人民党主席参议院主席洪森", "trend_title": "李强会见柬埔寨人民党主席、参议院主席洪森", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "stateofemergencydeclaredinoccupiedcrimeabyrussianinstalledauthorities", "trend_title": "State of Emergency Declared in Occupied Crimea by Russian-Installed Authorities", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
