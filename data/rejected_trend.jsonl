@@ -1229,3 +1229,4 @@
 {"strategy": "trend", "trend_id": "据黎巴嫩国家媒体以色列向黎巴嫩南部城镇空投传单要求居民撤离这是停火以来首次发出此类命令", "trend_title": "据黎巴嫩国家媒体：以色列向黎巴嫩南部城镇空投传单，要求居民撤离，这是停火以来首次发出此类命令。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "据俄新社俄罗斯前国防部长伊万诺夫去世", "trend_title": "据俄新社：俄罗斯前国防部长伊万诺夫去世。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "俄国防部击落660架乌克兰无人机", "trend_title": "俄国防部：击落660架乌克兰无人机", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "韩国将成立有能力与帕兰泰尔技术公司竞争的初创公司", "trend_title": "韩国将成立有能力与帕兰泰尔技术公司竞争的初创公司", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
