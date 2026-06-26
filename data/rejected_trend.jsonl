@@ -1155,3 +1155,4 @@
 {"strategy": "trend", "trend_id": "早报苹果市值一夜蒸发18万亿元美股七巨头集体下挫原油大涨超2黄金白银收涨", "trend_title": "【早报】苹果市值一夜蒸发1.8万亿元，美股七巨头集体下挫；原油大涨超2%，黄金、白银收涨", "market_title": "Will WTI Crude Oil (WTI) hit (HIGH) $120 in June?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "中金黄金牛市尚未结束转机可能已经不远", "trend_title": "中金：黄金牛市尚未结束 转机可能已经不远", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "美国高级外交官称对台军售不取决于中国", "trend_title": "美国高级外交官称对台军售不取决于中国", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "中国发布人工智能ai微短剧分类分层标准", "trend_title": "中国发布人工智能AI微短剧分类分层标准", "market_title": "", "reason": "LLM 判定不下注：中國發布AI微短劇分類分層標準，與候選市場中關於2026年哪個公司擁有最佳AI模型的預測並無直接關聯。此話題不提供判斷任"}
