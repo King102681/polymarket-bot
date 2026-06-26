@@ -1172,3 +1172,5 @@
 {"strategy": "trend", "trend_id": "美国专家透露特朗普不愿与泽连斯基进行对话", "trend_title": "美国专家透露特朗普不愿与泽连斯基进行对话", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
 {"strategy": "trend", "trend_id": "whoswhofromthetrumpadministration", "trend_title": "Who's who from the Trump administration", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "oilpricesclimbafterattackinstraitofhormuzhaltsevacuationplan", "trend_title": "Oil prices climb after attack in Strait of Hormuz halts evacuation plan", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "乌克兰自杀式无人艇首现亚太军演各方竞逐无人海战能力", "trend_title": "乌克兰自杀式无人艇首现亚太军演 各方竞逐无人海战能力", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "涉通过非法加密货币洗钱泰国对中国商人发逮捕令", "trend_title": "涉通过非法加密货币洗钱 泰国对中国商人发逮捕令", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
