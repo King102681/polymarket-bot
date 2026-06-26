@@ -1277,3 +1277,5 @@
 {"strategy": "trend", "trend_id": "advocateswarnofwiderangingimplicationsofussupremecourttpsruling", "trend_title": "Advocates warn of wide-ranging implications of US Supreme Court TPS ruling", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "美专家特朗普为不破坏对华关系在台湾问题上保持谨慎态度", "trend_title": "美专家：特朗普为不破坏对华关系在台湾问题上保持谨慎态度", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "showhnsmartmodelroutingdirectlyinclaudecodexandcursor", "trend_title": "Show HN: Smart model routing directly in Claude, Codex and Cursor", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "以色列驻美国大使重申以色列只有在彻底消除黎巴嫩的恐怖主义之后才能从黎巴嫩撤军", "trend_title": "以色列驻美国大使：重申以色列只有在彻底消除黎巴嫩的“恐怖主义”之后才能从黎巴嫩撤军。", "market_title": "", "reason": "信心 0.30 < 0.45：以色列大使的言論表明其撤軍條件非常嚴苛，短期內達成停火協議並撤軍的可能性降低，這"}
+{"strategy": "trend", "trend_id": "美国总统特朗普结束讲话", "trend_title": "美国总统特朗普结束讲话。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
