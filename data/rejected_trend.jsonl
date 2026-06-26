@@ -1272,3 +1272,5 @@
 {"strategy": "trend", "trend_id": "美国以色列黎巴嫩签署了三边框架协议", "trend_title": "美国、以色列、黎巴嫩签署了三边框架协议。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "以色列驻美国大使三边框架以实际表现为导向", "trend_title": "以色列驻美国大使：三边框架以实际表现为导向。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "israeliprosecutorschargesixsettlersafterwestbankmosqueattack", "trend_title": "Israeli prosecutors charge six settlers after West Bank mosque attack", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "美国总统特朗普批评纽约市的租金冻结措施", "trend_title": "美国总统特朗普批评纽约市的租金冻结措施。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "美国总统特朗普纽约市长马姆达尼看起来是个和蔼可亲的人他说他会确保人们的房租不会上涨尽管能源价格上涨了", "trend_title": "美国总统特朗普：（纽约）市长马姆达尼看起来是个和蔼可亲的人，他说他会确保人们的房租不会上涨，尽管能源价格上涨了。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
