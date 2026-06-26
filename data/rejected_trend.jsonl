@@ -1279,3 +1279,8 @@
 {"strategy": "trend", "trend_id": "showhnsmartmodelroutingdirectlyinclaudecodexandcursor", "trend_title": "Show HN: Smart model routing directly in Claude, Codex and Cursor", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "以色列驻美国大使重申以色列只有在彻底消除黎巴嫩的恐怖主义之后才能从黎巴嫩撤军", "trend_title": "以色列驻美国大使：重申以色列只有在彻底消除黎巴嫩的“恐怖主义”之后才能从黎巴嫩撤军。", "market_title": "", "reason": "信心 0.30 < 0.45：以色列大使的言論表明其撤軍條件非常嚴苛，短期內達成停火協議並撤軍的可能性降低，這"}
 {"strategy": "trend", "trend_id": "美国总统特朗普结束讲话", "trend_title": "美国总统特朗普结束讲话。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "市场消息马斯克获联邦贸易委员会批准收购spacex前员工创立的公司mesh", "trend_title": "市场消息：马斯克获联邦贸易委员会批准收购SpaceX前员工创立的公司Mesh。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "trumpblamesiranforfoolishstrikeoncargoshipinstraitofhormuz", "trend_title": "Trump blames Iran for ‘foolish’ strike on cargo ship in Strait of Hormuz", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "据以色列i24news黎巴嫩总统奥恩表示该框架协议标志着恢复黎巴嫩对其完整统一领土主权的第一步并将使黎巴嫩公民能够返回家园", "trend_title": "据以色列i24News：黎巴嫩总统奥恩表示，该框架协议标志着“恢复黎巴嫩对其完整、统一领土主权的第一步”，并将使黎巴嫩公民能够返回家园。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "俄罗斯2026年向中国出口明太子数量增长74", "trend_title": "俄罗斯2026年向中国出口明太子数量增长74%", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "据以色列i24news黎巴嫩总统奥恩感谢美国总统特朗普为促成黎巴嫩与以色列的谈判所做出的努力最终促成了今晚协议的签署", "trend_title": "据以色列i24News：黎巴嫩总统奥恩感谢美国总统特朗普为促成黎巴嫩与以色列的谈判所做出的努力，最终促成了今晚协议的签署。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
