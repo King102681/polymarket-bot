@@ -80072,3 +80072,5 @@
 {"strategy": "open", "signal_tx_hash": "0x6788373960154fbd271e1a3c08c91f9c518cd76dfec2ce5abcb076c2375db8c8", "whale_pseudonym": "swisstony", "market_title": "ITF Taipei: Chia Yi Tsao vs Gyeong Seo Lee", "reason": "鯨魚單 $5 < $50"}
 {"strategy": "open", "signal_tx_hash": "0xb81f1c9f35b2b98c88e837f71cf574d03f96bed09976c3548729072f4aa74044", "whale_pseudonym": "swisstony", "market_title": "Exact Score: Egypt 3 - 3 IR Iran?", "reason": "entry 0.999 不在 [0.15, 0.95]"}
 {"strategy": "open", "signal_tx_hash": "0x696e914a2709e5335dc47f4a82487f160cd92bcf75d2d6178d11e9bcf48a27d0", "whale_pseudonym": "swisstony", "market_title": "Exact Score: Egypt 3 - 3 IR Iran?", "reason": "entry 0.999 不在 [0.15, 0.95]"}
+{"strategy": "open", "signal_tx_hash": "0xd85284dc22f9079b94d28aebeff01a67c6392c39793bbd0ab2204b30dccdf4d3", "whale_pseudonym": "GoalLineGhost", "market_title": "Cabo Verde vs. Saudi Arabia: O/U 3.5", "reason": "entry 0.995 不在 [0.15, 0.95]"}
+{"strategy": "open", "signal_tx_hash": "0x782a502b5b79b8651fe279bd2365bbfc1c7d8e296583de6a493d22f2472948ff", "whale_pseudonym": "GoalLineGhost", "market_title": "Uruguay leading at halftime?", "reason": "鯨魚單 $49 < $50"}
