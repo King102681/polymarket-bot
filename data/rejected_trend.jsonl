@@ -1174,3 +1174,5 @@
 {"strategy": "trend", "trend_id": "oilpricesclimbafterattackinstraitofhormuzhaltsevacuationplan", "trend_title": "Oil prices climb after attack in Strait of Hormuz halts evacuation plan", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "乌克兰自杀式无人艇首现亚太军演各方竞逐无人海战能力", "trend_title": "乌克兰自杀式无人艇首现亚太军演 各方竞逐无人海战能力", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "涉通过非法加密货币洗钱泰国对中国商人发逮捕令", "trend_title": "涉通过非法加密货币洗钱 泰国对中国商人发逮捕令", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "foreverwarsisraelscycleofconflictshowsnofinishline", "trend_title": "Forever wars: Israel’s cycle of conflict shows no finish line", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "芯片制造商遭遇新一轮抛售韩国股市暴跌8", "trend_title": "芯片制造商遭遇新一轮抛售，韩国股市暴跌8%", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
