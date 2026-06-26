@@ -1189,3 +1189,4 @@
 {"strategy": "trend", "trend_id": "俄方支持白俄因乌军袭击平民召开安理会会议的请求", "trend_title": "俄方支持白俄因乌军袭击平民召开安理会会议的请求", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "习近平会孟加拉总理推进中缅孟经济走廊建设", "trend_title": "习近平会孟加拉总理：推进中缅孟经济走廊建设", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "习近平中国愿同柬建立安全伙伴关系赞赏清剿电诈决心", "trend_title": "习近平：中国愿同柬建立安全伙伴关系 赞赏清剿电诈决心", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "russiapreparingpossibleprovocationinbalticstatesorpolandsourcessay", "trend_title": "Russia preparing possible ‘provocation’ in Baltic states or Poland, sources say", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
