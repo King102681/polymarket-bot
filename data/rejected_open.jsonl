@@ -79878,3 +79878,4 @@
 {"strategy": "open", "signal_tx_hash": "0xe7eafc6ff9c0c79fa4e979ec1ffae8592399bc26c3695edb4aa7fabfa125d031", "whale_pseudonym": "swisstony", "market_title": "Spread: Senegal (-1.5)", "reason": "entry 0.995 不在 [0.15, 0.95]"}
 {"strategy": "open", "signal_tx_hash": "0x502c55d480e8e2279665a3084995b7460fe061754a9c288ce9960e38c4fcc994", "whale_pseudonym": "swisstony", "market_title": "Spread: Senegal (-1.5)", "reason": "entry 0.995 不在 [0.15, 0.95]"}
 {"strategy": "open", "signal_tx_hash": "0x7e5951f30345c0106708db6c3c0503470d7b3cd0991caee5c7d7713795c7aea2", "whale_pseudonym": "GoalLineGhost", "market_title": "Spread: France (-2.5)", "reason": "entry 0.995 不在 [0.15, 0.95]"}
+{"strategy": "open", "signal_tx_hash": "0x257ba373baad2651f0c78f62ba2fa6a5aacd66675b7cb7033cc502943ac76771", "whale_pseudonym": "GoalLineGhost", "market_title": "Will Colombia win on 2026-06-27?", "reason": "entry 0.995 不在 [0.15, 0.95]"}
