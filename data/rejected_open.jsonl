@@ -81870,3 +81870,4 @@
 {"strategy": "open", "signal_tx_hash": "0xb3a54e4cbf72bef3309665c52335fc85f6c5e7467539fce901c697a9e1bf9e16", "whale_pseudonym": "swisstony", "market_title": "Exact Score: Norway 1 - 3 France?", "reason": "entry 0.999 不在 [0.15, 0.95]"}
 {"strategy": "open", "signal_tx_hash": "0x8d43cabc393abc5cf305596c43e707f6471309e572f95329b401581bbd58d37d", "whale_pseudonym": "RN1", "market_title": "Will Qingdao Hainiu FC win on 2026-06-26?", "reason": "鯨魚單 $1 < $50"}
 {"strategy": "open", "signal_tx_hash": "0x3599035f71e6969edb35f00f750c40cc3c0c56012d2086a9a16ccacae1a5cffd", "whale_pseudonym": "RN1", "market_title": "Bad Homburg Open: Gabriela Ruse vs Karolina Muchova", "reason": "鯨魚單 $15 < $50"}
+{"strategy": "open", "signal_tx_hash": "0x3d94ae961bfbb674ca429927a8a450718fad89a3ac57f01f480d11ec15d9014f", "whale_pseudonym": "GoalLineGhost", "market_title": "Spread: Qingdao Hainiu FC (-1.5)", "reason": "鯨魚單 $1 < $50"}
