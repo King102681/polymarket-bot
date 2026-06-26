@@ -1269,3 +1269,5 @@
 {"strategy": "trend", "trend_id": "俄乌两国代表达成一致将共同探视战俘", "trend_title": "俄乌两国代表达成一致 将共同探视战俘", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "extrumpadviserjohnboltonpleadsguiltytomishandlingclassifieddocuments", "trend_title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
 {"strategy": "trend", "trend_id": "俄国家原子能公司总经理该公司愿解决涉及伊朗铀的任何技术难题", "trend_title": "俄国家原子能公司总经理：该公司愿解决涉及伊朗铀的任何技术难题", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "美国以色列黎巴嫩签署了三边框架协议", "trend_title": "美国、以色列、黎巴嫩签署了三边框架协议。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "以色列驻美国大使三边框架以实际表现为导向", "trend_title": "以色列驻美国大使：三边框架以实际表现为导向。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
