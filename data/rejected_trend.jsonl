@@ -1382,3 +1382,5 @@
 {"strategy": "trend", "trend_id": "欧洲央行执委价格压力仍可能强于预期预计将进一步加息", "trend_title": "欧洲央行执委：价格压力仍可能强于预期 预计将进一步加息", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "媒体伊朗行动后越来越多船只希望获得霍尔木兹海峡通行许可", "trend_title": "媒体：伊朗行动后越来越多船只希望获得霍尔木兹海峡通行许可", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "黎真主党领导人谴责美以黎框架协议称其无效", "trend_title": "黎真主党领导人谴责美以黎框架协议 称其无效", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "媒体美军因过时情报袭击伊朗女子学校", "trend_title": "媒体：美军因过时情报袭击伊朗女子学校", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
+{"strategy": "trend", "trend_id": "塞浦路斯总统塞浦路斯欢迎美国促成的以色列与黎巴嫩之间的框架协议并对美国在推动这一关键举措方面的努力表示赞赏", "trend_title": "塞浦路斯总统：塞浦路斯欢迎美国促成的以色列与黎巴嫩之间的框架协议，并对美国在推动这一关键举措方面的努力表示赞赏。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
