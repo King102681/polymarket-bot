@@ -1391,3 +1391,4 @@
 {"strategy": "trend", "trend_id": "俄国防部俄军无人机打击一座为乌军服务的炼油厂", "trend_title": "俄国防部：俄军无人机打击一座为乌军服务的炼油厂", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "美伊紧张局势升级之际有油轮在霍尔木兹海峡遭袭", "trend_title": "美伊紧张局势升级之际，有油轮在霍尔木兹海峡遭袭", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "市场消息伊朗在霍尔木兹海峡袭击了一艘油轮造成损坏但没有人员伤亡", "trend_title": "市场消息：伊朗在霍尔木兹海峡袭击了一艘油轮。造成损坏，但没有人员伤亡。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "法国外交部愿为黎巴嫩与以色列之间框架协议的落地推行作出贡献", "trend_title": "法国外交部：愿为黎巴嫩与以色列之间框架协议的落地推行作出贡献。", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
