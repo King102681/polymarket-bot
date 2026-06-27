@@ -1329,3 +1329,6 @@
 {"strategy": "trend", "trend_id": "委内瑞拉官员石油生产未受地震影响", "trend_title": "委内瑞拉官员：石油生产未受地震影响", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "俄前防长伊万诺夫去世普京哀悼", "trend_title": "俄前防长伊万诺夫去世，普京哀悼", "market_title": "", "reason": "LLM 判定不下注：此話題關於俄羅斯前防長去世，與俄烏戰爭的停火協議市場無直接關聯，且話題本身未提供任何關於停火進展的新資訊。"}
 {"strategy": "trend", "trend_id": "市场消息挪威石油服务行业封锁正式生效海上钻探受到冲击", "trend_title": "市场消息：挪威石油服务行业封锁正式生效，海上钻探受到冲击。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "韩国再降一名就出局", "trend_title": "韩国再降一名就出局", "market_title": "", "reason": "LLM 判定不下注：該熱門話題與運動賽事有關，但沒有任何一個候選市場是關於運動賽事的。候選市場多為政治、金融或地緣政治相關，因此無法判斷。"}
+{"strategy": "trend", "trend_id": "iransettoprogressatworldcup", "trend_title": "Iran set to progress at World Cup", "market_title": "", "reason": "LLM 判定不下注：熱門話題是關於伊朗在世界盃足球賽的表現，這與核協議無關。因此，沒有適合的市場。"}
+{"strategy": "trend", "trend_id": "usstrikesoniranafterattackoncargoship", "trend_title": "US strikes on Iran after attack on cargo ship", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
