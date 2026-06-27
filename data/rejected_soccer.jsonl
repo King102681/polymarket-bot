@@ -78701,3 +78701,6 @@
 {"strategy": "soccer", "signal_tx_hash": "0x9d2be70fa5ab048ff9a1e5e97c736c591fe1523b1189915cf8c453f204d05d1a", "whale_pseudonym": "swisstony", "market_title": "Spread: Henan FC (-2.5)", "reason": "鯨魚單 $98 < $100"}
 {"strategy": "soccer", "signal_tx_hash": "0x5fb14206e64329510b8dc1c1f9e95515d5423ee34d8f7fb343d44edf853b00bd", "whale_pseudonym": "swisstony", "market_title": "Spread: Henan FC (-2.5)", "reason": "鯨魚單 $1 < $100"}
 {"strategy": "soccer", "signal_tx_hash": "0xe13af47610f1d393bfaf5c66dfb01b845f406a45359d234efcdf839cd111b9ba", "whale_pseudonym": "swisstony", "market_title": "Spread: Henan FC (-2.5)", "reason": "鯨魚單 $98 < $100"}
+{"strategy": "soccer", "signal_tx_hash": "0x8f3b36c38c84f59a87f38dae62f29b1d3a995748d84e5408c535821da9837e50", "whale_pseudonym": "RN1", "market_title": "Shenzhen Xinpengcheng FC vs. Chengdu Rongcheng FC: O/U 4.5", "reason": "鯨魚單 $3 < $100"}
+{"strategy": "soccer", "signal_tx_hash": "0x39e7debdc500693e155268d648c0870da2b693cf0524376351f813dcf24ab129", "whale_pseudonym": "RN1", "market_title": "Spread: Chengdu Rongcheng FC (-2.5)", "reason": "鯨魚單 $2 < $100"}
+{"strategy": "soccer", "signal_tx_hash": "0x83044c33498078713c4682d2c0c370c4a35fab6070b1eaefd97795cc24e3bebf", "whale_pseudonym": "RN1", "market_title": "Shenzhen Xinpengcheng FC vs. Chengdu Rongcheng FC: O/U 2.5", "reason": "鯨魚單 $5 < $100"}
