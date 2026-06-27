@@ -1328,3 +1328,4 @@
 {"strategy": "trend", "trend_id": "usstrikesonirantestfragileceasefire", "trend_title": "US strikes on Iran test fragile ceasefire", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "委内瑞拉官员石油生产未受地震影响", "trend_title": "委内瑞拉官员：石油生产未受地震影响", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "俄前防长伊万诺夫去世普京哀悼", "trend_title": "俄前防长伊万诺夫去世，普京哀悼", "market_title": "", "reason": "LLM 判定不下注：此話題關於俄羅斯前防長去世，與俄烏戰爭的停火協議市場無直接關聯，且話題本身未提供任何關於停火進展的新資訊。"}
+{"strategy": "trend", "trend_id": "市场消息挪威石油服务行业封锁正式生效海上钻探受到冲击", "trend_title": "市场消息：挪威石油服务行业封锁正式生效，海上钻探受到冲击。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
