@@ -1327,3 +1327,4 @@
 {"strategy": "trend", "trend_id": "韩国出线还需剩余4场满足2个条件", "trend_title": "韩国出线还需剩余4场满足2个条件", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於韓國國家足球隊在即將舉行的比賽中的出線條件，這與任何一個候選市場的內容都無關。因此，無法判斷市場指數、交"}
 {"strategy": "trend", "trend_id": "usstrikesonirantestfragileceasefire", "trend_title": "US strikes on Iran test fragile ceasefire", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "委内瑞拉官员石油生产未受地震影响", "trend_title": "委内瑞拉官员：石油生产未受地震影响", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "俄前防长伊万诺夫去世普京哀悼", "trend_title": "俄前防长伊万诺夫去世，普京哀悼", "market_title": "", "reason": "LLM 判定不下注：此話題關於俄羅斯前防長去世，與俄烏戰爭的停火協議市場無直接關聯，且話題本身未提供任何關於停火進展的新資訊。"}
