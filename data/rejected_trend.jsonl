@@ -1379,3 +1379,6 @@
 {"strategy": "trend", "trend_id": "专家真主党拒绝承认与以色列的协议并指责黎巴嫩政府投降", "trend_title": "专家：真主党拒绝承认与以色列的协议并指责黎巴嫩政府投降", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "israellebanondealtiesceasefiretohezbollahdisarmamentwillitwork", "trend_title": "Israel-Lebanon deal ties ceasefire to Hezbollah disarmament: Will it work?", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "欧洲央行执委施纳贝尔预计欧洲央行将进一步加息", "trend_title": "欧洲央行执委施纳贝尔：预计欧洲央行将进一步加息。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "欧洲央行执委价格压力仍可能强于预期预计将进一步加息", "trend_title": "欧洲央行执委：价格压力仍可能强于预期 预计将进一步加息", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "媒体伊朗行动后越来越多船只希望获得霍尔木兹海峡通行许可", "trend_title": "媒体：伊朗行动后越来越多船只希望获得霍尔木兹海峡通行许可", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "黎真主党领导人谴责美以黎框架协议称其无效", "trend_title": "黎真主党领导人谴责美以黎框架协议 称其无效", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
