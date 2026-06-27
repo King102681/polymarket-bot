@@ -1375,3 +1375,4 @@
 {"strategy": "trend", "trend_id": "一油轮在霍尔木兹海峡遭不明投射物击中", "trend_title": "一油轮在霍尔木兹海峡遭“不明投射物”击中", "market_title": "Strait of Hormuz traffic returns to normal by July 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "国际观察员已上调霍尔木兹海峡航运安全威胁等级", "trend_title": "国际观察员已上调霍尔木兹海峡航运安全威胁等级", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "美国政府或最早于下周解除对anthropicfable5模型的限制", "trend_title": "美国政府或最早于下周解除对Anthropic Fable 5模型的限制", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "pickupthephoneirgcappearstorebuffusstraitofhormuzhotline", "trend_title": "‘Pick up the phone’: IRGC appears to rebuff US Strait of Hormuz ‘hotline’", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
