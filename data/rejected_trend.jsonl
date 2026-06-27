@@ -1310,3 +1310,7 @@
 {"strategy": "trend", "trend_id": "anthropicmythos5获准向美国机构重新部署公众版fable5恢复在即", "trend_title": "Anthropic：Mythos 5获准向美国机构重新部署，公众版FABLE 5恢复在即", "market_title": "Will Anthropic IPO by September 15, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "习近平就委内瑞拉发生强烈地震向委代总统致慰问电", "trend_title": "习近平就委内瑞拉发生强烈地震向委代总统致慰问电", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "早报美军再次对伊朗发动打击美股半导体指数重挫529油价走低黄金收涨法国41击败挪威小组第一出线", "trend_title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "中国官媒欧盟缺诚意准备边谈边打忧中欧贸易战一触即发", "trend_title": "中国官媒：欧盟缺诚意准备边谈边打 忧中欧贸易战一触即发", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
+{"strategy": "trend", "trend_id": "美副总统威胁若伊朗诉诸暴力将遭武力回击", "trend_title": "美副总统威胁：若伊朗诉诸暴力，将遭武力回击", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "万斯警告伊朗美国将以暴制暴", "trend_title": "万斯警告伊朗：美国将以暴制暴", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "美伊签协议后美军首次开火称空袭伊朗回应商船在霍尔木兹遭袭伊方称挫败美袭击将严厉回应", "trend_title": "美伊签协议后美军首次开火，称空袭伊朗回应商船在霍尔木兹遭袭，伊方称挫败美袭击、将严厉回应", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
