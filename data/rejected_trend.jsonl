@@ -1355,3 +1355,5 @@
 {"strategy": "trend", "trend_id": "40年来从未见过的景象数据中心与内存成本激增正在推动第三波通胀浪潮", "trend_title": "40年来从未见过的景象！数据中心与内存成本激增正在推动第三波通胀浪潮", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是數據中心與記憶體成本推升通膨，但候選市場皆為六月份的年通膨率預測，且數值範圍與話題預測的潛在通膨幅度（如4"}
 {"strategy": "trend", "trend_id": "伊朗约三成民众将参加已故最高领袖葬礼", "trend_title": "伊朗约三成民众将参加已故最高领袖葬礼", "market_title": "", "reason": "LLM 判定不下注：伊朗最高领袖的葬礼与伊朗核协议的最终达成没有直接关联，因此选择-1。"}
 {"strategy": "trend", "trend_id": "俄国防部俄军军解放第聂伯罗彼得罗夫斯克州一居民点", "trend_title": "俄国防部：俄军军解放第聂伯罗彼得罗夫斯克州一居民点", "market_title": "Russia x Ukraine ceasefire agreement by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "据伊朗伊斯兰共和国通讯社阿曼与埃及外长通话讨论了双边关系地区局势及霍尔木兹海峡的航行安全", "trend_title": "据伊朗伊斯兰共和国通讯社：阿曼与埃及外长通话，讨论了双边关系、地区局势及霍尔木兹海峡的航行安全。", "market_title": "", "reason": "LLM 判定不下注：这条话题是关于阿曼和埃及外长讨论地区局势和霍尔木兹海峡航行安全，与美国和伊朗核协议的到期时间没有直接关联。因此，无法判断"}
+{"strategy": "trend", "trend_id": "俄国防部乌军一天在特别军事行动中损失约1340名军人", "trend_title": "俄国防部：乌军一天在特别军事行动中损失约1340名军人", "market_title": "Russia x Ukraine ceasefire agreement by June 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
