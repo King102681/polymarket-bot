@@ -1314,3 +1314,4 @@
 {"strategy": "trend", "trend_id": "美副总统威胁若伊朗诉诸暴力将遭武力回击", "trend_title": "美副总统威胁：若伊朗诉诸暴力，将遭武力回击", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "万斯警告伊朗美国将以暴制暴", "trend_title": "万斯警告伊朗：美国将以暴制暴", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "美伊签协议后美军首次开火称空袭伊朗回应商船在霍尔木兹遭袭伊方称挫败美袭击将严厉回应", "trend_title": "美伊签协议后美军首次开火，称空袭伊朗回应商船在霍尔木兹遭袭，伊方称挫败美袭击、将严厉回应", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "台媒韩国瑜结束访美前与众院议长会面", "trend_title": "台媒：韩国瑜结束访美前与众院议长会面", "market_title": "", "reason": "LLM 判定不下注：這條話題是關於台灣媒體報導韓國瑜在美國的會面，但候選市場全部是關於韓國或朝鮮半島的政治、軍事或經濟決策，與話題內容完全無"}
