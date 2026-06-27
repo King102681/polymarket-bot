@@ -83736,3 +83736,5 @@
 {"strategy": "soccer", "signal_tx_hash": "0x77bf5d624337e11f97d72255957bdcaba685cc694413bfb8c54659216c8541d5", "whale_pseudonym": "swisstony", "market_title": "Spread: Pittsburgh Pirates (-1.5)", "reason": "運動 baseball 不在 {'soccer'}"}
 {"strategy": "soccer", "signal_tx_hash": "0x658d8a5c1739e716a1fa10bf299d3c630f1bbb11c309db0554f81ee37b7abdb2", "whale_pseudonym": "swisstony", "market_title": "Exact Score: Colombia 3 - 3 Portugal?", "reason": "距結算 0.3h < 0.5h"}
 {"strategy": "soccer", "signal_tx_hash": "0xde7ad0d175d2d63878d24c05990b4e982181f980829cd050c161c23838cc068c", "whale_pseudonym": "swisstony", "market_title": "Exact Score: Colombia 3 - 3 Portugal?", "reason": "距結算 0.3h < 0.5h"}
+{"strategy": "soccer", "signal_tx_hash": "0xbf77aa44127616ca41ee2ae75a638e65694a33da2b27c9ae7d8ece7a3e16ce72", "whale_pseudonym": "RN1", "market_title": "Spread: Washington Nationals (-1.5)", "reason": "鯨魚單 $1 < $100"}
+{"strategy": "soccer", "signal_tx_hash": "0x2a2657e8e1fee986620e4aaa818ec57455a9fa6d3dde4958d971ff0c6a7669a4", "whale_pseudonym": "RN1", "market_title": "Washington Nationals vs. Baltimore Orioles", "reason": "運動 baseball 不在 {'soccer'}"}
