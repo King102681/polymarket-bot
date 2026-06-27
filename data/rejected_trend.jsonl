@@ -1316,3 +1316,6 @@
 {"strategy": "trend", "trend_id": "美伊签协议后美军首次开火称空袭伊朗回应商船在霍尔木兹遭袭伊方称挫败美袭击将严厉回应", "trend_title": "美伊签协议后美军首次开火，称空袭伊朗回应商船在霍尔木兹遭袭，伊方称挫败美袭击、将严厉回应", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "台媒韩国瑜结束访美前与众院议长会面", "trend_title": "台媒：韩国瑜结束访美前与众院议长会面", "market_title": "", "reason": "LLM 判定不下注：這條話題是關於台灣媒體報導韓國瑜在美國的會面，但候選市場全部是關於韓國或朝鮮半島的政治、軍事或經濟決策，與話題內容完全無"}
 {"strategy": "trend", "trend_id": "俄代理代表安理会将于6月29日讨论乌军袭击白俄大巴事件", "trend_title": "俄代理代表：安理会将于6月29日讨论乌军袭击白俄大巴事件", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "美国允许anthropic向可信任合作伙伴发布mythos模型", "trend_title": "美国允许Anthropic向“可信任”合作伙伴发布Mythos模型", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "专家世界体操联合会必须惩罚对俄罗斯运动员的歧视行为", "trend_title": "专家：世界体操联合会必须惩罚对俄罗斯运动员的歧视行为", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "伊朗革命卫队称打击区内美军据点回应美军新一轮袭击", "trend_title": "伊朗革命卫队称打击区内美军据点 回应美军新一轮袭击", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
