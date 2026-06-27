@@ -1332,3 +1332,5 @@
 {"strategy": "trend", "trend_id": "韩国再降一名就出局", "trend_title": "韩国再降一名就出局", "market_title": "", "reason": "LLM 判定不下注：該熱門話題與運動賽事有關，但沒有任何一個候選市場是關於運動賽事的。候選市場多為政治、金融或地緣政治相關，因此無法判斷。"}
 {"strategy": "trend", "trend_id": "iransettoprogressatworldcup", "trend_title": "Iran set to progress at World Cup", "market_title": "", "reason": "LLM 判定不下注：熱門話題是關於伊朗在世界盃足球賽的表現，這與核協議無關。因此，沒有適合的市場。"}
 {"strategy": "trend", "trend_id": "usstrikesoniranafterattackoncargoship", "trend_title": "US strikes on Iran after attack on cargo ship", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "俄国防部俄军切断苏梅州为乌军服务企业的供电", "trend_title": "俄国防部：俄军切断苏梅州为乌军服务企业的供电", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "韩军方十余架中俄军机一度进入韩防识区", "trend_title": "韩军方：十余架中俄军机一度进入韩防识区", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
