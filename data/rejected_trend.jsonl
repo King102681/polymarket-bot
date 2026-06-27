@@ -1362,3 +1362,5 @@
 {"strategy": "trend", "trend_id": "巴林外交部伊朗袭击巴林领土", "trend_title": "巴林外交部：伊朗袭击巴林领土", "market_title": "", "reason": "LLM 判定不下注：該新聞是關於伊朗襲擊巴林領土，而候選市場全部是關於美伊核協議的達成時間。兩者之間沒有直接關聯，因此挑選-1。"}
 {"strategy": "trend", "trend_id": "德国外交部长以色列与黎巴嫩之间的协议增强了两国的安全并为解决持续数十年的冲突提供了机会", "trend_title": "德国外交部长：以色列与黎巴嫩之间的协议增强了两国的安全，并为解决持续数十年的冲突提供了机会。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "couldisraelscomingelectionseeanendtonetanyahuspoliticalcareer", "trend_title": "Could Israel’s coming election see an end to Netanyahu’s political career?", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是以色列總理內塔尼亞胡的政治生涯，與以哈停火協議沒有直接關聯。"}
+{"strategy": "trend", "trend_id": "据伊朗国家电视台报道在未经授权的船只遭到警告射击后更多船舶正寻求伊朗方面的许可以通过霍尔木兹海峡", "trend_title": "据伊朗国家电视台报道，在未经授权的船只遭到警告射击后，更多船舶正寻求伊朗方面的许可，以通过霍尔木兹海峡。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "伊朗外交部美国对伊朗打击违反谅解备忘录", "trend_title": "伊朗外交部：美国对伊朗打击违反谅解备忘录", "market_title": "", "reason": "信心 0.40 < 0.45：伊朗外交部聲稱美國的打擊違反了諒解備忘錄，這通常會讓雙方關係更加緊張，不利於核協"}
