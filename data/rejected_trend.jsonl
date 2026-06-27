@@ -1376,3 +1376,6 @@
 {"strategy": "trend", "trend_id": "国际观察员已上调霍尔木兹海峡航运安全威胁等级", "trend_title": "国际观察员已上调霍尔木兹海峡航运安全威胁等级", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "美国政府或最早于下周解除对anthropicfable5模型的限制", "trend_title": "美国政府或最早于下周解除对Anthropic Fable 5模型的限制", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "pickupthephoneirgcappearstorebuffusstraitofhormuzhotline", "trend_title": "‘Pick up the phone’: IRGC appears to rebuff US Strait of Hormuz ‘hotline’", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "专家真主党拒绝承认与以色列的协议并指责黎巴嫩政府投降", "trend_title": "专家：真主党拒绝承认与以色列的协议并指责黎巴嫩政府投降", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "israellebanondealtiesceasefiretohezbollahdisarmamentwillitwork", "trend_title": "Israel-Lebanon deal ties ceasefire to Hezbollah disarmament: Will it work?", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "欧洲央行执委施纳贝尔预计欧洲央行将进一步加息", "trend_title": "欧洲央行执委施纳贝尔：预计欧洲央行将进一步加息。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
