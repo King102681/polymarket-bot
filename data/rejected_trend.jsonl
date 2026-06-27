@@ -1325,3 +1325,4 @@
 {"strategy": "trend", "trend_id": "约2500名海员已撤离霍尔木兹海峡", "trend_title": "约2500名海员已撤离霍尔木兹海峡", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "媒体伊朗袭击美军在中东的多处驻地", "trend_title": "媒体：伊朗袭击美军在中东的多处驻地", "market_title": "", "reason": "LLM 判定不下注：該話題是關於伊朗襲擊美軍駐地，與核協議的市場無關。"}
 {"strategy": "trend", "trend_id": "韩国出线还需剩余4场满足2个条件", "trend_title": "韩国出线还需剩余4场满足2个条件", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於韓國國家足球隊在即將舉行的比賽中的出線條件，這與任何一個候選市場的內容都無關。因此，無法判斷市場指數、交"}
+{"strategy": "trend", "trend_id": "usstrikesonirantestfragileceasefire", "trend_title": "US strikes on Iran test fragile ceasefire", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
