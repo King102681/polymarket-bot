@@ -1384,3 +1384,4 @@
 {"strategy": "trend", "trend_id": "黎真主党领导人谴责美以黎框架协议称其无效", "trend_title": "黎真主党领导人谴责美以黎框架协议 称其无效", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "媒体美军因过时情报袭击伊朗女子学校", "trend_title": "媒体：美军因过时情报袭击伊朗女子学校", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
 {"strategy": "trend", "trend_id": "塞浦路斯总统塞浦路斯欢迎美国促成的以色列与黎巴嫩之间的框架协议并对美国在推动这一关键举措方面的努力表示赞赏", "trend_title": "塞浦路斯总统：塞浦路斯欢迎美国促成的以色列与黎巴嫩之间的框架协议，并对美国在推动这一关键举措方面的努力表示赞赏。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "波兰国防部波兰依靠欧盟的贷款把武器生产增加近15倍", "trend_title": "波兰国防部：波兰依靠欧盟的贷款把武器生产增加近1.5倍", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於波蘭增加武器生產，與候選市場的羅馬尼亞總理任命、西班牙提前選舉、冰島加入歐盟公投等議題無關。"}
