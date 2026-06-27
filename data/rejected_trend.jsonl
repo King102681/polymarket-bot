@@ -1303,3 +1303,6 @@
 {"strategy": "trend", "trend_id": "whatistheframeworkagreementsignedbyisraelandlebanon", "trend_title": "What is the framework agreement signed by Israel and Lebanon?", "market_title": "", "reason": "LLM 判定不下注：此話題是關於以色列與黎巴嫩簽署的協議，而候選市場是關於以色列與哈瑪斯停火協議的取消。兩者主題不符，故無法判斷。"}
 {"strategy": "trend", "trend_id": "半导体拖累美股标普纳指五连跌美光跌6金银走高原油一度跌4", "trend_title": "半导体拖累美股，标普、纳指五连跌，美光跌6%，金银走高，原油一度跌4%", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "伊朗伊斯兰革命卫队称将对美国最新袭击做出迅速果断回应", "trend_title": "伊朗伊斯兰革命卫队称将对美国最新袭击做出迅速果断回应", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "spacex将于7月7日起纳入纳斯达克100指数", "trend_title": "SpaceX将于7月7日起纳入纳斯达克100指数", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "纳斯达克交易所spacexspcxo将于2026年7月7日加入纳斯达克100指数", "trend_title": "纳斯达克交易所：SpaceX(SPCX.O)将于2026年7月7日加入纳斯达克100指数。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "伊朗革命卫队称打击美军驻点以回应沿海地区遭袭", "trend_title": "伊朗革命卫队称打击美军驻点以回应沿海地区遭袭", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
