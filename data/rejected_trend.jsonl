@@ -1396,3 +1396,4 @@
 {"strategy": "trend", "trend_id": "据cnn美国官员称当伊朗声称对中东的美军目标发动袭击时美国探测到几架无人机但这些无人机并未击中目标", "trend_title": "据CNN：美国官员称，当伊朗声称对中东的美军目标发动袭击时，美国“探测到几架无人机”，但这些无人机并未击中目标。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "美国国务院美韩日三国已讨论朝鲜无核化问题", "trend_title": "美国国务院：美韩日三国已讨论朝鲜无核化问题", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "howisframeworkagreementwithlebanonviewedinisrael", "trend_title": "How is framework agreement with Lebanon viewed in Israel?", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "以色列总理内塔尼亚胡我们正在打破伊朗的外交轴心我们已达成一项框架协议使我们能够结束与黎巴嫩的冲突", "trend_title": "以色列总理内塔尼亚胡：我们正在打破伊朗的外交轴心。我们已达成一项框架协议，使我们能够结束与黎巴嫩的冲突。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
