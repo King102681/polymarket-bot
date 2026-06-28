@@ -1454,3 +1454,4 @@
 {"strategy": "trend", "trend_id": "乌军袭击俄境内两家炼油厂", "trend_title": "乌军袭击俄境内两家炼油厂", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "英伟达ai版图再扩张数据中心以太网交换机收入暴增193悄然登顶全球第一", "trend_title": "英伟达AI版图再扩张！数据中心以太网交换机收入暴增193%，悄然登顶全球第一", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是英偉達數據中心以太網交換機的收入增長，並非與提供的 Ornn H100 Index 指數直接相關的市場。"}
 {"strategy": "trend", "trend_id": "iranattackskuwaitandbahraininresponsetousstrikes", "trend_title": "Iran attacks Kuwait and Bahrain in response to US strikes", "market_title": "", "reason": "LLM 判定不下注：當前熱門話題是伊朗攻擊科威特和巴林，以回應美國的襲擊。此事件與候選市場中所有關於「美伊最終核協議」的到期日預測市場均無直"}
+{"strategy": "trend", "trend_id": "zelenskyconfirmsdronestrikesontworussianoilrefineries", "trend_title": "Zelensky Confirms Drone Strikes on Two Russian Oil Refineries", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
