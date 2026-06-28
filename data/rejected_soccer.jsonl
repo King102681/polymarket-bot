@@ -87305,3 +87305,4 @@
 {"strategy": "soccer", "signal_tx_hash": "0x20478455d2f3da59a816adc30f9db0fddfe5a293c9ab23da99e8d929132f90c0", "whale_pseudonym": "swisstony", "market_title": "Exact Score: Brazil 1 - 3 Japan?", "reason": "entry 0.999 不在 [0.55, 0.8]"}
 {"strategy": "soccer", "signal_tx_hash": "0x95aff7e590945d0105941d4d2cae1c26de66206d5029bb91dc08f5d4d73540db", "whale_pseudonym": "swisstony", "market_title": "Exact Score: Brazil 1 - 3 Japan?", "reason": "鯨魚單 $59 < $100"}
 {"strategy": "soccer", "signal_tx_hash": "0xfb297295d273887afee0d215402275650150a18aaea62e124282372a0d273d6a", "whale_pseudonym": "swisstony", "market_title": "South Africa vs. Canada: O/U 5.5", "reason": "entry 0.999 不在 [0.55, 0.8]"}
+{"strategy": "soccer", "signal_tx_hash": "0x44c7703539c849a692e8ee84d9a6326d39cc7fc0c4566f730224eed68e226706", "whale_pseudonym": "swisstony", "market_title": "Exact Score: Côte d'Ivoire 2 - 0 Norway?", "reason": "entry 0.995 不在 [0.55, 0.8]"}
