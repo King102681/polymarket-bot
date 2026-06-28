@@ -1475,3 +1475,5 @@
 {"strategy": "trend", "trend_id": "埃涅尔戈达尔市长谴责乌克兰军队夜间挑衅", "trend_title": "埃涅尔戈达尔市长谴责乌克兰军队夜间挑衅", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "韩国总统世界杯出局太荒唐", "trend_title": "韩国总统：世界杯出局太荒唐", "market_title": "", "reason": "LLM 判定不下注：該熱門話題討論的是韓國總統對世界杯出局的評價，這與韓國央行利率決策或朝鮮半島軍事局勢無關，因此沒有對應的市場。"}
 {"strategy": "trend", "trend_id": "澳洲联储主席布洛克发表讲话将于十分钟后公布", "trend_title": "澳洲联储主席布洛克发表讲话将于十分钟后公布。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "俄罗斯选手在中国举行的柔道大奖赛上夺金", "trend_title": "俄罗斯选手在中国举行的柔道大奖赛上夺金", "market_title": "", "reason": "信心 0.10 < 0.45：话题是俄罗斯选手夺金，与俄乌停火协议关系不大，市场信息价值低，且当前停火协议的Y"}
+{"strategy": "trend", "trend_id": "araghchistraitofhormuzremainsunderiraniancontrolfor30days", "trend_title": "Araghchi: Strait of Hormuz remains under Iranian control for 30 days", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
