@@ -1445,3 +1445,4 @@
 {"strategy": "trend", "trend_id": "欧盟外交与安全政策高级代表卡拉斯欧盟已为受委内瑞拉地震影响的社区动员500万欧元的紧急援助", "trend_title": "欧盟外交与安全政策高级代表卡拉斯：欧盟已为受委内瑞拉地震影响的社区动员500万欧元的紧急援助。", "market_title": "", "reason": "LLM 判定不下注：此話題是關於歐盟對委內瑞拉地震的援助，與所有候選市場（羅馬尼亞總理任命、西班牙提前選舉、冰島入歐）均無關。"}
 {"strategy": "trend", "trend_id": "iranwarday121iranattacksbahrainkuwaitasusstrikesnearhormuz", "trend_title": "Iran war day 121: Iran attacks Bahrain, Kuwait as US strikes near Hormuz", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "欧盟外交与安全政策高级代表卡拉斯关于委内瑞拉地震欧盟的哥白尼卫星系统正在支持紧急救援人员", "trend_title": "欧盟外交与安全政策高级代表卡拉斯：（关于委内瑞拉地震）欧盟的哥白尼卫星系统正在支持紧急救援人员。", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於歐盟對委內瑞拉地震的援助，這與任何一個候選市場（羅馬尼亞總理任命、西班牙提前大選、冰島入盟公投）都沒"}
+{"strategy": "trend", "trend_id": "以军称在黎南部打死数名真主党武装人员", "trend_title": "以军称在黎南部打死数名真主党武装人员", "market_title": "Israel x Hezbollah permanent peace deal by July 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
