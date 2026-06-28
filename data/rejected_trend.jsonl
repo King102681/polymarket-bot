@@ -1440,3 +1440,5 @@
 {"strategy": "trend", "trend_id": "因算力供不应求谷歌限制meta对geminiai模型的使用", "trend_title": "因算力供不应求，谷歌限制Meta对Gemini AI模型的使用", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "伊朗官员称伊朗已与阿联酋恢复贸易", "trend_title": "伊朗官员称伊朗已与阿联酋恢复贸易", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "usandiranexchangestrikesandaccuseeachotherofviolatingceasefire", "trend_title": "US and Iran exchange strikes and accuse each other of violating ceasefire", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "韩日防长重申承诺对朝鲜半岛无核化", "trend_title": "韩日防长重申，承诺对朝鲜半岛无核化", "market_title": "", "reason": "LLM 判定不下注：該話題關於韓國和日本國防部長重申對朝鮮半島無核化的承諾，這是一項長期性的外交立場，並未提供任何可能影響近期朝鮮半島局勢或"}
+{"strategy": "trend", "trend_id": "巴林内政部有居民楼因伊朗袭击受损未造成人员死亡", "trend_title": "巴林内政部：有居民楼因伊朗袭击受损，未造成人员死亡。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
