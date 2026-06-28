@@ -1489,3 +1489,4 @@
 {"strategy": "trend", "trend_id": "普京西方精英试图在俄罗斯制造内部动荡但不会成功", "trend_title": "普京：西方精英试图在俄罗斯制造内部动荡但不会成功", "market_title": "Russia x Ukraine ceasefire agreement by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "ukrainesaysitattackedtworussianoilrefineries", "trend_title": "Ukraine says it attacked two Russian oil refineries", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "美常驻联合国代表伊朗要么选择负责任要么选择毁灭", "trend_title": "美常驻联合国代表：伊朗要么选择负责任，要么选择毁灭", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "irgcdoublesdownasiranusmoujeopardisedbyhormuzstrikes", "trend_title": "IRGC doubles down as Iran-US MoU jeopardised by Hormuz strikes", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
