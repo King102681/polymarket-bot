@@ -73375,3 +73375,5 @@
 {"strategy": "sports_live", "signal_tx_hash": "0x5cba8a77b02a5343340274bce769a4fa9b1a3476bbd8ae31f65e07ef62c3f994", "whale_pseudonym": "swisstony", "market_title": "Spread: South Africa (-5.5)", "reason": "鯨魚單 $20 < $500"}
 {"strategy": "sports_live", "signal_tx_hash": "0xd2cdf4f58d9be9a8b1114981feb9ee4c5e67876fcf2b154a23d45a36f3502777", "whale_pseudonym": "swisstony", "market_title": "Spread: South Africa (-5.5)", "reason": "鯨魚單 $500 < $500"}
 {"strategy": "sports_live", "signal_tx_hash": "0xf9884d1be3cb9c754854c4fc09d85dbbda1788c471cf642c7eab83e3e8066b12", "whale_pseudonym": "swisstony", "market_title": "Spread: Japan (-5.5)", "reason": "鯨魚單 $500 < $500"}
+{"strategy": "sports_live", "signal_tx_hash": "0x9b71d3acdaa46e98d6b77af563e158a22e965f8904ea620e3406f2ff9ee6e428", "whale_pseudonym": "swisstony", "market_title": "KBO: Kia Tigers vs. Doosan Bears", "reason": "鯨魚單 $1 < $500"}
+{"strategy": "sports_live", "signal_tx_hash": "0xb9b1fc3dc3d91f7514cd8b80a86a00eddc5c623b505c145ca2f10b7fef5be3b5", "whale_pseudonym": "swisstony", "market_title": "Côte d'Ivoire vs. Norway: O/U 5.5", "reason": "鯨魚單 $455 < $500"}
