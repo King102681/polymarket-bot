@@ -1434,3 +1434,5 @@
 {"strategy": "trend", "trend_id": "声明显示伊朗外交部谴责美国对南伊朗的空袭称其违反了临时停火协议", "trend_title": "声明显示，伊朗外交部谴责美国对南伊朗的空袭，称其违反了临时停火协议。", "market_title": "", "reason": "LLM 判定不下注：該熱門話題涉及伊朗與美國之間的空襲事件，以及對臨時停火協議的譴責。這與候選市場「美伊最終核協議」的到期時間沒有直接關聯，"}
 {"strategy": "trend", "trend_id": "伊朗队最后时刻出局", "trend_title": "伊朗队最后时刻出局", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "外媒伊朗队队长怒斥国际足联", "trend_title": "外媒：伊朗队队长怒斥国际足联", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
+{"strategy": "trend", "trend_id": "伊朗谴责美袭击伊朗南部", "trend_title": "伊朗谴责美袭击伊朗南部", "market_title": "", "reason": "LLM 判定不下注：新聞提及美方襲擊伊朗南部，與核協議市場的關聯性不高。沒有明顯的市場價格變動或新資訊指向任何一個核協議選項。"}
+{"strategy": "trend", "trend_id": "俄国防部俄防空部队过去一夜击落213架乌克兰无人机", "trend_title": "俄国防部：俄防空部队过去一夜击落213架乌克兰无人机", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
