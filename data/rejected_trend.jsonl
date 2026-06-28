@@ -1517,3 +1517,4 @@
 {"strategy": "trend", "trend_id": "俄罗斯总统普京关于乌克兰提案我们没有计划拯救基辅政权", "trend_title": "俄罗斯总统普京：（关于乌克兰提案）我们没有计划拯救基辅政权。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "普京宣布需要迅速且大幅增加防空系统的产量", "trend_title": "普京宣布需要迅速且大幅增加防空系统的产量", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "普京俄建议乌俄双方均停止打击对方领土纵深目标", "trend_title": "普京：俄建议乌俄双方均停止打击对方领土纵深目标", "market_title": "Russia x Ukraine ceasefire agreement by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "glm52beatsclaudeinourbenchmarks", "trend_title": "GLM 5.2 beats Claude in our benchmarks", "market_title": "", "reason": "LLM 判定不下注：話題是關於 GLM 5.2 在基準測試中超越 Claude，這是一個關於 AI 模型性能的討論。然而，所有候選市場都與 "}
