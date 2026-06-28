@@ -1496,3 +1496,5 @@
 {"strategy": "trend", "trend_id": "普京基辅政权已转向采取恐怖手段", "trend_title": "普京：基辅政权已转向采取恐怖手段", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "papeustryingtosqueakoutofstrategicdefeatafteriran", "trend_title": "Pape: US trying to ‘squeak out of strategic defeat’ after Iran", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "俄联邦安全会议副主席西方对基辅的支持造成乌克兰事实上的分裂", "trend_title": "俄联邦安全会议副主席：西方对基辅的支持造成乌克兰事实上的分裂", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "普京俄罗斯正经历困难时期但也学到很多", "trend_title": "普京：俄罗斯正经历困难时期 但也学到很多", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "下周重磅日程美国非农中国pmi沃什出席欧洲央行论坛半导体7月涨价潮", "trend_title": "下周重磅日程：美国非农、中国PMI、沃什出席欧洲央行论坛，半导体“7月涨价潮”", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
