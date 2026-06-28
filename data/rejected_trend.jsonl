@@ -1515,3 +1515,4 @@
 {"strategy": "trend", "trend_id": "俄罗斯总统普京乌克兰已提出停止在彼此领土上互相攻击的提议", "trend_title": "俄罗斯总统普京：乌克兰已提出停止在彼此领土上互相攻击的提议。", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "武契奇塞尔维亚在俄乌冲突期间与西方进行更多演习", "trend_title": "武契奇：塞尔维亚在俄乌冲突期间与西方进行更多演习", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "俄罗斯总统普京关于乌克兰提案我们没有计划拯救基辅政权", "trend_title": "俄罗斯总统普京：（关于乌克兰提案）我们没有计划拯救基辅政权。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "普京宣布需要迅速且大幅增加防空系统的产量", "trend_title": "普京宣布需要迅速且大幅增加防空系统的产量", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
