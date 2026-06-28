@@ -1482,3 +1482,5 @@
 {"strategy": "trend", "trend_id": "乌克兰无人机夜袭俄罗斯两座炼油厂", "trend_title": "乌克兰无人机夜袭俄罗斯两座炼油厂", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "俄罗斯每两件化妆品中就有一件是本国产品", "trend_title": "俄罗斯每两件化妆品中就有一件是本国产品", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "伊朗革命卫队打击美军据点回应空袭", "trend_title": "伊朗革命卫队打击美军据点回应空袭", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "iransdisasterworldcupcomestoadramaticend", "trend_title": "Iran's ‘disaster World Cup’ comes to a dramatic end", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "peruvianssaytheywerepromisedjobsinrussiabutlandedonthefrontlinesinukraine", "trend_title": "Peruvians say they were promised jobs in Russia, but landed on the front lines in Ukraine", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
