@@ -1439,3 +1439,4 @@
 {"strategy": "trend", "trend_id": "worldcupmessisendsargentinatotopenglandtofacedrcongoiranout", "trend_title": "World Cup: Messi sends Argentina to top, England to face DR Congo, Iran out", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "因算力供不应求谷歌限制meta对geminiai模型的使用", "trend_title": "因算力供不应求，谷歌限制Meta对Gemini AI模型的使用", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "伊朗官员称伊朗已与阿联酋恢复贸易", "trend_title": "伊朗官员称伊朗已与阿联酋恢复贸易", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "usandiranexchangestrikesandaccuseeachotherofviolatingceasefire", "trend_title": "US and Iran exchange strikes and accuse each other of violating ceasefire", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
