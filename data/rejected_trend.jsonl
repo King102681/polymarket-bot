@@ -1453,3 +1453,4 @@
 {"strategy": "trend", "trend_id": "伊朗外长30天内海峡将由伊朗全面监督管理任何干预将延迟重开", "trend_title": "伊朗外长：30天内海峡将由伊朗全面监督管理 任何干预将延迟重开", "market_title": "", "reason": "LLM 判定不下注：話題聲稱伊朗將全面監督管理海峽，並對干預予以警告，這與核協議的市場預期沒有直接關聯。提供的市場選項都圍繞著美伊核協議的最"}
 {"strategy": "trend", "trend_id": "乌军袭击俄境内两家炼油厂", "trend_title": "乌军袭击俄境内两家炼油厂", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "英伟达ai版图再扩张数据中心以太网交换机收入暴增193悄然登顶全球第一", "trend_title": "英伟达AI版图再扩张！数据中心以太网交换机收入暴增193%，悄然登顶全球第一", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是英偉達數據中心以太網交換機的收入增長，並非與提供的 Ornn H100 Index 指數直接相關的市場。"}
+{"strategy": "trend", "trend_id": "iranattackskuwaitandbahraininresponsetousstrikes", "trend_title": "Iran attacks Kuwait and Bahrain in response to US strikes", "market_title": "", "reason": "LLM 判定不下注：當前熱門話題是伊朗攻擊科威特和巴林，以回應美國的襲擊。此事件與候選市場中所有關於「美伊最終核協議」的到期日預測市場均無直"}
