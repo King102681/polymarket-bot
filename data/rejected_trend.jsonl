@@ -1488,3 +1488,4 @@
 {"strategy": "trend", "trend_id": "awaytoexcludesensitivefilesissuestillopenforopenaicodex", "trend_title": "A way to exclude sensitive files issue still open for OpenAI Codex", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於 OpenAI Codex 的一個技術性問題，與候選市場中討論的 OpenAI 產品發布、IPO 或新模"}
 {"strategy": "trend", "trend_id": "普京西方精英试图在俄罗斯制造内部动荡但不会成功", "trend_title": "普京：西方精英试图在俄罗斯制造内部动荡但不会成功", "market_title": "Russia x Ukraine ceasefire agreement by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "ukrainesaysitattackedtworussianoilrefineries", "trend_title": "Ukraine says it attacked two Russian oil refineries", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "美常驻联合国代表伊朗要么选择负责任要么选择毁灭", "trend_title": "美常驻联合国代表：伊朗要么选择负责任，要么选择毁灭", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
