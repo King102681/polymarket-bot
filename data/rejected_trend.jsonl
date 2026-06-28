@@ -1437,3 +1437,5 @@
 {"strategy": "trend", "trend_id": "伊朗谴责美袭击伊朗南部", "trend_title": "伊朗谴责美袭击伊朗南部", "market_title": "", "reason": "LLM 判定不下注：新聞提及美方襲擊伊朗南部，與核協議市場的關聯性不高。沒有明顯的市場價格變動或新資訊指向任何一個核協議選項。"}
 {"strategy": "trend", "trend_id": "俄国防部俄防空部队过去一夜击落213架乌克兰无人机", "trend_title": "俄国防部：俄防空部队过去一夜击落213架乌克兰无人机", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "worldcupmessisendsargentinatotopenglandtofacedrcongoiranout", "trend_title": "World Cup: Messi sends Argentina to top, England to face DR Congo, Iran out", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "因算力供不应求谷歌限制meta对geminiai模型的使用", "trend_title": "因算力供不应求，谷歌限制Meta对Gemini AI模型的使用", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "伊朗官员称伊朗已与阿联酋恢复贸易", "trend_title": "伊朗官员称伊朗已与阿联酋恢复贸易", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
