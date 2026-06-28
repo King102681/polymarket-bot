@@ -73374,3 +73374,4 @@
 {"strategy": "sports_live", "signal_tx_hash": "0xd00f259dd10cf7736a3c39272ae9361ec6e4f5905d89d0660cbb11328f56a971", "whale_pseudonym": "swisstony", "market_title": "Exact Score: South Africa 2 - 0 Canada?", "reason": "鯨魚單 $390 < $500"}
 {"strategy": "sports_live", "signal_tx_hash": "0x5cba8a77b02a5343340274bce769a4fa9b1a3476bbd8ae31f65e07ef62c3f994", "whale_pseudonym": "swisstony", "market_title": "Spread: South Africa (-5.5)", "reason": "鯨魚單 $20 < $500"}
 {"strategy": "sports_live", "signal_tx_hash": "0xd2cdf4f58d9be9a8b1114981feb9ee4c5e67876fcf2b154a23d45a36f3502777", "whale_pseudonym": "swisstony", "market_title": "Spread: South Africa (-5.5)", "reason": "鯨魚單 $500 < $500"}
+{"strategy": "sports_live", "signal_tx_hash": "0xf9884d1be3cb9c754854c4fc09d85dbbda1788c471cf642c7eab83e3e8066b12", "whale_pseudonym": "swisstony", "market_title": "Spread: Japan (-5.5)", "reason": "鯨魚單 $500 < $500"}
