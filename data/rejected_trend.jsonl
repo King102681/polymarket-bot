@@ -1480,3 +1480,5 @@
 {"strategy": "trend", "trend_id": "俄罗斯副总理诺瓦克俄罗斯无需禁止柴油出口", "trend_title": "俄罗斯副总理诺瓦克：俄罗斯无需禁止柴油出口。", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "俄罗斯副总理诺瓦克俄罗斯已决定将强制在交易所交易的汽油销售配额从15下调至10并限制价格波动幅度", "trend_title": "俄罗斯副总理诺瓦克：俄罗斯已决定将强制在交易所交易的汽油销售配额从15%下调至10%，并限制价格波动幅度。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "乌克兰无人机夜袭俄罗斯两座炼油厂", "trend_title": "乌克兰无人机夜袭俄罗斯两座炼油厂", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "俄罗斯每两件化妆品中就有一件是本国产品", "trend_title": "俄罗斯每两件化妆品中就有一件是本国产品", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "伊朗革命卫队打击美军据点回应空袭", "trend_title": "伊朗革命卫队打击美军据点回应空袭", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
