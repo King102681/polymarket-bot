@@ -1511,3 +1511,4 @@
 {"strategy": "trend", "trend_id": "starmercouldntmasterthemediacanburnham", "trend_title": "Starmer couldn’t master the media. Can Burnham?", "market_title": "", "reason": "LLM 判定不下注：話題討論的是英國政壇媒體駕馭能力的問題，但並沒有具體點名下一任英國首相是誰，與候選市場的首相人選預測關聯性不高。"}
 {"strategy": "trend", "trend_id": "俄罗斯总统普京针对有关基辅提议限制军事行动的问题乌克兰武装部队希望将军事行动限制在四个地区以便重新部署部队", "trend_title": "俄罗斯总统普京：（针对有关基辅提议限制军事行动的问题）乌克兰武装部队希望将军事行动限制在四个地区，以便重新部署部队。", "market_title": "Russia x Ukraine ceasefire agreement by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美媒美伊技术谈判仍计划在未来几天内进行", "trend_title": "美媒：美伊技术谈判仍计划在未来几天内进行", "market_title": "US-Iran Final Nuclear Deal by August 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "iranhasnochoicebutnuclearbombirgcmedia", "trend_title": "Iran has no choice but nuclear bomb - IRGC media", "market_title": "US-Iran Final Nuclear Deal by August 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
