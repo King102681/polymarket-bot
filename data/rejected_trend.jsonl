@@ -1477,3 +1477,5 @@
 {"strategy": "trend", "trend_id": "澳洲联储主席布洛克发表讲话将于十分钟后公布", "trend_title": "澳洲联储主席布洛克发表讲话将于十分钟后公布。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "俄罗斯选手在中国举行的柔道大奖赛上夺金", "trend_title": "俄罗斯选手在中国举行的柔道大奖赛上夺金", "market_title": "", "reason": "信心 0.10 < 0.45：话题是俄罗斯选手夺金，与俄乌停火协议关系不大，市场信息价值低，且当前停火协议的Y"}
 {"strategy": "trend", "trend_id": "araghchistraitofhormuzremainsunderiraniancontrolfor30days", "trend_title": "Araghchi: Strait of Hormuz remains under Iranian control for 30 days", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "俄罗斯副总理诺瓦克俄罗斯无需禁止柴油出口", "trend_title": "俄罗斯副总理诺瓦克：俄罗斯无需禁止柴油出口。", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "俄罗斯副总理诺瓦克俄罗斯已决定将强制在交易所交易的汽油销售配额从15下调至10并限制价格波动幅度", "trend_title": "俄罗斯副总理诺瓦克：俄罗斯已决定将强制在交易所交易的汽油销售配额从15%下调至10%，并限制价格波动幅度。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
