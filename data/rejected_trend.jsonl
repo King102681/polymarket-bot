@@ -1416,3 +1416,4 @@
 {"strategy": "trend", "trend_id": "uslaunchessecondnightofstrikesagainstiranaftershipstruckbydrone", "trend_title": "US launches second night of strikes against Iran after ship struck by drone", "market_title": "", "reason": "LLM 判定不下注：該話題是關於美國對伊朗的軍事打擊，而候選市場全部是關於美伊核協議的最終簽訂日期。軍事衝突的升級與核協議的談判進展是兩個獨"}
 {"strategy": "trend", "trend_id": "uslaunchessecondnightofstrikesoniranaftershiphitbydrone", "trend_title": "US launches second night of strikes on Iran after ship hit by drone", "market_title": "", "reason": "LLM 判定不下注：新聞內容為美軍對伊朗發動的軍事打擊，與核子協議的進展無直接關聯。市場候選皆為核子協議相關，因此此新聞與市場無關。"}
 {"strategy": "trend", "trend_id": "ipo后又天量发债惹毛市场spacex债券直逼垃圾级跌速之快让交易员惊讶", "trend_title": "IPO后又天量发债“惹毛”市场，SpaceX债券直逼“垃圾级”，跌速之快让交易员惊讶", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "美再打击伊朗设施伊方反击双方剑拔弩张停火安排摇摇欲坠", "trend_title": "美再打击伊朗设施伊方反击 双方剑拔弩张停火安排摇摇欲坠", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
