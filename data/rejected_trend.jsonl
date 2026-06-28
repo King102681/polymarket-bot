@@ -1508,3 +1508,4 @@
 {"strategy": "trend", "trend_id": "iusedclaudecodetogetasecondopiniononmymri", "trend_title": "I used Claude Code to get a second opinion on my MRI", "market_title": "", "reason": "LLM 判定不下注：主題是關於使用 Claude Code 輔助解讀 MRI 結果，這與 Anthropic 的 IPO 或公司市值無直接關"}
 {"strategy": "trend", "trend_id": "伊拉克称愿意在美伊之间进行调停", "trend_title": "伊拉克称愿意在美伊之间进行调停", "market_title": "", "reason": "信心 0.40 < 0.45：伊拉克有意充当调停者，这可能为美伊关系带来缓和，增加了达成最终核协议的可能性，尽"}
 {"strategy": "trend", "trend_id": "usandirantradestrikesdaysafterpeaceagreement", "trend_title": "US and Iran trade strikes days after peace agreement", "market_title": "US-Iran Final Nuclear Deal by August 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "starmercouldntmasterthemediacanburnham", "trend_title": "Starmer couldn’t master the media. Can Burnham?", "market_title": "", "reason": "LLM 判定不下注：話題討論的是英國政壇媒體駕馭能力的問題，但並沒有具體點名下一任英國首相是誰，與候選市場的首相人選預測關聯性不高。"}
