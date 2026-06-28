@@ -1428,3 +1428,4 @@
 {"strategy": "trend", "trend_id": "伊朗伊斯兰革命卫队海军司令未来几天中东美军基地将面临地狱", "trend_title": "伊朗伊斯兰革命卫队海军司令：未来几天中东美军基地将面临“地狱”", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "外媒脱欧令英国股市经历失去的十年", "trend_title": "外媒：脱欧令英国股市经历“失去的十年”", "market_title": "", "reason": "LLM 判定不下注：該熱門話題討論的是英國脫歐對英國股市的長期影響，指出股市經歷了『失去的十年』。然而，所有候選市場都集中在未來英國財政大臣"}
 {"strategy": "trend", "trend_id": "uslaunchesstrikesoniranaftersecondshippingattack", "trend_title": "US launches strikes on Iran after second shipping attack", "market_title": "", "reason": "LLM 判定不下注：該新聞是關於美國對伊朗發動襲擊，與伊朗核協議的到期時間沒有直接關聯，因此選擇了不相關的市場。"}
+{"strategy": "trend", "trend_id": "红帆节上俄罗斯号双桅横帆船悬挂红帆驶过涅瓦河", "trend_title": "“红帆节”上“俄罗斯”号双桅横帆船悬挂红帆驶过涅瓦河", "market_title": "", "reason": "LLM 判定不下注：此話題是關於俄羅斯的一艘雙桅帆船在涅瓦河上懸掛紅帆，這是一項慶祝活動。此活動與任何候選市場（包括與俄羅斯或烏克蘭相關的市"}
