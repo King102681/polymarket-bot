@@ -1552,3 +1552,4 @@
 {"strategy": "trend", "trend_id": "习近平会见白俄罗斯总统卢卡申科", "trend_title": "习近平会见白俄罗斯总统卢卡申科", "market_title": "", "reason": "LLM 判定不下注：話題是關於兩國元首會面，與任何一個候選市場的預測都沒有直接關聯性。"}
 {"strategy": "trend", "trend_id": "韩国政府政府计划加快西南地区的审批和建设以迅速扩大存储芯片产能中部地区将重点发展先进封装技术而东南部地区将发展成为半导体材料零部件设备以及下一代功率芯片的中心", "trend_title": "韩国政府：政府计划加快西南地区的审批和建设，以迅速扩大存储芯片产能。中部地区将重点发展先进封装技术，而东南部地区将发展成为半导体材料、零部件、设备以及下一代功率芯片的中心。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "俄国防部防空系统一夜间在多地上空共击落209架乌克兰无人机", "trend_title": "俄国防部：防空系统一夜间在多地上空共击落209架乌克兰无人机", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "putincomplainsaboutukrainianattacksandunprecedentedpressurefromthewest", "trend_title": "Putin complains about Ukrainian attacks and \"unprecedented pressure\" from the West", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
