@@ -78577,3 +78577,4 @@
 {"strategy": "sports_live", "signal_tx_hash": "0x9eb0c33feb0837b1bf7fc6db3f91e10538cc43c2b2ce5c2b9bb8afc944a7f48c", "whale_pseudonym": "swisstony", "market_title": "New York Yankees vs. Boston Red Sox", "reason": "鯨魚單 $266 < $500"}
 {"strategy": "sports_live", "signal_tx_hash": "0x7b202fbdd6890ea3ce669ac35069e2dd0f7c2e9cffec9a876f11ce4f36c352af", "whale_pseudonym": "swisstony", "market_title": "New York Yankees vs. Boston Red Sox", "reason": "鯨魚單 $2 < $500"}
 {"strategy": "sports_live", "signal_tx_hash": "0xb4330a3e90b106622b2fa48322cdcf6d703525f93c3a4f7331a5b97993de2124", "whale_pseudonym": "swisstony", "market_title": "Exact Score: Brazil 3 - 1 Japan?", "reason": "entry 0.999 不在 [0.7, 0.97]"}
+{"strategy": "sports_live", "signal_tx_hash": "0x9a9f638697e157b76fd122d9ba18cc548525e198b9b3237ddfed665c3f9fe20c", "whale_pseudonym": "swisstony", "market_title": "New York Yankees vs. Boston Red Sox: O/U 8.5", "reason": "鯨魚單 $8 < $500"}
