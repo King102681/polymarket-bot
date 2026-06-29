@@ -1544,3 +1544,4 @@
 {"strategy": "trend", "trend_id": "美联储鹰派立场和美元走强令金属价格承压铜价下跌", "trend_title": "美联储鹰派立场和美元走强令金属价格承压，铜价下跌", "market_title": "", "reason": "LLM 判定不下注：該熱門話題主要討論美聯儲的鷹派立場對金屬價格（特別是銅價）的壓力，導致銅價下跌。然而，所有候選市場都圍繞著 2026 年"}
 {"strategy": "trend", "trend_id": "伊朗警告绕开特定霍尔木兹航线将加剧中东紧张局势", "trend_title": "伊朗警告：绕开特定霍尔木兹航线 将加剧中东紧张局势", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "putinsaysukraineproposedhalttodeepstrikes", "trend_title": "Putin says Ukraine proposed halt to deep strikes", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "美官员称美伊技术性谈判将继续", "trend_title": "美官员称美伊技术性谈判将继续", "market_title": "", "reason": "LLM 判定不下注：該話題提到美伊『技術性談判』將繼續，但候選市場皆為『最終核協議』的達成時間。技術性談判並不直接等同於最終協議的達成，市場"}
