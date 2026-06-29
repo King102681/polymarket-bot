@@ -1624,3 +1624,4 @@
 {"strategy": "trend", "trend_id": "伊朗总统相关谅解备忘录是双边事项如果美方遵守协议条款伊朗也将履行自身义务", "trend_title": "伊朗总统：相关“谅解备忘录”是双边事项，如果美方遵守协议条款，伊朗也将履行自身义务。", "market_title": "", "reason": "信心 0.40 < 0.45：伊朗总统表示只要美国遵守协议条款，伊朗也会履行义务，这暗示伊朗有履行协议的意愿，"}
 {"strategy": "trend", "trend_id": "俄外交部北约的为乌克兰研发武器系统计划是侵略性的", "trend_title": "俄外交部：北约的为乌克兰研发武器系统计划是侵略性的", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "俄常驻联合国代表团临时代办欧洲需要认清泽连斯基是想扩大冲突", "trend_title": "俄常驻联合国代表团临时代办：欧洲需要认清泽连斯基是想扩大冲突", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "白俄罗斯外交部所谓反对派在乌克兰被用于准备对白俄罗斯发起袭击", "trend_title": "白俄罗斯外交部：所谓反对派在乌克兰被用于准备对白俄罗斯发起袭击", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
