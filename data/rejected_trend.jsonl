@@ -1527,3 +1527,4 @@
 {"strategy": "trend", "trend_id": "媒体美国和伊朗已同意停止相互攻击", "trend_title": "媒体：美国和伊朗已同意停止相互攻击", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "俄顿涅茨克人民共和国行政长官共和国15名居民包括一名青少年因乌军袭击而受伤", "trend_title": "俄顿涅茨克人民共和国行政长官：共和国15名居民包括一名青少年因乌军袭击而受伤", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "机构若油价回落缓慢且曲折澳洲联储将进一步加息", "trend_title": "机构：若油价回落缓慢且曲折，澳洲联储将进一步加息", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "iraniandiplomatblastspseudovarinterventionsafterworldcupexit", "trend_title": "Iranian diplomat blasts ‘pseudo-VAR’ interventions after World Cup exit", "market_title": "", "reason": "LLM 判定不下注：這則熱門話題是關於伊朗外交官對世界盃的評論，與伊朗核協議的談判進程沒有直接關係，因此選擇市場索引為 -1。由於話題與市場"}
