@@ -1542,3 +1542,5 @@
 {"strategy": "trend", "trend_id": "俄总统特别代表在欧洲遭遇热浪之际提到欧盟和英国拒绝使用俄能源", "trend_title": "俄总统特别代表在欧洲遭遇热浪之际提到欧盟和英国拒绝使用俄能源", "market_title": "", "reason": "LLM 判定不下注：此新聞與羅馬尼亞總理任命、西班牙選舉或冰島歐盟入籍談判無關，因此無法判斷市場相關性或預測方向。"}
 {"strategy": "trend", "trend_id": "普京俄罗斯面临命运攸关时刻", "trend_title": "普京：俄罗斯面临命运攸关时刻", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "美联储鹰派立场和美元走强令金属价格承压铜价下跌", "trend_title": "美联储鹰派立场和美元走强令金属价格承压，铜价下跌", "market_title": "", "reason": "LLM 判定不下注：該熱門話題主要討論美聯儲的鷹派立場對金屬價格（特別是銅價）的壓力，導致銅價下跌。然而，所有候選市場都圍繞著 2026 年"}
+{"strategy": "trend", "trend_id": "伊朗警告绕开特定霍尔木兹航线将加剧中东紧张局势", "trend_title": "伊朗警告：绕开特定霍尔木兹航线 将加剧中东紧张局势", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "putinsaysukraineproposedhalttodeepstrikes", "trend_title": "Putin says Ukraine proposed halt to deep strikes", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
