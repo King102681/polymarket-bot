@@ -1548,3 +1548,6 @@
 {"strategy": "trend", "trend_id": "oilpricesriseasusiranianstrikesthreatenstraitofhormuzreopening", "trend_title": "Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "韩国总统李在明目前的工厂选址在水资源和其他基础设施方面接近极限", "trend_title": "韩国总统李在明：目前的工厂选址在水资源和其他基础设施方面接近极限。", "market_title": "", "reason": "信心 0.40 < 0.45：李在明總統提到基礎設施接近極限，這可能被解讀為對其領導能力的負面評價，但這與他是"}
 {"strategy": "trend", "trend_id": "韩国总统李在明必须尽快完成芯片生产建设", "trend_title": "韩国总统李在明：必须尽快完成芯片生产建设。", "market_title": "", "reason": "LLM 判定不下注：此話題是關於韓國總統李在明強調盡快完成芯片生產建設，這與其他候選市場（如朝鮮入侵、總統任期、韓國央行利率決策）沒有直接關"}
+{"strategy": "trend", "trend_id": "普京增产燃料加强防空", "trend_title": "普京：增产燃料、加强防空", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "习近平会见白俄罗斯总统卢卡申科", "trend_title": "习近平会见白俄罗斯总统卢卡申科", "market_title": "", "reason": "LLM 判定不下注：話題是關於兩國元首會面，與任何一個候選市場的預測都沒有直接關聯性。"}
+{"strategy": "trend", "trend_id": "韩国政府政府计划加快西南地区的审批和建设以迅速扩大存储芯片产能中部地区将重点发展先进封装技术而东南部地区将发展成为半导体材料零部件设备以及下一代功率芯片的中心", "trend_title": "韩国政府：政府计划加快西南地区的审批和建设，以迅速扩大存储芯片产能。中部地区将重点发展先进封装技术，而东南部地区将发展成为半导体材料、零部件、设备以及下一代功率芯片的中心。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
