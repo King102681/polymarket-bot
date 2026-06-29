@@ -1546,3 +1546,5 @@
 {"strategy": "trend", "trend_id": "putinsaysukraineproposedhalttodeepstrikes", "trend_title": "Putin says Ukraine proposed halt to deep strikes", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "美官员称美伊技术性谈判将继续", "trend_title": "美官员称美伊技术性谈判将继续", "market_title": "", "reason": "LLM 判定不下注：該話題提到美伊『技術性談判』將繼續，但候選市場皆為『最終核協議』的達成時間。技術性談判並不直接等同於最終協議的達成，市場"}
 {"strategy": "trend", "trend_id": "oilpricesriseasusiranianstrikesthreatenstraitofhormuzreopening", "trend_title": "Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "韩国总统李在明目前的工厂选址在水资源和其他基础设施方面接近极限", "trend_title": "韩国总统李在明：目前的工厂选址在水资源和其他基础设施方面接近极限。", "market_title": "", "reason": "信心 0.40 < 0.45：李在明總統提到基礎設施接近極限，這可能被解讀為對其領導能力的負面評價，但這與他是"}
+{"strategy": "trend", "trend_id": "韩国总统李在明必须尽快完成芯片生产建设", "trend_title": "韩国总统李在明：必须尽快完成芯片生产建设。", "market_title": "", "reason": "LLM 判定不下注：此話題是關於韓國總統李在明強調盡快完成芯片生產建設，這與其他候選市場（如朝鮮入侵、總統任期、韓國央行利率決策）沒有直接關"}
