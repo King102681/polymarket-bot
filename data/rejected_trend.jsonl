@@ -1529,3 +1529,4 @@
 {"strategy": "trend", "trend_id": "机构若油价回落缓慢且曲折澳洲联储将进一步加息", "trend_title": "机构：若油价回落缓慢且曲折，澳洲联储将进一步加息", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "iraniandiplomatblastspseudovarinterventionsafterworldcupexit", "trend_title": "Iranian diplomat blasts ‘pseudo-VAR’ interventions after World Cup exit", "market_title": "", "reason": "LLM 判定不下注：這則熱門話題是關於伊朗外交官對世界盃的評論，與伊朗核協議的談判進程沒有直接關係，因此選擇市場索引為 -1。由於話題與市場"}
 {"strategy": "trend", "trend_id": "美伊将继续就协议所有方面进行谈判", "trend_title": "美伊将继续就协议所有方面进行谈判", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "iranwarlivetehraninsistsoncontrolofhormuzamidreportsofustalks", "trend_title": "Iran war live: Tehran insists on control of Hormuz amid reports of US talks", "market_title": "", "reason": "LLM 判定不下注：該熱門話題主要聚焦於伊朗對荷姆茲海峽的控制權以及與美國的談判，但候選市場均為美國與伊朗的核協議達成時間。雖然兩者都涉及美"}
