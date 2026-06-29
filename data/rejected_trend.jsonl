@@ -1538,3 +1538,4 @@
 {"strategy": "trend", "trend_id": "挂单报告国际现货黄金下方多单密集国际现货白银留意上行押注", "trend_title": "挂单报告：国际现货黄金下方多单密集 国际现货白银留意上行押注", "market_title": "Will Gold (XAUUSD) hit (HIGH) $4,600 in June?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "台湾加权指数涨逾2", "trend_title": "台湾加权指数涨逾2%。", "market_title": "", "reason": "LLM 判定不下注：話題是台灣加權指數上漲，與軍事入侵台灣的市場主題關聯性不高，且指數漲跌與否通常是短期波動，不太可能影響長期入侵預測的價格"}
 {"strategy": "trend", "trend_id": "普京俄罗斯准备继续与美国讨论乌克兰问题", "trend_title": "普京：俄罗斯准备继续与美国讨论乌克兰问题", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "上市不到一个月就进纳指100spacex将迎43亿美元被动资金抢筹", "trend_title": "上市不到一个月就进纳指100！SpaceX将迎43亿美元被动资金抢筹", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
