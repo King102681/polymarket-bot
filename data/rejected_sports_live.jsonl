@@ -79314,3 +79314,4 @@
 {"strategy": "sports_live", "signal_tx_hash": "0x9a302bfcccab0969bacf83dcea412586890ca01538fd11d5ff30bb0e48e164a4", "whale_pseudonym": "swisstony", "market_title": "Germany vs. Paraguay: Paraguay O/U 2.5", "reason": "鯨魚單 $15 < $500"}
 {"strategy": "sports_live", "signal_tx_hash": "0x6b2a2ea3a04bb2ddebdb44a0b4b5e09669758967cbad022ce263b87b1899ccd4", "whale_pseudonym": "swisstony", "market_title": "Exact Score: Netherlands 3 - 3 Morocco?", "reason": "entry 0.999 不在 [0.7, 0.97]"}
 {"strategy": "sports_live", "signal_tx_hash": "0xb66404f16ffd016d2c0a9f32ebba29963406a94b3335b23d089689a0f89f0340", "whale_pseudonym": "swisstony", "market_title": "Exact Score: Netherlands 3 - 2 Morocco?", "reason": "鯨魚單 $12 < $500"}
+{"strategy": "sports_live", "signal_tx_hash": "0x279fe905d694bfa857ed9692e7bc1eab9f76b9a00ecd86175a565b89cee888d4", "whale_pseudonym": "swisstony", "market_title": "Spread: Brazil (-4.5)", "reason": "鯨魚單 $4 < $500"}
