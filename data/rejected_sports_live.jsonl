@@ -78638,3 +78638,5 @@
 {"strategy": "sports_live", "signal_tx_hash": "0xbf5c92723b26fc6dcc469e4066c997d89f43b45867bc193cab76bf62a6706889", "whale_pseudonym": "swisstony", "market_title": "New York Yankees vs. Boston Red Sox", "reason": "鯨魚單 $55 < $500"}
 {"strategy": "sports_live", "signal_tx_hash": "0xca3b968a31685add5297092b5abe739e0fd07e69194eaf49408f274b68ff8029", "whale_pseudonym": "swisstony", "market_title": "New York Yankees vs. Boston Red Sox", "reason": "鯨魚單 $4 < $500"}
 {"strategy": "sports_live", "signal_tx_hash": "0x041e4976ed6f73f6b27b7849e128ece2ebf8869f98957e25e26d47c6f794b592", "whale_pseudonym": "swisstony", "market_title": "Exact Score: Argentina 0 - 0 Cabo Verde?", "reason": "鯨魚單 $48 < $500"}
+{"strategy": "sports_live", "signal_tx_hash": "0xc716e7ced3ed1ae9b15ac160e7a812e3079e1233660617029e18f31034ac3290", "whale_pseudonym": "swisstony", "market_title": "Will Cabo Verde win on 2026-07-03?", "reason": "鯨魚單 $96 < $500"}
+{"strategy": "sports_live", "signal_tx_hash": "0xa4eccde012e627f4099bb95012bc5a882bd1f80c24ccf468748168671572448c", "whale_pseudonym": "swisstony", "market_title": "Spread: Baltimore Orioles (-1.5)", "reason": "鯨魚單 $49 < $500"}
