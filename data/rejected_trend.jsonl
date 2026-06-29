@@ -1617,3 +1617,4 @@
 {"strategy": "trend", "trend_id": "俄外长西方进行恐吓和施压俄罗斯将努力扭转这一趋势", "trend_title": "俄外长：西方进行恐吓和施压 俄罗斯将努力扭转这一趋势", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "市场消息伊莱克斯集团已提交与退还国际紧急经济权力法关税相关的索赔金额约8800万美元", "trend_title": "市场消息：伊莱克斯集团已提交与退还《国际紧急经济权力法》关税相关的索赔，金额约8800万美元。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "上海黄金交易所黄金td6月29日周一晚盘收盘下跌112报87808元克br上海黄金交易所白银td6月29日周一晚盘收盘下跌059报141150元千克", "trend_title": "上海黄金交易所黄金T+D 6月29日（周一）晚盘收盘下跌1.12%报878.08元/克；<br/>上海黄金交易所白银T+D 6月29日（周一）晚盘收盘下跌0.59%报14115.0元/千克。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "欧洲央行行长拉加德我们可以继续加息而无需担心货币政策收紧本身会成为金融压力的来源", "trend_title": "欧洲央行行长拉加德：我们可以继续加息，而无需担心货币政策收紧本身会成为金融压力的来源。", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是歐洲央行（ECB）行長的言論，而所有候選市場都關於美聯儲（Fed）的利率決策。兩者機構不同，市場完全不相關"}
