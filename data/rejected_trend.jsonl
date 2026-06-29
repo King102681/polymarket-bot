@@ -1534,3 +1534,5 @@
 {"strategy": "trend", "trend_id": "本周重磅日程美国非农中国pmi沃什出席欧洲央行论坛半导体7月涨价潮", "trend_title": "本周重磅日程：美国非农、中国PMI、沃什出席欧洲央行论坛，半导体“7月涨价潮”", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "国台办副主任两岸民众要从孙中山奋斗历程中汲取智慧和力量", "trend_title": "国台办副主任：两岸民众要从孙中山奋斗历程中汲取智慧和力量", "market_title": "", "reason": "信心 0.30 < 0.45：国台办副主任的发言属于例行性喊话，提及孙中山奋斗历程旨在强调和平统一的可能性，与"}
 {"strategy": "trend", "trend_id": "相互打击致伊朗取消对美的技术谈判", "trend_title": "相互打击致伊朗取消对美的技术谈判", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "早报普京考虑全面禁止柴油出口国际油价开盘大涨加拿大队史首次晋级16强", "trend_title": "【早报】普京：考虑全面禁止柴油出口；国际油价开盘大涨；加拿大队史首次晋级16强", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "挂单报告国际现货黄金下方多单密集国际现货白银留意上行押注", "trend_title": "挂单报告：国际现货黄金下方多单密集 国际现货白银留意上行押注", "market_title": "Will Gold (XAUUSD) hit (HIGH) $4,600 in June?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
