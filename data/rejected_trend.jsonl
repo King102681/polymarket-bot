@@ -1532,3 +1532,4 @@
 {"strategy": "trend", "trend_id": "iranwarlivetehraninsistsoncontrolofhormuzamidreportsofustalks", "trend_title": "Iran war live: Tehran insists on control of Hormuz amid reports of US talks", "market_title": "", "reason": "LLM 判定不下注：該熱門話題主要聚焦於伊朗對荷姆茲海峽的控制權以及與美國的談判，但候選市場均為美國與伊朗的核協議達成時間。雖然兩者都涉及美"}
 {"strategy": "trend", "trend_id": "于大勇欧盟对华政策背后的安全焦虑与竞争力困境", "trend_title": "于大勇：欧盟对华政策背后的安全焦虑与竞争力困境", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "本周重磅日程美国非农中国pmi沃什出席欧洲央行论坛半导体7月涨价潮", "trend_title": "本周重磅日程：美国非农、中国PMI、沃什出席欧洲央行论坛，半导体“7月涨价潮”", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "国台办副主任两岸民众要从孙中山奋斗历程中汲取智慧和力量", "trend_title": "国台办副主任：两岸民众要从孙中山奋斗历程中汲取智慧和力量", "market_title": "", "reason": "信心 0.30 < 0.45：国台办副主任的发言属于例行性喊话，提及孙中山奋斗历程旨在强调和平统一的可能性，与"}
