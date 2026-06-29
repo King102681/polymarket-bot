@@ -1631,3 +1631,4 @@
 {"strategy": "trend", "trend_id": "明斯克掌握有证据证明攻击载有白俄罗斯儿童巴士是由乌军攻击无人机实施的", "trend_title": "明斯克掌握有证据证明攻击载有白俄罗斯儿童巴士是由乌军攻击无人机实施的", "market_title": "Russia x Ukraine ceasefire agreement by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "市场消息美国众议院通过儿童在线安全相关立法", "trend_title": "市场消息：美国众议院通过儿童在线安全相关立法。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "媒体乌克兰寡头叶尔莫拉耶夫在摩纳哥爆炸事件中受伤", "trend_title": "媒体：乌克兰寡头叶尔莫拉耶夫在摩纳哥爆炸事件中受伤", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "据punchbowl三位消息人士称美国众议院国防拨款小组将于周三上午听取五角大楼提出的670亿美元补充拨款的简报", "trend_title": "据Punchbowl：三位消息人士称，美国众议院国防拨款小组将于周三上午听取五角大楼提出的670亿美元补充拨款的简报。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
