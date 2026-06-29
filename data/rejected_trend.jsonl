@@ -1536,3 +1536,4 @@
 {"strategy": "trend", "trend_id": "相互打击致伊朗取消对美的技术谈判", "trend_title": "相互打击致伊朗取消对美的技术谈判", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "早报普京考虑全面禁止柴油出口国际油价开盘大涨加拿大队史首次晋级16强", "trend_title": "【早报】普京：考虑全面禁止柴油出口；国际油价开盘大涨；加拿大队史首次晋级16强", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "挂单报告国际现货黄金下方多单密集国际现货白银留意上行押注", "trend_title": "挂单报告：国际现货黄金下方多单密集 国际现货白银留意上行押注", "market_title": "Will Gold (XAUUSD) hit (HIGH) $4,600 in June?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "台湾加权指数涨逾2", "trend_title": "台湾加权指数涨逾2%。", "market_title": "", "reason": "LLM 判定不下注：話題是台灣加權指數上漲，與軍事入侵台灣的市場主題關聯性不高，且指數漲跌與否通常是短期波動，不太可能影響長期入侵預測的價格"}
