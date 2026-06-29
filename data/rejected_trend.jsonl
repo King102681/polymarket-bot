@@ -1627,3 +1627,4 @@
 {"strategy": "trend", "trend_id": "白俄罗斯外交部所谓反对派在乌克兰被用于准备对白俄罗斯发起袭击", "trend_title": "白俄罗斯外交部：所谓反对派在乌克兰被用于准备对白俄罗斯发起袭击", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "现货黄金周二小幅高开向上触及4020美元盎司日内涨010", "trend_title": "现货黄金周二小幅高开，向上触及4020美元/盎司，日内涨0.10%。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "媒体摩纳哥爆炸事件中可能是一名乌克兰寡头及其妻子和子女受伤", "trend_title": "媒体：摩纳哥爆炸事件中可能是一名乌克兰寡头及其妻子和子女受伤", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "白俄罗斯常驻联合国代表乌军对载有儿童大巴的袭击是蓄意侵略行为", "trend_title": "白俄罗斯常驻联合国代表：乌军对载有儿童大巴的袭击是蓄意侵略行为", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
