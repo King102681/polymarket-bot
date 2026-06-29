@@ -79264,3 +79264,4 @@
 {"strategy": "sports_live", "signal_tx_hash": "0xf1f6ac393e7d16498fe77a1366f91b608c7851653a942c205371802e348cfcd7", "whale_pseudonym": "swisstony", "market_title": "Exact Score: Spain 2 - 3 Austria?", "reason": "鯨魚單 $15 < $500"}
 {"strategy": "sports_live", "signal_tx_hash": "0x22fa63709c9eabe1c8ee300aff718a6a977dab96cfd78d3263167f9754d137e4", "whale_pseudonym": "swisstony", "market_title": "Exact Score: Spain 2 - 3 Austria?", "reason": "鯨魚單 $99 < $500"}
 {"strategy": "sports_live", "signal_tx_hash": "0x92ba2edf0efe01c8198aae8de6673c2b2de7feded4fc21b0bcdf62a96ab6e7c9", "whale_pseudonym": "swisstony", "market_title": "Spain vs. Austria: Austria O/U 0.5", "reason": "鯨魚單 $4 < $500"}
+{"strategy": "sports_live", "signal_tx_hash": "0xb7ec21c23356a85965668580e95acfe67cca3cebfe5a8c1498f7ac26d23cf137", "whale_pseudonym": "swisstony", "market_title": "Colombia vs. Ghana: O/U 1.5", "reason": "entry 0.995 不在 [0.7, 0.97]"}
