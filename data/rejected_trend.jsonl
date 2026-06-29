@@ -1630,3 +1630,4 @@
 {"strategy": "trend", "trend_id": "白俄罗斯常驻联合国代表乌军对载有儿童大巴的袭击是蓄意侵略行为", "trend_title": "白俄罗斯常驻联合国代表：乌军对载有儿童大巴的袭击是蓄意侵略行为", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "明斯克掌握有证据证明攻击载有白俄罗斯儿童巴士是由乌军攻击无人机实施的", "trend_title": "明斯克掌握有证据证明攻击载有白俄罗斯儿童巴士是由乌军攻击无人机实施的", "market_title": "Russia x Ukraine ceasefire agreement by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "市场消息美国众议院通过儿童在线安全相关立法", "trend_title": "市场消息：美国众议院通过儿童在线安全相关立法。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "媒体乌克兰寡头叶尔莫拉耶夫在摩纳哥爆炸事件中受伤", "trend_title": "媒体：乌克兰寡头叶尔莫拉耶夫在摩纳哥爆炸事件中受伤", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
