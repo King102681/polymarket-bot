@@ -1645,3 +1645,4 @@
 {"strategy": "trend", "trend_id": "澳洲联储会议纪要最近数据喜忧参半但显示出经济普遍放缓符合预期", "trend_title": "澳洲联储会议纪要：最近数据喜忧参半，但显示出经济普遍放缓，符合预期。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "澳洲联储会议纪要仍准备必要时加息关注需求过剩与房地产疲软", "trend_title": "澳洲联储会议纪要：仍准备必要时加息，关注需求过剩与房地产疲软", "market_title": "", "reason": "LLM 判定不下注：該新聞討論的是澳洲聯儲（RBA）的會議紀要，但所有候選市場都與美國聯邦儲備委員會（Fed）的利率決策相關，因此沒有直接對"}
 {"strategy": "trend", "trend_id": "日本首相高市早苗将自7月1日起访问印度", "trend_title": "日本首相高市早苗将自7月1日起访问印度", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "调查韩国跃升金融机构扩张首选地对中印转趋谨慎", "trend_title": "调查：韩国跃升金融机构扩张首选地 对中印转趋谨慎", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
