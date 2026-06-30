@@ -1736,3 +1736,4 @@
 {"strategy": "trend", "trend_id": "专家欧盟一旦拒签俄游客将前往亚洲和中东度假", "trend_title": "专家：欧盟一旦拒签俄游客将前往亚洲和中东度假", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "美联储7月维持利率不变的概率为663", "trend_title": "美联储7月维持利率不变的概率为66.3%", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "乌军半年内损失超过223万名人员", "trend_title": "乌军半年内损失超过22.3万名人员", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "俄防空系统半年内在俄罗斯领土上空摧毁超过63万架乌克兰无人机", "trend_title": "俄防空系统半年内在俄罗斯领土上空摧毁超过6.3万架乌克兰无人机", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
