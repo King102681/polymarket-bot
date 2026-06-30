@@ -1719,3 +1719,6 @@
 {"strategy": "trend", "trend_id": "anthropic推出claudesonnet5", "trend_title": "Anthropic：推出Claude Sonnet 5。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "美国常驻北约代表美国等待各国在安卡拉北约峰会上提交国防开支增长情况的报告", "trend_title": "美国常驻北约代表：美国等待各国在安卡拉北约峰会上提交国防开支增长情况的报告", "market_title": "", "reason": "LLM 判定不下注：這則新聞是關於美國常駐北約代表要求各國提交國防開支報告，這與北約峰會的常規議程有關，並沒有提供任何可能影響北約擴張、成員"}
 {"strategy": "trend", "trend_id": "semianalysis上调预期英伟达数据中心收入或大幅超市场预期", "trend_title": "SemiAnalysis上调预期：英伟达数据中心收入或大幅超市场预期", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "俄罗斯常驻欧安组织代表欧盟正蓄意走向与俄罗斯的对抗", "trend_title": "俄罗斯常驻欧安组织代表：欧盟正蓄意走向与俄罗斯的对抗", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "claudesonnet5", "trend_title": "Claude Sonnet 5", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "supremecourtstrikesdownuscampaignspendinglimitsinlandmarkruling", "trend_title": "Supreme Court strikes down US campaign spending limits in landmark ruling", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
