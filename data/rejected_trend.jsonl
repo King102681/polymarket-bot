@@ -1704,3 +1704,5 @@
 {"strategy": "trend", "trend_id": "英国首相英国将投资66亿美元发展无人技术", "trend_title": "英国首相：英国将投资66亿美元发展无人技术", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "美国至6月30日6周国债竞拍得标利率配置百分比5461前值9235", "trend_title": "美国至6月30日6周国债竞拍-得标利率配置百分比 54.61%，前值92.35%。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "白俄罗斯总统的小儿子在北京获得高等教育文凭", "trend_title": "白俄罗斯总统的小儿子在北京获得高等教育文凭", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "explosivesfrequentlydiscoveredinsiderepatriatedukrainianbodiespolicereport", "trend_title": "Explosives Frequently Discovered Inside Repatriated Ukrainian Bodies, Police Report", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "russiangrouphackedquebecwatertreatmentplantgainedaccesstocontrolpumpsandchlorinedosingcse", "trend_title": "Russian group hacked Quebec water treatment plant, gained access to control pumps and chlorine dosing: CSE", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
