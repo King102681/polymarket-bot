@@ -1637,3 +1637,4 @@
 {"strategy": "trend", "trend_id": "顾清扬超越中美博弈关键矿产三角地缘格局重塑全球贸易", "trend_title": "顾清扬：超越中美博弈：关键矿产三角地缘格局重塑全球贸易", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "现货黄金跌破4000美元盎司关口日跌幅为04", "trend_title": "现货黄金跌破4000美元/盎司关口，日跌幅为0.4%。", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
 {"strategy": "trend", "trend_id": "白俄罗斯呼吁国际社会谴责针对本国儿童的恐袭", "trend_title": "白俄罗斯呼吁国际社会谴责针对本国儿童的恐袭", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "现货黄金失守3990美元盎司日内跌幅066", "trend_title": "现货黄金失守3990美元/盎司，日内跌幅0.66%。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
