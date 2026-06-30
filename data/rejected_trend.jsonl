@@ -1702,3 +1702,5 @@
 {"strategy": "trend", "trend_id": "匈牙利不支持欧盟将适龄应征乌克兰男性排除在提供庇护之外的计划", "trend_title": "匈牙利不支持欧盟将适龄应征乌克兰男性排除在提供庇护之外的计划", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
 {"strategy": "trend", "trend_id": "irantoholdtalkswithqataronmoudealwithusfrozenassets", "trend_title": "Iran to hold talks with Qatar on MoU deal with US, frozen assets", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "英国首相英国将投资66亿美元发展无人技术", "trend_title": "英国首相：英国将投资66亿美元发展无人技术", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "美国至6月30日6周国债竞拍得标利率配置百分比5461前值9235", "trend_title": "美国至6月30日6周国债竞拍-得标利率配置百分比 54.61%，前值92.35%。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "白俄罗斯总统的小儿子在北京获得高等教育文凭", "trend_title": "白俄罗斯总统的小儿子在北京获得高等教育文凭", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
