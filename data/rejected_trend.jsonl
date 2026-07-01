@@ -1837,3 +1837,4 @@
 {"strategy": "trend", "trend_id": "美国副总统万斯如果伊朗试图重建核计划美国有应对方案", "trend_title": "美国副总统万斯：如果伊朗试图重建核计划，美国有应对方案。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "王毅与鲁比奥通话指台湾问题牵一发动全身", "trend_title": "王毅与鲁比奥通话 指台湾问题牵一发动全身", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "苏丹人民解放运动领导人南苏丹大选或将在最后一刻再次推迟", "trend_title": "苏丹人民解放运动领导人：南苏丹大选或将在最后一刻再次推迟", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "secretivegazameetingsincyprusasplantoisolatehamasgatherspace", "trend_title": "Secretive Gaza meetings in Cyprus as plan to isolate Hamas gathers pace", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
