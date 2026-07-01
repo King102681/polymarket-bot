@@ -1819,3 +1819,4 @@
 {"strategy": "trend", "trend_id": "现货黄金短线拉升20美元向上触及4040美元盎司日内涨083纽约期金站上4050美元盎司日内涨028美元指数dxy短线走低近10点报10145", "trend_title": "现货黄金短线拉升20美元，向上触及4040美元/盎司，日内涨0.83%。纽约期金站上4050美元/盎司，日内涨0.28%。美元指数DXY短线走低近10点，报101.45。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "美联储主席沃什对资产负债表规模问题持开放态度", "trend_title": "美联储主席沃什：对资产负债表规模问题持开放态度。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "俄副总理俄罗斯经济适应外部挑战的程度达到80", "trend_title": "俄副总理：俄罗斯经济适应外部挑战的程度达到80%", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "韩国6月份出口额增长71首次突破1000亿美元", "trend_title": "韩国6月份出口额增长71%，首次突破1000亿美元", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
