@@ -1770,3 +1770,4 @@
 {"strategy": "trend", "trend_id": "今晚全球市场翘首以待沃什还会像上月那么鹰吗", "trend_title": "今晚全球市场翘首以待：沃什还会像上月那么鹰吗？", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
 {"strategy": "trend", "trend_id": "欧洲央行管委德马尔科未看到第二轮效应薪资压力过高或通胀预期脱锚", "trend_title": "欧洲央行管委德马尔科：未看到第二轮效应、薪资压力过高或通胀预期脱锚。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "习近平全面从严治党清除一切侵蚀中共健康肌体的病毒", "trend_title": "习近平：全面从严治党 清除一切侵蚀中共健康肌体的病毒", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "外媒以色列警方逮捕涉嫌为伊朗从事间谍活动的美国公民", "trend_title": "外媒：以色列警方逮捕涉嫌为伊朗从事间谍活动的美国公民", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
