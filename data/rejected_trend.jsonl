@@ -1762,3 +1762,4 @@
 {"strategy": "trend", "trend_id": "usliftsrestrictionsonpowerfulaimodelsfablemythosanthropicsays", "trend_title": "US lifts restrictions on powerful AI models Fable, Mythos, Anthropic says", "market_title": "", "reason": "LLM 判定不下注：這條新聞是關於美國解除對 AI 模型（Fable、Mythos、Anthropic）的限制，並未直接提及 Anthrop"}
 {"strategy": "trend", "trend_id": "iransaysitcouldntexportasinglebarrelofoilduringusblockade", "trend_title": "Iran says it couldn’t export a ‘single barrel of oil’ during US blockade", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "黄金主权需求被严重低估高盛重申年底5400美元的金价预测", "trend_title": "黄金主权需求被严重低估，高盛重申年底5400美元的金价预测", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "俄外交部北约强化黑海方向的军事存在", "trend_title": "俄外交部：北约强化黑海方向的军事存在", "market_title": "NATO x Russia military clash by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
