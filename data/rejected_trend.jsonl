@@ -1760,3 +1760,4 @@
 {"strategy": "trend", "trend_id": "习近平在中国共产党105年庆祝大会颁发七一勋章", "trend_title": "习近平在中国共产党105年庆祝大会颁发“七一勋章”", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於習近平在建黨105週年頒發「七一勳章」，這是一項常規的政治活動，與候選市場中關於政變、軍事衝突、離婚、訪"}
 {"strategy": "trend", "trend_id": "美伊同意停止攻击但伊朗称未来几天不会举行谈判", "trend_title": "美伊同意停止攻击，但伊朗称未来几天不会举行谈判", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "usliftsrestrictionsonpowerfulaimodelsfablemythosanthropicsays", "trend_title": "US lifts restrictions on powerful AI models Fable, Mythos, Anthropic says", "market_title": "", "reason": "LLM 判定不下注：這條新聞是關於美國解除對 AI 模型（Fable、Mythos、Anthropic）的限制，並未直接提及 Anthrop"}
+{"strategy": "trend", "trend_id": "iransaysitcouldntexportasinglebarrelofoilduringusblockade", "trend_title": "Iran says it couldn’t export a ‘single barrel of oil’ during US blockade", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
