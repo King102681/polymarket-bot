@@ -1815,3 +1815,5 @@
 {"strategy": "trend", "trend_id": "乌议员乌议会通过关于设立乌克兰国家万神殿方案", "trend_title": "乌议员：乌议会通过关于设立“乌克兰国家万神殿”方案", "market_title": "", "reason": "信心 0.30 < 0.45：话题是关于乌克兰设立国家万神殿的，与俄乌停火协议的三个市场（2, 3, 4）都没"}
 {"strategy": "trend", "trend_id": "英国首相斯塔默给继任者留下近50亿英镑的军事预算窟窿", "trend_title": "英国首相斯塔默给继任者留下近50亿英镑的军事预算窟窿", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "zaluzhnyitoldzelenskyyhewouldrunifukraineholdselectionsthisfall", "trend_title": "Zaluzhnyi told Zelenskyy he would run if Ukraine holds elections this fall", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "英国央行行长贝利关于人工智能是创造就业还是消灭就业尚无定论", "trend_title": "英国央行行长贝利：关于人工智能是创造就业还是消灭就业，尚无定论。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "现货黄金短线拉升20美元向上触及4040美元盎司日内涨083纽约期金站上4050美元盎司日内涨028美元指数dxy短线走低近10点报10145", "trend_title": "现货黄金短线拉升20美元，向上触及4040美元/盎司，日内涨0.83%。纽约期金站上4050美元/盎司，日内涨0.28%。美元指数DXY短线走低近10点，报101.45。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
