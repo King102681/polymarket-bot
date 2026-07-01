@@ -1823,3 +1823,4 @@
 {"strategy": "trend", "trend_id": "mullinidancedahappydancewhenirangotknockedout", "trend_title": "Mullin: I 'danced a happy dance' when Iran got knocked out", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "沃什重申不会提供前瞻性指引称7月fomc会议将现显著内部分歧", "trend_title": "沃什重申不会提供前瞻性指引，称7月FOMC会议将现“显著内部分歧”", "market_title": "Will there be no change in Fed interest rates after the July 2026 meeting?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "endamericanaidnetanyahusaysisraelnolongerneedsusassistance", "trend_title": "'End American Aid': Netanyahu Says Israel No Longer Needs US Assistance", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "伊朗最高国家安全委员会造成已故最高领袖哈梅内伊死亡的罪犯将受到惩罚", "trend_title": "伊朗最高国家安全委员会：造成已故最高领袖哈梅内伊死亡的罪犯将受到惩罚", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
