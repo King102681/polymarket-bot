@@ -1811,3 +1811,4 @@
 {"strategy": "trend", "trend_id": "外交部回应巴拉圭外长涉台言论", "trend_title": "外交部回应巴拉圭外长涉台言论", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "朝鲜派兵援俄打乌传已近半逾7000官兵伤亡", "trend_title": "朝鲜派兵援俄打乌 传已近半逾7000官兵伤亡", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "沃什的两面派策略嘴上偏鹰安抚加息派行动上实施拖字诀", "trend_title": "沃什的“两面派”策略：嘴上偏鹰安抚加息派 行动上实施“拖字诀”", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "土耳其外长土耳其期待启动乌克兰问题全面谈判", "trend_title": "土耳其外长：土耳其期待启动乌克兰问题全面谈判", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
