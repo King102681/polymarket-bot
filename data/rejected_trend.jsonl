@@ -1752,3 +1752,5 @@
 {"strategy": "trend", "trend_id": "iranleavesworldcupwithwarmsendofffrommexicanfans", "trend_title": "Iran leaves World Cup with warm send-off from Mexican fans", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "中东紧张局势缓和阿联酋商品运输重归经伊朗传统线路", "trend_title": "中东紧张局势缓和，阿联酋商品运输重归经伊朗传统线路", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "northkoreaskimhailsunshakeablewilltodeveloptieswithchinasxi", "trend_title": "North Korea’s Kim hails ‘unshakeable will’ to develop ties with China’s Xi", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "贝森特除中国外鲜有国家购买伊朗石油", "trend_title": "贝森特：除中国外 鲜有国家购买伊朗石油", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "美媒白宫称美伊军方已开通并正在使用沟通渠道", "trend_title": "美媒：白宫称美伊军方已开通并正在使用沟通渠道", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
