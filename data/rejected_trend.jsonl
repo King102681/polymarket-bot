@@ -1765,3 +1765,8 @@
 {"strategy": "trend", "trend_id": "俄外交部北约强化黑海方向的军事存在", "trend_title": "俄外交部：北约强化黑海方向的军事存在", "market_title": "NATO x Russia military clash by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "习近平坚决打击台独分裂势力", "trend_title": "习近平：坚决打击“台独”分裂势力", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "习近平发表庆祝建党105周年重要讲话", "trend_title": "习近平发表庆祝建党105周年重要讲话", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "习近平坚决打击台独势力反对外部干涉", "trend_title": "习近平：坚决打击台独势力 反对外部干涉", "market_title": "Will China invade Taiwan by December 31, 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "韩总统李在明任命韩圣淑为新任国务总理", "trend_title": "韩总统李在明任命韩圣淑为新任国务总理", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於南韓總統李在明任命新任國務總理，這與所有候選市場的內容（總統任期、央行利率、GDP 成長、通貨膨脹）"}
+{"strategy": "trend", "trend_id": "今晚全球市场翘首以待沃什还会像上月那么鹰吗", "trend_title": "今晚全球市场翘首以待：沃什还会像上月那么鹰吗？", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
+{"strategy": "trend", "trend_id": "欧洲央行管委德马尔科未看到第二轮效应薪资压力过高或通胀预期脱锚", "trend_title": "欧洲央行管委德马尔科：未看到第二轮效应、薪资压力过高或通胀预期脱锚。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "习近平全面从严治党清除一切侵蚀中共健康肌体的病毒", "trend_title": "习近平：全面从严治党 清除一切侵蚀中共健康肌体的病毒", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
