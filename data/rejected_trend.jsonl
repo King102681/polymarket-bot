@@ -1805,3 +1805,5 @@
 {"strategy": "trend", "trend_id": "russiarepeatedlyputsgrenadesinsidebodiesofukrainiantroops", "trend_title": "Russia ‘repeatedly’ puts grenades inside bodies of Ukrainian troops", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "媒体爱尔兰曾想向乌克兰提供有缺陷装甲车", "trend_title": "媒体：爱尔兰曾想向乌克兰提供有缺陷装甲车", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "现货黄金向上触及4020美元盎司日内涨032", "trend_title": "现货黄金向上触及4020美元/盎司，日内涨0.32%。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "沙特阿美与阿尔及利亚国家石油公司下调7月lpg价格", "trend_title": "沙特阿美与阿尔及利亚国家石油公司下调7月LPG价格", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "高盛预计霍尔木兹海峡航运恢复后原油市场将出现过剩情况", "trend_title": "高盛预计：霍尔木兹海峡航运恢复后原油市场将出现过剩情况", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
