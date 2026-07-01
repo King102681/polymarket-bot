@@ -1859,3 +1859,4 @@
 {"strategy": "trend", "trend_id": "消息人士软银就以openai股权为抵押的贷款谈判重启并作出更多让步", "trend_title": "消息人士：软银就以OpenAI股权为抵押的贷款谈判重启，并作出更多让步", "market_title": "Will OpenAI not IPO by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "europeanofficialsaccusefifachiefofreopeningdoortorussia", "trend_title": "European officials accuse FIFA chief of reopening door to Russia", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "卡塔尔外交大臣卡塔尔与巴基斯坦调解人今日在多哈分别与美国和伊朗谈判代表举行会晤", "trend_title": "卡塔尔外交大臣：卡塔尔与巴基斯坦调解人今日在多哈分别与美国和伊朗谈判代表举行会晤。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "ussigns1leasewithisraeltobuildpermanentembassyinwestjerusalem", "trend_title": "US signs $1 lease with Israel to build permanent embassy in West Jerusalem", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
