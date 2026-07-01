@@ -1773,3 +1773,4 @@
 {"strategy": "trend", "trend_id": "外媒以色列警方逮捕涉嫌为伊朗从事间谍活动的美国公民", "trend_title": "外媒：以色列警方逮捕涉嫌为伊朗从事间谍活动的美国公民", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "supremecourtsdividedrulingonbirthrightcitizenshipmayberevisited", "trend_title": "Supreme Court’s divided ruling on birthright citizenship may be revisited", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "美国解除对claudefable5和mythos5人工智能模型的出口管制", "trend_title": "美国解除对Claude Fable 5和Mythos 5人工智能模型的出口管制", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "whyismagainmeltdownoverthesupremecourtbirthrightruling", "trend_title": "Why is MAGA in meltdown over the Supreme Court birthright ruling?", "market_title": "", "reason": "LLM 判定不下注：該話題關於美國最高法院的出生公民權裁決，與核協議市場無關。"}
