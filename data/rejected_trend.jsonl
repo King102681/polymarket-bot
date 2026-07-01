@@ -1850,3 +1850,6 @@
 {"strategy": "trend", "trend_id": "黎巴嫩卫生部自3月2日以来以色列袭击致4297人死亡", "trend_title": "黎巴嫩卫生部：自3月2日以来以色列袭击致4297人死亡", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "布伦特原油期货结算价为每桶7157美元下跌138美元跌幅189", "trend_title": "布伦特原油期货结算价为每桶71.57美元，下跌1.38美元，跌幅1.89%。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "据悉沃什任命贝森特助手出任美联储顾问", "trend_title": "据悉沃什任命贝森特助手出任美联储顾问", "market_title": "", "reason": "信心 0.40 < 0.45：新闻提到沃什（Wash）任命贝森特（Besant）的助手出任美联储顾问，这暗示着"}
+{"strategy": "trend", "trend_id": "israelkillsthreepalestiniansingazadespiteceasefire", "trend_title": "Israel kills three Palestinians in Gaza despite ‘ceasefire’", "market_title": "Israel x Hamas ceasefire cancelled by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "ukrainianchargedingermanyovernordstreamblasts", "trend_title": "Ukrainian charged in Germany over Nord Stream blasts", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "ukrainesayscrimeastrikesforcerussiantroopstowalk30kmtofront", "trend_title": "Ukraine Says Crimea Strikes Force Russian Troops to Walk 30 km to Front", "market_title": "Russia x Ukraine ceasefire agreement by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
