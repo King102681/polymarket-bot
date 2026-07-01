@@ -1869,3 +1869,4 @@
 {"strategy": "trend", "trend_id": "沃什最新定性美联储资产负债表已近财政工具18年扩表不可能几周缩回去", "trend_title": "沃什最新定性：美联储资产负债表已近“财政工具”，18年扩表不可能几周缩回去", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "droneattackonmoscowtriggeredsharpriseinantiwarviewsacrossrussia", "trend_title": "Drone Attack on Moscow Triggered Sharp Rise in Anti-War Views Across Russia", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "ussupremecourthandswealthydonorsmoreswaywithlatestdecision", "trend_title": "US Supreme Court hands wealthy donors more sway with latest decision", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "iranfootballteamwelcomedhomeafterworldcupexit", "trend_title": "Iran football team welcomed home after World Cup exit", "market_title": "", "reason": "LLM 判定不下注：該話題是關於伊朗足球隊在世界盃出局後受到歡迎，與核協議市場無關。"}
