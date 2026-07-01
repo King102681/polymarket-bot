@@ -1756,3 +1756,7 @@
 {"strategy": "trend", "trend_id": "美媒白宫称美伊军方已开通并正在使用沟通渠道", "trend_title": "美媒：白宫称美伊军方已开通并正在使用沟通渠道", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "韩国kospi指数日内跌幅扩大至300现报822188点", "trend_title": "韩国KOSPI指数日内跌幅扩大至3.00%，现报8221.88点。", "market_title": "Will the Bank of Korea decrease the base rate after the July Meeting?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "卡塔尔重申继续扮演美伊谈判协调角色", "trend_title": "卡塔尔重申继续扮演美伊谈判协调角色", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "菲律宾延长台湾旅客14天免签待遇至明年6月底", "trend_title": "菲律宾延长台湾旅客14天免签待遇至明年6月底", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "习近平在中国共产党105年庆祝大会颁发七一勋章", "trend_title": "习近平在中国共产党105年庆祝大会颁发“七一勋章”", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於習近平在建黨105週年頒發「七一勳章」，這是一項常規的政治活動，與候選市場中關於政變、軍事衝突、離婚、訪"}
+{"strategy": "trend", "trend_id": "美伊同意停止攻击但伊朗称未来几天不会举行谈判", "trend_title": "美伊同意停止攻击，但伊朗称未来几天不会举行谈判", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "usliftsrestrictionsonpowerfulaimodelsfablemythosanthropicsays", "trend_title": "US lifts restrictions on powerful AI models Fable, Mythos, Anthropic says", "market_title": "", "reason": "LLM 判定不下注：這條新聞是關於美國解除對 AI 模型（Fable、Mythos、Anthropic）的限制，並未直接提及 Anthrop"}
