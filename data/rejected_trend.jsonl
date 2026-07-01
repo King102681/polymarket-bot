@@ -1764,3 +1764,4 @@
 {"strategy": "trend", "trend_id": "黄金主权需求被严重低估高盛重申年底5400美元的金价预测", "trend_title": "黄金主权需求被严重低估，高盛重申年底5400美元的金价预测", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "俄外交部北约强化黑海方向的军事存在", "trend_title": "俄外交部：北约强化黑海方向的军事存在", "market_title": "NATO x Russia military clash by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "习近平坚决打击台独分裂势力", "trend_title": "习近平：坚决打击“台独”分裂势力", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "习近平发表庆祝建党105周年重要讲话", "trend_title": "习近平发表庆祝建党105周年重要讲话", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
