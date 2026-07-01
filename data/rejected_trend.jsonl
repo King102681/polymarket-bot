@@ -1864,3 +1864,4 @@
 {"strategy": "trend", "trend_id": "伊朗议会议长不允许核查人员进入受损核设施", "trend_title": "伊朗议会议长：不允许核查人员进入受损核设施", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "韩国银行扩建交易团队迎接韩元24小时交易", "trend_title": "韩国银行扩建交易团队，迎接韩元24小时交易", "market_title": "Will the Bank of Korea decrease the base rate after the July Meeting?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美联储7月维持利率不变的概率为717", "trend_title": "美联储7月维持利率不变的概率为71.7%", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "伊朗议长伊朗未向国际原子能机构提供访问遭袭击的核设施的权限", "trend_title": "伊朗议长：伊朗未向国际原子能机构提供访问遭袭击的核设施的权限", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
