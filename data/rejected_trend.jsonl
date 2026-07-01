@@ -1775,3 +1775,4 @@
 {"strategy": "trend", "trend_id": "美国解除对claudefable5和mythos5人工智能模型的出口管制", "trend_title": "美国解除对Claude Fable 5和Mythos 5人工智能模型的出口管制", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "whyismagainmeltdownoverthesupremecourtbirthrightruling", "trend_title": "Why is MAGA in meltdown over the Supreme Court birthright ruling?", "market_title": "", "reason": "LLM 判定不下注：該話題關於美國最高法院的出生公民權裁決，與核協議市場無關。"}
 {"strategy": "trend", "trend_id": "台湾加权指数7月1日周三收盘上涨89308点涨幅194报4701899点", "trend_title": "台湾加权指数7月1日（周三）收盘上涨893.08点，涨幅1.94%，报47018.99点。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "俄罗斯未成年人犯罪激增当局要求果断遏制", "trend_title": "俄罗斯未成年人犯罪激增 当局要求果断遏制", "market_title": "", "reason": "信心 0.30 < 0.45：話題提及俄羅斯未成年人犯罪激增，雖然與俄羅斯有關，但與俄烏停火協議的關聯性較弱，"}
