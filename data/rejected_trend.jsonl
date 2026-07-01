@@ -1776,3 +1776,4 @@
 {"strategy": "trend", "trend_id": "whyismagainmeltdownoverthesupremecourtbirthrightruling", "trend_title": "Why is MAGA in meltdown over the Supreme Court birthright ruling?", "market_title": "", "reason": "LLM 判定不下注：該話題關於美國最高法院的出生公民權裁決，與核協議市場無關。"}
 {"strategy": "trend", "trend_id": "台湾加权指数7月1日周三收盘上涨89308点涨幅194报4701899点", "trend_title": "台湾加权指数7月1日（周三）收盘上涨893.08点，涨幅1.94%，报47018.99点。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "俄罗斯未成年人犯罪激增当局要求果断遏制", "trend_title": "俄罗斯未成年人犯罪激增 当局要求果断遏制", "market_title": "", "reason": "信心 0.30 < 0.45：話題提及俄羅斯未成年人犯罪激增，雖然與俄羅斯有關，但與俄烏停火協議的關聯性較弱，"}
+{"strategy": "trend", "trend_id": "以色列媒体援引高级安全官员表示加沙地区已接近沸点重返冲突已不再是是否的问题而是何时的问题", "trend_title": "以色列媒体援引高级安全官员表示，加沙地区已接近沸点，重返冲突已不再是“是否”的问题，而是“何时”的问题。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
