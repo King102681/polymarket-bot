@@ -1857,3 +1857,4 @@
 {"strategy": "trend", "trend_id": "美国中情局局长白宫将人工智能视为数字核武器", "trend_title": "美国中情局局长：白宫将人工智能视为数字核武器", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "israelioppositionsignalforeignpolicychangeinstylebutnotsubstance", "trend_title": "Israeli opposition signal foreign policy change in style, but not substance", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "消息人士软银就以openai股权为抵押的贷款谈判重启并作出更多让步", "trend_title": "消息人士：软银就以OpenAI股权为抵押的贷款谈判重启，并作出更多让步", "market_title": "Will OpenAI not IPO by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "europeanofficialsaccusefifachiefofreopeningdoortorussia", "trend_title": "European officials accuse FIFA chief of reopening door to Russia", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
