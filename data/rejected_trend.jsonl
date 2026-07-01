@@ -1820,3 +1820,5 @@
 {"strategy": "trend", "trend_id": "美联储主席沃什对资产负债表规模问题持开放态度", "trend_title": "美联储主席沃什：对资产负债表规模问题持开放态度。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "俄副总理俄罗斯经济适应外部挑战的程度达到80", "trend_title": "俄副总理：俄罗斯经济适应外部挑战的程度达到80%", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "韩国6月份出口额增长71首次突破1000亿美元", "trend_title": "韩国6月份出口额增长71%，首次突破1000亿美元", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "mullinidancedahappydancewhenirangotknockedout", "trend_title": "Mullin: I 'danced a happy dance' when Iran got knocked out", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "沃什重申不会提供前瞻性指引称7月fomc会议将现显著内部分歧", "trend_title": "沃什重申不会提供前瞻性指引，称7月FOMC会议将现“显著内部分歧”", "market_title": "Will there be no change in Fed interest rates after the July 2026 meeting?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
