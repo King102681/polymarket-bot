@@ -1863,3 +1863,4 @@
 {"strategy": "trend", "trend_id": "据伊拉克安全消息人士称一架携带爆炸物的无人机袭击了伊拉克埃尔比勒以东地区的一个伊朗库尔德反对组织营地", "trend_title": "据伊拉克安全消息人士称，一架携带爆炸物的无人机袭击了伊拉克埃尔比勒以东地区的一个伊朗库尔德反对组织营地。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "伊朗议会议长不允许核查人员进入受损核设施", "trend_title": "伊朗议会议长：不允许核查人员进入受损核设施", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "韩国银行扩建交易团队迎接韩元24小时交易", "trend_title": "韩国银行扩建交易团队，迎接韩元24小时交易", "market_title": "Will the Bank of Korea decrease the base rate after the July Meeting?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美联储7月维持利率不变的概率为717", "trend_title": "美联储7月维持利率不变的概率为71.7%", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
