@@ -1875,3 +1875,5 @@
 {"strategy": "trend", "trend_id": "韩国半导体基板厂商三星sk海力士拟要求下半年降价年初34涨幅或将撤回", "trend_title": "韩国半导体基板厂商：三星、SK海力士拟要求下半年降价，年初3%~4%涨幅或将撤回", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "非农公布日竞猜赢大奖", "trend_title": "非农公布日，竞猜赢大奖", "market_title": "", "reason": "LLM 判定不下注：這條熱門話題僅是提醒用戶非農數據公布日期，並無提供任何關於經濟前景或對應市場的新資訊。因此，無法判斷該話題是否與候選市場"}
 {"strategy": "trend", "trend_id": "基辅市长俄罗斯对乌克兰基辅的袭击造成的伤者人数上升至十一人", "trend_title": "基辅市长：俄罗斯对乌克兰基辅的袭击造成的伤者人数上升至十一人。", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "iranwarlivepositiveprogressasustehranwrapupindirecttalks", "trend_title": "Iran war live: ‘Positive progress’ as US, Tehran wrap up indirect talks", "market_title": "US-Iran Final Nuclear Deal by August 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "japanvowstocontinuesupportingukraine", "trend_title": "Japan Vows to Continue Supporting Ukraine", "market_title": "Russia x Ukraine ceasefire agreement by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
