@@ -1951,3 +1951,5 @@
 {"strategy": "trend", "trend_id": "presidentzelenskyurgescountriessupplyingaluminiumtorussiatoreconsider", "trend_title": "President Zelensky urges countries supplying aluminium to Russia to reconsider", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "withhormuzreopenedhastheoilshortageturnedintoaglut", "trend_title": "With Hormuz reopened, has the oil shortage turned into a glut?", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "whoisiranianoiltycoonshamkhaniwhoseshipisstrandedinhormuz", "trend_title": "Who is Iranian oil tycoon Shamkhani whose ship is stranded in Hormuz?", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "特斯拉tslao跌幅扩大至61", "trend_title": "特斯拉(TSLA.O)跌幅扩大至6.1%。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "就业数据走弱但仍增长美联储按兵不动获重新评价", "trend_title": "就业数据走弱但仍增长，美联储按兵不动获重新评价", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
