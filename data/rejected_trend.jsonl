@@ -1925,3 +1925,4 @@
 {"strategy": "trend", "trend_id": "俄国防部俄防空系统击落乌军11枚航空炸弹和631架无人机", "trend_title": "俄国防部：俄防空系统击落乌军11枚航空炸弹和631架无人机", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "比亚迪有望再超越特斯拉成全球纯电动车销量冠军", "trend_title": "比亚迪有望再超越特斯拉 成全球纯电动车销量冠军", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "伊朗军方若美国企图干预霍尔木兹海峡局势将对其予以迅速回击", "trend_title": "伊朗军方：若美国企图干预霍尔木兹海峡局势将对其予以迅速回击", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "mostmassiverussianattackonkyivkillsatleast18", "trend_title": "'Most massive' Russian attack on Kyiv kills at least 18", "market_title": "Russia x Ukraine ceasefire agreement by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
