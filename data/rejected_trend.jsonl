@@ -1938,3 +1938,5 @@
 {"strategy": "trend", "trend_id": "白俄媒体无人机袭击俄布良斯克州一大巴车致两名白俄罗斯人受伤", "trend_title": "白俄媒体：无人机袭击俄布良斯克州一大巴车致两名白俄罗斯人受伤", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "习近平将颁发七一勋章庆祝中共建党105周年", "trend_title": "习近平将颁发七一勋章庆祝中共建党105周年", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "explosionheardinsyriascapitaldamascusstatemedia", "trend_title": "Explosion heard in Syria’s capital Damascus: state media", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "刘国中会见白俄罗斯第一副总理斯诺普科夫", "trend_title": "刘国中会见白俄罗斯第一副总理斯诺普科夫", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "syriaexplosionliveblastrocksdamascusasauthoritiesinvestigatecause", "trend_title": "Syria explosion live: Blast rocks Damascus as authorities investigate cause", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
