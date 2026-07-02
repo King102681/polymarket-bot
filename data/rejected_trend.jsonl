@@ -1986,3 +1986,4 @@
 {"strategy": "trend", "trend_id": "俄外交部因俄罗斯大使馆遭受袭击俄外交部将召见瑞典驻俄大使", "trend_title": "俄外交部：因俄罗斯大使馆遭受袭击俄外交部将召见瑞典驻俄大使", "market_title": "Russia x Ukraine ceasefire agreement by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "非农提振昙花一现芯片股两日累跌11纳指独跌道指新高黄金大涨", "trend_title": "非农提振昙花一现，芯片股两日累跌11%，纳指独跌，道指新高，黄金大涨", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "俄方敦促欧安组织谴责乌军袭击叶戈里耶夫斯克造成一名婴儿死亡", "trend_title": "俄方敦促欧安组织谴责乌军袭击叶戈里耶夫斯克造成一名婴儿死亡", "market_title": "Russia x Ukraine ceasefire by October 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "非农降温击碎鹰派叙事道指新高芯片股再重挫纳指100盘中跌2黄金大涨", "trend_title": "非农降温击碎鹰派叙事，道指新高，芯片股再重挫，纳指100盘中跌2%，黄金大涨", "market_title": "", "reason": "信心 0.30 < 0.45：话题提到“非农降温击碎鹰派叙事”，暗示加息预期降温，这对股市（尤其是科技股）是利"}
