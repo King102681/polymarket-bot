@@ -1894,3 +1894,4 @@
 {"strategy": "trend", "trend_id": "twoweeksafterherdeathigotacallgazapatientsfaceagonisingdelaysforevacuation", "trend_title": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "张雪纠正台湾车主国台办回应", "trend_title": "张雪纠正台湾车主，国台办回应", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "atleast13killedinlargescalerussianmissileanddronestrikesonkyiv", "trend_title": "At least 13 killed in large-scale Russian missile and drone strikes on Kyiv", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "俄国防部打击扎波罗热一带乌军储气设施摧毁多达25个储气罐", "trend_title": "俄国防部：打击扎波罗热一带乌军储气设施，摧毁多达25个储气罐", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
