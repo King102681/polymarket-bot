@@ -1935,3 +1935,5 @@
 {"strategy": "trend", "trend_id": "美国副总统万斯霍尔木兹海峡问题谈判进展顺利", "trend_title": "美国副总统万斯：霍尔木兹海峡问题谈判进展顺利", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "欧洲斯托克600指数在美国非农数据公布后小幅上涨现涨超1", "trend_title": "欧洲斯托克600指数在美国非农数据公布后小幅上涨，现涨超1%。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "日媒乌克兰欲设英烈堂恐加剧与波兰矛盾", "trend_title": "日媒：乌克兰欲设“英烈堂”，恐加剧与波兰矛盾", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "白俄媒体无人机袭击俄布良斯克州一大巴车致两名白俄罗斯人受伤", "trend_title": "白俄媒体：无人机袭击俄布良斯克州一大巴车致两名白俄罗斯人受伤", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "习近平将颁发七一勋章庆祝中共建党105周年", "trend_title": "习近平将颁发七一勋章庆祝中共建党105周年", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
