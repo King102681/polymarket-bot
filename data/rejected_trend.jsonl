@@ -1896,3 +1896,5 @@
 {"strategy": "trend", "trend_id": "atleast13killedinlargescalerussianmissileanddronestrikesonkyiv", "trend_title": "At least 13 killed in large-scale Russian missile and drone strikes on Kyiv", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "俄国防部打击扎波罗热一带乌军储气设施摧毁多达25个储气罐", "trend_title": "俄国防部：打击扎波罗热一带乌军储气设施，摧毁多达25个储气罐", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "俄国防部对乌发动空袭报复乌军袭击俄民用设施", "trend_title": "俄国防部：对乌发动空袭 报复乌军袭击俄民用设施", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "警报拉响6月非农数据或降温全球市场屏息待变", "trend_title": "警报拉响！6月非农数据或降温，全球市场屏息待变", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "俄g20事务协调人俄罗斯在g20峰会上提出制裁和限制问题", "trend_title": "俄G20事务协调人：俄罗斯在G20峰会上提出制裁和限制问题", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
