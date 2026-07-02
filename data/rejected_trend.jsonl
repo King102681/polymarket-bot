@@ -1984,3 +1984,4 @@
 {"strategy": "trend", "trend_id": "韩国6月外汇储备42736亿美元前值42699亿美元", "trend_title": "韩国6月外汇储备 4273.6亿美元，前值4269.9亿美元。", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
 {"strategy": "trend", "trend_id": "乌克兰首都基辅遭空袭致27死91伤", "trend_title": "乌克兰首都基辅遭空袭致27死91伤", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "俄外交部因俄罗斯大使馆遭受袭击俄外交部将召见瑞典驻俄大使", "trend_title": "俄外交部：因俄罗斯大使馆遭受袭击俄外交部将召见瑞典驻俄大使", "market_title": "Russia x Ukraine ceasefire agreement by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "非农提振昙花一现芯片股两日累跌11纳指独跌道指新高黄金大涨", "trend_title": "非农提振昙花一现，芯片股两日累跌11%，纳指独跌，道指新高，黄金大涨", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
