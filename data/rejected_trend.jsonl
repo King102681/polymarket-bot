@@ -1928,3 +1928,4 @@
 {"strategy": "trend", "trend_id": "mostmassiverussianattackonkyivkillsatleast18", "trend_title": "'Most massive' Russian attack on Kyiv kills at least 18", "market_title": "Russia x Ukraine ceasefire agreement by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "消息人士北约将在下周峰会上宣布采购萨博globaleye监视飞机的计划", "trend_title": "消息人士：北约将在下周峰会上宣布采购萨博GlobalEye监视飞机的计划。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "死叉看崩4000看涨黄金多空正踩进同一陷阱", "trend_title": "死叉看崩，4000看涨？黄金多空正踩进同一陷阱！", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "伊朗警告美以勿在哈梅内伊葬礼期间对伊朗发动侵略", "trend_title": "伊朗警告美以勿在哈梅内伊葬礼期间对伊朗发动侵略", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
