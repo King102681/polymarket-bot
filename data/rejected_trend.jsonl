@@ -1966,3 +1966,4 @@
 {"strategy": "trend", "trend_id": "collateraldamage73palestinianchildrenisraelshotinthehead", "trend_title": "‘Collateral damage’: 73 Palestinian children Israel shot in the head", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "whyispradafacingproisraelibacklash", "trend_title": "Why is Prada facing pro-Israeli backlash?", "market_title": "", "reason": "LLM 判定不下注：該熱門話題關於 Prada 因親以色列立場受到抵制，但候選市場是關於以色列與哈瑪斯停火協議，兩者並無直接關聯。"}
 {"strategy": "trend", "trend_id": "媒体沙特石油出口量接近美国打击伊朗前的水平", "trend_title": "媒体：沙特石油出口量接近美国打击伊朗前的水平", "market_title": "", "reason": "LLM 判定不下注：该新闻标题提及沙特石油出口量接近美国打击伊朗前的水平，这与伊朗核协议的进展关系不大。因此，此话题与所有提供的市场都不相关"}
+{"strategy": "trend", "trend_id": "媒体俄罗斯可以帮助印尼建设航天发射场并以及培养首位宇航员", "trend_title": "媒体：俄罗斯可以帮助印尼建设航天发射场并以及培养首位宇航员", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
