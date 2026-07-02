@@ -1957,3 +1957,4 @@
 {"strategy": "trend", "trend_id": "美伊完成间接技术磋商未谈核问题万斯称不保证不恢复全面作战", "trend_title": "美伊完成间接技术磋商未谈核问题 万斯称不保证不恢复全面作战", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "非农提振昙花一现纳指100跌幅扩大至1费城半导体指数跌超18特斯拉跌超6", "trend_title": "非农提振昙花一现，纳指100跌幅扩大至1%，费城半导体指数跌超1.8%，特斯拉跌超6%", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
 {"strategy": "trend", "trend_id": "俄驻白俄罗斯大使乌克兰蓄意袭击白俄罗斯公民", "trend_title": "俄驻白俄罗斯大使：乌克兰蓄意袭击白俄罗斯公民", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "美国至7月2日8周国债竞拍得标利率365前值366", "trend_title": "美国至7月2日8周国债竞拍-得标利率 3.65%，前值3.66%。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
