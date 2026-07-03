@@ -1994,3 +1994,5 @@
 {"strategy": "trend", "trend_id": "媒体海湾国家不排除会缴纳霍尔木兹海峡通行费", "trend_title": "媒体：海湾国家不排除会缴纳霍尔木兹海峡通行费", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "报告美国航空航天局向俄罗斯国家航天集团支付超36亿美元将宇航员送往国际空间站", "trend_title": "报告：美国航空航天局向俄罗斯国家航天集团支付超36亿美元 将宇航员送往国际空间站", "market_title": "", "reason": "LLM 判定不下注：这条热门话题讨论的是美国航空航天局向俄罗斯国家航天集团支付费用的事实，这与候选中任何一个关于“俄罗斯与乌克兰停火”的市场"}
 {"strategy": "trend", "trend_id": "韩国kospi指数转跌盘初曾涨14", "trend_title": "韩国KOSPI指数转跌，盘初曾涨1.4%。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "中金非农降温支持联储不加息不降息", "trend_title": "中金：非农降温支持联储不加息、不降息", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "美通报中美外长通话鲁比奥强调构建建设性双边关系重要性", "trend_title": "美通报中美外长通话 鲁比奥强调构建建设性双边关系重要性", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
