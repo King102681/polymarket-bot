@@ -2054,3 +2054,4 @@
 {"strategy": "trend", "trend_id": "mournerspayrespectsasiransslainleaderalikhameneilaidinstate", "trend_title": "Mourners pay respects as Iran’s slain leader Ali Khamenei laid in state", "market_title": "", "reason": "LLM 判定不下注：該話題關於伊朗領導人阿里·哈梅內伊的葬禮，與候選市場的美國-伊朗核協議的截止日期無直接關聯。"}
 {"strategy": "trend", "trend_id": "霍尔木兹海峡无公海通道伊朗拟换个名头收过路费", "trend_title": "霍尔木兹海峡无公海通道 伊朗拟“换个名头”收过路费", "market_title": "", "reason": "LLM 判定不下注：该话题讨论的是伊朗可能计划在霍尔木兹海峡收取过路费，并试图以“换个名头”的方式进行。这与候选项中讨论的“美伊核协议”的达"}
 {"strategy": "trend", "trend_id": "mournerspayrespectsasiransslainleaderalikhameneiliesinstate", "trend_title": "Mourners pay respects as Iran’s slain leader Ali Khamenei lies in state", "market_title": "", "reason": "LLM 判定不下注：被提及的伊朗領導人身亡與核協議的簽訂之間沒有直接關聯。此話題無法影響核協議市場的預測。"}
+{"strategy": "trend", "trend_id": "土耳其总统埃尔多安拟在伊朗局势正常化后访伊", "trend_title": "土耳其总统埃尔多安拟在伊朗局势正常化后访伊", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
