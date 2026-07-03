@@ -2066,3 +2066,4 @@
 {"strategy": "trend", "trend_id": "russianadvancecollapsesinukraineasanxietyrisesinmoscow", "trend_title": "Russian advance collapses in Ukraine as anxiety rises in Moscow", "market_title": "", "reason": "LLM 判定不下注：討論的是烏克蘭戰爭的進展，候選市場皆為美國總統大選，無任何關聯。"}
 {"strategy": "trend", "trend_id": "osakadefeatskasatkinatomakewimbledonroundof16", "trend_title": "Osaka defeats Kasatkina to make Wimbledon round of 16", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "russiasadvancecollapsesinukraine40000troopskilledinjune", "trend_title": "Russia’s advance collapses in Ukraine, ‘40,000’ troops killed in June", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "媒体卡塔尔恢复液化气船穿越霍尔木兹海峡", "trend_title": "媒体：卡塔尔恢复液化气船穿越霍尔木兹海峡", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
