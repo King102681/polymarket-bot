@@ -2011,3 +2011,5 @@
 {"strategy": "trend", "trend_id": "国际原子能机构认为铀浓缩储备仍在伊朗核设施内", "trend_title": "国际原子能机构认为铀浓缩储备仍在伊朗核设施内", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "韩国kospi指数日内涨超4", "trend_title": "韩国KOSPI指数日内涨超4%", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "民族团结进步促进法正式施行美欧及台湾地区表示关切", "trend_title": "《民族团结进步促进法》正式施行，美欧及台湾地区表示关切", "market_title": "", "reason": "信心 0.40 < 0.45：雖然此話題與台灣有關，但《民族团结进步促进法》的施行，美欧及台湾地区的关切，并未"}
+{"strategy": "trend", "trend_id": "美媒曝猛料美国曾秘密提醒伊朗以色列要暗杀你们的谈判代表", "trend_title": "美媒曝猛料！美国曾秘密提醒伊朗：以色列要暗杀你们的谈判代表", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "mappingiransalikhameneifuneralwheremournerswillgathereachday", "trend_title": "Mapping Iran’s Ali Khamenei funeral: Where mourners will gather each day", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
