@@ -2002,3 +2002,5 @@
 {"strategy": "trend", "trend_id": "消息美国认为以色列曾密谋杀害伊朗谈判代表", "trend_title": "消息：美国认为以色列曾密谋杀害伊朗谈判代表", "market_title": "", "reason": "LLM 判定不下注：此話題與候選市場並無直接關聯，候選市場關注的是以哈停火協議的日期，而該話題是關於以色列與伊朗的外交事件，兩者主題不同。"}
 {"strategy": "trend", "trend_id": "俄外交部乌克兰外长要求俄罗斯坐到谈判桌前的要求明显荒谬", "trend_title": "俄外交部：乌克兰外长要求俄罗斯“坐到谈判桌前”的要求明显荒谬", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "因应大陆民族团结促进法台湾设跨境镇压跨机关协处平台", "trend_title": "因应大陆民族团结促进法 台湾设跨境镇压跨机关协处平台", "market_title": "Will China invade Taiwan by December 31, 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "russianstrikewipesoutredcrosswarehouseinkyivdestroyingover320000reliefitems", "trend_title": "Russian Strike Wipes out Red Cross Warehouse in Kyiv, Destroying over 320,000 Relief Items", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "iranwarlivetehranslamsusbeforehugefuneralforalikhamenei", "trend_title": "Iran war live: Tehran slams US before huge funeral for Ali Khamenei", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
