@@ -2079,3 +2079,4 @@
 {"strategy": "trend", "trend_id": "绍伊古俄罗斯和白俄罗斯共同应对一切威胁", "trend_title": "绍伊古：俄罗斯和白俄罗斯共同应对一切威胁", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
 {"strategy": "trend", "trend_id": "摩根大通预计黄金短期内将维持区间震荡随后回升2026年第三季度均价为4300美元盎司第四季度均价为4500美元盎司", "trend_title": "摩根大通：预计黄金短期内将维持区间震荡，随后回升，2026年第三季度均价为4,300美元/盎司，第四季度均价为4,500美元/盎司。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "英国首相候选人伯纳姆将在此前政府良好工作的基础上建立更紧密的欧盟关系", "trend_title": "英国首相候选人伯纳姆：将在此前政府良好工作的基础上，建立更紧密的欧盟关系。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "摩根大通黄金短期承压2026下半年或冲4500美元", "trend_title": "摩根大通：黄金短期承压 2026下半年或冲4500美元", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
