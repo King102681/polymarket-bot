@@ -1997,3 +1997,4 @@
 {"strategy": "trend", "trend_id": "中金非农降温支持联储不加息不降息", "trend_title": "中金：非农降温支持联储不加息、不降息", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "美通报中美外长通话鲁比奥强调构建建设性双边关系重要性", "trend_title": "美通报中美外长通话 鲁比奥强调构建建设性双边关系重要性", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "波兰内政部波兰赋予乌克兰公民与其他外国公民平等的权利", "trend_title": "波兰内政部：波兰赋予乌克兰公民与其他外国公民平等的权利", "market_title": "", "reason": "信心 0.40 < 0.45：波兰赋予乌克兰公民与其他外国公民平等的权利，虽然对乌克兰是利好，但与直接的俄乌停"}
+{"strategy": "trend", "trend_id": "中美同意降低部分农产品对等关税", "trend_title": "中美同意降低部分农产品对等关税", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
