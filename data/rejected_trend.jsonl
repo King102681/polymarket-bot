@@ -2089,3 +2089,5 @@
 {"strategy": "trend", "trend_id": "israelisettlersintensifyattacksinwestbanktargetingwatersupplies", "trend_title": "Israeli settlers intensify attacks in West Bank, targeting water supplies", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "秘鲁全国选举委员会宣布藤森庆子当选总统", "trend_title": "秘鲁全国选举委员会宣布藤森庆子当选总统", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "北约高级指挥官欧洲已弥补了美国在北约内部削减的大部分份额", "trend_title": "北约高级指挥官：欧洲已弥补了美国在北约内部削减的大部分份额。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "梅德韦杰夫伊朗人民将在与美国的斗争中取得胜利", "trend_title": "梅德韦杰夫：伊朗人民将在与美国的斗争中取得胜利", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "iranbeginsweekoffuneralceremoniesforslainsupremeleaderkhamenei", "trend_title": "Iran begins week of funeral ceremonies for slain Supreme Leader Khamenei", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
