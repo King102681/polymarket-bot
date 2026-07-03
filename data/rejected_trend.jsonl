@@ -2024,3 +2024,5 @@
 {"strategy": "trend", "trend_id": "白俄罗斯国会议长与伊朗议会议长卡利巴夫会晤", "trend_title": "白俄罗斯国会议长与伊朗议会议长卡利巴夫会晤", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "韩华集团将在韩国投资55万亿韩元建设卫星航天运载火箭和国防人工智能数据中心", "trend_title": "韩华集团：将在韩国投资55​​万亿韩元建设卫星、航天运载火箭和国防人工智能数据中心。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "花旗霍尔木兹冲击消退油价年底或跌至60美元", "trend_title": "花旗：霍尔木兹冲击消退，油价年底或跌至60美元", "market_title": "Strait of Hormuz traffic returns to normal by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "普京向卢卡申科祝贺白俄罗斯独立日", "trend_title": "普京向卢卡申科祝贺白俄罗斯独立日", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
+{"strategy": "trend", "trend_id": "外媒美国曾担心以色列暗杀伊朗谈判代表", "trend_title": "外媒：美国曾担心以色列暗杀伊朗谈判代表", "market_title": "", "reason": "LLM 判定不下注：此話題關於以色列與伊朗的潛在暗殺行動，與當前市場關注的以色列與哈瑪斯停火協議無直接關聯。市場定價與話題內容無明顯落差。"}
