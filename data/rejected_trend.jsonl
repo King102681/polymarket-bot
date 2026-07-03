@@ -2051,3 +2051,4 @@
 {"strategy": "trend", "trend_id": "ukrainianwomannamedbyinterpolasmainsuspectinmonacobombattack", "trend_title": "Ukrainian woman named by Interpol as main suspect in Monaco bomb attack", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "德媒泽连斯基呼吁在乌克兰生产爱国者导弹", "trend_title": "德媒：泽连斯基呼吁在乌克兰生产“爱国者”导弹", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "伊朗正寻求向日本出售石油但潜在买家希望获得更长的制裁豁免期", "trend_title": "伊朗正寻求向日本出售石油，但潜在买家希望获得更长的制裁豁免期", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "mournerspayrespectsasiransslainleaderalikhameneilaidinstate", "trend_title": "Mourners pay respects as Iran’s slain leader Ali Khamenei laid in state", "market_title": "", "reason": "LLM 判定不下注：該話題關於伊朗領導人阿里·哈梅內伊的葬禮，與候選市場的美國-伊朗核協議的截止日期無直接關聯。"}
