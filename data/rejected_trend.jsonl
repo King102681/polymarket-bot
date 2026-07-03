@@ -2067,3 +2067,4 @@
 {"strategy": "trend", "trend_id": "osakadefeatskasatkinatomakewimbledonroundof16", "trend_title": "Osaka defeats Kasatkina to make Wimbledon round of 16", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "russiasadvancecollapsesinukraine40000troopskilledinjune", "trend_title": "Russia’s advance collapses in Ukraine, ‘40,000’ troops killed in June", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "媒体卡塔尔恢复液化气船穿越霍尔木兹海峡", "trend_title": "媒体：卡塔尔恢复液化气船穿越霍尔木兹海峡", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "俄外交部俄罗斯呼吁国际机构公正评估乌军袭击托克马克市场一事", "trend_title": "俄外交部：俄罗斯呼吁国际机构公正评估乌军袭击托克马克市场一事", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
