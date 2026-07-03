@@ -2071,3 +2071,5 @@
 {"strategy": "trend", "trend_id": "波兰总理泽连斯基想通过美化纳粹来获得支持是愚蠢至极", "trend_title": "波兰总理：泽连斯基想通过美化纳粹来获得支持是愚蠢至极", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "英国央行行长贝利如果没有战争英国通胀将达到目标", "trend_title": "英国央行行长贝利：如果没有战争，英国通胀将达到目标。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "以总理办公室否认计划暗杀伊朗谈判代表", "trend_title": "以总理办公室否认计划暗杀伊朗谈判代表", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "据伊朗学生通讯社伊朗和巴基斯坦双方在伊朗前最高领袖哈梅内伊的葬礼后举行会谈", "trend_title": "据伊朗学生通讯社：伊朗和巴基斯坦双方在伊朗前最高领袖哈梅内伊的葬礼后举行会谈。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "全国人大常委会副委员长何维代表中方出席伊朗已故最高领袖哈梅内伊葬礼", "trend_title": "全国人大常委会副委员长何维代表中方出席伊朗已故最高领袖哈梅内伊葬礼", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
