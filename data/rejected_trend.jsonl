@@ -2020,3 +2020,4 @@
 {"strategy": "trend", "trend_id": "asb银行新西兰联储或有空间维持利率不变", "trend_title": "ASB银行：新西兰联储或有空间维持利率不变", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "onthestraitofhormuzbbcfindsseizedshipsandsharkfishermenasuneasycalmreturns", "trend_title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "韩国总统府韩国总统李在明将于7月9日至11日访问蒙古", "trend_title": "韩国总统府：韩国总统李在明将于7月9日至11日访问蒙古。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "外媒欧洲央行行长拉加德考虑提前卸任以参与法国总统选举辩论", "trend_title": "外媒：欧洲央行行长拉加德考虑提前卸任，以参与法国总统选举辩论", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
