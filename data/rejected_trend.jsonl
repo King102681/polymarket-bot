@@ -2007,3 +2007,4 @@
 {"strategy": "trend", "trend_id": "逻辑切换伊朗原油从能不能出来到出来之后有没有人接", "trend_title": "逻辑切换，伊朗原油从“能不能出来”到“出来之后有没有人接”", "market_title": "", "reason": "信心 0.40 < 0.45：話題從『能否出來』轉變到『出來後有沒有人接』，暗示談判有所進展，『能出來』的可能"}
 {"strategy": "trend", "trend_id": "iranwarnsshipsagainstusingunapprovedroutesinstraitofhormuz", "trend_title": "Iran warns ships against using unapproved routes in Strait of Hormuz", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "加息预期减弱铜价与工业金属价格一同上涨", "trend_title": "加息预期减弱 铜价与工业金属价格一同上涨", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "芯片股两连跌ai鬼故事不断metaanthropic相继传出新动作市场开始重估ai交易", "trend_title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
