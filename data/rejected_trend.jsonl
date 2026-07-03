@@ -2018,3 +2018,4 @@
 {"strategy": "trend", "trend_id": "mostmassiverussianattackonkyivkillsatleast30", "trend_title": "'Most massive' Russian attack on Kyiv kills at least 30", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美国6月非农仅增57万人远逊预期市场削减美联储加息押注", "trend_title": "美国6月非农仅增5.7万人远逊预期 市场削减美联储加息押注", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "asb银行新西兰联储或有空间维持利率不变", "trend_title": "ASB银行：新西兰联储或有空间维持利率不变", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "onthestraitofhormuzbbcfindsseizedshipsandsharkfishermenasuneasycalmreturns", "trend_title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
