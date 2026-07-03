@@ -2023,3 +2023,4 @@
 {"strategy": "trend", "trend_id": "外媒欧洲央行行长拉加德考虑提前卸任以参与法国总统选举辩论", "trend_title": "外媒：欧洲央行行长拉加德考虑提前卸任，以参与法国总统选举辩论", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "白俄罗斯国会议长与伊朗议会议长卡利巴夫会晤", "trend_title": "白俄罗斯国会议长与伊朗议会议长卡利巴夫会晤", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "韩华集团将在韩国投资55万亿韩元建设卫星航天运载火箭和国防人工智能数据中心", "trend_title": "韩华集团：将在韩国投资55​​万亿韩元建设卫星、航天运载火箭和国防人工智能数据中心。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "花旗霍尔木兹冲击消退油价年底或跌至60美元", "trend_title": "花旗：霍尔木兹冲击消退，油价年底或跌至60美元", "market_title": "Strait of Hormuz traffic returns to normal by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
