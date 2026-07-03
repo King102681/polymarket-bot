@@ -2094,3 +2094,5 @@
 {"strategy": "trend", "trend_id": "克里姆林宫发言人佩斯科夫俄罗斯联邦已完全解放康斯坦丁诺夫卡位于乌克兰东部顿涅茨克州中部", "trend_title": "克里姆林宫发言人佩斯科夫：俄罗斯联邦已完全解放康斯坦丁诺夫卡（位于乌克兰东部顿涅茨克州中部）。", "market_title": "", "reason": "LLM 判定不下注：該新聞談論的是俄烏戰爭的特定地點解放，與候選市場的主題（伊朗、AI、操縱、中國、震驚）均無直接關聯，因此選擇 index"}
 {"strategy": "trend", "trend_id": "lebanonisraeldealbetraysvictimsofwarcrimesrightsgroupssay", "trend_title": "Lebanon-Israel deal betrays ‘victims of war crimes’, rights groups say", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "trumpholdsthegoldentickets", "trend_title": "Trump holds the golden tickets", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "欧盟委员会主席冯德莱恩欧洲正面临住房危机我们计划成立欧洲住房联盟并将召开一场欧洲住房问题高级别峰会", "trend_title": "欧盟委员会主席冯德莱恩：欧洲正面临住房危机。我们计划成立“欧洲住房联盟”，并将召开一场欧洲住房问题高级别峰会。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "美元料创4月以来最大单周跌幅降息预期升温打压走势", "trend_title": "美元料创4月以来最大单周跌幅 降息预期升温打压走势", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
