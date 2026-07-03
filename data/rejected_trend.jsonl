@@ -2086,3 +2086,4 @@
 {"strategy": "trend", "trend_id": "claudepleasestoptryingtomemorizerandomcrap", "trend_title": "Claude, please stop trying to memorize random crap", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "据伊朗学生通讯社伊朗总统与俄罗斯讨论了扩大合作事宜", "trend_title": "据伊朗学生通讯社：伊朗总统与俄罗斯讨论了扩大合作事宜。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "韩国希望在2030年前进行月球着陆器的首次着陆", "trend_title": "韩国希望在2030年前进行月球着陆器的首次着陆", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "israelisettlersintensifyattacksinwestbanktargetingwatersupplies", "trend_title": "Israeli settlers intensify attacks in West Bank, targeting water supplies", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
