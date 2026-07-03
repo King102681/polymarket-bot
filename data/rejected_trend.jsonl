@@ -2004,3 +2004,4 @@
 {"strategy": "trend", "trend_id": "因应大陆民族团结促进法台湾设跨境镇压跨机关协处平台", "trend_title": "因应大陆民族团结促进法 台湾设跨境镇压跨机关协处平台", "market_title": "Will China invade Taiwan by December 31, 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "russianstrikewipesoutredcrosswarehouseinkyivdestroyingover320000reliefitems", "trend_title": "Russian Strike Wipes out Red Cross Warehouse in Kyiv, Destroying over 320,000 Relief Items", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "iranwarlivetehranslamsusbeforehugefuneralforalikhamenei", "trend_title": "Iran war live: Tehran slams US before huge funeral for Ali Khamenei", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "逻辑切换伊朗原油从能不能出来到出来之后有没有人接", "trend_title": "逻辑切换，伊朗原油从“能不能出来”到“出来之后有没有人接”", "market_title": "", "reason": "信心 0.40 < 0.45：話題從『能否出來』轉變到『出來後有沒有人接』，暗示談判有所進展，『能出來』的可能"}
