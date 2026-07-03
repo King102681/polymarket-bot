@@ -2049,3 +2049,5 @@
 {"strategy": "trend", "trend_id": "俄国防部俄军过去一周对乌克兰军工企业及燃料动力设施实施六次报复性打击", "trend_title": "俄国防部：俄军过去一周对乌克兰军工企业及燃料动力设施实施六次报复性打击", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "黎巴嫩总统奥恩黎巴嫩一些人难以与伊朗和美国的道路保持距离", "trend_title": "黎巴嫩总统奥恩：黎巴嫩一些人难以与伊朗和美国的道路保持距离。", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
 {"strategy": "trend", "trend_id": "ukrainianwomannamedbyinterpolasmainsuspectinmonacobombattack", "trend_title": "Ukrainian woman named by Interpol as main suspect in Monaco bomb attack", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "德媒泽连斯基呼吁在乌克兰生产爱国者导弹", "trend_title": "德媒：泽连斯基呼吁在乌克兰生产“爱国者”导弹", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "伊朗正寻求向日本出售石油但潜在买家希望获得更长的制裁豁免期", "trend_title": "伊朗正寻求向日本出售石油，但潜在买家希望获得更长的制裁豁免期", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
