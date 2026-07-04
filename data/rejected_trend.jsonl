@@ -2140,3 +2140,5 @@
 {"strategy": "trend", "trend_id": "俄安全局协助乌军策划袭击的俄阿纳帕居民遭拘留", "trend_title": "俄安全局：协助乌军策划袭击的俄阿纳帕居民遭拘留", "market_title": "Will \"Ukraine\" or \"Ukrainian\" be in the headlines this week?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "俄罗斯方面称乌克兰无人机袭击圣彼得堡一处油库", "trend_title": "俄罗斯方面称，乌克兰无人机袭击圣彼得堡一处油库。", "market_title": "Will \"Oil\" or \"Gas\" be in the headlines this week?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "keikofujimorideclaredwinnerofperuspresidentialelectionweeksaftervote", "trend_title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於秘魯總統大選結果，與候選市場中所有關於美國總統選舉的候選人無關。因此，市場指數為 -1，無方向判斷，"}
+{"strategy": "trend", "trend_id": "俄防空系统击退无人机对圣彼得堡袭击敌军攻击石油码头", "trend_title": "俄防空系统击退无人机对圣彼得堡袭击，敌军攻击石油码头", "market_title": "", "reason": "信心 0.30 < 0.45：俄羅斯擊退對聖彼得堡的無人機襲擊，並提到了對石油碼頭的攻擊。這可能對原油價格產生"}
+{"strategy": "trend", "trend_id": "阿曼向美国提交霍尔木兹海峡收费提案", "trend_title": "阿曼向美国提交霍尔木兹海峡收费提案", "market_title": "Strait of Hormuz traffic returns to normal by July 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
