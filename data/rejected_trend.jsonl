@@ -2188,3 +2188,4 @@
 {"strategy": "trend", "trend_id": "russianattacksleavetrailofdestructionacrossukraine", "trend_title": "Russian attacks leave trail of destruction across Ukraine", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "俄乌大规模互袭俄军称控制多个居民点", "trend_title": "俄乌大规模互袭 俄军称控制多个居民点", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "伊朗情报部门称已消灭四个与美国和以色列有关联的武装组织", "trend_title": "伊朗情报部门称已消灭四个与美国和以色列有关联的武装组织", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "黄金如今又看美联储的脸色了", "trend_title": "黄金如今又看美联储的脸色了", "market_title": "Will there be no change in Fed interest rates after the July 2026 meeting?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
