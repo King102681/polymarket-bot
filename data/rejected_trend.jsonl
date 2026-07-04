@@ -2168,3 +2168,6 @@
 {"strategy": "trend", "trend_id": "伊朗称捣毁多个与美以有关的恐怖和极端组织窝点", "trend_title": "伊朗称捣毁多个与美以有关的“恐怖和极端组织”窝点", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "伊朗各界向哈梅内伊做最后告别外界紧盯穆杰塔巴动向", "trend_title": "伊朗各界向哈梅内伊做“最后告别”，外界紧盯穆杰塔巴动向", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "据塔斯社俄罗斯总统普京签署法律修订税法以支持国内燃料市场", "trend_title": "据塔斯社：俄罗斯总统普京签署法律修订税法以支持国内燃料市场。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "伊朗驻华大使将在霍尔木兹海峡收费安排中给予中国特殊待遇", "trend_title": "伊朗驻华大使：将在霍尔木兹海峡收费安排中给予中国特殊待遇", "market_title": "", "reason": "LLM 判定不下注：此話題涉及伊朗與中國在霍爾木茲海峽的潛在協議，並未直接提及與美國達成核協議的具體時間表。候選市場均為關於美伊核協議的最終"}
+{"strategy": "trend", "trend_id": "俄国防部基辅试图用火烈鸟导弹哈马斯系统和无人机攻击俄本土", "trend_title": "俄国防部：基辅试图用火烈鸟导弹、哈马斯系统和无人机攻击俄本土", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "伊朗外交部长阿拉格齐在伊朗首都德黑兰分别会晤黎巴嫩真主党及哈马斯代表", "trend_title": "伊朗外交部长阿拉格齐在伊朗首都德黑兰分别会晤黎巴嫩真主党及哈马斯代表。", "market_title": "Israel x Hamas Ceasefire Phase II by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
