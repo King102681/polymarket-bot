@@ -2125,3 +2125,4 @@
 {"strategy": "trend", "trend_id": "俄军大规模空袭基辅致27死91伤", "trend_title": "俄军大规模空袭基辅致27死91伤", "market_title": "Will \"War\" be in the headlines this week?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "russialookstostudentstomakeupformountinglossesinukraine", "trend_title": "Russia looks to students to make up for mounting losses in Ukraine", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "伊朗议长反击特朗普缺粮言论美国数千万人靠食品券生活", "trend_title": "伊朗议长反击特朗普“缺粮”言论：美国数千万人靠食品券生活", "market_title": "", "reason": "信心 0.30 < 0.45：伊朗议长批评特朗普的言论，暗示美国国内存在经济问题，这可能对特朗普的政治声望和总"}
+{"strategy": "trend", "trend_id": "trumpcallscommunismamortalthreatatus250thbirthdayevent", "trend_title": "Trump calls communism a ‘mortal threat’ at US 250th birthday event", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
