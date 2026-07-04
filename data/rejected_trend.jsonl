@@ -2129,3 +2129,5 @@
 {"strategy": "trend", "trend_id": "couldisraelreallybuildsettlementsingaza", "trend_title": "Could Israel really build settlements in Gaza?", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是以色列在加薩建造定居點的可能性，這與目前提供的兩個市場（關於停火協議）沒有直接關聯。因此，無法判斷哪個市場"}
 {"strategy": "trend", "trend_id": "韩国股市杠杆失控450亿美元资金狂飙sk海力士单只etf规模碾压美股科技巨头", "trend_title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "海警台岛以东海域执法为何常态化", "trend_title": "海警台岛以东海域执法为何常态化", "market_title": "", "reason": "信心 0.40 < 0.45：熱門話題討論中國海警在台島以東海域執法的常態化，這暗示著緊張局勢的升級，可能增加"}
+{"strategy": "trend", "trend_id": "伊朗送别哈梅内伊", "trend_title": "伊朗送别哈梅内伊", "market_title": "", "reason": "LLM 判定不下注：儘管伊朗最高領袖哈梅內伊的逝世可能對伊朗的政治格局產生重大影響，但目前沒有足夠資訊明確指向此事件會直接且快速地影響美伊核"}
+{"strategy": "trend", "trend_id": "伊朗为哈梅内伊举行六天公众告别仪式", "trend_title": "伊朗为哈梅内伊举行六天公众告别仪式", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
