@@ -2102,3 +2102,4 @@
 {"strategy": "trend", "trend_id": "俄罗斯军队解放康斯坦丁诺夫卡", "trend_title": "俄罗斯军队解放康斯坦丁诺夫卡", "market_title": "Will \"Ukraine\" or \"Ukrainian\" be in the headlines this week?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "特朗普财政部接受股票捐赠以资助特朗普账户", "trend_title": "特朗普：财政部接受股票捐赠 以资助“特朗普账户”", "market_title": "", "reason": "LLM 判定不下注：此新聞與特朗普是否在特定時間前卸任、或是否收購格陵蘭、或是否赦免 SBF 都沒有直接關聯。話題描述的是特朗普允許將股票捐"}
 {"strategy": "trend", "trend_id": "moralandpoliticalblindnesseulawmakersavagesfifaoverrussia", "trend_title": "‘Moral and political blindness’: EU lawmaker savages FIFA over Russia", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "中共庆祝建党105周年习近平强调清除党内病毒", "trend_title": "中共庆祝建党105周年 习近平强调清除党内病毒", "market_title": "China coup attempt before 2027?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
