@@ -2172,3 +2172,5 @@
 {"strategy": "trend", "trend_id": "俄国防部基辅试图用火烈鸟导弹哈马斯系统和无人机攻击俄本土", "trend_title": "俄国防部：基辅试图用火烈鸟导弹、哈马斯系统和无人机攻击俄本土", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "伊朗外交部长阿拉格齐在伊朗首都德黑兰分别会晤黎巴嫩真主党及哈马斯代表", "trend_title": "伊朗外交部长阿拉格齐在伊朗首都德黑兰分别会晤黎巴嫩真主党及哈马斯代表。", "market_title": "Israel x Hamas Ceasefire Phase II by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "媒体美伊下一轮谈判将于7月11日在巴基斯坦举行", "trend_title": "媒体：美伊下一轮谈判将于7月11日在巴基斯坦举行", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "fireworksflyoversandareallylongtrumpspeechaheadasuscelebrates250th", "trend_title": "Fireworks, flyovers and a 'really long' Trump speech ahead as US celebrates 250th", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "卡点发布gpt56三大模型全曝定档7月7日", "trend_title": "卡点发布！GPT-5.6三大模型全曝，定档7月7日？", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
