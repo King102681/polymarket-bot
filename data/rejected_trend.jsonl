@@ -2187,3 +2187,4 @@
 {"strategy": "trend", "trend_id": "atleast7palestinianskilledbyisraeliforcesoverpast48hoursingaza", "trend_title": "At least 7 Palestinians killed by Israeli forces over past 48 hours in Gaza", "market_title": "", "reason": "信心 0.40 < 0.45：衝突升級的消息（加沙地帶48小時內7名巴勒斯坦人死亡）增加了持續停火的難度，短期"}
 {"strategy": "trend", "trend_id": "russianattacksleavetrailofdestructionacrossukraine", "trend_title": "Russian attacks leave trail of destruction across Ukraine", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "俄乌大规模互袭俄军称控制多个居民点", "trend_title": "俄乌大规模互袭 俄军称控制多个居民点", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "伊朗情报部门称已消灭四个与美国和以色列有关联的武装组织", "trend_title": "伊朗情报部门称已消灭四个与美国和以色列有关联的武装组织", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
