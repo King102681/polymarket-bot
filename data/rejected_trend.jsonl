@@ -2174,3 +2174,4 @@
 {"strategy": "trend", "trend_id": "媒体美伊下一轮谈判将于7月11日在巴基斯坦举行", "trend_title": "媒体：美伊下一轮谈判将于7月11日在巴基斯坦举行", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "fireworksflyoversandareallylongtrumpspeechaheadasuscelebrates250th", "trend_title": "Fireworks, flyovers and a 'really long' Trump speech ahead as US celebrates 250th", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "卡点发布gpt56三大模型全曝定档7月7日", "trend_title": "卡点发布！GPT-5.6三大模型全曝，定档7月7日？", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "伊朗为哈梅内伊举行悼念活动逾30国官员拟出席", "trend_title": "伊朗为哈梅内伊举行悼念活动 逾30国官员拟出席", "market_title": "", "reason": "LLM 判定不下注：此話題關於伊朗領導人的悼念活動，與美國和伊朗的最終核協議無直接關聯。因此，無法判斷該話題對候選市場的影響方向。"}
