@@ -2116,3 +2116,4 @@
 {"strategy": "trend", "trend_id": "常州市市长周伟调研人工智能上游产业", "trend_title": "常州市市长周伟调研人工智能上游产业", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "中国海警在台湾岛以东海域开展常态化执法巡查", "trend_title": "中国海警在台湾岛以东海域开展常态化执法巡查", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "伊朗议长伊朗已为中国船只通过霍尔木兹提供便利", "trend_title": "伊朗议长：伊朗已为中国船只通过霍尔木兹提供便利", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "中国大陆海警局宣布在台湾以东开展常态化执法巡查", "trend_title": "中国大陆海警局宣布在台湾以东开展常态化执法巡查", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
