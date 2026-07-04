@@ -2120,3 +2120,4 @@
 {"strategy": "trend", "trend_id": "普京说必须继续大规模打击乌军工设施", "trend_title": "普京说必须继续大规模打击乌军工设施", "market_title": "Will \"War\" be in the headlines this week?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "西方媒体极度不情愿地报道俄军夺取康斯坦丁诺夫卡", "trend_title": "西方媒体极度不情愿地报道俄军夺取康斯坦丁诺夫卡", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "国台办促民进党当局解除大陆居民赴台游限制", "trend_title": "国台办促民进党当局解除大陆居民赴台游限制", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "美国总统特朗普伊朗非常想达成协议因举办哈梅内伊的葬礼给伊朗放了一周假", "trend_title": "美国总统特朗普：伊朗非常想达成协议；因举办哈梅内伊的葬礼，给伊朗放了一周假。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
