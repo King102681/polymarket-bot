@@ -2184,3 +2184,5 @@
 {"strategy": "trend", "trend_id": "伊朗驻华大使霍尔木兹海峡拟收服务费对友好国家给予特殊待遇", "trend_title": "伊朗驻华大使：霍尔木兹海峡拟收服务费 对友好国家给予特殊待遇", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "普希林称从乌军手中解放康斯坦丁诺夫卡是一件最重要的事件", "trend_title": "普希林称从乌军手中解放康斯坦丁诺夫卡是一件最重要的事件", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "美国财政部宣布正式推出特朗普账户及应用程序的全部功能", "trend_title": "美国财政部宣布正式推出“特朗普账户”及应用程序的全部功能。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "atleast7palestinianskilledbyisraeliforcesoverpast48hoursingaza", "trend_title": "At least 7 Palestinians killed by Israeli forces over past 48 hours in Gaza", "market_title": "", "reason": "信心 0.40 < 0.45：衝突升級的消息（加沙地帶48小時內7名巴勒斯坦人死亡）增加了持續停火的難度，短期"}
+{"strategy": "trend", "trend_id": "russianattacksleavetrailofdestructionacrossukraine", "trend_title": "Russian attacks leave trail of destruction across Ukraine", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
