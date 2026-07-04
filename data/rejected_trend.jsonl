@@ -2165,3 +2165,6 @@
 {"strategy": "trend", "trend_id": "ukrainehitsmajoroilterminalinrussiasstpetersburg", "trend_title": "Ukraine hits major oil terminal in Russia's St Petersburg", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
 {"strategy": "trend", "trend_id": "阿里阿兹马伊被任命为伊朗伊斯兰革命卫队海军司令", "trend_title": "阿里·阿兹马伊被任命为伊朗伊斯兰革命卫队海军司令", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "乌克兰能源公司dtek俄罗斯在乌克兰东部袭击了一家煤矿企业造成一名矿工死亡五名矿工受伤", "trend_title": "乌克兰能源公司DTEK：俄罗斯在乌克兰东部袭击了一家煤矿企业，造成一名矿工死亡，五名矿工受伤。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "伊朗称捣毁多个与美以有关的恐怖和极端组织窝点", "trend_title": "伊朗称捣毁多个与美以有关的“恐怖和极端组织”窝点", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "伊朗各界向哈梅内伊做最后告别外界紧盯穆杰塔巴动向", "trend_title": "伊朗各界向哈梅内伊做“最后告别”，外界紧盯穆杰塔巴动向", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "据塔斯社俄罗斯总统普京签署法律修订税法以支持国内燃料市场", "trend_title": "据塔斯社：俄罗斯总统普京签署法律修订税法以支持国内燃料市场。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
