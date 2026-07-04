@@ -1,4 +1,5 @@
 py-clob-client
+polymarket-client==0.1.0b7
 python-dotenv
 requests
 web3
