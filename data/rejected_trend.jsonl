@@ -2202,3 +2202,5 @@
 {"strategy": "trend", "trend_id": "特朗普华盛顿庆典人潮空前美国比以往任何时候都更强大", "trend_title": "特朗普：华盛顿庆典人潮空前 美国比以往任何时候都更强大", "market_title": "Trump out as President before 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "russiasmedvedevsaysstraitofhormuzisiransnuclearweapon", "trend_title": "Russia’s Medvedev says Strait of Hormuz is Iran’s ‘nuclear weapon’", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "美国官员霍尔木兹海峡的南线航道目前仍在通行", "trend_title": "美国官员：霍尔木兹海峡的南线航道目前仍在通行", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "美国axios记者称若内塔尼亚胡造访白宫这将是他自二月份在情况室与美国总统特朗普的戏剧性会晤以来的首次会面当时内塔尼亚胡提交了一份对伊朗开战的方案", "trend_title": "美国Axios记者称，若内塔尼亚胡造访白宫，这将是他自二月份在情况室与美国总统特朗普的戏剧性会晤以来的首次会面，当时，内塔尼亚胡提交了一份对伊朗开战的方案。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "据axios一位以色列高级官员表示会议的最终日期尚未确定由于特朗普访问土耳其下周访问可能为时过早该官员称访问可能会在随后一周进行", "trend_title": "据Axios：一位以色列高级官员表示，会议的最终日期尚未确定，由于特朗普访问土耳其，下周访问可能为时过早。该官员称：“访问可能会在随后一周进行。”", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
