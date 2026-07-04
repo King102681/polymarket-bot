@@ -2218,3 +2218,6 @@
 {"strategy": "trend", "trend_id": "乌克兰无人机大规模袭击圣彼得堡石油设施", "trend_title": "乌克兰无人机大规模袭击圣彼得堡石油设施", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "gpt55codexreasoningtokenclusteringmaybeleadingtodegradedperformance", "trend_title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是 GPT-5.5 Codex 的潛在效能下降問題，與 OpenAI 是否發布新模型（模型代別、時間點）或 "}
 {"strategy": "trend", "trend_id": "普京与特朗普于7月4日举行电话会谈", "trend_title": "普京与特朗普于7月4日举行电话会谈", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "中国特稿ai引发双速经济两台湾新科技狂飙旧产业慢行", "trend_title": "中国特稿：AI引发双速经济两台湾 新科技狂飙旧产业慢行", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
+{"strategy": "trend", "trend_id": "朝鲜姜健号驱逐舰进行武器系统性能评估试验", "trend_title": "朝鲜“姜健”号驱逐舰进行武器系统性能评估试验", "market_title": "", "reason": "LLM 判定不下注：该话题是关于朝鲜“姜健”号驱逐舰进行武器系统性能评估试验。候选项市场主要关注朝鲜是否会入侵韩国、金正恩是否下台、以及未来"}
+{"strategy": "trend", "trend_id": "中国学者美对台军售将终结中美建设性战略稳定框架", "trend_title": "中国学者：美对台军售将终结中美“建设性战略稳定”框架", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
