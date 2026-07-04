@@ -2126,3 +2126,5 @@
 {"strategy": "trend", "trend_id": "russialookstostudentstomakeupformountinglossesinukraine", "trend_title": "Russia looks to students to make up for mounting losses in Ukraine", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "伊朗议长反击特朗普缺粮言论美国数千万人靠食品券生活", "trend_title": "伊朗议长反击特朗普“缺粮”言论：美国数千万人靠食品券生活", "market_title": "", "reason": "信心 0.30 < 0.45：伊朗议长批评特朗普的言论，暗示美国国内存在经济问题，这可能对特朗普的政治声望和总"}
 {"strategy": "trend", "trend_id": "trumpcallscommunismamortalthreatatus250thbirthdayevent", "trend_title": "Trump calls communism a ‘mortal threat’ at US 250th birthday event", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "couldisraelreallybuildsettlementsingaza", "trend_title": "Could Israel really build settlements in Gaza?", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是以色列在加薩建造定居點的可能性，這與目前提供的兩個市場（關於停火協議）沒有直接關聯。因此，無法判斷哪個市場"}
+{"strategy": "trend", "trend_id": "韩国股市杠杆失控450亿美元资金狂飙sk海力士单只etf规模碾压美股科技巨头", "trend_title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
