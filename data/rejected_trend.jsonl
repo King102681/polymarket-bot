@@ -2159,3 +2159,5 @@
 {"strategy": "trend", "trend_id": "埃及相关部长透露埃及预计将在未来几天内收到欧盟援助方案项下的15亿欧元资金", "trend_title": "埃及相关部长透露，埃及预计将在未来几天内收到欧盟援助方案项下的15亿欧元资金。", "market_title": "", "reason": "LLM 判定不下注：该话题是关于埃及获得欧盟援助资金，与其他候选市场（关于罗马尼亚总理、冰岛入欧、西班牙大选）均无相关性。"}
 {"strategy": "trend", "trend_id": "扎哈罗娃俄罗斯发出将彻底铲除新纳粹分子的明确信号", "trend_title": "扎哈罗娃：俄罗斯发出将彻底铲除新纳粹分子的明确信号", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "伊朗警告域外国家勿在霍尔木兹海峡制造危机", "trend_title": "伊朗警告域外国家勿在霍尔木兹海峡制造危机", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
+{"strategy": "trend", "trend_id": "韩国执政党批美涉酷澎报告失实", "trend_title": "韩国执政党批美涉酷澎报告“失实”", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "俄罗斯圣彼得堡港口遭大规模乌克兰无人机袭击", "trend_title": "俄罗斯圣彼得堡港口遭大规模乌克兰无人机袭击", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
