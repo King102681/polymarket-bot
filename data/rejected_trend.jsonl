@@ -2193,3 +2193,5 @@
 {"strategy": "trend", "trend_id": "俄罗斯国防部表示俄罗斯提议周一在康斯坦丁诺夫卡实施六小时停火以便移交遗体俄方预计乌克兰将在周日中午前对这一停火提议作出回应", "trend_title": "俄罗斯国防部表示，俄罗斯提议周一在康斯坦丁诺夫卡实施六小时停火，以便移交遗体。俄方预计乌克兰将在周日中午前对这一停火提议作出回应。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "斯洛伐克总理该国不会参与针对乌克兰的军事支持财务计划", "trend_title": "斯洛伐克总理：该国不会参与针对乌克兰的军事支持财务计划", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "梅德韦杰夫乌克兰新安全带将经过苏梅州第聂伯罗彼得罗夫斯克州和哈尔科夫州", "trend_title": "梅德韦杰夫：乌克兰新安全带将经过苏梅州、第聂伯罗彼得罗夫斯克州和哈尔科夫州", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "俄国防部泽连斯基试图破坏俄民用设施的做法不会被无视", "trend_title": "俄国防部：泽连斯基试图破坏俄民用设施的做法不会被无视", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "据以色列第15频道援引消息人士称美国总统特朗普要求不要在黎巴嫩局势上升级以免妨碍他与伊朗的沟通", "trend_title": "据以色列第15频道援引消息人士称，美国总统特朗普要求不要在黎巴嫩局势上升级，以免妨碍他与伊朗的沟通。", "market_title": "", "reason": "LLM 判定不下注：該話題與美國總統特朗普與伊朗的溝通有關，但候選市場均未涵蓋此類地緣政治事件，因此沒有直接對應的市場。"}
