@@ -2236,3 +2236,4 @@
 {"strategy": "trend", "trend_id": "国际原子能机构总干事称自己曾在乌克兰前线遭炮击", "trend_title": "国际原子能机构总干事称自己曾在乌克兰前线遭炮击", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "拒绝甩锅韩国执政党批美报告失实", "trend_title": "拒绝“甩锅” 韩国执政党批美报告“失实”", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "特朗普称已抵达华盛顿国家广场参加向美国致敬的庆祝活动", "trend_title": "特朗普称已抵达华盛顿国家广场，参加向美国致敬的庆祝活动。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "美国总统特朗普绝不会让美国走向衰败", "trend_title": "美国总统特朗普：绝不会让美国走向衰败。", "market_title": "Trump out as President before 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
