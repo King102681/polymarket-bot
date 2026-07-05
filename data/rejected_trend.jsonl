@@ -2221,3 +2221,4 @@
 {"strategy": "trend", "trend_id": "中国特稿ai引发双速经济两台湾新科技狂飙旧产业慢行", "trend_title": "中国特稿：AI引发双速经济两台湾 新科技狂飙旧产业慢行", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
 {"strategy": "trend", "trend_id": "朝鲜姜健号驱逐舰进行武器系统性能评估试验", "trend_title": "朝鲜“姜健”号驱逐舰进行武器系统性能评估试验", "market_title": "", "reason": "LLM 判定不下注：该话题是关于朝鲜“姜健”号驱逐舰进行武器系统性能评估试验。候选项市场主要关注朝鲜是否会入侵韩国、金正恩是否下台、以及未来"}
 {"strategy": "trend", "trend_id": "中国学者美对台军售将终结中美建设性战略稳定框架", "trend_title": "中国学者：美对台军售将终结中美“建设性战略稳定”框架", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "俄总统助理特朗普特使将继续就乌克兰问题努力斡旋", "trend_title": "俄总统助理：特朗普特使将继续就乌克兰问题努力斡旋", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
