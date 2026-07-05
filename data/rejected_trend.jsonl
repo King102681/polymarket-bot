@@ -2228,3 +2228,4 @@
 {"strategy": "trend", "trend_id": "美国总统特朗普预计将于晚间北京时间次日上午11点在美国250周年纪念活动上发表讲话", "trend_title": "美国总统特朗普：预计将于晚间（北京时间次日上午）11点在美国250周年纪念活动上发表讲话。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "特朗普政府拟再废除702项联邦法规加码放松监管", "trend_title": "特朗普政府拟再废除702项联邦法规 加码放松监管", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "习近平表示愿同金正恩引领中朝关系长期健康稳定发展", "trend_title": "习近平表示愿同金正恩引领中朝关系长期健康稳定发展", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "iranwarlivehugecrowdsmournkhameneitrumpvowstoholdfire", "trend_title": "Iran war live: Huge crowds mourn Khamenei, Trump vows to hold fire", "market_title": "", "reason": "LLM 判定不下注：此話題關於伊朗領導人哀悼和川普的表態，與所有候選市場（皆關於川普是否卸任或特定行為）皆無直接關聯。候選市場的低 Yes "}
