@@ -2273,3 +2273,7 @@
 {"strategy": "trend", "trend_id": "乌军中大多数拉美雇佣兵与贩毒集团有关联", "trend_title": "乌军中大多数拉美雇佣兵与贩毒集团有关联", "market_title": "", "reason": "信心 0.30 < 0.45：話題提及烏克蘭軍隊，並將其與販毒集團關聯，這可能損害烏克蘭的聲譽。然而，這類負面"}
 {"strategy": "trend", "trend_id": "russiahaslosttheblackseazelenskyysays", "trend_title": "“Russia Has Lost the Black Sea,” Zelenskyy Says", "market_title": "Will \"Ukraine\" or \"Ukrainian\" be in the headlines this week?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "金十数据整理特朗普过去24小时都忙了什么20260705", "trend_title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-05）", "market_title": "", "reason": "信心 0.10 < 0.45：话题是特朗普过去24小时的活动，属于日常动态，并没有提供任何关于他是否会在7月3"}
+{"strategy": "trend", "trend_id": "佩斯科夫俄罗斯对乌克兰和谈持开放态度期待美国从中斡旋", "trend_title": "佩斯科夫：俄罗斯对乌克兰和谈持开放态度，期待美国从中斡旋", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "trumppraisesusmilitaryasitmarks250yearsofindependence", "trend_title": "Trump praises US military as it marks 250 years of independence", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "putinsyachtheadednorthtothekolapeninsulaunderwarshipescort", "trend_title": "Putin's yacht headed north to the Kola Peninsula under warship escort", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "chinaandrussiatoholdannualjointnavaldrills", "trend_title": "China and Russia to hold annual joint naval drills", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
