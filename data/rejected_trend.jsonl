@@ -2333,3 +2333,4 @@
 {"strategy": "trend", "trend_id": "theconnectionbetweenoasisenglandandandyburnham", "trend_title": "The connection between Oasis, England and Andy Burnham", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "矿业公司genesis报价56亿澳元竞购黄金矿商vault", "trend_title": "矿业公司Genesis报价56亿澳元竞购黄金矿商Vault", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
 {"strategy": "trend", "trend_id": "现货黄金站上4200美元", "trend_title": "现货黄金站上4200美元", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "starmerburnhamtoskippubs", "trend_title": "Starmer, Burnham to skip pubs", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
