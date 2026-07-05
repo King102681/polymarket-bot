@@ -2327,3 +2327,5 @@
 {"strategy": "trend", "trend_id": "现货黄金周一开盘高开近10美元后回落至417875美元盎司", "trend_title": "现货黄金周一开盘高开近10美元后回落至4178.75美元/盎司。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "palestinianbabydiesinwestbankafterisraelblocksurgentmedicalcare", "trend_title": "Palestinian baby dies in West Bank after Israel blocks urgent medical care", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "消息人士埃尔多安在安卡拉北约峰会上将呼吁重启乌克兰问题谈判", "trend_title": "消息人士：埃尔多安在安卡拉北约峰会上将呼吁重启乌克兰问题谈判", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "本周重要事件与数据预告美联储会议纪要中国cpi外储sk海力士登陆美股", "trend_title": "本周重要事件与数据预告：美联储会议纪要；中国CPI、外储；SK海力士登陆美股", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "乌克兰内政部长顾问基辅在10分钟内发生了大约15次爆炸空袭警报仍在继续可能会有巡航导弹和更多弹道导弹袭击", "trend_title": "乌克兰内政部长顾问：基辅在10分钟内发生了大约15次爆炸。空袭警报仍在继续。可能会有巡航导弹和更多弹道导弹袭击。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
