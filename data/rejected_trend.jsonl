@@ -2264,3 +2264,4 @@
 {"strategy": "trend", "trend_id": "黎巴嫩军队我们继续清除受以色列侵略影响地区的未爆弹药呼吁在遭受以色列袭击的地区采取最大程度的预防措施", "trend_title": "黎巴嫩军队：我们继续清除受以色列侵略影响地区的未爆弹药，呼吁在遭受以色列袭击的地区采取最大程度的预防措施。", "market_title": "", "reason": "LLM 判定不下注：此話題主要關於黎巴嫩清除未爆彈藥，並呼籲採取預防措施，與以色列和哈馬斯停火的兩個候選市場關聯性較低，無法判斷市場方向。"}
 {"strategy": "trend", "trend_id": "特朗普我将是美国最伟大的总统", "trend_title": "特朗普：“我将是美国最伟大的总统”", "market_title": "", "reason": "信心 0.30 < 0.45：特朗普表示自己将是‘最伟大的总统’，这暗示了他自信能继续执政。虽然这只是口头表态"}
 {"strategy": "trend", "trend_id": "抗议已持续35天特朗普女儿女婿在欧洲被火烈鸟围攻", "trend_title": "抗议已持续35天：特朗普女儿女婿，在欧洲被“火烈鸟”围攻", "market_title": "", "reason": "LLM 判定不下注：此話題提及特朗普家族成員在歐洲的遭遇，但與任何一個候選市場（特朗普總統任期、收購格陵蘭、赦免SBF）的關聯度都不高，無法"}
+{"strategy": "trend", "trend_id": "openai塌房scalinglaw原作曝bug万亿算力全白烧", "trend_title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧", "market_title": "Will the next model released by OpenAI debut at a score of at least 1470?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
