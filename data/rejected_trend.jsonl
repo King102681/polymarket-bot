@@ -2229,3 +2229,7 @@
 {"strategy": "trend", "trend_id": "特朗普政府拟再废除702项联邦法规加码放松监管", "trend_title": "特朗普政府拟再废除702项联邦法规 加码放松监管", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "习近平表示愿同金正恩引领中朝关系长期健康稳定发展", "trend_title": "习近平表示愿同金正恩引领中朝关系长期健康稳定发展", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "iranwarlivehugecrowdsmournkhameneitrumpvowstoholdfire", "trend_title": "Iran war live: Huge crowds mourn Khamenei, Trump vows to hold fire", "market_title": "", "reason": "LLM 判定不下注：此話題關於伊朗領導人哀悼和川普的表態，與所有候選市場（皆關於川普是否卸任或特定行為）皆無直接關聯。候選市場的低 Yes "}
+{"strategy": "trend", "trend_id": "伊朗外交部塞尔维亚代表团访问德黑兰参加向伊朗前最高领袖哈梅内伊葬礼并于周六下午会见了伊朗外交部长阿拉格齐", "trend_title": "伊朗外交部：塞尔维亚代表团访问德黑兰，参加向伊朗前最高领袖哈梅内伊葬礼，并于周六下午会见了伊朗外交部长阿拉格齐。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "万斯英国政治存在严重问题但仍是亲密盟友之一", "trend_title": "万斯：英国政治存在严重问题 但仍是亲密盟友之一", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "哈马斯代表团在德黑兰会见伊朗外长重申支持巴勒斯坦事业", "trend_title": "哈马斯代表团在德黑兰会见伊朗外长 重申支持巴勒斯坦事业", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "继2月美伊冲突内坦亚胡与特朗普料下周会面", "trend_title": "继2月美伊冲突 内坦亚胡与特朗普料下周会面", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
