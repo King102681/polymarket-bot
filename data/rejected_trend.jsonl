@@ -2301,3 +2301,4 @@
 {"strategy": "trend", "trend_id": "专家解放康斯坦丁诺夫卡摧毁乌军防线", "trend_title": "专家：解放康斯坦丁诺夫卡摧毁乌军防线", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "syriadelaysfirstsessionoftransitionalparliamentwithoutexplanation", "trend_title": "Syria delays first session of transitional parliament without explanation", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "多数美国选民认为特朗普对伊朗开战得不偿失", "trend_title": "多数美国选民认为特朗普对伊朗开战得不偿失", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "印尼与欧亚经济联盟自由贸易协议对俄罗斯和印尼来说是一个历史性的决定", "trend_title": "印尼与欧亚经济联盟自由贸易协议对俄罗斯和印尼来说是一个历史性的决定", "market_title": "", "reason": "LLM 判定不下注：該話題主要關於印尼與歐亞經濟聯盟的自由貿易協議，並提及俄羅斯，與所有候選市場（AI、伊朗、Shocking、Rigged"}
