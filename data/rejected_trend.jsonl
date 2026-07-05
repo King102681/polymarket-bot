@@ -2286,3 +2286,4 @@
 {"strategy": "trend", "trend_id": "三菱日联沃什惜字如金使美联储6月会议纪要变得更为重要", "trend_title": "三菱日联：沃什惜字如金使美联储6月会议纪要变得更为重要", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "iranssupremeleaderabsentasseniorofficialsattendayatollahsfuneral", "trend_title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "与特朗普通话85分钟普京称俄军正全线进攻此前威胁夺乌克兰更多土地建安全区", "trend_title": "与特朗普通话85分钟，普京称“俄军正全线进攻”，此前威胁夺乌克兰更多土地建安全区", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "两名伊拉克石油官员表示伊拉克6月石油出口总量约2450万桶", "trend_title": "两名伊拉克石油官员表示，伊拉克6月石油出口总量约2450万桶。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
