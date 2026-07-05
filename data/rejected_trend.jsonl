@@ -2288,3 +2288,4 @@
 {"strategy": "trend", "trend_id": "与特朗普通话85分钟普京称俄军正全线进攻此前威胁夺乌克兰更多土地建安全区", "trend_title": "与特朗普通话85分钟，普京称“俄军正全线进攻”，此前威胁夺乌克兰更多土地建安全区", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "两名伊拉克石油官员表示伊拉克6月石油出口总量约2450万桶", "trend_title": "两名伊拉克石油官员表示，伊拉克6月石油出口总量约2450万桶。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "俄总统新闻秘书俄罗斯希望欧盟不会破坏乌克兰和平谈判的前景", "trend_title": "俄总统新闻秘书：俄罗斯希望欧盟不会破坏乌克兰和平谈判的前景", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "黎巴嫩专家北约升级局势对冲内部危机", "trend_title": "黎巴嫩专家：北约升级局势对冲内部危机", "market_title": "", "reason": "LLM 判定不下注：此話題主要討論北約內部危機與地緣政治的關聯，並未直接提供關於以色列與黎巴嫩或伊朗之間即將達成和平協議、或以色列軍隊進入納"}
