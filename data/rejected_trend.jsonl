@@ -2321,3 +2321,4 @@
 {"strategy": "trend", "trend_id": "数十名以色列定居者试图越境叙利亚被以军扣留", "trend_title": "数十名以色列定居者试图越境叙利亚，被以军扣留", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "美媒特朗普施压国际足联美国队头号射手红牌处罚被暂缓执行", "trend_title": "美媒：特朗普施压国际足联 美国队头号射手红牌处罚被暂缓执行", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "吕特和冯德莱恩承认欧盟和北约的军工生产未能跟上需求", "trend_title": "吕特和冯德莱恩承认欧盟和北约的军工生产未能跟上需求", "market_title": "", "reason": "LLM 判定不下注：這條熱門話題是關於歐盟和北約軍工生產跟不上需求的承認，與提供的候選市場（羅馬尼亞總理任命、西班牙提前大選、冰島入盟公投）"}
+{"strategy": "trend", "trend_id": "媒体特朗普计划在土耳其会见泽连斯基后与普京通话", "trend_title": "媒体：特朗普计划在土耳其会见泽连斯基后与普京通话", "market_title": "", "reason": "LLM 判定不下注：此熱門話題是關於特朗普與俄羅斯和烏克蘭領導人的潛在對話，與所有候選市場（均與特朗普的總統任期、赦免或收購有關）都無直接關"}
