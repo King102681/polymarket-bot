@@ -2477,3 +2477,5 @@
 {"strategy": "trend", "trend_id": "亚美尼亚总理希望以建设性方式解决同俄罗斯的问题", "trend_title": "亚美尼亚总理：希望以建设性方式解决同俄罗斯的问题", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "whatdidtrumpdotogetbalogunsbanrescinded", "trend_title": "What did Trump do to get Balogun's ban rescinded?", "market_title": "", "reason": "LLM 判定不下注：該熱門話題討論的是 Trump 如何讓 Balogun 的禁令被撤銷，這與任何一個候選市場的內容都沒有直接關聯。"}
 {"strategy": "trend", "trend_id": "俄副外长俄方将与美国在乌克兰问题上保持接触", "trend_title": "俄副外长：俄方将与美国在乌克兰问题上保持接触", "market_title": "", "reason": "LLM 判定不下注：此話題是關於俄羅斯與美國在烏克蘭問題上的接觸，與候選市場（伊朗、恐懼、房屋、毒品、邊境）均無直接關聯。因此，無法判斷市場"}
+{"strategy": "trend", "trend_id": "北约秘书长受限于工业产能不足北约成员国无法增加国防开支", "trend_title": "北约秘书长：受限于工业产能不足北约成员国无法增加国防开支", "market_title": "", "reason": "信心 0.30 < 0.45：北约秘书长提到国防开支受限于工业产能不足，这暗示了北约在应对潜在冲突（特别是与俄"}
+{"strategy": "trend", "trend_id": "usafansmamdaniexpertsreacttofifatrumpbalogunredcardcontroversy", "trend_title": "USA fans, Mamdani, experts react to FIFA-Trump-Balogun red card controversy", "market_title": "", "reason": "LLM 判定不下注：這則熱門話題主要討論的是 FIFA 世界盃紅牌爭議，並提及了川普的名字。然而，候選市場均與川普總統任期、資產收購、赦免或"}
