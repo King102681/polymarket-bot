@@ -2432,3 +2432,5 @@
 {"strategy": "trend", "trend_id": "陈庆珠中美两国集团g2正在崛起", "trend_title": "陈庆珠：中美“两国集团”（G2）正在崛起", "market_title": "", "reason": "信心 0.30 < 0.45：話題討論中美「兩國集團」崛起，暗示兩國互動將加強，可能包含高層互訪。市場上習近平"}
 {"strategy": "trend", "trend_id": "isnatoatbreakingpointasitmeetsinturkiye", "trend_title": "Is NATO at breaking point as it meets in Turkiye?", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "学者区域国家向过航霍尔木兹船只收费或成新常态", "trend_title": "学者：区域国家向过航霍尔木兹船只收费或成新常态", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "俄外交部俄方针对俄罗斯驻斯德哥尔摩大使馆遭无人机袭击一事向瑞典大使提出抗议", "trend_title": "俄外交部：俄方针对俄罗斯驻斯德哥尔摩大使馆遭无人机袭击一事向瑞典大使提出抗议", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "uspresidenttrumpdefendsfifasbalogunredcardreversal", "trend_title": "US president Trump defends FIFA’s Balogun red card reversal", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
