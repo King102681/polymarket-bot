@@ -2459,3 +2459,4 @@
 {"strategy": "trend", "trend_id": "特朗普表示美国正在与乌克兰冲突双方进行谈判", "trend_title": "特朗普表示美国正在与乌克兰冲突双方进行谈判", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "flaviobolsonaroaskstrumptodelaytariffsonbraziluntilafterelection", "trend_title": "Flavio Bolsonaro asks Trump to delay tariffs on Brazil until after election", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "上海黄金交易所黄金td7月6日周一晚盘收盘下跌006报9090元克br上海黄金交易所白银td7月6日周一晚盘收盘上涨003报151250元千克", "trend_title": "上海黄金交易所黄金T+D 7月6日（周一）晚盘收盘下跌0.06%报909.0元/克；<br/>上海黄金交易所白银T+D 7月6日（周一）晚盘收盘上涨0.03%报15125.0元/千克。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "俄副外长特朗普对俄方愿意协助解决伊朗问题的回应是感兴趣", "trend_title": "俄副外长：特朗普对俄方愿意协助解决伊朗问题的回应是感兴趣", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
