@@ -2470,3 +2470,4 @@
 {"strategy": "trend", "trend_id": "bodyofiransslainsupremeleaderalikhameneiarrivesinqom", "trend_title": "Body of Iran’s slain Supreme Leader Ali Khamenei arrives in Qom", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "俄副外长俄将密切关注北约峰会后美国在乌克兰问题上的立场", "trend_title": "俄副外长：俄将密切关注北约峰会后美国在乌克兰问题上的立场", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "paraguayansenatorsbrazenracismagainstmbappésparksangerinfrance", "trend_title": "Paraguayan senator’s ‘brazen racism’ against Mbappé sparks anger in France", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題與所有候選市場均無關，話題是關於法國球員姆巴佩遭到種族歧視的事件，而候選市場皆圍繞北約（NATO）的組織存"}
+{"strategy": "trend", "trend_id": "crowdsholddestroyisraelbanneratspainspamplonabullrun", "trend_title": "Crowds hold ‘destroy Israel’ banner at Spain’s Pamplona bull run", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
