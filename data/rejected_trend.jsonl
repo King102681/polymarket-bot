@@ -2473,3 +2473,4 @@
 {"strategy": "trend", "trend_id": "crowdsholddestroyisraelbanneratspainspamplonabullrun", "trend_title": "Crowds hold ‘destroy Israel’ banner at Spain’s Pamplona bull run", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "usjudgetossesoutmusksbidtovoidtwitterfraudverdict", "trend_title": "US judge tosses out Musk’s bid to void Twitter fraud verdict", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於法院駁回 Musk 試圖取消 Twitter 詐欺判決的請求，與所有候選市場（皆與 Tesla/Spac"}
 {"strategy": "trend", "trend_id": "美国总统特朗普沃尔玛正以大胆方式行动并呼吁其他零售商效仿这一爱国企业的做法", "trend_title": "美国总统特朗普：沃尔玛正“以大胆方式行动”，并呼吁其他零售商效仿这一“爱国企业”的做法。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "俄国家原子能公司总经理该公司极有可能会参与伊朗核问题解决", "trend_title": "俄国家原子能公司总经理：该公司极有可能会参与伊朗核问题解决", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
