@@ -2367,3 +2367,5 @@
 {"strategy": "trend", "trend_id": "中国海警秀山舰编队接替巡查台湾以东海域", "trend_title": "中国海警秀山舰编队接替巡查台湾以东海域", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "semianalysis再度盘前爆料英伟达kybernvl144机架延迟超12个月因pcb中板制造困难", "trend_title": "SemiAnalysis再度盘前爆料：英伟达Kyber NVL144机架延迟超12个月，因“PCB中板制造困难”", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "pcb制造卡住ai机架英伟达kybernvl144被曝大幅延期", "trend_title": "PCB制造卡住AI机架，英伟达Kyber NVL144被曝大幅延期", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "现货黄金回落至4160美元盎司下方日内跌036", "trend_title": "现货黄金回落至4160美元/盎司下方，日内跌0.36%。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "俄军对基辅军工综合体和燃料动力综合体进行大规模报复性打击", "trend_title": "俄军对基辅军工综合体和燃料动力综合体进行大规模报复性打击", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
