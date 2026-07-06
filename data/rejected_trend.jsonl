@@ -2402,3 +2402,4 @@
 {"strategy": "trend", "trend_id": "ukrainewarnsofinterceptormissileshortageas19killedinkyivregion", "trend_title": "Ukraine warns of interceptor missile shortage as 19 killed in Kyiv region", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "usavsbelgiumworldcuplast16trumpbalogunpredictionstarttime", "trend_title": "USA vs Belgium: World Cup last 16: Trump, Balogun, prediction, start time", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "阿塞拜疆召见俄罗斯特使", "trend_title": "阿塞拜疆召见俄罗斯特使。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "俄国防部欧洲对基辅增供无人机俄军将升级对乌克兰的打击予以反制", "trend_title": "俄国防部：欧洲对基辅增供无人机 俄军将升级对乌克兰的打击予以反制", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
