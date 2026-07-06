@@ -2479,3 +2479,6 @@
 {"strategy": "trend", "trend_id": "俄副外长俄方将与美国在乌克兰问题上保持接触", "trend_title": "俄副外长：俄方将与美国在乌克兰问题上保持接触", "market_title": "", "reason": "LLM 判定不下注：此話題是關於俄羅斯與美國在烏克蘭問題上的接觸，與候選市場（伊朗、恐懼、房屋、毒品、邊境）均無直接關聯。因此，無法判斷市場"}
 {"strategy": "trend", "trend_id": "北约秘书长受限于工业产能不足北约成员国无法增加国防开支", "trend_title": "北约秘书长：受限于工业产能不足北约成员国无法增加国防开支", "market_title": "", "reason": "信心 0.30 < 0.45：北约秘书长提到国防开支受限于工业产能不足，这暗示了北约在应对潜在冲突（特别是与俄"}
 {"strategy": "trend", "trend_id": "usafansmamdaniexpertsreacttofifatrumpbalogunredcardcontroversy", "trend_title": "USA fans, Mamdani, experts react to FIFA-Trump-Balogun red card controversy", "market_title": "", "reason": "LLM 判定不下注：這則熱門話題主要討論的是 FIFA 世界盃紅牌爭議，並提及了川普的名字。然而，候選市場均與川普總統任期、資產收購、赦免或"}
+{"strategy": "trend", "trend_id": "全球最大黄金etfspdrgoldtrust持仓较上日增加1427吨当前持仓量为1002793吨", "trend_title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加1.427吨，当前持仓量为1002.793吨。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "aftertrumpinterventionbalogunplaysvsbelgium", "trend_title": "After Trump intervention, Balogun plays vs. Belgium", "market_title": "", "reason": "LLM 判定不下注：這則熱門話題是關於足球員 Balogun 的比賽狀況，與所有候選市場（皆與川普的政治生涯、總統任期、或特定事件有關）完全"}
+{"strategy": "trend", "trend_id": "金十数据整理俄乌冲突最新24小时局势跟踪7月7日", "trend_title": "金十数据整理：俄乌冲突最新24小时局势跟踪（7月7日）", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
