@@ -2456,3 +2456,5 @@
 {"strategy": "trend", "trend_id": "美国最高法院拒绝叫停得州一项法律该法要求未成年人下载应用程序前须进行年龄验证并获得家长同意", "trend_title": "美国最高法院拒绝叫停得州一项法律，该法要求未成年人下载应用程序前须进行年龄验证，并获得家长同意。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "特朗普致电后国际足联暂缓美国前锋禁赛引发争议", "trend_title": "特朗普致电后国际足联暂缓美国前锋禁赛引发争议", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "法国总统府马克龙与叙利亚总统沙拉将于明日共同主持叙利亚重建经济会议", "trend_title": "法国总统府：马克龙与叙利亚总统沙拉将于明日共同主持叙利亚重建经济会议。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "特朗普表示美国正在与乌克兰冲突双方进行谈判", "trend_title": "特朗普表示美国正在与乌克兰冲突双方进行谈判", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "flaviobolsonaroaskstrumptodelaytariffsonbraziluntilafterelection", "trend_title": "Flavio Bolsonaro asks Trump to delay tariffs on Brazil until after election", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
