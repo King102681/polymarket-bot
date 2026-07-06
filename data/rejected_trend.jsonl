@@ -2337,3 +2337,4 @@
 {"strategy": "trend", "trend_id": "俄外交部不考虑俄罗斯的利益就不会有与欧洲的全面对话", "trend_title": "俄外交部：不考虑俄罗斯的利益，就不会有与欧洲的全面对话", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "iranwarlivetehranpreparesforalikhameneisfuneralprocession", "trend_title": "Iran war live: Tehran prepares for Ali Khamenei’s funeral procession", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "韩国kospi指数7月6日周一开盘上涨1809点涨幅022报810643点", "trend_title": "韩国KOSPI指数7月6日（周一）开盘上涨18.09点，涨幅0.22%，报8106.43点。", "market_title": "", "reason": "信心 0.30 < 0.45：KOSPI開盤上漲0.22%，顯示市場對韓國經濟有一定信心。然而，與央行利率政策"}
+{"strategy": "trend", "trend_id": "陈国祥海峡两岸经济发展同病相怜", "trend_title": "陈国祥：海峡两岸经济发展同病相怜", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
