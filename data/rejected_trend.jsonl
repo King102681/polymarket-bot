@@ -2475,3 +2475,5 @@
 {"strategy": "trend", "trend_id": "美国总统特朗普沃尔玛正以大胆方式行动并呼吁其他零售商效仿这一爱国企业的做法", "trend_title": "美国总统特朗普：沃尔玛正“以大胆方式行动”，并呼吁其他零售商效仿这一“爱国企业”的做法。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "俄国家原子能公司总经理该公司极有可能会参与伊朗核问题解决", "trend_title": "俄国家原子能公司总经理：该公司极有可能会参与伊朗核问题解决", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "亚美尼亚总理希望以建设性方式解决同俄罗斯的问题", "trend_title": "亚美尼亚总理：希望以建设性方式解决同俄罗斯的问题", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "whatdidtrumpdotogetbalogunsbanrescinded", "trend_title": "What did Trump do to get Balogun's ban rescinded?", "market_title": "", "reason": "LLM 判定不下注：該熱門話題討論的是 Trump 如何讓 Balogun 的禁令被撤銷，這與任何一個候選市場的內容都沒有直接關聯。"}
+{"strategy": "trend", "trend_id": "俄副外长俄方将与美国在乌克兰问题上保持接触", "trend_title": "俄副外长：俄方将与美国在乌克兰问题上保持接触", "market_title": "", "reason": "LLM 判定不下注：此話題是關於俄羅斯與美國在烏克蘭問題上的接觸，與候選市場（伊朗、恐懼、房屋、毒品、邊境）均無直接關聯。因此，無法判斷市場"}
