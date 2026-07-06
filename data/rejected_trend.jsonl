@@ -2352,3 +2352,4 @@
 {"strategy": "trend", "trend_id": "三菱日联市场静待美元与利率新催化剂", "trend_title": "三菱日联：市场静待美元与利率新催化剂", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "tuaregfightersclaimtohaveshotdownarussianhelicopterinmali", "trend_title": "Tuareg fighters claim to have shot down a Russian helicopter in Mali", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "乌克兰当局表示俄罗斯对基辅的袭击造成3人死亡", "trend_title": "乌克兰当局表示，俄罗斯对基辅的袭击造成3人死亡。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "今日俄罗斯媒体集团总经理乌克兰作为一个国家正从眼前消失沦为北约试验场", "trend_title": "“今日俄罗斯”媒体集团总经理：乌克兰作为一个国家正从眼前消失，沦为北约试验场", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
