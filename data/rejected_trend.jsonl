@@ -2338,3 +2338,5 @@
 {"strategy": "trend", "trend_id": "iranwarlivetehranpreparesforalikhameneisfuneralprocession", "trend_title": "Iran war live: Tehran prepares for Ali Khamenei’s funeral procession", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "韩国kospi指数7月6日周一开盘上涨1809点涨幅022报810643点", "trend_title": "韩国KOSPI指数7月6日（周一）开盘上涨18.09点，涨幅0.22%，报8106.43点。", "market_title": "", "reason": "信心 0.30 < 0.45：KOSPI開盤上漲0.22%，顯示市場對韓國經濟有一定信心。然而，與央行利率政策"}
 {"strategy": "trend", "trend_id": "陈国祥海峡两岸经济发展同病相怜", "trend_title": "陈国祥：海峡两岸经济发展同病相怜", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "万斯美国反对乌军发动新攻势", "trend_title": "万斯：美国反对乌军发动新攻势", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "韩国kospi指数日内涨幅在逼近3后快速回调现涨幅收窄至14", "trend_title": "韩国KOSPI指数日内涨幅在逼近3%后快速回调，现涨幅收窄至1.4%。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
