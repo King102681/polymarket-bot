@@ -2418,3 +2418,4 @@
 {"strategy": "trend", "trend_id": "特朗普称其与普京进行了非常好的通话", "trend_title": "特朗普称其与普京进行了“非常好的通话”", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "不为棒棒糖放弃钻石分析称伊朗势必放慢谈判并巩固海峡控制", "trend_title": "“不为棒棒糖放弃钻石” 分析称伊朗势必放慢谈判并巩固海峡控制", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "台湾致癌油品风暴延烧受影响业者增至360家", "trend_title": "台湾致癌油品风暴延烧　受影响业者增至360家", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "israeliattackonvehicleinlebanonkillsatleastfour", "trend_title": "Israeli attack on vehicle in Lebanon kills at least four", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
