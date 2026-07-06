@@ -2357,3 +2357,4 @@
 {"strategy": "trend", "trend_id": "gpt56solultrawillbeincodex", "trend_title": "GPT-5.6 Sol Ultra will be in Codex", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "opec同意提高产量油价小幅走低", "trend_title": "OPEC+同意提高产量 油价小幅走低", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "内塔尼亚胡称以色列除美国外还有盟友", "trend_title": "内塔尼亚胡称以色列除美国外还有盟友", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "绿营人士苏巧慧让民进党20多年来最接近拿下新北", "trend_title": "绿营人士：苏巧慧让民进党20多年来最接近拿下新北", "market_title": "", "reason": "LLM 判定不下注：該話題是關於台灣地方政治人物的表現，與所有候選市場預測的中國攻台、宗教事件、加密貨幣或遊戲發售時間均無關聯。"}
