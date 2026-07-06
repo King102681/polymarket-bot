@@ -2408,3 +2408,5 @@
 {"strategy": "trend", "trend_id": "largescalerussianattackonukrainebeforenatosummit", "trend_title": "Large-scale Russian attack on Ukraine before NATO summit", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "哈马斯解散在加沙20年行政机构", "trend_title": "哈马斯解散在加沙20年行政机构", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "babydiesafterisraelitroopsblockemergencyjourneytohospital", "trend_title": "Baby dies after Israeli troops block emergency journey to hospital", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "美国总统特朗普在白宫发表讲话赞扬了特朗普账户", "trend_title": "美国总统特朗普在白宫发表讲话，赞扬了特朗普账户。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "美国总统特朗普启动特朗普账户", "trend_title": "美国总统特朗普启动特朗普账户。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
