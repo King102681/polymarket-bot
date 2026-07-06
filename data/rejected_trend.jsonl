@@ -2370,3 +2370,4 @@
 {"strategy": "trend", "trend_id": "现货黄金回落至4160美元盎司下方日内跌036", "trend_title": "现货黄金回落至4160美元/盎司下方，日内跌0.36%。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "俄军对基辅军工综合体和燃料动力综合体进行大规模报复性打击", "trend_title": "俄军对基辅军工综合体和燃料动力综合体进行大规模报复性打击", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "伊朗为已故最高领袖哈梅内伊举行国葬", "trend_title": "伊朗为已故最高领袖哈梅内伊举行国葬", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
+{"strategy": "trend", "trend_id": "俄军对基辅军工综合体和燃料能源综合体设施进行大规模报复性打击", "trend_title": "俄军对基辅军工综合体和燃料能源综合体设施进行大规模报复性打击", "market_title": "Will \"Russia\" or \"Russian\" be in the headlines this week?", "reason": "訂單簿無 asks"}
