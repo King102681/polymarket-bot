@@ -2334,3 +2334,6 @@
 {"strategy": "trend", "trend_id": "矿业公司genesis报价56亿澳元竞购黄金矿商vault", "trend_title": "矿业公司Genesis报价56亿澳元竞购黄金矿商Vault", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
 {"strategy": "trend", "trend_id": "现货黄金站上4200美元", "trend_title": "现货黄金站上4200美元", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "starmerburnhamtoskippubs", "trend_title": "Starmer, Burnham to skip pubs", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "俄外交部不考虑俄罗斯的利益就不会有与欧洲的全面对话", "trend_title": "俄外交部：不考虑俄罗斯的利益，就不会有与欧洲的全面对话", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "iranwarlivetehranpreparesforalikhameneisfuneralprocession", "trend_title": "Iran war live: Tehran prepares for Ali Khamenei’s funeral procession", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "韩国kospi指数7月6日周一开盘上涨1809点涨幅022报810643点", "trend_title": "韩国KOSPI指数7月6日（周一）开盘上涨18.09点，涨幅0.22%，报8106.43点。", "market_title": "", "reason": "信心 0.30 < 0.45：KOSPI開盤上漲0.22%，顯示市場對韓國經濟有一定信心。然而，與央行利率政策"}
