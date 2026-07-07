@@ -2583,3 +2583,5 @@
 {"strategy": "trend", "trend_id": "eia短期能源展望报告预计美国7月原油产量平均为1384万桶日低于6月的1389万桶日8月平均产量预计进一步降至1381万桶日", "trend_title": "EIA短期能源展望报告：预计美国7月原油产量平均为1384万桶/日，低于6月的1389万桶/日；8月平均产量预计进一步降至1381万桶/日。", "market_title": "", "reason": "LLM 判定不下注：提供的EIA短期能源展望报告仅预测了原油产量的变化，而候选市场均为关于WTI原油价格是否达到特定阈值的预测。报告中的产量"}
 {"strategy": "trend", "trend_id": "trumpsayswillliftsanctionsonturkiyeconsidersellingf35s", "trend_title": "Trump says will lift sanctions on Turkiye, ‘consider’ selling F-35s", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於川普若當選總統，可能會解除對土耳其的制裁並考慮出售 F-35 戰機。然而，所有候選市場都與此新聞無關"}
 {"strategy": "trend", "trend_id": "christiansarenotunitedforisrael", "trend_title": "Christians are not united for Israel", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "以色列总理内塔尼亚胡我对通过谈判终止伊朗核计划持怀疑态度", "trend_title": "以色列总理内塔尼亚胡：我对通过谈判终止伊朗核计划持怀疑态度。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "以色列总理内塔尼亚胡现在谈论伊朗局势会如何发展还为时过早", "trend_title": "以色列总理内塔尼亚胡：现在谈论伊朗局势会如何发展还为时过早。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
