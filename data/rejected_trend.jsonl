@@ -2612,3 +2612,4 @@
 {"strategy": "trend", "trend_id": "据伊朗媒体伊朗南部格什姆岛和阿巴斯港传出爆炸声", "trend_title": "据伊朗媒体：伊朗南部格什姆岛和阿巴斯港传出爆炸声。", "market_title": "", "reason": "LLM 判定不下注：爆炸聲消息與核協議市場關聯性低，無法判斷買賣方向。"}
 {"strategy": "trend", "trend_id": "勒庞已确认将参加2027年法国总统选举", "trend_title": "勒庞已确认将参加2027年法国总统选举", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "据美国证交会sec文件显示亚马逊amzno定价2425亿美元多期限债券发行利率介于46至625", "trend_title": "据美国证交会（SEC）文件显示，亚马逊(AMZN.O)定价242.5亿美元多期限债券发行，利率介于4.6%至6.25%。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "ussaysstrikeslaunchedasexplosionsheardinsoutherniran", "trend_title": "US says strikes launched as explosions heard in southern Iran", "market_title": "", "reason": "LLM 判定不下注：爆炸新聞與核協議無直接關聯，且機率極低，故無法判斷。"}
