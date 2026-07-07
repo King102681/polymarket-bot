@@ -2489,3 +2489,4 @@
 {"strategy": "trend", "trend_id": "芯片股领涨推动纳指反弹道指首次站上53万点油金承压比特币随特朗普表态飙升", "trend_title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "韩国kospi指数日内跌幅达200", "trend_title": "韩国KOSPI指数日内跌幅达2.00%。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "iranwarlivekhameneisbodyarrivesinqomhamascedesgazagovernance", "trend_title": "Iran war live: Khamenei’s body arrives in Qom, Hamas cedes Gaza governance", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "trevornoahmockstrumpfifaworldcupredcardcontroversy", "trend_title": "Trevor Noah mocks Trump-FIFA World Cup red card controversy", "market_title": "", "reason": "LLM 判定不下注：這則新聞是關於 Trevor Noah 嘲諷川普在 FIFA 世界盃的爭議，內容完全沒有觸及到任何候選市場的議題，因此無"}
