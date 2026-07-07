@@ -2601,3 +2601,4 @@
 {"strategy": "trend", "trend_id": "伊朗总统我们将维护持久稳定不接受任何违背承诺或偏离谅解备忘录的行为", "trend_title": "伊朗总统：我们将维护持久稳定，不接受任何违背承诺或偏离谅解备忘录的行为。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "现货白银日内走低300现报6016美元盎司现货黄金日内下跌50美元现报411265美元盎司跌幅124", "trend_title": "现货白银日内走低3.00%，现报60.16美元/盎司。现货黄金日内下跌50美元，现报4112.65美元/盎司，跌幅1.24%。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "trumpcriticisesnatoalliesoveriranconflictsupport", "trend_title": "Trump criticises NATO allies over Iran conflict support", "market_title": "", "reason": "LLM 判定不下注：話題與提供的市場選項均無明顯關聯性，無法判斷任何市場的正反方向。"}
+{"strategy": "trend", "trend_id": "海湾合作委员会秘书长沙特油轮遭袭一事反映出伊朗的敌对做法仍在延续", "trend_title": "海湾合作委员会秘书长：沙特油轮遭袭一事反映出伊朗的敌对做法仍在延续。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
