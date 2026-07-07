@@ -2585,3 +2585,4 @@
 {"strategy": "trend", "trend_id": "christiansarenotunitedforisrael", "trend_title": "Christians are not united for Israel", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "以色列总理内塔尼亚胡我对通过谈判终止伊朗核计划持怀疑态度", "trend_title": "以色列总理内塔尼亚胡：我对通过谈判终止伊朗核计划持怀疑态度。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "以色列总理内塔尼亚胡现在谈论伊朗局势会如何发展还为时过早", "trend_title": "以色列总理内塔尼亚胡：现在谈论伊朗局势会如何发展还为时过早。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "ustradedeficitsurgesamidartificialintelligencespendingboom", "trend_title": "US trade deficit surges amid artificial intelligence spending boom", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題關於美國貿易赤字激增與 AI 支出的爆炸式增長，但所有候選市場都與特定公司在 2026 年的 AI 模型表"}
