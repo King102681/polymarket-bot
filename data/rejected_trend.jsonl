@@ -2624,3 +2624,4 @@
 {"strategy": "trend", "trend_id": "据伊朗法尔斯通讯社港口官员称阿巴斯港鱼市后方冒出的黑烟是敌方炮弹击中渔业码头导致多艘民用渔船起火所致", "trend_title": "据伊朗法尔斯通讯社：港口官员称，阿巴斯港鱼市后方冒出的黑烟，是“敌方炮弹”击中渔业码头、导致多艘民用渔船起火所致。", "market_title": "", "reason": "LLM 判定不下注：此新聞提及伊朗阿巴斯港的砲擊事件，雖然地點在伊朗，但並未直接提及美國與伊朗的核協議進展，因此與所有候選市場的關聯性不高。"}
 {"strategy": "trend", "trend_id": "美联储7月维持利率不变的概率为733", "trend_title": "美联储7月维持利率不变的概率为73.3%", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "法院记录显示美国俄勒冈州正寻求获取有关派拉蒙游说特朗普政府支持该并购交易的相关文件", "trend_title": "法院记录显示，美国俄勒冈州正寻求获取有关派拉蒙游说特朗普政府支持该并购交易的相关文件。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "usmilitarylaunchesstrikesagainstirancentralcommandsays", "trend_title": "US military launches strikes against Iran, Central Command says", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
