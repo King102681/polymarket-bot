@@ -2602,3 +2602,5 @@
 {"strategy": "trend", "trend_id": "现货白银日内走低300现报6016美元盎司现货黄金日内下跌50美元现报411265美元盎司跌幅124", "trend_title": "现货白银日内走低3.00%，现报60.16美元/盎司。现货黄金日内下跌50美元，现报4112.65美元/盎司，跌幅1.24%。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "trumpcriticisesnatoalliesoveriranconflictsupport", "trend_title": "Trump criticises NATO allies over Iran conflict support", "market_title": "", "reason": "LLM 判定不下注：話題與提供的市場選項均無明顯關聯性，無法判斷任何市場的正反方向。"}
 {"strategy": "trend", "trend_id": "海湾合作委员会秘书长沙特油轮遭袭一事反映出伊朗的敌对做法仍在延续", "trend_title": "海湾合作委员会秘书长：沙特油轮遭袭一事反映出伊朗的敌对做法仍在延续。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "叙利亚总统顾问大马士革今日发生的事件并不意外爆炸未波及马克龙车队安保范围", "trend_title": "叙利亚总统顾问：大马士革今日发生的事件并不意外。爆炸未波及马克龙车队安保范围。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "canadianprovincesuesopenaioverallegedchatgptlinkedshootingwarnings", "trend_title": "Canadian province sues OpenAI over alleged ChatGPT-linked shooting warnings", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
