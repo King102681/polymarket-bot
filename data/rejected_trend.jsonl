@@ -2490,3 +2490,4 @@
 {"strategy": "trend", "trend_id": "韩国kospi指数日内跌幅达200", "trend_title": "韩国KOSPI指数日内跌幅达2.00%。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "iranwarlivekhameneisbodyarrivesinqomhamascedesgazagovernance", "trend_title": "Iran war live: Khamenei’s body arrives in Qom, Hamas cedes Gaza governance", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "trevornoahmockstrumpfifaworldcupredcardcontroversy", "trend_title": "Trevor Noah mocks Trump-FIFA World Cup red card controversy", "market_title": "", "reason": "LLM 判定不下注：這則新聞是關於 Trevor Noah 嘲諷川普在 FIFA 世界盃的爭議，內容完全沒有觸及到任何候選市場的議題，因此無"}
+{"strategy": "trend", "trend_id": "姚占新从战线到成本线俄乌战争今年转折的逻辑", "trend_title": "姚占新：从战线到成本线——俄乌战争今年转折的逻辑", "market_title": "", "reason": "LLM 判定不下注：該話題主要討論俄烏戰爭的戰線與成本邏輯，與所有候選市場（伊朗、墨西哥、荷莫茲海峽、韓國）的關鍵字均無關聯。"}
