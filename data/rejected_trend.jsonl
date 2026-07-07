@@ -2609,3 +2609,6 @@
 {"strategy": "trend", "trend_id": "市场消息美国参议员麦康奈尔自6月14日起住院其在本周一和周二与参议院共和党领导层通话外界正关注他是否能在今年年底前重返参议院", "trend_title": "市场消息：美国参议员麦康奈尔自6月14日起住院，其在本周一和周二与参议院共和党领导层通话。外界正关注他是否能在今年年底前重返参议院。", "market_title": "", "reason": "LLM 判定不下注：参议员麦康奈尔的健康状况和是否能重返参议院，与2026年中期选举的参议院控制权（市场0和1）、或政府关门及2026年众议"}
 {"strategy": "trend", "trend_id": "美国证券交易委员会表示特朗普账户现已开放申请鼓励家庭开设账户并领取符合条件的1000美元初始资金", "trend_title": "美国证券交易委员会表示，“特朗普账户”现已开放申请，鼓励家庭开设账户并领取符合条件的1000美元初始资金。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "nasdaqvsdowhowarethekeyindicesdifferentasspacexjoinsone", "trend_title": "Nasdaq vs Dow: How are the key indices different as SpaceX joins one?", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "据伊朗媒体伊朗南部格什姆岛和阿巴斯港传出爆炸声", "trend_title": "据伊朗媒体：伊朗南部格什姆岛和阿巴斯港传出爆炸声。", "market_title": "", "reason": "LLM 判定不下注：爆炸聲消息與核協議市場關聯性低，無法判斷買賣方向。"}
+{"strategy": "trend", "trend_id": "勒庞已确认将参加2027年法国总统选举", "trend_title": "勒庞已确认将参加2027年法国总统选举", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "据美国证交会sec文件显示亚马逊amzno定价2425亿美元多期限债券发行利率介于46至625", "trend_title": "据美国证交会（SEC）文件显示，亚马逊(AMZN.O)定价242.5亿美元多期限债券发行，利率介于4.6%至6.25%。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
