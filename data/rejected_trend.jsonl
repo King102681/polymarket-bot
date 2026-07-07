@@ -2520,3 +2520,4 @@
 {"strategy": "trend", "trend_id": "声明巴勒斯坦技术官僚委员会准备接手加沙管理", "trend_title": "声明：巴勒斯坦技术官僚委员会准备接手加沙管理", "market_title": "Israel x Hamas Ceasefire Phase II by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "特朗普致电fifa后美国前锋红牌缓刑美国队仍遭比利时淘汰", "trend_title": "特朗普致电FIFA后美国前锋红牌缓刑 美国队仍遭比利时淘汰", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "国家发改委初步预测今年人工智能相关产业规模还会有30以上增速", "trend_title": "国家发改委：初步预测今年人工智能相关产业规模还会有30%以上增速", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "俄外交官乌军用于袭击平民的所有武器几乎由西方提供", "trend_title": "俄外交官：乌军用于袭击平民的所有武器几乎由西方提供", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
