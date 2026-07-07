@@ -2495,3 +2495,4 @@
 {"strategy": "trend", "trend_id": "据axios一名美国官员称伊朗向霍尔木兹海峡的船只至少发射了两枚导弹两艘商船被击中并严重受损但没有人员伤亡", "trend_title": "据Axios：一名美国官员称，伊朗向霍尔木兹海峡的船只至少发射了两枚导弹。两艘商船被击中并严重受损，但没有人员伤亡。", "market_title": "", "reason": "LLM 判定不下注：此新聞涉及伊朗與霍爾木茲海峽的軍事衝突，但候選市場均為美國與伊朗的核協議簽署時間，兩者關聯性不大。因此，無法在此類市場中"}
 {"strategy": "trend", "trend_id": "现货黄金回落至4150美元盎司下方日内跌034", "trend_title": "现货黄金回落至4150美元/盎司下方，日内跌0.34%。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "trumpwasintroducedtoredandyellowcardsin2018", "trend_title": "Trump was introduced to red and yellow cards in 2018", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "台湾加权指数7月7日周二开盘上涨35034点涨幅075报4690673点", "trend_title": "台湾加权指数7月7日（周二）开盘上涨350.34点，涨幅0.75%，报46906.73点。", "market_title": "", "reason": "LLM 判定不下注：這則熱門話題是關於台灣股市的盤勢，與任何一個候選市場的議題（包含中國入侵台灣或虛擬資產）都無關聯。"}
