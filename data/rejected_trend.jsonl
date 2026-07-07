@@ -2515,3 +2515,4 @@
 {"strategy": "trend", "trend_id": "特朗普向伊朗放话不达成协议就彻底了结", "trend_title": "特朗普向伊朗放话 不达成协议就彻底了结", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "韩国kospi指数失守7500点日内跌幅689", "trend_title": "韩国KOSPI指数失守7500点，日内跌幅6.89%。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "hamasdissolvesciviliangoverningbodyingazaafter20years", "trend_title": "Hamas dissolves civilian governing body in Gaza after 20 years", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "习近平指示防汛救灾要求确保群众生命财产安全", "trend_title": "习近平指示防汛救灾 要求确保群众生命财产安全", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於習近平指示防汛救災，這是一個國家內政問題，與所有候選市場（涉及中美軍事、習近平訪美、中國政變、習近平離婚"}
