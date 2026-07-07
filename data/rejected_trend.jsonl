@@ -2507,3 +2507,6 @@
 {"strategy": "trend", "trend_id": "iranresumesattacksinstraitofhormuzussays", "trend_title": "Iran resumes attacks in Strait of Hormuz, U.S. says", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "russiasendsweaponstohelpmalisgovernmentholdoffrebelsiege", "trend_title": "Russia sends weapons to help Mali’s government hold off rebel siege", "market_title": "", "reason": "LLM 判定不下注：此話題是關於俄羅斯向馬利提供武器以協助其政府對抗叛軍圍攻。這與候選市場中關於『戰爭』、『烏克蘭』、『伊朗』、『中國』或『"}
 {"strategy": "trend", "trend_id": "fifadefendsbalogunredcardrefereeaftertrumpcallshimabitsuspect", "trend_title": "FIFA defends Balogun red card referee after Trump calls him ‘a bit suspect’", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "沙特大幅降价抢客亚洲买家正成为全球原油争夺的核心战场", "trend_title": "沙特大幅降价抢客，亚洲买家正成为全球原油争夺的核心战场", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "美代表美国将施压北约各国提高军费", "trend_title": "美代表：美国将施压北约各国提高军费", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "特朗普致电fifa后美国前锋红牌缓刑比利时4比1淘汰东道主", "trend_title": "特朗普致电FIFA后美国前锋红牌缓刑，比利时4比1淘汰东道主", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
