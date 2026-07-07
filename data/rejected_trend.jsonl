@@ -2566,3 +2566,4 @@
 {"strategy": "trend", "trend_id": "特朗普干预红牌判罚后美国队1比4负比利时出局", "trend_title": "特朗普干预红牌判罚后美国队1比4负比利时出局", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
 {"strategy": "trend", "trend_id": "美联储威廉姆斯通胀仍然相当高", "trend_title": "美联储威廉姆斯：通胀仍然相当高。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "美联储威廉姆斯能源价格回落是个好消息料进一步回落并降温通胀", "trend_title": "美联储威廉姆斯：能源价格回落是个好消息，料进一步回落并降温通胀。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "美国特朗普账户申请破600万低收入家庭能否受益受质疑", "trend_title": "美国“特朗普账户”申请破600万 低收入家庭能否受益受质疑", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
