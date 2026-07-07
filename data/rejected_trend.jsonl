@@ -2558,3 +2558,5 @@
 {"strategy": "trend", "trend_id": "北约宣布在欧洲启动艾布拉姆斯坦克等关键美国装备的生产", "trend_title": "北约宣布在欧洲启动“艾布拉姆斯“坦克等关键美国装备的生产", "market_title": "", "reason": "信心 0.20 < 0.45：北约在欧洲生产美国装备，特别是坦克，表明其军备扩张和对潜在冲突的准备程度在提升，"}
 {"strategy": "trend", "trend_id": "whatdoestrumpwantfromhisnatoallies", "trend_title": "What does Trump want from his NATO allies?", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "印尼部长盛赞与俄罗斯在工贸领域的关系", "trend_title": "印尼部长盛赞与俄罗斯在工贸领域的关系", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
+{"strategy": "trend", "trend_id": "womansuspectedofmonacobombattackfounddeadinukraine", "trend_title": "Woman suspected of Monaco bomb attack found dead in Ukraine", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "北约与土耳其合作与分歧并存", "trend_title": "北约与土耳其：合作与分歧并存", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
