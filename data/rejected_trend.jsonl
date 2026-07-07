@@ -2613,3 +2613,7 @@
 {"strategy": "trend", "trend_id": "勒庞已确认将参加2027年法国总统选举", "trend_title": "勒庞已确认将参加2027年法国总统选举", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "据美国证交会sec文件显示亚马逊amzno定价2425亿美元多期限债券发行利率介于46至625", "trend_title": "据美国证交会（SEC）文件显示，亚马逊(AMZN.O)定价242.5亿美元多期限债券发行，利率介于4.6%至6.25%。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "ussaysstrikeslaunchedasexplosionsheardinsoutherniran", "trend_title": "US says strikes launched as explosions heard in southern Iran", "market_title": "", "reason": "LLM 判定不下注：爆炸新聞與核協議無直接關聯，且機率極低，故無法判斷。"}
+{"strategy": "trend", "trend_id": "据axios一名美国官员表示此次打击目标包括伊朗防空系统海岸监视系统地对空导弹设施反舰巡航导弹阵地无人机发射设施以及港口设施", "trend_title": "据Axios：一名美国官员表示，此次打击目标包括伊朗防空系统、海岸监视系统、地对空导弹设施、反舰巡航导弹阵地、无人机发射设施以及港口设施。", "market_title": "", "reason": "LLM 判定不下注：新聞內容是關於美國對伊朗的軍事打擊，而非美伊核協議的進展。因此，與提供的所有候選市場均無關聯。"}
+{"strategy": "trend", "trend_id": "媒体伊朗锡里克市响起数次爆炸声", "trend_title": "媒体：伊朗锡里克市响起数次爆炸声", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "特朗普致电国际足联后美国前锋红牌禁赛暂缓", "trend_title": "特朗普致电国际足联后美国前锋红牌禁赛暂缓", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "据伊朗塔斯尼姆通讯社以色列对黎巴嫩南部发动空袭目标包括拜特亚洪镇及布拉希特与拜特亚洪两地之间区域", "trend_title": "据伊朗塔斯尼姆通讯社：以色列对黎巴嫩南部发动空袭，目标包括拜特亚洪镇及布拉希特与拜特亚洪两地之间区域。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
