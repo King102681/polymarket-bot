@@ -2560,3 +2560,5 @@
 {"strategy": "trend", "trend_id": "印尼部长盛赞与俄罗斯在工贸领域的关系", "trend_title": "印尼部长盛赞与俄罗斯在工贸领域的关系", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
 {"strategy": "trend", "trend_id": "womansuspectedofmonacobombattackfounddeadinukraine", "trend_title": "Woman suspected of Monaco bomb attack found dead in Ukraine", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "北约与土耳其合作与分歧并存", "trend_title": "北约与土耳其：合作与分歧并存", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "日媒日本欲建立绕开霍尔木兹海峡的中东石油进口渠道", "trend_title": "日媒：日本欲建立绕开霍尔木兹海峡的中东石油进口渠道", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "中国6月增持黄金储备创2023年秋季以来月度最大增幅", "trend_title": "中国6月增持黄金储备，创 2023 年秋季以来月度最大增幅", "market_title": "", "reason": "LLM 判定不下注：此話題指出中國在 6 月增持黃金儲備，創下新高。然而，所有候選市場都與黃金（XAUUSD）的價格有關，而不是黃金的儲備量"}
