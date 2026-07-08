@@ -2644,3 +2644,5 @@
 {"strategy": "trend", "trend_id": "usstrikeoniranianschoolcameaftercommandersbypassedwarningsaboutoutdatedtargetinfocommondreams", "trend_title": "US Strike on Iranian School Came After Commanders 'Bypassed Warnings' About Outdated Target Info | Common Dreams", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "usstrikesirandespitepromisedpauseforkhameneifuneral", "trend_title": "US strikes Iran despite promised pause for Khamenei funeral", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "人工智能会挑选哪种支付方式", "trend_title": "人工智能会挑选哪种支付方式？", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "日本内阁在安倍晋三逝世四周年之际称高市早苗将继续推行其政策", "trend_title": "日本内阁在安倍晋三逝世四周年之际称高市早苗将继续推行其政策", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "新西兰联储主席布雷曼通胀可能已经达到峰值", "trend_title": "新西兰联储主席布雷曼：通胀可能已经达到峰值。", "market_title": "", "reason": "LLM 判定不下注：該話題關於新西蘭聯儲主席的發言，但所有候選市場都與美國聯邦儲備委員會（Fed）的利率決策有關，兩者並不直接對應。"}
