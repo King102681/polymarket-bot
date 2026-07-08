@@ -158,6 +158,11 @@ def _call_gemini(
 
         if r.status_code == 429:
             last_err = "429 rate limited"
+            if config.ANTHROPIC_API_KEY:
+                # 有 Claude 備援：不等 30 秒賭限流解除，立刻失敗讓 call_json 切換供應商。
+                # 429 多半是每日配額耗盡（等 30 秒也沒用），且每條趨勢等 30 秒 ×
+                # 每輪最多 20 條 = 10 分鐘，會撞上 GHA workflow 的 timeout 被砍。
+                break
             if attempt == 1:
                 print("   ⏳ Gemini 限流（429），30 秒後重試")
                 time.sleep(30)
