@@ -2782,3 +2782,5 @@
 {"strategy": "trend", "trend_id": "美联储7月维持利率不变的概率为69", "trend_title": "美联储7月维持利率不变的概率为69%", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "媒体称美国扩大了对伊朗的打击范围攻击了雷达和防空兵器", "trend_title": "媒体称美国扩大了对伊朗的打击范围，攻击了雷达和防空兵器", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "trumptellsworldthatiranscumwanttoassassinatehimimtheno1target", "trend_title": "Trump tells world that Iran ‘scum’ want to assassinate him: ‘I’m the No. 1 target’", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "美国总统特朗普西班牙今天非常慷慨", "trend_title": "美国总统特朗普：西班牙今天非常慷慨。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "媒体防空系统在伊朗南部地区击落一架敌方无人机", "trend_title": "媒体：防空系统在伊朗南部地区击落一架敌方无人机", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
