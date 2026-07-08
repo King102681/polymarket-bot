@@ -2788,3 +2788,4 @@
 {"strategy": "trend", "trend_id": "媒体伊朗南部贾斯克港口城市响起爆炸声", "trend_title": "媒体：伊朗南部贾斯克港口城市响起爆炸声", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "usexpandsmilitarystrikesoniranaftertrumpsayshellhitthemhard", "trend_title": "US expands military strikes on Iran after Trump says he’ll ‘hit them hard’", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "美股收盘特朗普一句话挽回跌势阿里巴巴闪耀全球市场", "trend_title": "美股收盘：特朗普一句话挽回跌势 阿里巴巴闪耀全球市场", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "特朗普开火威胁搅动全球市场降温表态后美股跌幅收窄芯片股力撑纳指收涨中概股大涨", "trend_title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
