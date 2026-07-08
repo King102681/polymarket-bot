@@ -2755,3 +2755,4 @@
 {"strategy": "trend", "trend_id": "trumpthreatensmorestrikesoniranastehranwarnsoffearlessresponse", "trend_title": "Trump threatens more strikes on Iran as Tehran warns of 'fearless' response", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題與所有候選市場均無關聯。"}
 {"strategy": "trend", "trend_id": "trumpsayshemaybegoneashedeclareshimselfiransno1target", "trend_title": "Trump says he ‘may be gone’ as he declares himself Iran’s No. 1 target", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "美国副总统万斯关于伊朗如果他们向我们的船只开火美国将予以回击", "trend_title": "美国副总统万斯：（关于伊朗）如果他们向我们的船只开火，美国将予以回击。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "israeliairstrikesingazakilleightincludingtwochildren", "trend_title": "Israeli air strikes in Gaza kill eight, including two children", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
