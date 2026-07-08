@@ -2636,3 +2636,4 @@
 {"strategy": "trend", "trend_id": "howtheusiranconflictisreshapingafricasgeopoliticalopportunities", "trend_title": "How the US-Iran conflict is reshaping Africa’s geopolitical opportunities", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "新西兰联储gdp实时预测模型kiwigdp目前预测2026年9月当季gdp增长06", "trend_title": "新西兰联储：GDP实时预测模型KIWI-GDP目前预测2026年9月当季GDP增长0.6%。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "伊朗媒体称格什姆岛再传出爆炸声", "trend_title": "伊朗媒体称格什姆岛再传出爆炸声", "market_title": "", "reason": "LLM 判定不下注：爆炸新聞與核協議無直接關聯，無法判斷市場方向。"}
+{"strategy": "trend", "trend_id": "美军司令部称完成对伊朗新一轮打击超80个目标被袭击", "trend_title": "美军司令部称完成对伊朗新一轮打击，超80个目标被袭击", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
