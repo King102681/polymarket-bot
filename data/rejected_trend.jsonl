@@ -2698,3 +2698,5 @@
 {"strategy": "trend", "trend_id": "专家伊朗对美国举措的反制会对全球能源供应造成新一轮冲击但中国受到的冲击应该相对较小", "trend_title": "专家：伊朗对美国举措的反制会对全球能源供应造成新一轮冲击，但中国受到的冲击应该相对较小", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "黎巴嫩总统我必须采取一项能够阻止以色列破坏与屠杀并最终结束占领的举措", "trend_title": "黎巴嫩总统：我必须采取一项能够阻止以色列破坏与屠杀、并最终结束占领的举措。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "trumpsaysceasefireisoverafterusandirantradestrikes", "trend_title": "Trump says ceasefire is 'over' after US and Iran trade strikes", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "trumpsaysatnatosummithehasorderedcutoffofustradewithspain", "trend_title": "Trump says at NATO summit he has ordered cutoff of US trade with Spain", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "usstrikestargetiranianmilitaryboats", "trend_title": "US strikes target Iranian military boats", "market_title": "", "reason": "LLM 判定不下注：討論的是美國對伊朗軍事船隻的打擊，與核協議的達成時間沒有直接關聯。該話題熱度與市場機率無關。"}
