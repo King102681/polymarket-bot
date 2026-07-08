@@ -2758,3 +2758,6 @@
 {"strategy": "trend", "trend_id": "israeliairstrikesingazakilleightincludingtwochildren", "trend_title": "Israeli air strikes in Gaza kill eight, including two children", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "据华尔街日报伊拉克同意美方要求将停止向伊朗支持的民兵组织提供美元流动", "trend_title": "据华尔街日报：伊拉克同意美方要求，将停止向伊朗支持的民兵组织提供美元流动。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "fivekeytakeawaysfromthenatosummitinankara", "trend_title": "Five key takeaways from the NATO summit in Ankara", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "分析人士美伊进入边谈边施压阶段未来或反复紧张", "trend_title": "分析人士：美伊进入“边谈边施压”阶段 未来或反复紧张", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "特朗普伊朗的新任高层可能会像之前一样消失", "trend_title": "特朗普：伊朗的新任高层可能会像之前一样消失", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "美联储传声筒美联储的分歧更多是关于未来发展而非当前举措", "trend_title": "“美联储传声筒”：美联储的分歧更多是关于未来发展，而非当前举措", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
