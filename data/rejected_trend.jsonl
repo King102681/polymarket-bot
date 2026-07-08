@@ -2724,3 +2724,6 @@
 {"strategy": "trend", "trend_id": "莫迪称高市漂亮妹妹日方系误译", "trend_title": "莫迪称高市“漂亮妹妹”？日方：系“误译”", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "国泰航班短暂失联北约战机升空警告", "trend_title": "国泰航班短暂失联，北约战机升空警告", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "俄国家杜马通过人工智能监管法案", "trend_title": "俄国家杜马通过人工智能监管法案", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "美国总统特朗普我认为以色列将从黎巴嫩南部撤军", "trend_title": "美国总统特朗普：我认为以色列将从黎巴嫩南部撤军。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "trumponiranwellprobablyhitthemhardagaintonight", "trend_title": "Trump on Iran: ‘We’ll probably hit them hard again tonight’", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "美国总统特朗普每次我们打击伊朗油价就会上涨这没什么油价未来可能会小幅上涨", "trend_title": "美国总统特朗普：每次我们打击伊朗，油价就会上涨，这没什么。油价未来可能会小幅上涨。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
