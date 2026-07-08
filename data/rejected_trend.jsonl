@@ -2710,3 +2710,4 @@
 {"strategy": "trend", "trend_id": "北约盟友公布近650亿元军购特朗普仍不满再抱怨", "trend_title": "北约盟友公布近650亿元军购 特朗普仍不满再抱怨", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是北約軍購與特朗普對此的不滿，並非任何一個候選市場的預測標的。候選市場均與特朗普的個人行為或政治動態有關，與"}
 {"strategy": "trend", "trend_id": "金正恩在朝鲜开国领导人金日成逝世32周年之际参谒锦绣山太阳宫", "trend_title": "金正恩在朝鲜开国领导人金日成逝世32周年之际参谒锦绣山太阳宫", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "伊朗进入后哈梅内伊时代权力博弈未见分晓", "trend_title": "伊朗进入后哈梅内伊时代 权力博弈未见分晓", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "美伊再次互相打击外交部重燃战火不符合任何一方的利益", "trend_title": "美伊再次互相打击，外交部：重燃战火不符合任何一方的利益", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
