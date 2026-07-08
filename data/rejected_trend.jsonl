@@ -2632,3 +2632,4 @@
 {"strategy": "trend", "trend_id": "伊朗谴责美国袭击违反备忘录", "trend_title": "伊朗谴责美国袭击违反备忘录", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "mostsenatedemssayplatnershoulddropouthereswheretheyallstand", "trend_title": "Most Senate Dems say Platner should drop out. Here's where they all stand.", "market_title": "", "reason": "LLM 判定不下注：此話題是關於參議院民主黨人希望 Platner 退選，這是一個影響黨內特定候選人的事件，與上述 2026 年參議院選舉的"}
 {"strategy": "trend", "trend_id": "霍尔木兹冲击波美国撤销伊朗石油销售豁免美军称开始对伊发动强力打击", "trend_title": "霍尔木兹冲击波！美国撤销伊朗石油销售豁免，美军称开始对伊发动强力打击", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "挂单报告国际现货黄金上测4110国际现货白银留意下行押注", "trend_title": "挂单报告：国际现货黄金上测4110 国际现货白银留意下行押注", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
