@@ -2764,3 +2764,4 @@
 {"strategy": "trend", "trend_id": "北约将针对国防工业举行演习以备危机或战争", "trend_title": "北约将针对国防工业举行演习以备危机或战争", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "trumporderedtopayejeancarroll58mafterfailedappeal", "trend_title": "Trump ordered to pay E Jean Carroll $5.8m after failed appeal", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "据伊朗迈赫尔通讯社班达尔阿巴斯附近防空系统正在拦截敌对目标", "trend_title": "据伊朗迈赫尔通讯社：班达尔阿巴斯附近防空系统正在拦截“敌对目标”。", "market_title": "", "reason": "LLM 判定不下注：此話題提到伊朗防空系統攔截『敵對目標』，但並未明確指出是與美國的核協議相關事件，且市場是針對核協議達成的時間，因此關聯性"}
+{"strategy": "trend", "trend_id": "marinelepenclearedtoruninfrances2027presidentialelection", "trend_title": "Marine Le Pen cleared to run in France’s 2027 Presidential election", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
