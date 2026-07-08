@@ -2750,3 +2750,4 @@
 {"strategy": "trend", "trend_id": "现货黄金在美联储会议纪要公布后变动不大", "trend_title": "现货黄金在美联储会议纪要公布后变动不大。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "francereturnssyrianartefactsitsheldsincecivilwar", "trend_title": "France returns Syrian artefacts it’s held since civil war", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "美联储会议纪要官员们对利率年底是可能上升还是下降存在分歧", "trend_title": "美联储会议纪要：官员们对利率年底是可能上升还是下降存在分歧。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "普京俄罗斯能源系统的安全裕度是全球最高水平之一", "trend_title": "普京：俄罗斯能源系统的安全裕度是全球最高水平之一", "market_title": "", "reason": "LLM 判定不下注：話題關於俄羅斯能源系統的安全，與所有候選市場（伊朗、參議院、儲備、中國、韓國）均無直接關聯。"}
