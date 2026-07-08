@@ -2653,3 +2653,6 @@
 {"strategy": "trend", "trend_id": "霍尔木兹之火再起油价急涨再压金价", "trend_title": "“霍尔木兹之火”再起？油价急涨再压金价", "market_title": "Strait of Hormuz traffic returns to normal by August 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "oilpricessurgeasusstrikesiranreversingslidetoprewarlevels", "trend_title": "Oil prices surge as US strikes Iran, reversing slide to pre-war levels", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "natoalliesannounce37bnfornewmissileproject", "trend_title": "Nato allies announce £37bn for new missile project", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "usandirantradestrikesaftertankershitinstraitofhormuz", "trend_title": "US and Iran trade strikes after tankers hit in Strait of Hormuz", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "美军开始对伊朗发动系列打击", "trend_title": "美军：开始对伊朗发动系列打击", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "韩国kospi指数日内跌幅进一步扩大至500现报726659点", "trend_title": "韩国KOSPI指数日内跌幅进一步扩大至5.00%，现报7266.59点。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
