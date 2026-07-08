@@ -2634,3 +2634,5 @@
 {"strategy": "trend", "trend_id": "霍尔木兹冲击波美国撤销伊朗石油销售豁免美军称开始对伊发动强力打击", "trend_title": "霍尔木兹冲击波！美国撤销伊朗石油销售豁免，美军称开始对伊发动强力打击", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "挂单报告国际现货黄金上测4110国际现货白银留意下行押注", "trend_title": "挂单报告：国际现货黄金上测4110 国际现货白银留意下行押注", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "howtheusiranconflictisreshapingafricasgeopoliticalopportunities", "trend_title": "How the US-Iran conflict is reshaping Africa’s geopolitical opportunities", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "新西兰联储gdp实时预测模型kiwigdp目前预测2026年9月当季gdp增长06", "trend_title": "新西兰联储：GDP实时预测模型KIWI-GDP目前预测2026年9月当季GDP增长0.6%。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "伊朗媒体称格什姆岛再传出爆炸声", "trend_title": "伊朗媒体称格什姆岛再传出爆炸声", "market_title": "", "reason": "LLM 判定不下注：爆炸新聞與核協議無直接關聯，無法判斷市場方向。"}
