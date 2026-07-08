@@ -2766,3 +2766,6 @@
 {"strategy": "trend", "trend_id": "据伊朗迈赫尔通讯社班达尔阿巴斯附近防空系统正在拦截敌对目标", "trend_title": "据伊朗迈赫尔通讯社：班达尔阿巴斯附近防空系统正在拦截“敌对目标”。", "market_title": "", "reason": "LLM 判定不下注：此話題提到伊朗防空系統攔截『敵對目標』，但並未明確指出是與美國的核協議相關事件，且市場是針對核協議達成的時間，因此關聯性"}
 {"strategy": "trend", "trend_id": "marinelepenclearedtoruninfrances2027presidentialelection", "trend_title": "Marine Le Pen cleared to run in France’s 2027 Presidential election", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "ukrainetogetlicencetoproducepatriotmissilestrumpsays", "trend_title": "Ukraine to get licence to produce Patriot missiles, Trump says", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "据沙特阿拉伯阿拉比亚电视台伊朗革命卫队称将对美国打击行动进行回应", "trend_title": "据沙特阿拉伯阿拉比亚电视台：伊朗革命卫队称，将对美国打击行动进行回应。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "特朗普今晚可能再打伊朗", "trend_title": "特朗普：今晚可能再打伊朗", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "消息人士伊朗不久后将对美基地发动大规模打击", "trend_title": "消息人士：伊朗“不久后”将对美基地发动大规模打击", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
