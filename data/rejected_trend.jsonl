@@ -2691,3 +2691,4 @@
 {"strategy": "trend", "trend_id": "菲律宾比索兑美元跌至61593此前特朗普称与伊朗结束战争的临时协议已告终", "trend_title": "菲律宾比索兑美元跌至61.593，此前特朗普称与伊朗结束战争的临时协议已告终。", "market_title": "", "reason": "LLM 判定不下注：话题内容涉及菲律宾比索汇率和特朗普与伊朗的战争协议，但所有候选市场均与特朗普的总统任期、收购格陵兰、赦免SBF或参加世界"}
 {"strategy": "trend", "trend_id": "今夜全球市场瞩目沃什首秀将迎美联储纪要终极解密", "trend_title": "今夜全球市场瞩目！沃什首秀将迎美联储纪要“终极解密”", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "欧盟委员会排放交易系统修订将允许工业在2039年之后甚至进入2040年代继续排放", "trend_title": "欧盟委员会：排放交易系统修订将允许工业在2039年之后，甚至进入2040年代继续排放。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "美国队输球让北约军官喜忧参半", "trend_title": "美国队输球让北约军官“喜忧参半”", "market_title": "", "reason": "信心 0.30 < 0.45：美國隊輸球（推測是指軍事演習或相關訓練）讓北約軍官「喜憂參半」，可能暗示了內部對"}
