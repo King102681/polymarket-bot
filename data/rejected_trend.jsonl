@@ -2649,3 +2649,5 @@
 {"strategy": "trend", "trend_id": "新西兰联储主席布雷曼我们认为有必要强调关于利率调整时机的不确定性已经加大", "trend_title": "新西兰联储主席布雷曼：我们认为有必要强调，关于利率（调整）时机的不确定性已经加大。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "伊媒德黑兰反对美方干预霍尔木兹海峡的事务", "trend_title": "伊媒：德黑兰反对美方干预霍尔木兹海峡的事务", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "thekamalaharrislessonmainedemocratsdontwanttorepeat", "trend_title": "The Kamala Harris lesson Maine Democrats don’t want to repeat", "market_title": "", "reason": "LLM 判定不下注：這篇文章是關於 Kamala Harris 在緬因州的民主黨初選經驗，但候選市場都與 2028 年美國總統大選中的不同人"}
+{"strategy": "trend", "trend_id": "northdakotaleaderstalktrumpampteddyrooseveltoverbisonburgers", "trend_title": "North Dakota leaders talk Trump &amp; Teddy Roosevelt over bison burgers", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "霍尔木兹之火再起油价急涨再压金价", "trend_title": "“霍尔木兹之火”再起？油价急涨再压金价", "market_title": "Strait of Hormuz traffic returns to normal by August 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
