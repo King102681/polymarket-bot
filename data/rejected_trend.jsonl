@@ -2656,3 +2656,4 @@
 {"strategy": "trend", "trend_id": "usandirantradestrikesaftertankershitinstraitofhormuz", "trend_title": "US and Iran trade strikes after tankers hit in Strait of Hormuz", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "美军开始对伊朗发动系列打击", "trend_title": "美军：开始对伊朗发动系列打击", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "韩国kospi指数日内跌幅进一步扩大至500现报726659点", "trend_title": "韩国KOSPI指数日内跌幅进一步扩大至5.00%，现报7266.59点。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "argentinafanwavesisraeliflagatworldcupmatchwithegypt", "trend_title": "Argentina fan waves Israeli flag at World Cup match with Egypt", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
