@@ -2648,3 +2648,4 @@
 {"strategy": "trend", "trend_id": "新西兰联储主席布雷曼通胀可能已经达到峰值", "trend_title": "新西兰联储主席布雷曼：通胀可能已经达到峰值。", "market_title": "", "reason": "LLM 判定不下注：該話題關於新西蘭聯儲主席的發言，但所有候選市場都與美國聯邦儲備委員會（Fed）的利率決策有關，兩者並不直接對應。"}
 {"strategy": "trend", "trend_id": "新西兰联储主席布雷曼我们认为有必要强调关于利率调整时机的不确定性已经加大", "trend_title": "新西兰联储主席布雷曼：我们认为有必要强调，关于利率（调整）时机的不确定性已经加大。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "伊媒德黑兰反对美方干预霍尔木兹海峡的事务", "trend_title": "伊媒：德黑兰反对美方干预霍尔木兹海峡的事务", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "thekamalaharrislessonmainedemocratsdontwanttorepeat", "trend_title": "The Kamala Harris lesson Maine Democrats don’t want to repeat", "market_title": "", "reason": "LLM 判定不下注：這篇文章是關於 Kamala Harris 在緬因州的民主黨初選經驗，但候選市場都與 2028 年美國總統大選中的不同人"}
