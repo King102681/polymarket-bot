@@ -2730,3 +2730,4 @@
 {"strategy": "trend", "trend_id": "俄罗斯女模特因长相酷似哈兰德走红", "trend_title": "俄罗斯女模特因长相酷似哈兰德走红", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "makethemyourselftrumpgiveszelenskygreenlighttoproducepatriotmissiles", "trend_title": "'Make them yourself': Trump gives Zelensky green light to produce Patriot missiles", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "德媒揭秘乌克兰女子无人机部队", "trend_title": "德媒揭秘乌克兰女子无人机部队", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "北约承诺2026年向基辅提供价值700亿欧元的军事援助", "trend_title": "北约承诺2026年向基辅提供价值700亿欧元的军事援助", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
