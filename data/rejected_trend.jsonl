@@ -2831,3 +2831,5 @@
 {"strategy": "trend", "trend_id": "日媒关注特朗普称日本伊斯兰共和国发射了导弹", "trend_title": "日媒关注：特朗普称“日本伊斯兰共和国发射了导弹”", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "ukpolicearrestactivistsatisraeliowneddroneengineplant", "trend_title": "UK police arrest activists at Israeli-owned drone engine plant", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "白俄罗斯捣毁受乌波情报指使的对俄毒品输送渠道", "trend_title": "白俄罗斯捣毁受乌波情报指使的对俄毒品输送渠道", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "伊朗外交部欧洲在美以对伊冲突中并非保持中立", "trend_title": "伊朗外交部：欧洲在美以对伊冲突中并非保持中立", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "日本央行多个地区表示企业正在考虑从夏季开始提高食品和日用品价格", "trend_title": "日本央行：多个地区表示，企业正在考虑从夏季开始提高食品和日用品价格。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
