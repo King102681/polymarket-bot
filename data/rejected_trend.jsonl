@@ -2931,3 +2931,4 @@
 {"strategy": "trend", "trend_id": "德国联邦议院投票反对向乌克兰提供新的金牛座和爱国者导弹", "trend_title": "德国联邦议院投票反对向乌克兰提供新的“金牛座”和“爱国者”导弹", "market_title": "", "reason": "LLM 判定不下注：德国联邦议院投票反对向乌克兰提供导弹的新闻与提供的候选市场均无直接对应关系。候选市场主要关注美国Senate/House"}
 {"strategy": "trend", "trend_id": "美联储主席沃什组建外部专家团队审查货币政策框架", "trend_title": "美联储主席沃什组建外部专家团队，审查货币政策框架", "market_title": "", "reason": "LLM 判定不下注：沃什组建外部专家团队审查货币政策框架是制度性、长期性举措，反映的是对政策框架本身的评估，而非对具体近期利率决议的直接信号"}
 {"strategy": "trend", "trend_id": "沙特阿拉伯和加拿大联合声明谴责伊朗对霍尔木兹海峡商船的攻击", "trend_title": "沙特阿拉伯和加拿大联合声明：谴责伊朗对霍尔木兹海峡商船的攻击。", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "issyriastableenoughtoengagewiththeworld", "trend_title": "Is Syria stable enough to engage with the world?", "market_title": "", "reason": "LLM 判定不下注：敘利亞穩定性話題與伊拉克承認以色列市場最相關（同為中東地區政治穩定性指標）。但該話題主要討論敘利亞與國際社會的互動關係，"}
