@@ -2943,3 +2943,6 @@
 {"strategy": "trend", "trend_id": "特朗普宣布美伊停火终结美军连续空袭伊朗致中东局势急剧升级", "trend_title": "特朗普宣布美伊停火终结 美军连续空袭伊朗致中东局势急剧升级", "market_title": "", "reason": "LLM 判定不下注：熱門話題聚焦於美伊軍事衝突與中東局勢升級，但候選市場均為特朗普個人行動（購買格陵蘭、訪問特定國家、在位期限）相關的預測。"}
 {"strategy": "trend", "trend_id": "俄外长俄罗斯不再相信西方有意愿进行谈判", "trend_title": "俄外长：俄罗斯不再相信西方有意愿进行谈判", "market_title": "", "reason": "LLM 判定不下注：俄外长关于与西方谈判的言论主要涉及俄罗斯-西方关系动态，不与提供的任何候选市场直接相关。候选市场聚焦于美国政治机构(Se"}
 {"strategy": "trend", "trend_id": "explosionsheardiniranasusmilitarydeniesinvolvement", "trend_title": "Explosions heard in Iran as US military denies involvement", "market_title": "", "reason": "LLM 判定不下注：此熱門話題關於伊朗爆炸事件與美軍否認參與，與核協議市場關聯性低，因此選擇-1。話題本身並未提供足夠資訊直接判斷核協議的可"}
+{"strategy": "trend", "trend_id": "据华尔街日报知情人士称以色列向美国提供新情报称伊朗或在考虑刺杀特朗普的新计划", "trend_title": "据华尔街日报：知情人士称，以色列向美国提供新情报，称伊朗或在考虑刺杀特朗普的新计划。", "market_title": "Trump out as President by July 31?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "trumpairportnamechangesparksbacklashinflorida", "trend_title": "Trump airport name change sparks backlash  in Florida", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題關於川普機場名稱變更在佛羅里達州引發反彈，與候選市場中關於格陵蘭收購、總統任期、UFO 文件解密或巴基斯坦"}
+{"strategy": "trend", "trend_id": "美官员美伊相关技术谈判仍在继续", "trend_title": "美官员：美伊相关技术谈判仍在继续", "market_title": "", "reason": "信心 0.35 < 0.45：美官员公开表示谈判仍在继续，暗示谈判进展未中断。这对长期达成协议（到2026年底"}
