@@ -2790,3 +2790,6 @@
 {"strategy": "trend", "trend_id": "美股收盘特朗普一句话挽回跌势阿里巴巴闪耀全球市场", "trend_title": "美股收盘：特朗普一句话挽回跌势 阿里巴巴闪耀全球市场", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "特朗普开火威胁搅动全球市场降温表态后美股跌幅收窄芯片股力撑纳指收涨中概股大涨", "trend_title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "美国总统特朗普美国的药品价格已从全球最高降至最低差距达到400至600", "trend_title": "美国总统特朗普：美国的药品价格已从全球最高降至最低，差距达到400%至600%。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "伊朗袭击霍尔木兹海峡商船引发美军大规模空袭", "trend_title": "伊朗袭击霍尔木兹海峡商船引发美军大规模空袭", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於伊朗襲擊事件及美軍的報復性空襲，這與候選市場提出的『美伊核協議』毫無關聯。因此，無法從該話題判斷任何市場"}
+{"strategy": "trend", "trend_id": "媒体伊朗东南部城市伊兰沙赫尔响起数次爆炸声", "trend_title": "媒体：伊朗东南部城市伊兰沙赫尔响起数次爆炸声", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "特朗普宣布美伊停火终结并下令空袭伊朗", "trend_title": "特朗普宣布美伊停火终结并下令空袭伊朗", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
