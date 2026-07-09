@@ -2952,3 +2952,4 @@
 {"strategy": "trend", "trend_id": "russiandronekillslastresidentofbordervillageinkharkivoblast", "trend_title": "Russian drone kills last resident of border village in Kharkiv Oblast", "market_title": "", "reason": "LLM 判定不下注：話題為烏克蘭哈爾科夫邊境村莊遭俄羅斯無人機襲擊事件。候選市場均為美國政治或全球經濟相關的『標題詞彙』預測（Senate、"}
 {"strategy": "trend", "trend_id": "伊朗政府伊朗南部科纳拉克市的海军区域遭到打击", "trend_title": "伊朗政府：伊朗南部科纳拉克市的海军区域遭到打击", "market_title": "", "reason": "LLM 判定不下注：此熱門話題指出伊朗海軍區域遭到打擊，但所有候選市場都圍繞著美伊核協議的達成時間。兩者之間沒有直接關聯，無法判斷此事件對核"}
 {"strategy": "trend", "trend_id": "俄罗斯对联合国人工智能治理全球对话启动表示欢迎", "trend_title": "俄罗斯对联合国人工智能治理全球对话启动表示欢迎", "market_title": "", "reason": "LLM 判定不下注：話題核心是俄羅斯對聯合國AI治理對話的政策立場，不涉及美國參議院、霍爾木茲海峽、美眾議院、中國，或儲備相關議題。候選市場"}
+{"strategy": "trend", "trend_id": "usandirantradeattacksaskhameneiisburied", "trend_title": "US and Iran trade attacks as Khamenei is buried", "market_title": "", "reason": "LLM 判定不下注：此話題討論的是美伊之間的衝突升級，與核協議的進展沒有直接關聯。候選市場均為核協議相關，因此該話題與所有市場均無關聯。"}
