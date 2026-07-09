@@ -2885,3 +2885,4 @@
 {"strategy": "trend", "trend_id": "美油企预期从美伊战争获取暴利或惹恼特朗普", "trend_title": "美油企预期从美伊战争获取暴利 或惹恼特朗普", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "波兰央行行长波兰今年已购入82吨黄金", "trend_title": "波兰央行行长：波兰今年已购入82吨黄金。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "美联储威廉姆斯资产负债表规模不应主导监管政策调整监管规则制定应以银行稳健安全为核心", "trend_title": "美联储威廉姆斯：资产负债表规模不应主导监管政策调整。监管规则制定应以银行稳健安全为核心。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "iranlaunchesmorestrikesafteraccusingusofstrikingnearnuclearplant", "trend_title": "Iran launches more strikes after accusing US of striking near nuclear plant", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
