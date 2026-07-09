@@ -2837,3 +2837,4 @@
 {"strategy": "trend", "trend_id": "trumpusaircraftcarriershotatbyislamicrepublicofjapan", "trend_title": "Trump: US aircraft carrier shot at by 'Islamic Republic of Japan'", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "据法尔斯通讯社伊朗在美国袭击后暂停德黑兰至马什哈德的列车服务", "trend_title": "据法尔斯通讯社：伊朗在美国袭击后暂停德黑兰至马什哈德的列车服务。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "特朗普不知是否应与伊朗达成新协议", "trend_title": "特朗普：不知是否应与伊朗达成新协议", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "特朗普没坐新的空军一号回国原因披露", "trend_title": "特朗普没坐新的“空军一号”回国，原因披露", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
