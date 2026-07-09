@@ -2948,3 +2948,4 @@
 {"strategy": "trend", "trend_id": "美官员美伊相关技术谈判仍在继续", "trend_title": "美官员：美伊相关技术谈判仍在继续", "market_title": "", "reason": "信心 0.35 < 0.45：美官员公开表示谈判仍在继续，暗示谈判进展未中断。这对长期达成协议（到2026年底"}
 {"strategy": "trend", "trend_id": "2025年俄罗斯位居中国农产品进口国第九位", "trend_title": "2025年俄罗斯位居中国农产品进口国第九位", "market_title": "", "reason": "LLM 判定不下注：該話題涉及俄羅斯與中國的農產品貿易統計數據，是經濟/貿易領域新聞。候選市場均為美國政治相關（Senate、House、M"}
 {"strategy": "trend", "trend_id": "syriasayscellbehindterroristbombingsindamascusarrested", "trend_title": "Syria says cell behind ‘terrorist bombings’ in Damascus arrested", "market_title": "", "reason": "LLM 判定不下注：此新聞關於敘利亞逮捕恐怖攻擊嫌犯，與候選市場皆無關聯。"}
+{"strategy": "trend", "trend_id": "tehranlaunchesmorestrikesaftersecondroundofusattacksinsoutherniran", "trend_title": "Tehran launches more strikes after second round of US attacks in southern Iran", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
