@@ -2883,3 +2883,5 @@
 {"strategy": "trend", "trend_id": "媒体美国空袭伊朗境内中俄使用的铁路桥", "trend_title": "媒体：美国空袭伊朗境内中俄使用的铁路桥", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
 {"strategy": "trend", "trend_id": "台湾政治民调公信力持续崩坏", "trend_title": "台湾政治民调公信力持续崩坏", "market_title": "", "reason": "LLM 判定不下注：該熱門話題討論的是台灣政治民調的公信力問題，與所有候選市場（主要關於中國是否入侵台灣或與遊戲發布時間相關）的預測目標均無"}
 {"strategy": "trend", "trend_id": "美油企预期从美伊战争获取暴利或惹恼特朗普", "trend_title": "美油企预期从美伊战争获取暴利 或惹恼特朗普", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "波兰央行行长波兰今年已购入82吨黄金", "trend_title": "波兰央行行长：波兰今年已购入82吨黄金。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "美联储威廉姆斯资产负债表规模不应主导监管政策调整监管规则制定应以银行稳健安全为核心", "trend_title": "美联储威廉姆斯：资产负债表规模不应主导监管政策调整。监管规则制定应以银行稳健安全为核心。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
