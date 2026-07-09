@@ -2795,3 +2795,5 @@
 {"strategy": "trend", "trend_id": "特朗普宣布美伊停火终结并下令空袭伊朗", "trend_title": "特朗普宣布美伊停火终结并下令空袭伊朗", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "早报美伊再起冲突美股科技股大反弹中概股大涨原油大涨黄金白银大跌长鑫科技申购日定了", "trend_title": "【早报】美伊再起冲突；美股科技股大反弹，中概股大涨；原油大涨，黄金、白银大跌；长鑫科技，申购日定了", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "特朗普下令再空袭伊朗警告再袭霍尔木兹船只将付更大代价", "trend_title": "特朗普下令再空袭伊朗 警告再袭霍尔木兹船只将付更大代价", "market_title": "", "reason": "LLM 判定不下注：這則熱門話題是關於特朗普下令空襲伊朗，並警告可能對船隻採取進一步行動。候選市場均與特朗普的國際訪問或不動產收購有關，與該"}
+{"strategy": "trend", "trend_id": "grahamplatnerendsmainesenatecampaign", "trend_title": "Graham Platner ends Maine Senate campaign", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "iranwarliveonekilledasusbombsbushehrchabaharbandarabbasjask", "trend_title": "Iran war live: One killed as US bombs Bushehr, Chabahar, Bandar Abbas, Jask", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
