@@ -2874,3 +2874,5 @@
 {"strategy": "trend", "trend_id": "特朗普在北约峰会批评西班牙并威胁切断贸易", "trend_title": "特朗普在北约峰会批评西班牙并威胁切断贸易", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "媒体美国向基辅颁发爱国者导弹生产许可证无助于乌克兰", "trend_title": "媒体：美国向基辅颁发“爱国者”导弹生产许可证无助于乌克兰", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "台湾中联油脂大豆沙拉油检出致癌物超标逾360家业者受影响", "trend_title": "台湾中联油脂大豆沙拉油检出致癌物超标逾360家业者受影响", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "mediatorpakistansaysrenewedusiranconflictisinnoonesinterest", "trend_title": "Mediator Pakistan says renewed US-Iran conflict is ‘in no one’s interest’", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
+{"strategy": "trend", "trend_id": "现货黄金日内涨幅扩大至1现报411826美元盎司", "trend_title": "现货黄金日内涨幅扩大至1%，现报4118.26美元/盎司。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
