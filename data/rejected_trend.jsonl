@@ -2809,3 +2809,6 @@
 {"strategy": "trend", "trend_id": "据伊朗媒体报道称巴林当地再次发生爆炸", "trend_title": "据伊朗媒体报道称，巴林当地再次发生爆炸。", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "danklebanjumpsbackintomainesenaterace", "trend_title": "Dan Kleban jumps (back) into Maine Senate race", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "denmarkreadytodefendeveryinchofnatoincludingdanishkingdompmsays", "trend_title": "Denmark ready to defend 'every inch of NATO', including Danish kingdom, PM says", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
+{"strategy": "trend", "trend_id": "美军袭击伊朗后巴林与卡塔尔拉响警报", "trend_title": "美军袭击伊朗后 巴林与卡塔尔拉响警报", "market_title": "", "reason": "LLM 判定不下注：這條熱門話題談論的是美軍對伊朗的襲擊引發巴林和卡達的警報，這是一則突發的軍事與地緣政治新聞。候選市場的所有選項都與『美伊"}
+{"strategy": "trend", "trend_id": "美军空袭伊朗南部并撤销石油豁免伊朗回击巴林科威特美军基地", "trend_title": "美军空袭伊朗南部并撤销石油豁免 伊朗回击巴林科威特美军基地", "market_title": "", "reason": "LLM 判定不下注：該話題主要講述美軍空襲伊朗及伊朗回擊美軍基地，涉及軍事衝突升級。而候選市場全部是關於美伊核協議的最終達成時間。話題內容與"}
+{"strategy": "trend", "trend_id": "ussenatenomineeplatnerhaltscampaignafterassaultallegations", "trend_title": "US Senate nominee Platner halts campaign after assault allegations", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
