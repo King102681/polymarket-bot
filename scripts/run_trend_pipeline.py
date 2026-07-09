@@ -52,10 +52,16 @@ def main() -> None:
     print(f"\n{'=' * 60}\n 🌊 Trend Pipeline @ {ts}\n{'=' * 60}")
 
     # ── 1. 抓趨勢 ───────────────────────────────────────────────────
+    # 先濾掉已評估過的（即使仍在熱門榜上），再取前 N 名——避免持續延燒的舊話題
+    # （例如多日連續的地緣衝突報導）反覆佔用每輪固定 TREND_MAX_PER_RUN 名額，
+    # 排擠掉真正還沒被評估過的新話題（2026-07-09 實測：前20名中20%是重複佔位）。
     print("\n[1/4] trend_fetcher.fetch_trends()")
     trends = trend_fetcher.fetch_trends()
-    hot = [t for t in trends if t.heat >= config.TREND_MIN_HEAT][: config.TREND_MAX_PER_RUN]
-    print(f"  共 {len(trends)} 條，熱度≥{config.TREND_MIN_HEAT} 取前 {len(hot)} 條評估")
+    processed = signal_evaluator._load_processed()
+    fresh = [t for t in trends if t.id not in processed]
+    hot = [t for t in fresh if t.heat >= config.TREND_MIN_HEAT][: config.TREND_MAX_PER_RUN]
+    print(f"  共 {len(trends)} 條（已評估過濾掉 {len(trends) - len(fresh)} 條），"
+          f"熱度≥{config.TREND_MIN_HEAT} 取前 {len(hot)} 條評估")
     if not hot:
         print("  無夠熱話題，結束")
         return

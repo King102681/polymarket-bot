@@ -17,6 +17,7 @@
 - **台灣 = close-only**：可平倉，**不能開新倉**。Koh 人在台灣，本地 `post_order` 實測回 **403 Trading restricted**。
 - `dns_patch.py` 只繞過 ISP 的 DNS RPZ（讓你能「連上」讀資料），**繞不過** Polymarket 的合規封鎖。
 - **美國 2025-11 起 CFTC 合法** → GitHub Actions（美國 IP）**可能**可下單，但需實測（`verify_order.yml`）。
+- **✅ 已實測（2026-07-09）：GHA（Azure 美國 IP）POST /order 被拒**——`RequestRejectedError: Trading restricted in your region`。認證、找市場、簽名全部成功，唯獨送單那一刻被擋，跟「唯讀API不受封鎖」的已知模式一致。**推論：封鎖很可能不只看國別，額外連雲端/資料中心IP網段一起擋**（業界防規避常見做法）——這代表「Canada VPS」備案大機率碰到同樣問題（AWS/Azure/GCP/DigitalOcean 等雲端商的IP不論開在哪一國都可能被連坐）。真正可能有效的只剩**住宅出口 VPN/代理**，但這是比「剛好用雲端伺服器」更明確的主動規避行為，風險評估要相應調高。
 - **風險**：用 GHA 美國 IP = 地理規避。Polymarket 偵測超越 IP（行為/鏈上/KYC），有「提款被凍真實案例」。
   - 緩解：錢包是 **non-custodial EOA**（私鑰自控），閒置 USDC 凍不了、可鏈上轉走；只有「交易中資金」有提款被凍風險。
   - Koh 決定：**分離錢包（先轉走多數資金）+ 先用 $1 不成交驗證單試 GHA**，再決定是否放 $20。
@@ -245,11 +246,9 @@ INITIAL_CAPITAL_USDC=100 # 初始資金（記錄用）
 
 ## 待辦清單（2026-06-19 更新）
 
-### 🔴 LIVE 可行性（卡在地理封鎖，狀態未變）
-1. **看 GHA `verify_order.yml` 結果**：美國 IP 能否 `post_order`？
-   - ✅ 拿到 order_id → GHA 路線可行 → 分離錢包 + 放 $20 跟世界盃
-   - ❌ 403 → 美國也被擋 → 需 Canada VPS 或放棄真錢、只做訊號
-2. **LIVE 技術前提已驗證**：USDC approve 已做、簽名鏈路通過。**唯一瓶頸是地理封鎖**。
+### 🔴 LIVE 可行性（2026-07-09 已實測，GHA 路線確認不可行）
+1. **`verify_order.yml` 結果已出**：❌ Azure 美國 IP 被拒（`Trading restricted in your region`）。GHA 路線死路，且推論 Canada VPS 等雲端方案大機率同樣被擋（見上方地理封鎖章節的推論）。**唯一剩下可能有效的是住宅出口 VPN/代理，但規避意圖更明確、風險更高，需 Koh 重新評估是否值得繼續追這條路，還是接受 LIVE 對他不可行、只做 dry-run 訊號驗證。**
+2. **LIVE 技術前提已驗證**：USDC approve 已做、簽名鏈路通過。**唯一瓶頸是地理封鎖**（現已證實比原先設想的更廣，非僅國別判斷）。
 3. **決策原則（Koh 2026-06）**：先用 dry-run 證明策略賺錢，才決定是否付費上 VPS。
 
    **「證明賺錢」的具體門檻（2026-06-22 定案，三個條件同時滿足才算）**：
