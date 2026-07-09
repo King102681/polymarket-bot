@@ -2927,3 +2927,4 @@
 {"strategy": "trend", "trend_id": "usexpandsiranstrikesiranhittingfishingpiersnearnuclearplant", "trend_title": "US expands Iran strikes Iran hitting  fishing piers near nuclear plant", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "chatgptwork", "trend_title": "ChatGPT Work", "market_title": "", "reason": "LLM 判定不下注：ChatGPT Work 是產品功能更新，屬於OpenAI營運層面的新聞，但所有候選市場都聚焦於IPO時的估值區間預測。"}
 {"strategy": "trend", "trend_id": "巴勒斯坦媒体巴勒斯坦议会选举将于11月28日举行", "trend_title": "巴勒斯坦媒体：巴勒斯坦议会选举将于11月28日举行", "market_title": "Israel x Hamas Ceasefire Phase II by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "欧洲央行行长拉加德愿意就西班牙提出的欧盟联合借款方案展开讨论强调数字欧元不会取代现金相关谈判目前仍在推进中", "trend_title": "欧洲央行行长拉加德：愿意就西班牙提出的欧盟联合借款方案展开讨论，强调数字欧元不会取代现金。相关谈判目前仍在推进中。", "market_title": "", "reason": "LLM 判定不下注：话题涉及欧洲央行政策讨论（欧盟联合借款、数字欧元），属于欧元区宏观经济范畴。候选市场均聚焦于德国和罗马尼亚的选举政治，与"}
