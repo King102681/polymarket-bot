@@ -2923,3 +2923,7 @@
 {"strategy": "trend", "trend_id": "媒体巴勒斯坦议会选举将于11月28日举行", "trend_title": "媒体：巴勒斯坦议会选举将于11月28日举行", "market_title": "", "reason": "LLM 判定不下注：巴勒斯坦议会选举将于11月28日举行是一个政治程序事件，与以色列-哈马斯停火谈判的政治进展方向不同。虽然选举可能在长期影"}
 {"strategy": "trend", "trend_id": "斯洛伐克总统乌克兰未必能最终加入欧盟", "trend_title": "斯洛伐克总统：乌克兰未必能最终加入欧盟", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及斯洛伐克總統對烏克蘭加入歐盟的評論，這是歐洲政治與國際關係議題。候選市場均為美國國內政治、地緣政治熱點詞彙的"}
 {"strategy": "trend", "trend_id": "欧洲央行行长拉加德欧盟各国政府必须采取行动以发展经济", "trend_title": "欧洲央行行长拉加德：欧盟各国政府必须采取行动以发展经济。", "market_title": "", "reason": "LLM 判定不下注：歐洲央行行長拉加德的言論是宏觀經濟政策呼籲，主要涉及歐盟財政刺激和經濟發展。所有候選市場均聚焦於具體的政治選舉結果（羅馬"}
+{"strategy": "trend", "trend_id": "以色列防长如有需要以色列准备恢复对伊朗军事行动", "trend_title": "以色列防长：如有需要，以色列准备恢复对伊朗军事行动", "market_title": "", "reason": "LLM 判定不下注：該話題涉及以色列與伊朗軍事衝突的可能性升級，而候選市場均專注於以色列與哈馬斯的停火協議時程。兩者不存在直接對應關係。伊朗"}
+{"strategy": "trend", "trend_id": "usexpandsiranstrikesiranhittingfishingpiersnearnuclearplant", "trend_title": "US expands Iran strikes Iran hitting  fishing piers near nuclear plant", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "chatgptwork", "trend_title": "ChatGPT Work", "market_title": "", "reason": "LLM 判定不下注：ChatGPT Work 是產品功能更新，屬於OpenAI營運層面的新聞，但所有候選市場都聚焦於IPO時的估值區間預測。"}
+{"strategy": "trend", "trend_id": "巴勒斯坦媒体巴勒斯坦议会选举将于11月28日举行", "trend_title": "巴勒斯坦媒体：巴勒斯坦议会选举将于11月28日举行", "market_title": "Israel x Hamas Ceasefire Phase II by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
