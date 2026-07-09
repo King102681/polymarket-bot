@@ -2959,3 +2959,4 @@
 {"strategy": "trend", "trend_id": "俄外交部乌军蓄意猎杀客运巴士和班车", "trend_title": "俄外交部：乌军蓄意“猎杀”客运巴士和班车", "market_title": "", "reason": "LLM 判定不下注：該熱門話題涉及俄烏衝突，候選市場均為籠統的單詞，無一與該話題直接相關。"}
 {"strategy": "trend", "trend_id": "waitingformosesafricassonsinrussiaswar", "trend_title": "Waiting for Moses: Africa’s sons in Russia’s war", "market_title": "", "reason": "LLM 判定不下注：該話題關於非洲人在俄烏戰爭中的角色，涉及國際衝突與移民議題。候選市場皆為美國政治機構（Senate/House）、地緣政"}
 {"strategy": "trend", "trend_id": "ukrainestrikesrussianshipsnearcrimeaescalatingattacksonfuelsupplies", "trend_title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies", "market_title": "", "reason": "LLM 判定不下注：烏克蘭攻擊俄羅斯黑海艦隊的話題與五個候選市場都沒有直接對應關係。這些市場聚焦於美國參議院/眾議院、荷莫茲海峽、中國、聯準"}
+{"strategy": "trend", "trend_id": "芯片股领涨提振美股油价下跌令市场暂时搁置地缘风险黄金加密货币反弹", "trend_title": "芯片股领涨提振美股，油价下跌令市场暂时搁置地缘风险，黄金加密货币反弹", "market_title": "", "reason": "LLM 判定不下注：熱門話題描述的是當前市場動態（芯片股領漲、油價下跌、黃金加密反彈），主要反映即期資產配置情緒，並非預測性事件。候選市場["}
