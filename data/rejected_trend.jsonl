@@ -2939,3 +2939,4 @@
 {"strategy": "trend", "trend_id": "openaigpt56现已成为微软365copilot的首选模型", "trend_title": "OpenAI：GPT‑5.6现已成为微软365 Copilot的首选模型。", "market_title": "Will the next model released by OpenAI debut at a score of at least 1450?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "brusselswantsactionovertrumpinfantinoredcardcontroversy", "trend_title": "Brussels wants action over Trump-Infantino red card controversy", "market_title": "", "reason": "LLM 判定不下注：話題討論Brussels對Trump-Infantino紅牌爭議的反應，涉及足球爭議和外交回應，與任何提供的市場都不相關"}
 {"strategy": "trend", "trend_id": "俄国防部防空部队在12小时内击落152架乌克兰无人机", "trend_title": "俄国防部：防空部队在12小时内击落152架乌克兰无人机", "market_title": "", "reason": "LLM 判定不下注：俄罗斯防空部队击落乌克兰无人机的话题与候选市场无直接对应关系。这些市场聚焦美国参议院、霍尔木兹海峡、美国众议院、中国和美"}
+{"strategy": "trend", "trend_id": "美国白宫商务部长建议目前不启动232条款加征关税br", "trend_title": "美国白宫：商务部长建议目前不启动232条款加征关税。<br/>", "market_title": "US x China tariff agreement by December 31?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
