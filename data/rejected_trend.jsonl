@@ -2917,3 +2917,6 @@
 {"strategy": "trend", "trend_id": "乌克兰总统泽连斯基乌克兰将在未来几天内从美国获得pac3拦截器", "trend_title": "乌克兰总统泽连斯基：乌克兰将在未来几天内从美国获得PAC-3拦截器。", "market_title": "", "reason": "LLM 判定不下注：話題涉及烏克蘭軍事援助（PAC-3攔截器），但候選市場僅涵蓋美國政治機構（Senate/House）、地緣政治地點（Ho"}
 {"strategy": "trend", "trend_id": "willnatogetinvolvedinsecuringstraitofhormuz", "trend_title": "Will NATO get involved in securing Strait of Hormuz?", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及NATO是否介入霍爾木茲海峽安全，但候選市場清一色聚焦在『海峽交通何時恢復正常』或『伊朗收費』，沒有任何市場"}
 {"strategy": "trend", "trend_id": "乌克兰总统泽连斯基与美国总统特朗普详细讨论了爱国者导弹生产的许可证问题", "trend_title": "乌克兰总统泽连斯基：与美国总统特朗普详细讨论了爱国者导弹生产的许可证问题。", "market_title": "", "reason": "LLM 判定不下注：話題核心是烏克蘭尋求美國援助(愛國者導彈生產許可)，涉及烏美軍事合作。候選市場全焦點在特朗普個人訪問行程，與該話題無直接"}
+{"strategy": "trend", "trend_id": "乌克兰总统泽连斯基盟友将在不久的未来于法国会议上讨论反弹道导弹合作事宜", "trend_title": "乌克兰总统泽连斯基：盟友将在不久的未来于法国会议上讨论反弹道导弹合作事宜。", "market_title": "", "reason": "LLM 判定不下注：此話題與烏克蘭總統關於反彈道導彈合作的討論有關，與美國國會選舉、政府關閉或國會股票交易禁令的候選市場無關。"}
+{"strategy": "trend", "trend_id": "消息人士阿联酋计划将石油产量较伊朗冲突前水平提高60", "trend_title": "消息人士：阿联酋计划将石油产量较伊朗冲突前水平提高60%", "market_title": "", "reason": "LLM 判定不下注：該話題報導阿聯酋計劃增加石油產量60%（相對伊朗衝突前水平），反映的是區域能源戰略調整，而非核協議談判進展的新信號。五個"}
+{"strategy": "trend", "trend_id": "gpt56", "trend_title": "GPT-5.6", "market_title": "", "reason": "LLM 判定不下注：GPT-5.6 是技術產品發布/進展的消息，與 OpenAI IPO 上市時間及上市時估值無直接因果關係。產品迭代本身已"}
