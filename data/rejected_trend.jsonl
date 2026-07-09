@@ -2881,3 +2881,5 @@
 {"strategy": "trend", "trend_id": "欧盟最快今夏推出青少年社媒限制令", "trend_title": "欧盟最快今夏推出青少年社媒限制令", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "战火再起霍尔木兹海峡交通几近停滞", "trend_title": "战火再起 霍尔木兹海峡交通几近停滞", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
 {"strategy": "trend", "trend_id": "媒体美国空袭伊朗境内中俄使用的铁路桥", "trend_title": "媒体：美国空袭伊朗境内中俄使用的铁路桥", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
+{"strategy": "trend", "trend_id": "台湾政治民调公信力持续崩坏", "trend_title": "台湾政治民调公信力持续崩坏", "market_title": "", "reason": "LLM 判定不下注：該熱門話題討論的是台灣政治民調的公信力問題，與所有候選市場（主要關於中國是否入侵台灣或與遊戲發布時間相關）的預測目標均無"}
+{"strategy": "trend", "trend_id": "美油企预期从美伊战争获取暴利或惹恼特朗普", "trend_title": "美油企预期从美伊战争获取暴利 或惹恼特朗普", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
