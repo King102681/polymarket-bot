@@ -2897,3 +2897,4 @@
 {"strategy": "trend", "trend_id": "trafficthroughstraitofhormuzfallssteeplyafternewusiranstrikes", "trend_title": "Traffic through Strait of Hormuz falls steeply after new US-Iran strikes", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "特朗普宣布美伊停火终结美军连续空袭伊朗", "trend_title": "特朗普宣布美伊停火终结 美军连续空袭伊朗", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及美伊軍事衝突和停火，但所有候選市場均為特朗普個人訪問地點相關問題，與美伊軍事關係無直接對應關係。這些市場不涉"}
 {"strategy": "trend", "trend_id": "以色列国防部长已准备好对伊朗发动攻击以消除威胁", "trend_title": "以色列国防部长：已准备好对伊朗发动攻击以消除威胁。", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及以色列對伊朗的潛在軍事行動，但所有候選市場都聚焦於以色列與哈馬斯的停火協議。這些市場完全不同的對手方（伊朗 "}
+{"strategy": "trend", "trend_id": "俄常驻欧安组织代表欧盟谈和平却巨资军援言行不一", "trend_title": "俄常驻欧安组织代表：欧盟谈和平却巨资军援，言行不一", "market_title": "", "reason": "LLM 判定不下注：俄罗斯对欧盟军援乌克兰的批评评论，与候选市场均无直接对应关系。候选市场涉及罗马尼亚总理任免期限与德国2026年州选举，与"}
