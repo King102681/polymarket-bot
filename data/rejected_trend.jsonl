@@ -2866,3 +2866,4 @@
 {"strategy": "trend", "trend_id": "波兰前防长应抵制乌克兰入盟谈判", "trend_title": "波兰前防长：应抵制乌克兰入盟谈判", "market_title": "", "reason": "LLM API 失敗（api_error:HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later）"}
 {"strategy": "trend", "trend_id": "俄国防部俄军在红利曼消灭乌军分散兵力的任务进入收尾阶段", "trend_title": "俄国防部：俄军在红利曼消灭乌军分散兵力的任务进入收尾阶段", "market_title": "", "reason": "LLM 判定不下注：該熱門話題關於俄烏戰爭中的紅利曼戰役，與候選市場中的標題（如 Hormuz, Senate, House, China,"}
 {"strategy": "trend", "trend_id": "pythieknowifchatgptrecommendsyou", "trend_title": "Pythie -  Know if ChatGPT recommends you", "market_title": "", "reason": "信心 0.40 < 0.45：話題關於 ChatGPT 的推薦功能，與 OpenAI 是否會推出手機等硬體產品"}
+{"strategy": "trend", "trend_id": "台民进党呼吁政府严查矢板明夫遇袭案", "trend_title": "台民进党呼吁政府严查矢板明夫遇袭案", "market_title": "", "reason": "LLM API 失敗（api_error:429 rate limited）"}
