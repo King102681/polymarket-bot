@@ -2953,3 +2953,5 @@
 {"strategy": "trend", "trend_id": "伊朗政府伊朗南部科纳拉克市的海军区域遭到打击", "trend_title": "伊朗政府：伊朗南部科纳拉克市的海军区域遭到打击", "market_title": "", "reason": "LLM 判定不下注：此熱門話題指出伊朗海軍區域遭到打擊，但所有候選市場都圍繞著美伊核協議的達成時間。兩者之間沒有直接關聯，無法判斷此事件對核"}
 {"strategy": "trend", "trend_id": "俄罗斯对联合国人工智能治理全球对话启动表示欢迎", "trend_title": "俄罗斯对联合国人工智能治理全球对话启动表示欢迎", "market_title": "", "reason": "LLM 判定不下注：話題核心是俄羅斯對聯合國AI治理對話的政策立場，不涉及美國參議院、霍爾木茲海峽、美眾議院、中國，或儲備相關議題。候選市場"}
 {"strategy": "trend", "trend_id": "usandirantradeattacksaskhameneiisburied", "trend_title": "US and Iran trade attacks as Khamenei is buried", "market_title": "", "reason": "LLM 判定不下注：此話題討論的是美伊之間的衝突升級，與核協議的進展沒有直接關聯。候選市場均為核協議相關，因此該話題與所有市場均無關聯。"}
+{"strategy": "trend", "trend_id": "openai高管fidjisimo将卸任", "trend_title": "OpenAI高管Fidji Simo将卸任", "market_title": "", "reason": "LLM 判定不下注：高管卸任（Fidji Simo）是人事變動，可能影響組織穩定性和決策速度，但與IPO時間表沒有直接因果關係。市場已經對O"}
+{"strategy": "trend", "trend_id": "以总理不允许伊朗拥核拟大幅追加国防预算", "trend_title": "以总理：“不允许”伊朗拥核 拟大幅追加国防预算", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
