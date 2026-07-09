@@ -2929,3 +2929,5 @@
 {"strategy": "trend", "trend_id": "巴勒斯坦媒体巴勒斯坦议会选举将于11月28日举行", "trend_title": "巴勒斯坦媒体：巴勒斯坦议会选举将于11月28日举行", "market_title": "Israel x Hamas Ceasefire Phase II by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "欧洲央行行长拉加德愿意就西班牙提出的欧盟联合借款方案展开讨论强调数字欧元不会取代现金相关谈判目前仍在推进中", "trend_title": "欧洲央行行长拉加德：愿意就西班牙提出的欧盟联合借款方案展开讨论，强调数字欧元不会取代现金。相关谈判目前仍在推进中。", "market_title": "", "reason": "LLM 判定不下注：话题涉及欧洲央行政策讨论（欧盟联合借款、数字欧元），属于欧元区宏观经济范畴。候选市场均聚焦于德国和罗马尼亚的选举政治，与"}
 {"strategy": "trend", "trend_id": "德国联邦议院投票反对向乌克兰提供新的金牛座和爱国者导弹", "trend_title": "德国联邦议院投票反对向乌克兰提供新的“金牛座”和“爱国者”导弹", "market_title": "", "reason": "LLM 判定不下注：德国联邦议院投票反对向乌克兰提供导弹的新闻与提供的候选市场均无直接对应关系。候选市场主要关注美国Senate/House"}
+{"strategy": "trend", "trend_id": "美联储主席沃什组建外部专家团队审查货币政策框架", "trend_title": "美联储主席沃什组建外部专家团队，审查货币政策框架", "market_title": "", "reason": "LLM 判定不下注：沃什组建外部专家团队审查货币政策框架是制度性、长期性举措，反映的是对政策框架本身的评估，而非对具体近期利率决议的直接信号"}
+{"strategy": "trend", "trend_id": "沙特阿拉伯和加拿大联合声明谴责伊朗对霍尔木兹海峡商船的攻击", "trend_title": "沙特阿拉伯和加拿大联合声明：谴责伊朗对霍尔木兹海峡商船的攻击。", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
