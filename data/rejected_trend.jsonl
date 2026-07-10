@@ -3034,3 +3034,5 @@
 {"strategy": "trend", "trend_id": "四川黄金预计上半年净利润39亿元45亿元同比增长86941157", "trend_title": "四川黄金：预计上半年净利润3.9亿元—4.5亿元 同比增长86.94%—115.7%", "market_title": "", "reason": "LLM 判定不下注：熱門話題是四川黃金（上市公司）上半年盈利預告，反映的是該公司經營狀況改善。候選市場全部為國際現貨黃金（XAUUSD）價格"}
 {"strategy": "trend", "trend_id": "howhamasgovernedgaza", "trend_title": "How Hamas Governed Gaza", "market_title": "", "reason": "LLM 判定不下注：話題『How Hamas Governed Gaza』是歷史/分析性內容，描述Hamas過去的治理方式，不涉及未來停火協"}
 {"strategy": "trend", "trend_id": "ukrainescommanderinchiefpaceofrussianadvancehasmorethanhalved", "trend_title": "Ukraine's commander-in-chief: pace of Russian advance has more than halved", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及烏克蘭戰爭進展（俄軍推進速度下降），與所有候選市場（2028年美國總統選舉）完全無關。沒有任何市場真正對應此"}
+{"strategy": "trend", "trend_id": "美媒斡旋方希望防止美伊局势升级", "trend_title": "美媒：斡旋方希望防止美伊局势升级", "market_title": "", "reason": "信心 0.32 < 0.45：話題顯示斡旋方(可能指歐洲或聯合國等中介)正積極防止美伊升級，暗示談判窗口開啟、"}
+{"strategy": "trend", "trend_id": "俄联邦委员会委员指出特朗普在伊继续战争的风险", "trend_title": "俄联邦委员会委员指出特朗普在伊继续战争的风险", "market_title": "", "reason": "LLM 判定不下注：该热门话题讨论的是特朗普在伊朗继续战争的风险，与所有提供的市场（关于格陵兰、总统任期、SBF赦免、UFO文件解密）均无直"}
