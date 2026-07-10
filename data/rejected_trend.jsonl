@@ -3023,3 +3023,7 @@
 {"strategy": "trend", "trend_id": "朝鲜内阁总理朴泰成抵京开启三天访华行程", "trend_title": "朝鲜内阁总理朴泰成抵京开启三天访华行程", "market_title": "", "reason": "LLM 判定不下注：该话题是关于朝鲜内阁总理朴泰成访问中国，这与任何一个候选市场（如朝鲜是否入侵韩国、是否承认以色列、金正恩是否下台等）都没"}
 {"strategy": "trend", "trend_id": "特朗普下令翻新白宫廊柱", "trend_title": "特朗普下令翻新白宫廊柱", "market_title": "", "reason": "LLM 判定不下注：熱門話題「特朗普下令翻新白宮廊柱」是關於白宮建築維護的例行政務新聞，屬於日常行政工作，不涉及政治決定或重大政策變化。候選"}
 {"strategy": "trend", "trend_id": "eustatesdonotneedconsensustoholdisraelaccountable", "trend_title": "EU states do not need ‘consensus’ to hold Israel accountable", "market_title": "", "reason": "LLM 判定不下注：這條新聞討論的是歐盟國家對以色列採取行動的共識問題，與目前提供的三個關於以哈停火協議時間的市場關聯性不高，因此選擇 -1"}
+{"strategy": "trend", "trend_id": "俄国防部俄空天军使用fab500航空炸弹打击乌军路堤式渡河通道", "trend_title": "俄国防部：俄空天军使用FAB-500航空炸弹打击乌军路堤式渡河通道", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於俄烏戰爭中的軍事行動，但所有候選市場都與此無關，它們關注的是新聞標題中是否會出現特定詞彙，而非具體的"}
+{"strategy": "trend", "trend_id": "伊媒美国打击伊朗致三十艘渔船被毁", "trend_title": "伊媒：美国打击伊朗致三十艘渔船被毁", "market_title": "", "reason": "LLM 判定不下注：此新聞提到美國打擊伊朗導致漁船被毀，與候選市場中關於美伊核協議的到期時間無直接關聯。市場名稱均為核協議，新聞內容卻是軍事"}
+{"strategy": "trend", "trend_id": "trumpgrantskyivpatriotslicenceswhatsnextintherussiaukrainewar", "trend_title": "Trump grants Kyiv Patriots licences: What’s next in the Russia-Ukraine war?", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及Trump政府對烏克蘭軍事援助政策（Patriot防空系統授權），但所有候選市場都與俄烏戰爭、烏克蘭政策無直"}
+{"strategy": "trend", "trend_id": "朝鲜决定在数量和质量上加强核武力", "trend_title": "朝鲜决定在数量和质量上加强核武力", "market_title": "", "reason": "信心 0.35 < 0.45：話題直接涉及朝鮮加強核武力，暗示軍事姿態升級。市場0（朝鮮侵略南韓）最直接相關。"}
