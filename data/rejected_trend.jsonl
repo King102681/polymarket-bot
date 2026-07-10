@@ -2963,3 +2963,4 @@
 {"strategy": "trend", "trend_id": "市场暂时搁置地缘风险油价下跌芯片股再撑美股黄金加密货币反弹", "trend_title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹", "market_title": "", "reason": "LLM 判定不下注：這則熱門話題主要討論的是宏觀經濟和傳統金融市場（油價、芯片股、美股），並提及黃金和加密貨幣的反彈。然而，候選市場都是關於"}
 {"strategy": "trend", "trend_id": "美伊继续交火局势紧张伊朗强调海峡通行须由伊方主导", "trend_title": "美伊继续交火局势紧张 伊朗强调海峡通行须由伊方主导", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "iranwarlivenewattacksoniranasussaystalksstillon", "trend_title": "Iran war live: New attacks on Iran as US says talks still on", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "日本经济大臣木内批发价格上涨反映了近期油价上涨但消费者通胀的涨幅温和", "trend_title": "日本经济大臣木内：批发价格上涨反映了近期油价上涨，但消费者通胀的涨幅温和。", "market_title": "Will monthly inflation increase by 0.1% or less in June?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
