@@ -3090,3 +3090,5 @@
 {"strategy": "trend", "trend_id": "hospitalworkerswoundedinisraelidroneattackongazaskamaladwan", "trend_title": "Hospital workers wounded in Israeli drone attack on Gaza’s Kamal Adwan", "market_title": "", "reason": "LLM 判定不下注：該話題報道加沙醫院遭以色列無人機攻擊導致工作人員傷亡，屬於以巴衝突的戰術層面新聞。雖然與停火相關，但這類單一戰事事件早已"}
 {"strategy": "trend", "trend_id": "howtrumpradicalizedthebelgians", "trend_title": "How Trump radicalized the Belgians", "market_title": "", "reason": "LLM 判定不下注：話題與所有候選市場均無關。"}
 {"strategy": "trend", "trend_id": "美国发布针对伊朗的新制裁措施涉及8名个人和6家企业", "trend_title": "美国发布针对伊朗的新制裁措施，涉及8名个人和6家企业。", "market_title": "", "reason": "LLM 判定不下注：新制裁措施是針對伊朗個人和企業的懲罰性行動，這與核協議談判的方向相反。雖然所有候選市場都與US-Iran核協議相關，但新"}
+{"strategy": "trend", "trend_id": "据伊通社irna伊朗外长阿拉格齐将于周六率团访问阿曼就霍尔木兹海峡问题及双边关系举行会谈", "trend_title": "据伊通社（IRNA）：伊朗外长阿拉格齐将于周六率团访问阿曼，就霍尔木兹海峡问题及双边关系举行会谈。", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "媒体与俄罗斯接壤芬兰地区的居民抱怨熊入侵", "trend_title": "媒体：与俄罗斯接壤芬兰地区的居民抱怨熊入侵", "market_title": "Will \"Border\" be in the headlines this week?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
