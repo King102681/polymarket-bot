@@ -3021,3 +3021,5 @@
 {"strategy": "trend", "trend_id": "degreebutnojobthebattleagainstunemploymentingaza", "trend_title": "Degree but no job: The battle against unemployment in Gaza", "market_title": "", "reason": "LLM 判定不下注：該熱門話題討論的是加薩地區的失業問題，與以哈停火的市場選項關聯性低。無法判斷方向與信心。"}
 {"strategy": "trend", "trend_id": "spacex入纳指首日股价收跌", "trend_title": "SpaceX入纳指首日股价收跌", "market_title": "", "reason": "LLM 判定不下注：話題為SpaceX在納斯達克首日股價收跌，是上市初期的正常波動現象，無新的實質性信息。所有候選市場均與Tesla相關，沒"}
 {"strategy": "trend", "trend_id": "朝鲜内阁总理朴泰成抵京开启三天访华行程", "trend_title": "朝鲜内阁总理朴泰成抵京开启三天访华行程", "market_title": "", "reason": "LLM 判定不下注：该话题是关于朝鲜内阁总理朴泰成访问中国，这与任何一个候选市场（如朝鲜是否入侵韩国、是否承认以色列、金正恩是否下台等）都没"}
+{"strategy": "trend", "trend_id": "特朗普下令翻新白宫廊柱", "trend_title": "特朗普下令翻新白宫廊柱", "market_title": "", "reason": "LLM 判定不下注：熱門話題「特朗普下令翻新白宮廊柱」是關於白宮建築維護的例行政務新聞，屬於日常行政工作，不涉及政治決定或重大政策變化。候選"}
+{"strategy": "trend", "trend_id": "eustatesdonotneedconsensustoholdisraelaccountable", "trend_title": "EU states do not need ‘consensus’ to hold Israel accountable", "market_title": "", "reason": "LLM 判定不下注：這條新聞討論的是歐盟國家對以色列採取行動的共識問題，與目前提供的三個關於以哈停火協議時間的市場關聯性不高，因此選擇 -1"}
