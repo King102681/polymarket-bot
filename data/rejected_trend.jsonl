@@ -3027,3 +3027,5 @@
 {"strategy": "trend", "trend_id": "伊媒美国打击伊朗致三十艘渔船被毁", "trend_title": "伊媒：美国打击伊朗致三十艘渔船被毁", "market_title": "", "reason": "LLM 判定不下注：此新聞提到美國打擊伊朗導致漁船被毀，與候選市場中關於美伊核協議的到期時間無直接關聯。市場名稱均為核協議，新聞內容卻是軍事"}
 {"strategy": "trend", "trend_id": "trumpgrantskyivpatriotslicenceswhatsnextintherussiaukrainewar", "trend_title": "Trump grants Kyiv Patriots licences: What’s next in the Russia-Ukraine war?", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及Trump政府對烏克蘭軍事援助政策（Patriot防空系統授權），但所有候選市場都與俄烏戰爭、烏克蘭政策無直"}
 {"strategy": "trend", "trend_id": "朝鲜决定在数量和质量上加强核武力", "trend_title": "朝鲜决定在数量和质量上加强核武力", "market_title": "", "reason": "信心 0.35 < 0.45：話題直接涉及朝鮮加強核武力，暗示軍事姿態升級。市場0（朝鮮侵略南韓）最直接相關。"}
+{"strategy": "trend", "trend_id": "朝鲜内阁总理朴泰成抵京开始三天访华行程", "trend_title": "朝鲜内阁总理朴泰成抵京开始三天访华行程", "market_title": "", "reason": "LLM 判定不下注：朝鲜内阁总理访华是常规外交活动，反映朝中关系状态。虽然可能预示朝鲜寻求外交支持，但这类访问通常不是侵略信号。市场对朝鲜侵"}
+{"strategy": "trend", "trend_id": "gpt56全面发布同步发布新chatgpt智能体奥特曼称和美政府沟通后做出许多调整", "trend_title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”", "market_title": "", "reason": "信心 0.15 < 0.45：話題聲稱GPT-5.6已全面發布，如屬實則支持市場0（9月30日前新fronti"}
