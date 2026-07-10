@@ -3099,3 +3099,4 @@
 {"strategy": "trend", "trend_id": "卡塔尔埃米尔办公室卡塔尔埃米尔与巴基斯坦总理讨论地区局势聚焦美伊外交谈判", "trend_title": "卡塔尔埃米尔办公室：卡塔尔埃米尔与巴基斯坦总理讨论地区局势，聚焦美伊外交谈判。", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "中国副总理乘冲锋舟看望广西洪灾受困民众称习近平非常关心挂念", "trend_title": "中国副总理乘冲锋舟看望广西洪灾受困民众 称习近平非常关心挂念", "market_title": "", "reason": "LLM 判定不下注：话题涉及中国副总理视察洪灾现场并传达习近平关切，这是常规的灾难应对新闻。候选市场主要涉及军事冲突、访美、政变、离婚、党内"}
 {"strategy": "trend", "trend_id": "whyarepoliticiansandsanctionedstatesembracingcrypto", "trend_title": "Why are politicians and sanctioned states embracing crypto?", "market_title": "Trump eliminates capital gains tax on crypto before 2027?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美伊同意继续谈判但特朗普称停火已结束", "trend_title": "美伊同意继续谈判但特朗普称停火已结束", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及美伊談判動態和特朗普關於停火的言論，反映中東地緣政治局勢。候選市場主要聚焦特朗普任期、格陵蘭收購、SBF赦免"}
