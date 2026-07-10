@@ -3105,3 +3105,5 @@
 {"strategy": "trend", "trend_id": "伊朗外交部发言人巴盖伊卡塔尔代表团访问伊朗马什哈德伊方已向其传达观点和立场", "trend_title": "伊朗外交部发言人巴盖伊：卡塔尔代表团访问伊朗马什哈德，伊方已向其传达观点和立场。", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "lebanonhistoricsitesdestroyedbyisraelistrikes", "trend_title": "Lebanon historic sites destroyed by Israeli strikes", "market_title": "", "reason": "LLM 判定不下注：此熱門話題討論的是以色列對黎巴嫩歷史古蹟的襲擊，與以色列和哈馬斯停火談判的市場毫無關聯。因此，無法從中獲取任何市場預測的"}
 {"strategy": "trend", "trend_id": "苹果起诉openai涉嫌窃取商业机密", "trend_title": "苹果起诉OpenAI涉嫌窃取商业机密", "market_title": "Will OpenAI not IPO by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "据axios美方要求伊朗最迟于周六前公开表示不再袭击霍尔木兹海峡", "trend_title": "据Axios：美方要求伊朗最迟于周六前公开表示不再袭击霍尔木兹海峡。", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美媒伊朗称霍尔木兹袭船系内部失误所致", "trend_title": "美媒：伊朗称霍尔木兹袭船系“内部失误”所致", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
