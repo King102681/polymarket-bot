@@ -3019,3 +3019,4 @@
 {"strategy": "trend", "trend_id": "国际能源署全球石油需求的复苏正在进行中", "trend_title": "国际能源署：全球石油需求的复苏正在进行中。", "market_title": "Will WTI Crude Oil (WTI) hit (HIGH) $100 in July?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "韩国关注朝鲜派高规格代表团赴华纪念朝中签订友好条约", "trend_title": "韩国关注朝鲜派高规格代表团赴华纪念朝中签订友好条约", "market_title": "", "reason": "LLM 判定不下注：此新聞關於朝鮮與中國簽訂條約的紀念活動，並無直接關聯任何一個候選市場。候選市場多涉及朝鮮或阿富汗與以色列的外交關係，或領"}
 {"strategy": "trend", "trend_id": "degreebutnojobthebattleagainstunemploymentingaza", "trend_title": "Degree but no job: The battle against unemployment in Gaza", "market_title": "", "reason": "LLM 判定不下注：該熱門話題討論的是加薩地區的失業問題，與以哈停火的市場選項關聯性低。無法判斷方向與信心。"}
+{"strategy": "trend", "trend_id": "spacex入纳指首日股价收跌", "trend_title": "SpaceX入纳指首日股价收跌", "market_title": "", "reason": "LLM 判定不下注：話題為SpaceX在納斯達克首日股價收跌，是上市初期的正常波動現象，無新的實質性信息。所有候選市場均與Tesla相關，沒"}
