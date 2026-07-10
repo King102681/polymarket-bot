@@ -59,6 +59,11 @@ STRATEGIES: dict[str, StrategyConfig] = {
         # "other" = 地緣/宏觀兜底類；"politics" = 選舉類
         # classify() 對部分市場回傳 "politics"（如加州初選），這裡都收
         allowed_categories={"other", "politics"},
+        # 2026-07-11 門檻重掃（data/backtest/threshold_sweep_report.md）：沿用全域
+        # follow_ratio=0.001 時，min_follow $1 ⇒ 鯨魚單需 ≥$1000 才過最後一關，
+        # 28%（7/25）合格訊號（$118-624）死在這個隱藏門檻。0.01 讓 $100 鯨魚單→跟 $1。
+        follow_ratio=0.01,
+        min_follow_usdc=1.0,
         enabled=True,
     ),
 
