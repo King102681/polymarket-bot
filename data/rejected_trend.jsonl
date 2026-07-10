@@ -2970,3 +2970,5 @@
 {"strategy": "trend", "trend_id": "日本财务大臣片山皋月预计利率将逐步上升因为政府正在积极实施财政政策", "trend_title": "日本财务大臣片山皋月：预计利率将逐步上升，因为政府正在积极实施财政政策。", "market_title": "", "reason": "LLM 判定不下注：话题涉及日本财务大臣关于日本利率政策的声明，与所有候选市场（均关于美联储2026年7月后的利率决议）无直接对应关系。日本"}
 {"strategy": "trend", "trend_id": "俄外交部泽连斯基核武要挟北约遭无视", "trend_title": "俄外交部：泽连斯基核武要挟北约遭无视", "market_title": "", "reason": "LLM 判定不下注：該話題涉及俄烏戰爭、澤連斯基核武言論與北約關係，與提供的候選市場（美國參眾議院、中國、美聯儲、韓國等）無實質對應。沒有任"}
 {"strategy": "trend", "trend_id": "britainslikelypmsayswillworktostopthesufferingingaza", "trend_title": "Britain’s likely PM says will work to ‘stop the suffering’ in Gaza", "market_title": "Israel x Hamas Ceasefire Phase II by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美军暂停对伊朗的打击但必要时准备重启", "trend_title": "美军暂停对伊朗的打击，但必要时准备重启", "market_title": "", "reason": "信心 0.42 < 0.45：美军暂停对伊朗打击释放了一定的缓和信号，表明美国保留了谈判空间而非全面升级冲突。"}
+{"strategy": "trend", "trend_id": "朝媒朝鲜决定在质量和数量上加强核力量", "trend_title": "朝媒：朝鲜决定在质量和数量上加强核力量", "market_title": "", "reason": "信心 0.28 < 0.45：朝媒宣布加强核力量在质量和数量上，暗示军事对抗升级的可能性。这支持北约侵略的风险"}
