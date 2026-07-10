@@ -3013,3 +3013,6 @@
 {"strategy": "trend", "trend_id": "上海黄金交易所黄金td7月10日周五收盘上涨065报8968元克br上海黄金交易所白银td7月10日周五收盘上涨275报146240元千克", "trend_title": "上海黄金交易所黄金T+D 7月10日（周五）收盘上涨0.65%报896.8元/克；<br/>上海黄金交易所白银T+D 7月10日（周五）收盘上涨2.75%报14624.0元/千克。", "market_title": "", "reason": "LLM 判定不下注：這則新聞是關於上海黃金交易所的黃金和白銀T+D收盤價，而不是國際現貨黃金價格。候選市場所有選項都與XAUUSD（國際現貨"}
 {"strategy": "trend", "trend_id": "日元正经受严峻考验高市政策或使日元成为牺牲品", "trend_title": "日元正经受严峻考验 高市政策或使日元成为牺牲品", "market_title": "", "reason": "LLM 判定不下注：話題是關於日元的匯率問題，與日股是否會在2026年解散國會無關。因此，市場索引應為-1。"}
 {"strategy": "trend", "trend_id": "theusisbuildinganewpressurearchitectureagainstiran", "trend_title": "The US is building a new pressure architecture against Iran", "market_title": "", "reason": "LLM 判定不下注：該熱門話題提及美國正在建立新的對伊朗施壓架構，但所有候選市場都集中在『美伊最終核協議』的達成時間。話題本身並未提供關於核"}
+{"strategy": "trend", "trend_id": "美媒以色列拟加入美国对伊朗发动新打击", "trend_title": "美媒：以色列拟加入美国对伊朗发动新打击", "market_title": "", "reason": "LLM 判定不下注：該話題是關於以色列可能對伊朗發動新打擊，這與當前列出的關於以色列與哈瑪斯之間停火協議的市場完全無關。因此，無法在提供的市"}
+{"strategy": "trend", "trend_id": "teslasend", "trend_title": "TeslaSend", "market_title": "Will Tesla launch robotaxis in California by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "欧媒欧盟新一轮对俄制裁或不能通过", "trend_title": "欧媒：欧盟新一轮对俄制裁或不能通过", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於歐盟對俄羅斯的新一輪制裁，並非關於德國或羅馬尼亞的選舉。"}
