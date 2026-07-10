@@ -3088,3 +3088,4 @@
 {"strategy": "trend", "trend_id": "巴基斯坦总理同意推进伊朗总统佩泽希齐扬近期访巴期间确定的双边合作议程", "trend_title": "巴基斯坦总理：同意推进伊朗总统佩泽希齐扬近期访巴期间确定的双边合作议程。", "market_title": "", "reason": "信心 0.32 < 0.35：巴基斯坦总理声明支持伊朗-巴基斯坦双边合作，反映伊朗在中东外交活动增加，可能暗示"}
 {"strategy": "trend", "trend_id": "美伊同意继续技术谈判但停火协议已破裂", "trend_title": "美伊同意继续技术谈判但停火协议已破裂", "market_title": "", "reason": "LLM 判定不下注：雖然話題提到美伊兩國，但其核心是『技術談判』與『停火協議破裂』。這與現有的『美伊最終核協議』市場關聯性不大，無法判斷市場"}
 {"strategy": "trend", "trend_id": "hospitalworkerswoundedinisraelidroneattackongazaskamaladwan", "trend_title": "Hospital workers wounded in Israeli drone attack on Gaza’s Kamal Adwan", "market_title": "", "reason": "LLM 判定不下注：該話題報道加沙醫院遭以色列無人機攻擊導致工作人員傷亡，屬於以巴衝突的戰術層面新聞。雖然與停火相關，但這類單一戰事事件早已"}
+{"strategy": "trend", "trend_id": "howtrumpradicalizedthebelgians", "trend_title": "How Trump radicalized the Belgians", "market_title": "", "reason": "LLM 判定不下注：話題與所有候選市場均無關。"}
