@@ -2977,3 +2977,6 @@
 {"strategy": "trend", "trend_id": "现货黄金回落至4110美元盎司下方日内跌034", "trend_title": "现货黄金回落至4110美元/盎司下方，日内跌0.34%。", "market_title": "", "reason": "LLM 判定不下注：话题指出黄金价格下跌，但跌幅不大，且并未提供足以影响市场对未来价格预测的突发性或重大新闻。所有候选市场都与此下跌信息关联"}
 {"strategy": "trend", "trend_id": "韩国最高法院终审判尹锡悦七年戒严首宗案件定谳", "trend_title": "韩国最高法院终审判尹锡悦七年，戒严首宗案件定谳", "market_title": "", "reason": "LLM 判定不下注：熱門話題討論的是韓國最高法院對尹錫悅的終審判決（7年徒刑），與戒嚴事件相關。候選市場[0]是美國堪薩斯州最高法院選舉修正"}
 {"strategy": "trend", "trend_id": "美伊在霍尔木兹海峡连续两日交火致14死78伤", "trend_title": "美伊在霍尔木兹海峡连续两日交火致14死78伤", "market_title": "", "reason": "LLM 判定不下注：該話題描述的是美伊在霍爾木茲海峽的軍事衝突，而所有候選市場都與美伊核協議的達成時間有關，兩者並無直接關聯性。因此，選擇 "}
+{"strategy": "trend", "trend_id": "巴勒斯坦11月28日举行立法委员会选举", "trend_title": "巴勒斯坦11月28日举行立法委员会选举", "market_title": "", "reason": "LLM 判定不下注：巴勒斯坦11月28日举行立法委员会选举是内部政治事件，与以色列-哈马斯停火协议的具体进展无直接因果关系。三个候选市场均聚"}
+{"strategy": "trend", "trend_id": "gazamournsaidworkerkilledbyisraelwhohelpedthemseetheworldcup", "trend_title": "Gaza mourns aid worker killed by Israel who helped them see the World Cup", "market_title": "", "reason": "信心 0.35 < 0.45：新聞報導以色列殺害援助人員事件，加劇Gaza地區對以色列的憤怒情緒，增加衝突升級"}
+{"strategy": "trend", "trend_id": "美伊连日交火美官员称技术性谈判仍持续", "trend_title": "美伊连日交火 美官员称技术性谈判仍持续", "market_title": "", "reason": "LLM 判定不下注：此話題關於美伊間的『技術性談判』，但候選市場皆為『最終核協議』，且有明確的截止日期。話題並未提供任何關於達成最終協議的進"}
