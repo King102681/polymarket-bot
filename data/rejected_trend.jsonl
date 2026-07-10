@@ -3089,3 +3089,4 @@
 {"strategy": "trend", "trend_id": "美伊同意继续技术谈判但停火协议已破裂", "trend_title": "美伊同意继续技术谈判但停火协议已破裂", "market_title": "", "reason": "LLM 判定不下注：雖然話題提到美伊兩國，但其核心是『技術談判』與『停火協議破裂』。這與現有的『美伊最終核協議』市場關聯性不大，無法判斷市場"}
 {"strategy": "trend", "trend_id": "hospitalworkerswoundedinisraelidroneattackongazaskamaladwan", "trend_title": "Hospital workers wounded in Israeli drone attack on Gaza’s Kamal Adwan", "market_title": "", "reason": "LLM 判定不下注：該話題報道加沙醫院遭以色列無人機攻擊導致工作人員傷亡，屬於以巴衝突的戰術層面新聞。雖然與停火相關，但這類單一戰事事件早已"}
 {"strategy": "trend", "trend_id": "howtrumpradicalizedthebelgians", "trend_title": "How Trump radicalized the Belgians", "market_title": "", "reason": "LLM 判定不下注：話題與所有候選市場均無關。"}
+{"strategy": "trend", "trend_id": "美国发布针对伊朗的新制裁措施涉及8名个人和6家企业", "trend_title": "美国发布针对伊朗的新制裁措施，涉及8名个人和6家企业。", "market_title": "", "reason": "LLM 判定不下注：新制裁措施是針對伊朗個人和企業的懲罰性行動，這與核協議談判的方向相反。雖然所有候選市場都與US-Iran核協議相關，但新"}
