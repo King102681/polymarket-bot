@@ -2972,3 +2972,5 @@
 {"strategy": "trend", "trend_id": "britainslikelypmsayswillworktostopthesufferingingaza", "trend_title": "Britain’s likely PM says will work to ‘stop the suffering’ in Gaza", "market_title": "Israel x Hamas Ceasefire Phase II by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美军暂停对伊朗的打击但必要时准备重启", "trend_title": "美军暂停对伊朗的打击，但必要时准备重启", "market_title": "", "reason": "信心 0.42 < 0.45：美军暂停对伊朗打击释放了一定的缓和信号，表明美国保留了谈判空间而非全面升级冲突。"}
 {"strategy": "trend", "trend_id": "朝媒朝鲜决定在质量和数量上加强核力量", "trend_title": "朝媒：朝鲜决定在质量和数量上加强核力量", "market_title": "", "reason": "信心 0.28 < 0.45：朝媒宣布加强核力量在质量和数量上，暗示军事对抗升级的可能性。这支持北约侵略的风险"}
+{"strategy": "trend", "trend_id": "外媒美国法官下令特朗普向女作家卡罗尔赔偿500万美元", "trend_title": "外媒：美国法官下令特朗普向女作家卡罗尔赔偿500万美元", "market_title": "", "reason": "LLM 判定不下注：热门话题讨论的是特朗普被法院判赔500万美元，涉及民事诉讼和个人法律责任。所有候选市场都涉及特朗普的地缘政治行动（格陵兰"}
+{"strategy": "trend", "trend_id": "cantheussupremecourtstayindependent", "trend_title": "Can the US Supreme Court stay independent?", "market_title": "", "reason": "LLM 判定不下注：熱門話題討論美國聯邦最高法院獨立性，涉及聯邦層級的憲法性議題。候選市場[0]是堪薩斯州最高法院選舉修正案，屬於州層級議題"}
