@@ -2980,3 +2980,5 @@
 {"strategy": "trend", "trend_id": "巴勒斯坦11月28日举行立法委员会选举", "trend_title": "巴勒斯坦11月28日举行立法委员会选举", "market_title": "", "reason": "LLM 判定不下注：巴勒斯坦11月28日举行立法委员会选举是内部政治事件，与以色列-哈马斯停火协议的具体进展无直接因果关系。三个候选市场均聚"}
 {"strategy": "trend", "trend_id": "gazamournsaidworkerkilledbyisraelwhohelpedthemseetheworldcup", "trend_title": "Gaza mourns aid worker killed by Israel who helped them see the World Cup", "market_title": "", "reason": "信心 0.35 < 0.45：新聞報導以色列殺害援助人員事件，加劇Gaza地區對以色列的憤怒情緒，增加衝突升級"}
 {"strategy": "trend", "trend_id": "美伊连日交火美官员称技术性谈判仍持续", "trend_title": "美伊连日交火 美官员称技术性谈判仍持续", "market_title": "", "reason": "LLM 判定不下注：此話題關於美伊間的『技術性談判』，但候選市場皆為『最終核協議』，且有明確的截止日期。話題並未提供任何關於達成最終協議的進"}
+{"strategy": "trend", "trend_id": "开放人工智能是否将成为历史", "trend_title": "开放人工智能是否将成为历史？", "market_title": "", "reason": "LLM 判定不下注：話題「开放人工智能是否将成为历史？」與候選市場「Will [公司名稱] have the best AI model a"}
+{"strategy": "trend", "trend_id": "波黑塞族共和国执政党领导人波黑塞族共和国反对波黑加入北约", "trend_title": "波黑塞族共和国执政党领导人：波黑塞族共和国反对波黑加入北约", "market_title": "", "reason": "LLM 判定不下注：話題涉及波黑塞族共和國反對波黑加入北約，但候選市場皆關於美國、烏克蘭、北約整體或俄烏衝突，與波黑北約申請並無直接對應。波"}
