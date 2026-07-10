@@ -3033,3 +3033,4 @@
 {"strategy": "trend", "trend_id": "俄国防部俄军过去一周对乌克兰军工企业及能源设施实施七次打击", "trend_title": "俄国防部：俄军过去一周对乌克兰军工企业及能源设施实施七次打击", "market_title": "", "reason": "LLM 判定不下注：俄罗斯对乌克兰军工和能源设施的打击属于俄乌战争相关新闻,但候选市场[0-4]全部聚焦于美国国内政治(Border/Sen"}
 {"strategy": "trend", "trend_id": "四川黄金预计上半年净利润39亿元45亿元同比增长86941157", "trend_title": "四川黄金：预计上半年净利润3.9亿元—4.5亿元 同比增长86.94%—115.7%", "market_title": "", "reason": "LLM 判定不下注：熱門話題是四川黃金（上市公司）上半年盈利預告，反映的是該公司經營狀況改善。候選市場全部為國際現貨黃金（XAUUSD）價格"}
 {"strategy": "trend", "trend_id": "howhamasgovernedgaza", "trend_title": "How Hamas Governed Gaza", "market_title": "", "reason": "LLM 判定不下注：話題『How Hamas Governed Gaza』是歷史/分析性內容，描述Hamas過去的治理方式，不涉及未來停火協"}
+{"strategy": "trend", "trend_id": "ukrainescommanderinchiefpaceofrussianadvancehasmorethanhalved", "trend_title": "Ukraine's commander-in-chief: pace of Russian advance has more than halved", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及烏克蘭戰爭進展（俄軍推進速度下降），與所有候選市場（2028年美國總統選舉）完全無關。沒有任何市場真正對應此"}
