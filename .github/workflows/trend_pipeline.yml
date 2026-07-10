@@ -81,9 +81,16 @@ jobs:
             echo "no trend state changes"
           else
             git commit -m "data: trend pipeline state @ $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            pushed=false
             for i in 1 2 3; do
-              git pull --rebase --autostash && git push && break
+              git pull --rebase --autostash && git push && { pushed=true; break; }
               echo "push attempt $i failed, retrying..."
               sleep 5
             done
+            # 同 pipeline.yml 的修復：3 次全失敗要讓 step 真的失敗，不能靜默放行
+            # （2026-07-03~07-10 monitor_state.json/signals.jsonl 就是這樣悄悄凍結 6.6 天）
+            if [ "$pushed" = false ]; then
+              echo "::error::push 重試 3 次全部失敗，state 未能寫回 repo"
+              exit 1
+            fi
           fi

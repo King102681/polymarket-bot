@@ -68,9 +68,18 @@ jobs:
             echo "no state changes"
           else
             git commit -m "data: pipeline state @ $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            pushed=false
             for i in 1 2 3; do
-              git pull --rebase --autostash && git push && break
+              git pull --rebase --autostash && git push && { pushed=true; break; }
               echo "push attempt $i failed, retrying..."
               sleep 5
             done
+            # ⚠️ 2026-07-03~07-10 踩過的坑：迴圈3次全失敗但沒有 exit 1，
+            # 整個 step 靜默回報成功——monitor_state.json/signals.jsonl 因此
+            # 卡了 6.6 天沒真正更新，pipeline 表面一直綠燈，實際上完全沒在
+            # 抓新鯨魚訊號。這裡改成明確失敗，讓下次再發生時 GHA 會直接標紅。
+            if [ "$pushed" = false ]; then
+              echo "::error::push 重試 3 次全部失敗，state 未能寫回 repo"
+              exit 1
+            fi
           fi

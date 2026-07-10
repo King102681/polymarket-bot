@@ -24,6 +24,15 @@ _SIGNALS_PATH = _DATA_DIR / "signals.jsonl"
 # 首次見到某錢包時，從這時間前的交易視為「歷史」不發訊號
 _INITIAL_LOOKBACK_SEC = 6 * 3600
 
+# signals.jsonl 是 append-only log，2026-07-03 曾悄悄長到 100.35MB（GitHub 硬
+# 上限 100MB）——git push 被 server 端 pre-receive hook 全部拒絕，
+# 又因為 commit-back 重試迴圈當時沒有 exit 1，靜默失敗了整整 6.6 天，
+# 完全沒偵測到任何新鯨魚交易。每個策略的 dedup 靠 processed_{name}.json
+# 的 hash set（獨立於這個檔案存在與否），所以砍掉舊行不影響已處理紀錄；
+# 且早於這個天數的訊號重新評估時，時間/價格類過濾器幾乎必定會拒絕，
+# 保留它們對訊號品質沒有實質幫助。
+_SIGNAL_RETENTION_DAYS = 14
+
 
 @dataclass
 class Signal:
@@ -71,6 +80,31 @@ def _append_signals(signals: list[Signal]) -> None:
     with open(_SIGNALS_PATH, "a", encoding="utf-8") as f:
         for s in signals:
             f.write(json.dumps(asdict(s), ensure_ascii=False) + "\n")
+
+
+def _prune_old_signals(retention_days: int = _SIGNAL_RETENTION_DAYS) -> int:
+    """砍掉 signals.jsonl 裡早於 retention_days 的行，回傳砍掉的筆數。
+
+    每次都跑（不只在超過大小門檻才跑）——避免又悄悄長回 100MB 而不自知。
+    """
+    if not _SIGNALS_PATH.exists():
+        return 0
+    cutoff = int(time.time()) - retention_days * 86400
+    lines = _SIGNALS_PATH.read_text(encoding="utf-8").splitlines()
+    kept = []
+    for l in lines:
+        if not l.strip():
+            continue
+        try:
+            ts = json.loads(l).get("trade_ts", 0)
+        except Exception:
+            continue
+        if ts >= cutoff:
+            kept.append(l)
+    removed = len(lines) - len(kept)
+    if removed > 0:
+        _SIGNALS_PATH.write_text("\n".join(kept) + "\n", encoding="utf-8")
+    return removed
 
 
 def scan_once(
@@ -147,5 +181,9 @@ def scan_once(
         print(f"\n📥 共 {len(new_signals)} 筆新訊號 → data/signals.jsonl")
     else:
         print(f"\n📭 本輪 0 筆新訊號")
+
+    pruned = _prune_old_signals()
+    if pruned:
+        print(f"🧹 已砍掉 {pruned} 筆超過 {_SIGNAL_RETENTION_DAYS} 天的舊訊號（避免檔案再逼近 GitHub 100MB 上限）")
 
     return new_signals
