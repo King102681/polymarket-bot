@@ -3017,3 +3017,4 @@
 {"strategy": "trend", "trend_id": "teslasend", "trend_title": "TeslaSend", "market_title": "Will Tesla launch robotaxis in California by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "欧媒欧盟新一轮对俄制裁或不能通过", "trend_title": "欧媒：欧盟新一轮对俄制裁或不能通过", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於歐盟對俄羅斯的新一輪制裁，並非關於德國或羅馬尼亞的選舉。"}
 {"strategy": "trend", "trend_id": "国际能源署全球石油需求的复苏正在进行中", "trend_title": "国际能源署：全球石油需求的复苏正在进行中。", "market_title": "Will WTI Crude Oil (WTI) hit (HIGH) $100 in July?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "韩国关注朝鲜派高规格代表团赴华纪念朝中签订友好条约", "trend_title": "韩国关注朝鲜派高规格代表团赴华纪念朝中签订友好条约", "market_title": "", "reason": "LLM 判定不下注：此新聞關於朝鮮與中國簽訂條約的紀念活動，並無直接關聯任何一個候選市場。候選市場多涉及朝鮮或阿富汗與以色列的外交關係，或領"}
