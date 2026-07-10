@@ -3120,3 +3120,4 @@
 {"strategy": "trend", "trend_id": "applefileslawsuitaccusingchatgptmakeropenaiofstealingtradesecrets", "trend_title": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets", "market_title": "Will OpenAI not IPO by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "科技股续撑纳指三连阳sk海力士adr首日大涨13布油冲高转跌黄金走v仍收跌", "trend_title": "科技股续撑纳指三连阳，SK海力士ADR首日大涨13%，布油冲高转跌，黄金走V仍收跌", "market_title": "", "reason": "LLM 判定不下注：話題提及黃金走V仍收跌，但候選市場均為7月份極端價位的高/低點預測（$3,500-$4,600），與當前實時行情走勢判斷"}
 {"strategy": "trend", "trend_id": "美伊即将会晤伊方警告若美违约将中止履约", "trend_title": "美伊即将会晤，伊方警告若美违约将中止履约", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "金正恩就朝中友好合作互助条约签订65周年向习近平致贺电", "trend_title": "金正恩就《朝中友好合作互助条约》签订65周年向习近平致贺电", "market_title": "", "reason": "信心 0.15 < 0.35：金正恩向习近平致贺电，体现中朝关系稳定与友好，反而降低了中美军事冲突的近期风险。"}
