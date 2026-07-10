@@ -45,7 +45,12 @@ STRATEGIES: dict[str, StrategyConfig] = {
         # 2026-06-20：原 whale_filter=[]（全部鯨魚）跟策略thesis不符——
         # 61%訊號死在「類別不符」，因為swisstony/RN1/beachboy4等主力是體育鯨魚。
         # 只有 Spirit of Ukraine>UMA 的 category_breakdown 真正政治/地緣導向（80% other, 0% sports）。
-        whale_filter=["The Spirit of Ukraine>UMA"],
+        # 2026-07-10：Spirit of Ukraine 單一鯨魚訊號量太稀（上線數週 pending_orders 全為 0），
+        # 用 run_smart_discovery 找 sports_ratio 極低的候選 + run_political_whale_backtest
+        # 驗證 other 類別 edge（同 beachboy4/RN1 的 soccer 驗證邏輯）：
+        # maz26 edge+5.1%（n=102）、大單edge+5.6%（n=99）、跟單模擬ROI+2.6% → 加入。
+        # allowed_categories 會自動濾掉 maz26 41% 的 sports 交易，不需額外處理。
+        whale_filter=["The Spirit of Ukraine>UMA", "maz26"],
         min_size_usdc=100.0,           # $100：抓 Spirit of Ukraine 小額試水單
         min_market_hours_left=6.0,
         min_entry_hours_remaining=168.0,  # 7 天以上才跟

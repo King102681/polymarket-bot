@@ -25,14 +25,21 @@ _SPORTS_SLUG_PREFIXES = (
     "j2100-", "j1-", "j2-", "j3-", "k-league-", "csl-", "a-league-",
 )
 
+# ⚠️ 全部必須小寫——classify() 比對前會把 blob 轉小寫，混大寫的項目會
+# 靜默永遠比對不到（2026-07-10 實測發現：Spread:/Wimbledon/US Open 等
+# 過去從未真正生效，只靠巧合命中小寫的 " vs " 才勉強抓到部分球類對戰標題）。
 _SPORTS_TITLE_HINTS = (
     " vs. ", " vs ", " v ",
-    "Spread:", "O/U ", "Moneyline",
+    "spread:", "o/u ", "moneyline",
     # 「Will X win?」類球賽市場
-    "Roland Garros", "Wimbledon", "US Open", "Australian Open", "French Open",
-    "Birmingham", "Eastbourne", "Halle ", "Queen's ", "ITF ",
-    " ATP:", " WTA:", " ATP ", " WTA ",
-    "Roland-Garros",
+    "roland garros", "wimbledon", "us open", "australian open", "french open",
+    "birmingham", "eastbourne", "halle ", "queen's ", "itf ",
+    " atp:", " wta:", " atp ", " wta ",
+    "roland-garros",
+    # 「Will X win the Y?」奪冠盤：Y 是知名體育賽事時全屬 sports（2026-07-10
+    # 新增：Q96s3kwozynxpau 的世界盃奪冠盤全被誤判成 other，才發現這個缺口）
+    "world cup", "olympics", "olympic games", "euro 2026", "copa america",
+    "champions league", "super bowl", "stanley cup", "nba finals", "world series",
 )
 
 _CRYPTO_HINTS = (
