@@ -53,7 +53,7 @@ jobs:
           DAILY_LOSS_LIMIT_USDC=10
           INITIAL_CAPITAL_USDC=100
           TREND_MIN_HEAT=40
-          TREND_MIN_CONFIDENCE=0.45
+          TREND_MIN_CONFIDENCE=0.35
           TREND_MIN_HOURS_LEFT=48
           TREND_EVALUATOR_MODEL=claude-haiku-4-5
           TREND_GEMINI_MODEL=gemini-2.5-flash-lite

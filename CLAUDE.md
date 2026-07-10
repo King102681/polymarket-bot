@@ -123,7 +123,9 @@ WHALE_BLACKLIST = {"0xbddf61af533ff524d27154e589d2d7a81510c684"}  # Countryside�
 **關鍵設定**（`core/config.py` + `trend_pipeline.yml` 覆寫）：
 ```
 TREND_MIN_HEAT=40            # 熱度門檻
-TREND_MIN_CONFIDENCE=0.45    # 信心門檻（原0.55，2026-06-19降低）
+TREND_MIN_CONFIDENCE=0.35    # 信心門檻（0.55→0.45→0.35；dry-run 刻意調低收集樣本，
+                             # 每筆訂單記錄自己的 confidence，結算後分區間算勝率/edge，
+                             # 上 LIVE 前用數據決定真正的門檻——不是憑感覺猜）
 TREND_MIN_HOURS_LEFT=48      # 距結算 < 48h 不下
 TREND_MIN_ENTRY_PRICE=0.10 / TREND_MAX_ENTRY_PRICE=0.90
 GEMINI_API_KEY               # 免費版優先；ANTHROPIC_API_KEY 備用
