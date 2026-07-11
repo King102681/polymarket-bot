@@ -3226,3 +3226,7 @@
 {"strategy": "trend", "trend_id": "两党住房法案未经特朗普签署自动生效", "trend_title": "两党住房法案未经特朗普签署自动生效", "market_title": "", "reason": "LLM 判定不下注：热门话题涉及两党住房法案自动生效的立法进展，与候选市场（均为特朗普个人言行预测）完全无关。没有任何市场真正对应该话题。候"}
 {"strategy": "trend", "trend_id": "willtrumpsjusticedepartmentrescuemessisargentina", "trend_title": "Will Trump's Justice Department rescue Messi's Argentina?", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及Trump政府對Messi/阿根廷的司法援助，與候選市場（Trump在特定日期是否公開辱罵他人）完全無關。所"}
 {"strategy": "trend", "trend_id": "特朗普宣布美伊停火终结美军空袭伊朗油价飙涨", "trend_title": "特朗普宣布美伊停火终结 美军空袭伊朗油价飙涨", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於特朗普宣布美伊停火終結以及美軍空襲伊朗，導致油價飆漲。這個話題與候選市場（關於特朗普是否會在特定日期"}
+{"strategy": "trend", "trend_id": "伊朗伊斯兰革命卫队宣布关闭霍尔木兹海峡", "trend_title": "伊朗伊斯兰革命卫队宣布关闭霍尔木兹海峡", "market_title": "", "reason": "LLM 判定不下注：話題是關於伊朗關閉霍爾木茲海峽，但所有候選市場都與美伊核協議或外交會議有關，兩者關聯性不高。霍爾木茲海峽的關閉是軍事或戰"}
+{"strategy": "trend", "trend_id": "thetrumpallylookingforamessimiracle", "trend_title": "The Trump ally looking for a Messi miracle", "market_title": "", "reason": "LLM 判定不下注：話題『Trump ally looking for a Messi miracle』涉及足球/體育贊助或政治盟友的某項期"}
+{"strategy": "trend", "trend_id": "国际特稿反华情绪高涨无阻消费中国品牌虏获韩国人心", "trend_title": "国际特稿：反华情绪高涨无阻消费 中国品牌虏获韩国人心", "market_title": "", "reason": "LLM 判定不下注：該熱門話題討論的是中國品牌在韓國的受歡迎程度，與韓國總統、韓國央行利率決策或韓國年通膨率等宏觀經濟或政治事件無關。因此，"}
+{"strategy": "trend", "trend_id": "欧盟供应链对华去风险须有资金支持", "trend_title": "欧盟：供应链对华“去风险”须有资金支持", "market_title": "", "reason": "LLM 判定不下注：欧盟供应链'去风险'政策是经济与贸易议题，涉及中欧关系的战略调整与资金配置。候选市场全部聚焦于欧洲选举政治（德国、西班牙"}
