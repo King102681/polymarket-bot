@@ -3193,3 +3193,6 @@
 {"strategy": "trend", "trend_id": "据塔斯尼姆通讯社以色列战机对黎巴嫩南部的阿尔曼苏里镇进行了第三次空袭", "trend_title": "据塔斯尼姆通讯社：以色列战机对黎巴嫩南部的阿尔曼苏里镇进行了第三次空袭。", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及以色列對黎巴嫩(Lebanon)的空襲行動,而所有候選市場都專注於以色列與哈馬斯(Hamas)的停火談判。黎"}
 {"strategy": "trend", "trend_id": "伊朗代理国防部长我们已经准确识别了敌人的弱点并知道如何何时以及在什么程度上对其施压", "trend_title": "伊朗代理国防部长：我们已经准确识别了敌人的弱点，并知道如何、何时以及在什么程度上对其施压。", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "伊朗学者美国的胁迫外交仍在继续伊朗试图打破胡萝卜与大棒循环", "trend_title": "伊朗学者：美国的胁迫外交仍在继续，伊朗试图打破“胡萝卜与大棒”循环", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "伊朗最高领袖就哈梅内伊之死号召复仇为新谈判前景增添变数", "trend_title": "伊朗最高领袖就哈梅内伊之死号召复仇，为新谈判前景增添变数", "market_title": "", "reason": "LLM 判定不下注：話題提到伊朗最高領袖號召復仇，這與核協議的談判前景並無直接關聯，且市場定價也與此無關。"}
+{"strategy": "trend", "trend_id": "特朗普宣布美伊停火终结美军连续空袭伊朗油价大涨", "trend_title": "特朗普宣布美伊停火终结 美军连续空袭伊朗油价大涨", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於特朗普與伊朗的衝突，但候選市場均與此無關，而是關於特朗普購買格陵蘭、總統任期、與卡塔爾的互動以及公開"}
+{"strategy": "trend", "trend_id": "伊朗学者称美方从未真正履行备忘录", "trend_title": "伊朗学者称美方从未真正履行备忘录", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
