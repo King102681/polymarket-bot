@@ -3188,3 +3188,4 @@
 {"strategy": "trend", "trend_id": "伊朗除非美国放弃立场否则不会谈判", "trend_title": "伊朗：除非美国“放弃立场” 否则不会谈判", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "民主党指控特朗普试图控制选举", "trend_title": "民主党指控特朗普“试图控制选举”", "market_title": "", "reason": "LLM 判定不下注：該話題涉及民主黨對特朗普選舉干預的指控，是政治攻防與選舉過程的評論。候選市場涵蓋格陵蘭收購、總統去職、世界盃出席、伊朗對"}
 {"strategy": "trend", "trend_id": "伊朗最高领袖誓言为父报仇指称数千万人参加葬礼", "trend_title": "伊朗最高领袖誓言为父报仇，指称数千万人参加葬礼", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "披露特朗普新专机安全缺陷的美国记者收到传票", "trend_title": "披露特朗普新专机安全缺陷的美国记者收到传票", "market_title": "", "reason": "LLM 判定不下注：該話題是關於記者收到傳票，與特朗普購買格陵蘭、卸任總統、參加世界盃、與哈梅內伊對話、或公開侮辱他人等市場沒有直接關聯。"}
