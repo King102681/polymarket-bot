@@ -3138,3 +3138,5 @@
 {"strategy": "trend", "trend_id": "伊朗外交部长伊朗迄今信守承诺不像美国财政部长那样违反谅解备忘录第9条这一违规行为是美国其他违规和失误的延续", "trend_title": "伊朗外交部长：伊朗迄今信守承诺，不像美国财政部长那样违反谅解备忘录第9条这一违规行为是美国其他违规和失误的延续。", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美伊确认7月11日在阿曼继续谈判", "trend_title": "美伊确认7月11日在阿曼继续谈判", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "中东局势趋紧中国原油进口或将回升", "trend_title": "中东局势趋紧 中国原油进口或将回升", "market_title": "Will WTI Crude Oil (WTI) hit (HIGH) $95 in July?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "伊朗外长批美方违反谅解备忘录第九条", "trend_title": "伊朗外长批美方违反谅解备忘录第九条", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "据伊朗迈赫尔通讯社以色列对南黎巴嫩的袭击造成1人死亡3人受伤", "trend_title": "据伊朗迈赫尔通讯社：以色列对南黎巴嫩的袭击造成1人死亡，3人受伤。", "market_title": "", "reason": "LLM 判定不下注：此新聞指出以色列與黎巴嫩之間發生衝突，但候選市場皆與以哈停火有關，並未直接關聯。因此，該新聞無法判斷市場方向。"}
