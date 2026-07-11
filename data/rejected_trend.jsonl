@@ -3199,3 +3199,4 @@
 {"strategy": "trend", "trend_id": "日本众议院通过皇室典范修正案", "trend_title": "日本众议院通过《皇室典范》修正案", "market_title": "", "reason": "LLM 判定不下注：熱門話題是日本皇室典範修正案，涉及日本國內政治。所有候選市場均為美國政治相關（參議院控制權、政府關門、國會股票交易禁令）"}
 {"strategy": "trend", "trend_id": "没戴保险套就不要做台湾拟管制事后避孕药引发女性焦虑", "trend_title": "“没戴保险套就不要做”？台湾拟管制事后避孕药引发女性焦虑", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及台灣事後避孕藥管制政策與女性權益議題。候選市場全數無關：[0][2][3]聚焦中國對台軍事入侵，[1]與[4"}
 {"strategy": "trend", "trend_id": "伊朗袭击油轮挑衅行动或重燃战争", "trend_title": "伊朗袭击油轮，挑衅行动或重燃战争", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美伊冲突升级后特朗普同意继续谈判但停火已结束", "trend_title": "美伊冲突升级后特朗普同意继续谈判但停火已结束", "market_title": "Will Trump talk to Mojtaba Khamenei by December 31?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
