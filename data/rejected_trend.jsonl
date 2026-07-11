@@ -3157,3 +3157,4 @@
 {"strategy": "trend", "trend_id": "朝鲜通报军方特大腐败案金正恩强调廉洁", "trend_title": "朝鲜通报军方特大腐败案 金正恩强调廉洁", "market_title": "Kim Jong Un out as Supreme Leader of North Korea by December 31, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "伊朗媒体farsnews援引官方消息称德黑兰省东部听到的爆炸声与销毁爆炸物的控制行动有关", "trend_title": "伊朗媒体Fars News援引官方消息称，德黑兰省东部听到的爆炸声与销毁爆炸物的控制行动有关。", "market_title": "", "reason": "LLM 判定不下注：此新聞提到德黑蘭省東部的爆炸聲與銷毀爆炸物的控制行動有關，屬於地方性安全事件，與美國和伊朗之間最終的核協議進展無直接關聯"}
 {"strategy": "trend", "trend_id": "李强同朝鲜内阁总理朴泰成会谈", "trend_title": "李强同朝鲜内阁总理朴泰成会谈", "market_title": "", "reason": "LLM 判定不下注：李强与朝鲜内阁总理会谈是中朝高层接触新闻,反映双方外交互动。候选市场涉及朝鲜军事行动(侵韩)、金正恩权力变动、以及以色列"}
+{"strategy": "trend", "trend_id": "据伊朗媒体farsnews几分钟前帕克达什特和基亚姆达什特的居民从德黑兰省东部方向听到了爆炸声目前爆炸的来源和确切地点尚不清楚", "trend_title": "据伊朗媒体FarsNews：几分钟前，帕克达什特和基亚姆达什特的居民从德黑兰省东部方向听到了爆炸声。目前爆炸的来源和确切地点尚不清楚。", "market_title": "", "reason": "LLM 判定不下注：爆炸事件本身並未提供關於美伊核協議進展的明確資訊，因此無法判斷對市場方向的影響。候選市場皆是關於核協議的最終達成時間，與"}
