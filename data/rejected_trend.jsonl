@@ -3122,3 +3122,5 @@
 {"strategy": "trend", "trend_id": "美伊即将会晤伊方警告若美违约将中止履约", "trend_title": "美伊即将会晤，伊方警告若美违约将中止履约", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "金正恩就朝中友好合作互助条约签订65周年向习近平致贺电", "trend_title": "金正恩就《朝中友好合作互助条约》签订65周年向习近平致贺电", "market_title": "", "reason": "信心 0.15 < 0.35：金正恩向习近平致贺电，体现中朝关系稳定与友好，反而降低了中美军事冲突的近期风险。"}
 {"strategy": "trend", "trend_id": "特朗普美国同意与伊朗继续谈判停火协议已结束", "trend_title": "特朗普：美国同意与伊朗继续谈判 停火协议“已结束”", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於特朗普與伊朗的談判和停火協議，與所有候選市場的內容（均與特朗普是否卸任總統或在特定日期發表言論有關）均無"}
+{"strategy": "trend", "trend_id": "特朗普宣布美光将在美投资2500亿美元制造存储芯片", "trend_title": "特朗普宣布美光将在美投资2500亿美元制造存储芯片", "market_title": "", "reason": "LLM 判定不下注：話題關於美光在美投資芯片製造，涉及產業政策與經濟，與候選市場完全無關。候選市場皆為特朗普個人政治事件（任期、世界盃出席、"}
+{"strategy": "trend", "trend_id": "iranwarliveusdemandsiranpubliclystatestraitofhormuzopenforall", "trend_title": "Iran war live: US demands Iran publicly state Strait of Hormuz open for all", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
