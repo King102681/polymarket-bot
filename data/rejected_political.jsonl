@@ -15250,3 +15250,4 @@
 {"strategy": "political", "signal_tx_hash": "0x2caef7b2c87e41eda1bad92a35fe39e01ef3abb013f5561d29c1ca26dec1a08e", "whale_pseudonym": "maz26", "market_title": "Spain vs. Belgium: O/U 2.5", "reason": "類別 sports 不在 {'other', 'politics'}"}
 {"strategy": "political", "signal_tx_hash": "0xdbe22e5828f59b62ff2e356f7e481d8c0e10bebe16d68fa098e1fb68bae269a0", "whale_pseudonym": "maz26", "market_title": "Will Norway win on 2026-07-11?", "reason": "距結算 3.6h < 6.0h"}
 {"strategy": "political", "signal_tx_hash": "0x64d6811d1c5e295c69cd072ee50d9269723d73e7d3a02210ece39276d94ec5fb", "whale_pseudonym": "The Spirit of Ukraine>UMA", "market_title": "Strait of Hormuz traffic returns to normal by July 31?", "reason": "entry 0.995 不在 [0.2, 0.87]"}
+{"strategy": "political", "signal_tx_hash": "0xdf517c485f2c65ac4ab5af63e58b828b54e9a65175e71fd15f09d789a464a08e", "whale_pseudonym": "maz26", "market_title": "Will Norway win on 2026-07-11?", "reason": "距結算 2.2h < 6.0h"}
