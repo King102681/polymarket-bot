@@ -3168,3 +3168,5 @@
 {"strategy": "trend", "trend_id": "特朗普改口美加跨国大桥将于27日通车", "trend_title": "特朗普改口：美加跨国大桥将于27日通车", "market_title": "", "reason": "LLM 判定不下注：話題是特朗普宣佈美加跨國大橋通車時間表，純粹基礎設施進展新聞。5個候選市場均與此話題無直接關聯：市場[0-4]涉及總統職"}
 {"strategy": "trend", "trend_id": "美伊战火重燃致霍尔木兹过境量骤降船东谨慎撤离推高运输成本", "trend_title": "美伊战火重燃致霍尔木兹过境量骤降，船东谨慎撤离推高运输成本", "market_title": "", "reason": "LLM 判定不下注：話題是關於美伊衝突對霍爾木茲海峽運輸量的影響，進而推高運輸成本。候選市場皆是關於美伊核協議的達成時間，與當前話題沒有直接"}
 {"strategy": "trend", "trend_id": "朝鲜通报朴喜哲为首特大腐败行为", "trend_title": "朝鲜通报朴喜哲为首特大腐败行为", "market_title": "Kim Jong Un out as Supreme Leader of North Korea by December 31, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "卫星图像伊朗或在重建多处核设施", "trend_title": "卫星图像：伊朗或在重建多处核设施", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "苹果起诉openai指控其窃取绝密信息", "trend_title": "苹果起诉OpenAI，指控其“窃取绝密信息”", "market_title": "", "reason": "LLM 判定不下注：此話題是關於蘋果起訴 OpenAI 的事件，這是一個法律和商業糾紛，與候選市場中 OpenAI 的 IPO 時程、模型評"}
