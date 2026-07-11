@@ -169,11 +169,41 @@ def _liquidity(market: dict) -> float:
     return 0.0
 
 
+def _yes_price(market: dict) -> float | None:
+    """取市場 Yes 的當前價格；取不到回 None（不過濾，fail-open）。"""
+    outcomes = _parse_json_list(market.get("outcomes"))
+    prices = _parse_json_list(market.get("outcomePrices"))
+    for i, o in enumerate(outcomes):
+        if str(o).upper() == "YES" and i < len(prices):
+            try:
+                return float(prices[i])
+            except Exception:
+                return None
+    return None
+
+
+def _is_tradeable_price(market: dict) -> bool:
+    """已定價完的市場（Yes 出了進場價範圍，如 0.995）不當候選。
+
+    2026-07-12 漏斗分析：門檻降到 0.35 後 163 筆拒絕中，57 筆（35%）通過
+    信心+時間檢查後死在進場價 0.995/0.999——候選只按流動性排序，而
+    「已塵埃落定」的市場流動性往往最高，等於一直把已開獎的彩券餵給 LLM，
+    還把真正未定價的二階市場擠出 top-5。Yes 在 [MIN, MAX] 之外代表買任一邊
+    都不可能落在進場價範圍內，直接踢出候選池。
+    """
+    p = _yes_price(market)
+    if p is None:
+        return True  # 拿不到價格就保留，交給下游訂單簿檢查把關
+    return config.TREND_MIN_ENTRY_PRICE <= p <= config.TREND_MAX_ENTRY_PRICE
+
+
 def _pick_candidates(markets: list[dict], k: int = 5) -> list[dict]:
     """回傳 top-K 二元活躍候選市場（依流動性排序），交給 LLM 從中挑最相關的。"""
     cands = [
         m for m in markets
-        if _is_binary_active(m) and _hours_until(m) >= config.TREND_MIN_HOURS_LEFT
+        if _is_binary_active(m)
+        and _hours_until(m) >= config.TREND_MIN_HOURS_LEFT
+        and _is_tradeable_price(m)
     ]
     cands.sort(key=_liquidity, reverse=True)
     return cands[:k]
