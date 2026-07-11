@@ -3124,3 +3124,4 @@
 {"strategy": "trend", "trend_id": "特朗普美国同意与伊朗继续谈判停火协议已结束", "trend_title": "特朗普：美国同意与伊朗继续谈判 停火协议“已结束”", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於特朗普與伊朗的談判和停火協議，與所有候選市場的內容（均與特朗普是否卸任總統或在特定日期發表言論有關）均無"}
 {"strategy": "trend", "trend_id": "特朗普宣布美光将在美投资2500亿美元制造存储芯片", "trend_title": "特朗普宣布美光将在美投资2500亿美元制造存储芯片", "market_title": "", "reason": "LLM 判定不下注：話題關於美光在美投資芯片製造，涉及產業政策與經濟，與候選市場完全無關。候選市場皆為特朗普個人政治事件（任期、世界盃出席、"}
 {"strategy": "trend", "trend_id": "iranwarliveusdemandsiranpubliclystatestraitofhormuzopenforall", "trend_title": "Iran war live: US demands Iran publicly state Strait of Hormuz open for all", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "朝鲜内阁总理与习近平会晤金正恩要求将朝中关系发展为最强有力的战略关系", "trend_title": "朝鲜内阁总理与习近平会晤：金正恩要求将朝中关系发展为最强有力的战略关系", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及朝鮮與中國的戰略關係強化，但候選市場[0-4]均不直接對應此事件。[0]涉及美中軍事衝突，[1]涉及中國政變"}
