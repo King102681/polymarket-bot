@@ -1,16 +1,19 @@
-"""Forward Dry-Run PnL 追蹤器。
+"""Forward Dry-Run PnL 追蹤器（多策略版）。
 
-讀取 data/pending_orders.jsonl（signal_generator 輸出的建議下單），
+讀取所有策略的 pending_orders_*.jsonl（核准訂單的永久記錄），
 對每一筆用 CLOB API 查詢市場是否已結算，計算模擬 PnL。
 
-邏輯與 backtest/simulator.py 一致：
-  - 若市場已結算 (closed=True + winner 標記) → 計算 payout/fees/net_pnl
-  - 若市場尚未結算 → 顯示為 open
-  - 若找不到市場 → 顯示為 not_found
+2026-07-12 重寫，修三個致命問題：
+  1. 舊版讀已棄用的 data/pending_orders.jsonl（多策略改版後永遠是空的）
+  2. 舊版假設鯨魚欄位（signal_tx_hash/whale_pseudonym），趨勢訂單會 KeyError
+  3. 舊版查過一次就進去重名單，「未結算」的單永遠不會被重查 →
+     現在只有 resolved 是終態，open/not_found 每次都重查
 
 輸出：
-  - 終端機報表（勝率/PnL/ROI）
-  - data/forward_results.jsonl（追加），方便日後累積
+  - 終端機報表（總覽 / 按策略 / 按信心區間 / 按鯨魚）
+  - data/forward_results.jsonl（追加寫入；彙總時取每筆訂單最新狀態）
+
+判決標準（CLAUDE.md）：≥30 筆已結算 + 總 ROI ≥ +15% + 連續 4 週。
 
 ⚠️ 需要網路連線（mobile hotspot 或 VPN）
 """
@@ -21,19 +24,25 @@ from collections import defaultdict
 import sys
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
-import core  # noqa: F401  (安裝 DNS patch)
+import core  # noqa: F401  (安裝 DNS patch + UTF-8)
 
 import requests
 
 CLOB_BASE = "https://clob.polymarket.com"
 _TIMEOUT = 15
 _DATA_DIR = Path(__file__).resolve().parent.parent / "data"
-_PENDING_PATH = _DATA_DIR / "pending_orders.jsonl"
 _FORWARD_PATH = _DATA_DIR / "forward_results.jsonl"
 
-# 手續費（與 backtest/fees.py 一致）
-MAKER_FEE = 0.0010   # 0.10%
-TAKER_FEE = 0.0020   # 0.20%
+# 各策略的核准訂單檔與其識別欄位（whale 系用 signal_tx_hash，trend 用 trend_id）
+_SOURCES = [
+    ("political",   "pending_orders_political.jsonl",   "signal_tx_hash"),
+    ("sports_live", "pending_orders_sports_live.jsonl", "signal_tx_hash"),
+    ("soccer",      "pending_orders_soccer.jsonl",      "signal_tx_hash"),
+    ("open",        "pending_orders_open.jsonl",        "signal_tx_hash"),
+    ("trend",       "pending_orders_trend.jsonl",       "trend_id"),
+]
+
+TAKER_FEE = 0.0020   # 0.20%（與 backtest/fees.py 一致）
 
 
 def _fetch_market_clob(condition_id: str) -> dict | None:
@@ -56,43 +65,68 @@ def _winning_outcome(market: dict) -> str | None:
     return None
 
 
-def _calc_fees(bet_usdc: float, entry_price: float, shares: float) -> float:
-    """計算手續費（taker）。"""
-    return round(bet_usdc * TAKER_FEE, 6)
+def load_all_orders() -> list[dict]:
+    """讀入全部策略的核准訂單，統一欄位為 order_id / label / strategy。"""
+    orders: list[dict] = []
+    for strategy, fname, id_field in _SOURCES:
+        p = _DATA_DIR / fname
+        if not p.exists():
+            continue
+        for line in open(p, encoding="utf-8"):
+            line = line.strip()
+            if not line:
+                continue
+            try:
+                o = json.loads(line)
+            except Exception:
+                continue
+            oid = o.get(id_field)
+            if not oid or not o.get("condition_id"):
+                continue
+            orders.append({
+                "order_id": oid,
+                "strategy": o.get("strategy", strategy),
+                # whale 訂單顯示鯨魚名；trend 訂單顯示 trend 標題
+                "label": o.get("whale_pseudonym") or o.get("trend_title", "")[:24] or "?",
+                "market_title": o.get("market_title", ""),
+                "market_category": o.get("market_category", "other"),
+                "condition_id": o["condition_id"],
+                "outcome": o.get("outcome", ""),
+                "suggested_price": float(o.get("suggested_price", 0) or 0),
+                "suggested_cost_usdc": float(o.get("suggested_cost_usdc", 0) or 0),
+                "confidence": o.get("confidence"),   # 只有 trend 有；whale 為 None
+                "detected_at": o.get("detected_at", 0),
+            })
+    return orders
 
 
-def load_pending() -> list[dict]:
-    if not _PENDING_PATH.exists():
-        return []
-    return [json.loads(l) for l in open(_PENDING_PATH, encoding="utf-8") if l.strip()]
-
-
-def load_processed_hashes() -> set[str]:
+def load_latest_results() -> dict[str, dict]:
+    """讀歷史結果，每筆訂單只保留最新一筆（append-only 檔案，後蓋前）。"""
+    latest: dict[str, dict] = {}
     if not _FORWARD_PATH.exists():
-        return set()
-    processed = set()
-    for l in open(_FORWARD_PATH, encoding="utf-8"):
-        if l.strip():
-            r = json.loads(l)
-            processed.add(r["signal_tx_hash"])
-    return processed
+        return latest
+    for line in open(_FORWARD_PATH, encoding="utf-8"):
+        line = line.strip()
+        if not line:
+            continue
+        try:
+            r = json.loads(line)
+        except Exception:
+            continue
+        # 相容舊格式（signal_tx_hash 當 key）
+        oid = r.get("order_id") or r.get("signal_tx_hash")
+        if oid:
+            r["order_id"] = oid
+            latest[oid] = r
+    return latest
 
 
 def evaluate_order(order: dict) -> dict:
     """用 CLOB 查市場狀態，計算模擬 PnL。"""
-    condition_id = order["condition_id"]
-    market = _fetch_market_clob(condition_id)
+    market = _fetch_market_clob(order["condition_id"])
 
     result = {
-        "signal_tx_hash": order["signal_tx_hash"],
-        "whale_pseudonym": order["whale_pseudonym"],
-        "market_title": order["market_title"],
-        "market_category": order.get("market_category", "other"),
-        "outcome": order["outcome"],
-        "whale_price": order["whale_price"],
-        "suggested_price": order["suggested_price"],
-        "suggested_cost_usdc": order["suggested_cost_usdc"],
-        "detected_at": order["detected_at"],
+        **order,
         "evaluated_at": int(time.time()),
         "status": "open",
         "winning_outcome": None,
@@ -108,10 +142,8 @@ def evaluate_order(order: dict) -> dict:
 
     winning_outcome = _winning_outcome(market)
     if winning_outcome is None:
-        result["status"] = "open"
         return result
 
-    # 市場已結算
     result["status"] = "resolved"
     result["winning_outcome"] = winning_outcome
 
@@ -122,9 +154,8 @@ def evaluate_order(order: dict) -> dict:
     correct = order["outcome"].lower() == winning_outcome.lower()
     result["correct"] = correct
     result["payout"] = round(shares, 4) if correct else 0.0
-    result["fees"] = _calc_fees(bet, price, shares)
+    result["fees"] = round(bet * TAKER_FEE, 6)
     result["net_pnl"] = round(result["payout"] - bet - result["fees"], 6)
-
     return result
 
 
@@ -137,129 +168,126 @@ def print_summary(results: list[dict], label: str) -> None:
     print(f"    總筆數: {len(results)}  已結算: {len(resolved)}  未結算: {len(open_)}  找不到: {len(not_found)}")
 
     if not resolved:
-        print(f"    (尚無已結算訊號)")
+        print("    (尚無已結算訂單)")
         return
 
     wins = [r for r in resolved if r.get("correct")]
-    pnls = [r["net_pnl"] for r in resolved]
-    bets = [r["suggested_cost_usdc"] for r in resolved]
-    avg_bet = sum(bets) / len(bets) if bets else 1
-    roi = (sum(pnls) / len(pnls)) / avg_bet if avg_bet else 0
+    total_pnl = sum(r["net_pnl"] for r in resolved)
+    total_bet = sum(r["suggested_cost_usdc"] for r in resolved)
+    roi = total_pnl / total_bet if total_bet else 0.0
 
     print(f"    勝率    : {len(wins)}/{len(resolved)} = {len(wins)/len(resolved):.1%}")
-    print(f"    總投入  : ${sum(bets):.2f}")
-    print(f"    總 PnL  : ${sum(pnls):+.4f}")
-    print(f"    avg PnL : ${sum(pnls)/len(pnls):+.4f} / 筆")
-    print(f"    ROI     : {roi:+.2%}")
+    print(f"    總投入  : ${total_bet:.2f}")
+    print(f"    總 PnL  : ${total_pnl:+.4f}")
+    print(f"    ROI     : {roi:+.2%}   （判決標準：≥30 筆已結算且 ROI ≥ +15%）")
+
+
+def _conf_band(c) -> str:
+    if c is None:
+        return "無(whale)"
+    if c < 0.35:
+        return "< 0.35"
+    if c < 0.45:
+        return "0.35-0.45"
+    if c < 0.55:
+        return "0.45-0.55"
+    return "≥ 0.55"
 
 
 def main() -> None:
-    orders = load_pending()
-    print(f"📂 載入 {len(orders)} 筆 pending orders（data/pending_orders.jsonl）")
+    orders = load_all_orders()
+    per_src = defaultdict(int)
+    for o in orders:
+        per_src[o["strategy"]] += 1
+    src_desc = "  ".join(f"{k}={v}" for k, v in sorted(per_src.items())) or "無"
+    print(f"📂 載入核准訂單 {len(orders)} 筆（{src_desc}）")
 
     if not orders:
-        print("\n⚠️  pending_orders.jsonl 目前為空。")
-        print("   GHA pipeline 還沒有產生通過過濾的訊號，或尚未執行。")
-        print("   等 1-2 週 dry-run 累積後再跑此腳本。")
-        print("\n   💡 提示：GHA 每 30 分鐘跑一次，目前 LIVE_MODE=false（dry-run 模式）。")
-        print("   訊號出現條件：")
-        print(f"     - 鯨魚買單 ≥ $2,000")
-        print(f"     - 目前最佳 ask × 1.005 在 0.20-0.80 區間")
-        print(f"     - 市場距結算 > 6 小時")
-        print(f"     - 鯨魚不在黑名單")
+        print("\n⚠️  所有策略的 pending_orders_*.jsonl 都是空的——還沒有訂單通過過濾。")
+        print("   等 GHA 累積出核准訂單後再跑此腳本。")
         return
 
-    # 已處理過的不重複查
-    already_processed = load_processed_hashes()
-    new_orders = [o for o in orders if o["signal_tx_hash"] not in already_processed]
-    print(f"🔍 本次新評估: {len(new_orders)} 筆（已有 {len(already_processed)} 筆歷史記錄）")
+    latest = load_latest_results()
+    # 只有 resolved 是終態；open / not_found / 沒查過的每次都重查
+    to_check = [o for o in orders
+                if latest.get(o["order_id"], {}).get("status") != "resolved"]
+    print(f"🔍 本次查詢 {len(to_check)} 筆（已終結 {len(orders) - len(to_check)} 筆跳過）")
 
-    results: list[dict] = []
-
-    # 先讀取歷史結果（已有的）
-    if _FORWARD_PATH.exists():
-        hist = [json.loads(l) for l in open(_FORWARD_PATH, encoding="utf-8") if l.strip()]
-        results.extend(hist)
-        print(f"   + 歷史結果 {len(hist)} 筆")
-
-    # 評估新訂單
-    if new_orders:
-        print(f"\n⏳ 查詢 CLOB 市場狀態...")
+    if to_check:
+        print("\n⏳ 查詢 CLOB 市場狀態...")
         new_results = []
-        for i, order in enumerate(new_orders, 1):
-            title = order.get("market_title", "")[:40]
+        for i, order in enumerate(to_check, 1):
             r = evaluate_order(order)
-            status_icon = {"resolved": "✅", "open": "⏳", "not_found": "❓"}.get(r["status"], "?")
+            icon = {"resolved": "✅", "open": "⏳", "not_found": "❓"}.get(r["status"], "?")
             detail = ""
             if r["status"] == "resolved":
                 detail = f"→ {'✓ 猜對' if r['correct'] else '✗ 猜錯'}  PnL=${r['net_pnl']:+.4f}"
-            print(f"   [{i:2d}] {status_icon} {title:40s} {detail}")
+            print(f"   [{i:3d}] {icon} [{r['strategy']:11s}] {r['market_title'][:38]:38s} {detail}")
             new_results.append(r)
+            latest[r["order_id"]] = r
 
-        # 追加寫入
         _FORWARD_PATH.parent.mkdir(parents=True, exist_ok=True)
         with open(_FORWARD_PATH, "a", encoding="utf-8") as f:
             for r in new_results:
                 f.write(json.dumps(r, ensure_ascii=False) + "\n")
-        results.extend(new_results)
 
-    if not results:
-        print("\n（無結果可顯示）")
-        return
+    results = list(latest.values())
 
-    # 匯總報表
     print(f"\n{'=' * 70}")
-    print(f" 📊 Forward Dry-Run 累積成績")
+    print(" 📊 Forward Dry-Run 累積成績")
     print(f"{'=' * 70}")
-
     print_summary(results, "全部")
 
-    # 按時間分層（最近 7d / 7-14d / 14d+）
-    now = int(time.time())
-    w7 = [r for r in results if r["evaluated_at"] >= now - 7 * 86400]
-    w14 = [r for r in results if now - 14 * 86400 <= r["evaluated_at"] < now - 7 * 86400]
-
-    if w7:
-        print_summary(w7, "最近 7 天")
-    if w14:
-        print_summary(w14, "7-14 天前")
-
-    # 按鯨魚
+    # 按策略
     print(f"\n{'=' * 70}")
-    print(f" 🐋 按鯨魚拆解（已結算）")
+    print(" 🧩 按策略拆解")
     print(f"{'=' * 70}")
-    by_whale: dict[str, list] = defaultdict(list)
+    by_strat: dict[str, list] = defaultdict(list)
     for r in results:
-        if r["status"] == "resolved":
-            by_whale[r["whale_pseudonym"]].append(r)
-    for name, items in by_whale.items():
-        wins = sum(1 for r in items if r.get("correct"))
-        pnls = [r["net_pnl"] for r in items]
-        print(
-            f"  {name[:22]:22s}  n={len(items):3d}  "
-            f"win={wins}/{len(items)} ({wins/len(items):.0%})  "
-            f"totalPnL=${sum(pnls):+8.4f}"
-        )
+        by_strat[r.get("strategy", "?")].append(r)
+    for name, items in sorted(by_strat.items()):
+        print_summary(items, f"[{name}]")
 
-    # 按 category
-    print(f"\n{'=' * 70}")
-    print(f" 📂 按類別拆解（已結算）")
-    print(f"{'=' * 70}")
-    by_cat: dict[str, list] = defaultdict(list)
-    for r in results:
-        if r["status"] == "resolved":
-            by_cat[r["market_category"]].append(r)
-    for cat, items in sorted(by_cat.items(), key=lambda kv: -len(kv[1])):
-        wins = sum(1 for r in items if r.get("correct"))
-        pnls = [r["net_pnl"] for r in items]
-        print(
-            f"  {cat:10s}  n={len(items):3d}  "
-            f"win={wins}/{len(items)} ({wins/len(items):.0%})  "
-            f"totalPnL=${sum(pnls):+8.4f}"
-        )
+    # trend 專屬：按信心區間（降門檻收樣本的整個目的就在這張表）
+    trend_resolved = [r for r in results
+                      if r.get("strategy") == "trend" and r["status"] == "resolved"]
+    if trend_resolved:
+        print(f"\n{'=' * 70}")
+        print(" 🎯 trend 按信心區間拆解（決定 LIVE 門檻用）")
+        print(f"{'=' * 70}")
+        by_band: dict[str, list] = defaultdict(list)
+        for r in trend_resolved:
+            by_band[_conf_band(r.get("confidence"))].append(r)
+        for band in ["< 0.35", "0.35-0.45", "0.45-0.55", "≥ 0.55"]:
+            items = by_band.get(band, [])
+            if not items:
+                continue
+            wins = sum(1 for r in items if r.get("correct"))
+            pnl = sum(r["net_pnl"] for r in items)
+            bet = sum(r["suggested_cost_usdc"] for r in items)
+            avg_entry = sum(r["suggested_price"] for r in items) / len(items)
+            print(f"  {band:10s}  n={len(items):3d}  win={wins}/{len(items)}"
+                  f"  平均進場價={avg_entry:.2f}  PnL=${pnl:+.4f}"
+                  f"  ROI={pnl/bet:+.1%}" if bet else "")
 
-    print(f"\n💾 結果已更新至 data/forward_results.jsonl")
-    print(f"\n💡 提醒：需累積 N≥50 已結算訊號後，數字才有統計意義。")
+    # whale 系：按鯨魚
+    whale_resolved = [r for r in results
+                      if r.get("strategy") != "trend" and r["status"] == "resolved"]
+    if whale_resolved:
+        print(f"\n{'=' * 70}")
+        print(" 🐋 whale 系按鯨魚拆解（已結算）")
+        print(f"{'=' * 70}")
+        by_whale: dict[str, list] = defaultdict(list)
+        for r in whale_resolved:
+            by_whale[r.get("label", "?")].append(r)
+        for name, items in by_whale.items():
+            wins = sum(1 for r in items if r.get("correct"))
+            pnls = [r["net_pnl"] for r in items]
+            print(f"  {name[:22]:22s}  n={len(items):3d}  "
+                  f"win={wins}/{len(items)} ({wins/len(items):.0%})  "
+                  f"totalPnL=${sum(pnls):+8.4f}")
+
+    print("\n💾 結果已更新至 data/forward_results.jsonl")
 
 
 if __name__ == "__main__":
