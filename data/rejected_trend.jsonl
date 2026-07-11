@@ -3153,3 +3153,5 @@
 {"strategy": "trend", "trend_id": "美国对伊朗实施新制裁", "trend_title": "美国对伊朗实施新制裁", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "伊朗国家媒体伊朗外长阿拉格齐抵达阿曼首都马斯喀特", "trend_title": "伊朗国家媒体：伊朗外长阿拉格齐抵达阿曼首都马斯喀特。", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "也门胡塞武装宣布进行大规模动员", "trend_title": "也门胡塞武装宣布进行大规模动员", "market_title": "Will the Houthis successfully target shipping by August 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "面对暗杀威胁特朗普警告伊朗1000枚导弹已对准你们", "trend_title": "面对暗杀威胁 特朗普警告伊朗：1000枚导弹已对准你们", "market_title": "", "reason": "LLM 判定不下注：話題涉及特朗普與伊朗的軍事威脅與衝突，但候選市場都不真正對應此事件。市場0、1涉及特朗普下台，市場2涉及世界盃出席，市場"}
+{"strategy": "trend", "trend_id": "朝鲜通报军方特大腐败案金正恩强调廉洁", "trend_title": "朝鲜通报军方特大腐败案 金正恩强调廉洁", "market_title": "Kim Jong Un out as Supreme Leader of North Korea by December 31, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
