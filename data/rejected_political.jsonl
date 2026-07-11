@@ -15248,3 +15248,4 @@
 {"strategy": "political", "signal_tx_hash": "0x6a8c05e11d6af1463520f588a0cf5dcc05be067184b536859e6567cb915bc3b2", "whale_pseudonym": "maz26", "market_title": "Will Belgium win on 2026-07-10?", "reason": "市場已關閉或非 active"}
 {"strategy": "political", "signal_tx_hash": "0xcccb5dae2766d0e5d4b6a61e22dd0a4e9bc0292edba1b2f1589860943cfd67b0", "whale_pseudonym": "maz26", "market_title": "Spain vs. Belgium: O/U 2.5", "reason": "類別 sports 不在 {'other', 'politics'}"}
 {"strategy": "political", "signal_tx_hash": "0x2caef7b2c87e41eda1bad92a35fe39e01ef3abb013f5561d29c1ca26dec1a08e", "whale_pseudonym": "maz26", "market_title": "Spain vs. Belgium: O/U 2.5", "reason": "類別 sports 不在 {'other', 'politics'}"}
+{"strategy": "political", "signal_tx_hash": "0xdbe22e5828f59b62ff2e356f7e481d8c0e10bebe16d68fa098e1fb68bae269a0", "whale_pseudonym": "maz26", "market_title": "Will Norway win on 2026-07-11?", "reason": "距結算 3.6h < 6.0h"}
