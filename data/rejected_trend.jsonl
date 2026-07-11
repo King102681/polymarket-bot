@@ -3184,3 +3184,4 @@
 {"strategy": "trend", "trend_id": "伊媒伊朗在华盛顿改变其立场之前不会与美国进行谈判", "trend_title": "伊媒：伊朗在华盛顿改变其立场之前不会与美国进行谈判", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "sheinbaumtakesoncartelstrumpandthelegacyof1968", "trend_title": "Sheinbaum takes on cartels, Trump and the legacy of 1968", "market_title": "", "reason": "LLM 判定不下注：熱門話題主要講述墨西哥新總統Sheinbaum上任後對毒梟、特朗普以及1968年遺產的應對政策。所有候選市場均涉及特朗普"}
 {"strategy": "trend", "trend_id": "土耳其内政部长称已有150万叙利亚人返回祖国", "trend_title": "土耳其内政部长称已有150万叙利亚人返回祖国", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及敘利亞難民返鄉，與土耳其內政政策相關。候選市場均為『各國是否承認以色列』的地緣政治問題，與敘利亞難民遣返話題"}
+{"strategy": "trend", "trend_id": "chinapreparesastyphoonbavileavestaiwan", "trend_title": "China prepares as Typhoon Bavi leaves Taiwan", "market_title": "", "reason": "LLM 判定不下注：話題僅報導中國應對颱風準備，完全是自然災害和人道應急事項，與任何涉及軍事侵略的市場無關。颱風防災與地緣政治風險無因果關係"}
