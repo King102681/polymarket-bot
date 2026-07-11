@@ -3182,3 +3182,4 @@
 {"strategy": "trend", "trend_id": "伊朗最高领袖称将报复美以", "trend_title": "伊朗最高领袖称将报复美以", "market_title": "", "reason": "LLM 判定不下注：該話題提及伊朗將報復美以，但候選市場均為美伊核協議的達成時間，兩者關聯性低，無法判斷市場方向。"}
 {"strategy": "trend", "trend_id": "欧盟拟推新工具支持供应链多元化", "trend_title": "欧盟拟推新工具支持供应链多元化", "market_title": "", "reason": "LLM 判定不下注：歐盟推動供應鏈多元化是經濟政策話題，與候選市場涵蓋的羅馬尼亞總理任命、德國州選舉結果、西班牙提前選舉等政治事件無直接對應"}
 {"strategy": "trend", "trend_id": "伊媒伊朗在华盛顿改变其立场之前不会与美国进行谈判", "trend_title": "伊媒：伊朗在华盛顿改变其立场之前不会与美国进行谈判", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "sheinbaumtakesoncartelstrumpandthelegacyof1968", "trend_title": "Sheinbaum takes on cartels, Trump and the legacy of 1968", "market_title": "", "reason": "LLM 判定不下注：熱門話題主要講述墨西哥新總統Sheinbaum上任後對毒梟、特朗普以及1968年遺產的應對政策。所有候選市場均涉及特朗普"}
