@@ -3129,3 +3129,4 @@
 {"strategy": "trend", "trend_id": "韩国大法院终审判处尹锡悦有期徒刑7年", "trend_title": "韩国大法院终审判处尹锡悦有期徒刑7年", "market_title": "Lee Jae-myung out as president of South Korea in 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "习近平中国愿与纳方共同加强矿产合作", "trend_title": "习近平：中国愿与纳方共同加强矿产合作", "market_title": "", "reason": "LLM 判定不下注：話題內容是習近平與納米比亞討論礦產合作的外交互動，屬於常規經濟外交。候選市場[0]涉及軍事衝突，[1]涉及訪美，[2]["}
 {"strategy": "trend", "trend_id": "分析人士美伊再交火本质是围绕霍尔木兹海峡博弈", "trend_title": "分析人士：美伊再交火本质是围绕霍尔木兹海峡博弈", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "zaporizhzhiasmayorsaysrussianadvancereachescitysoutskirts", "trend_title": "Zaporizhzhia’s mayor says Russian advance reaches city’s outskirts", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及烏克蘭戰爭地緣政治事件（Zaporizhzhia俄軍推進），而所有候選市場均為2028年美國總統選舉相關。兩"}
