@@ -3173,3 +3173,4 @@
 {"strategy": "trend", "trend_id": "据伊朗国家媒体伊朗最高领袖将在未来数小时内发表有关前任遇害领袖的葬礼的信息", "trend_title": "据伊朗国家媒体：伊朗最高领袖将在未来数小时内发表有关前任遇害领袖的葬礼的信息。", "market_title": "", "reason": "LLM 判定不下注：此話題是關於伊朗最高領袖將就前任領袖的葬禮發表聲明，與核協議市場無關。"}
 {"strategy": "trend", "trend_id": "苹果起诉openai及两名前员工窃取硬件商业机密", "trend_title": "苹果起诉OpenAI及两名前员工窃取硬件商业机密", "market_title": "Will OpenAI not IPO by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "朝鲜通报特大腐败犯罪", "trend_title": "朝鲜通报特大腐败犯罪", "market_title": "", "reason": "LLM 判定不下注：该话题讨论朝鲜国内的腐败问题，与候选市场提出的朝鲜是否入侵韩国、是否承认以色列、最高领导人是否下台等政治外交议题关联度不"}
+{"strategy": "trend", "trend_id": "美国打击伊朗造成遇难者人数升至17人超100人受伤", "trend_title": "美国打击伊朗造成遇难者人数升至17人 超100人受伤", "market_title": "", "reason": "LLM 判定不下注：此新聞報導美國與伊朗之間的軍事衝突，造成人員傷亡。然而，所有候選市場都關於美伊核協議的最終簽署時間，與新聞內容無直接關聯"}
