@@ -15,7 +15,10 @@ concurrency:
 jobs:
   pipeline:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    # 2026-07-11 暫調高：political whale_filter 從1→5隻+6.6天監控凍結補抓的積壓，
+    # 本地實測要 901 秒（15分）才能一次消化完，會被原本的10分鐘上限砍斷。
+    # 這批積壓只會發生一次，之後每輪只有正常新增量，屆時可以調回較短值。
+    timeout-minutes: 20
     permissions:
       contents: write  # 為了 commit state 回 repo
     env:
