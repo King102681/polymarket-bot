@@ -3149,3 +3149,7 @@
 {"strategy": "trend", "trend_id": "aretheusandiranatwaragain", "trend_title": "Are the US and Iran at war again?", "market_title": "", "reason": "LLM 判定不下注：此話題探討的是美國與伊朗是否『再次交戰』，並無直接提及核子協議的進展。雖然兩國關係緊張可能影響核協議，但此新聞熱點本身並"}
 {"strategy": "trend", "trend_id": "白宫证实特朗普已清空美选举援助委员会", "trend_title": "白宫证实特朗普已“清空”美选举援助委员会", "market_title": "", "reason": "信心 0.30 < 0.35：此新聞指出特朗普已“清空”美選舉援助委員會，這意味著他可能正在為競選或未來的政治"}
 {"strategy": "trend", "trend_id": "据半岛电视台伊朗官员表示该国研究基础设施在战争中遭受了3亿美元损失", "trend_title": "据半岛电视台：伊朗官员表示，该国研究基础设施在战争中遭受了3亿美元损失。", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "据沙特媒体哈达斯有未证实消息称在伊朗巴克达什特和巴尔希因附近听到强烈爆炸声", "trend_title": "据沙特媒体哈达斯：有未证实消息称，在伊朗巴克达什特和巴尔希因附近听到强烈爆炸声。", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美国对伊朗实施新制裁", "trend_title": "美国对伊朗实施新制裁", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "伊朗国家媒体伊朗外长阿拉格齐抵达阿曼首都马斯喀特", "trend_title": "伊朗国家媒体：伊朗外长阿拉格齐抵达阿曼首都马斯喀特。", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "也门胡塞武装宣布进行大规模动员", "trend_title": "也门胡塞武装宣布进行大规模动员", "market_title": "Will the Houthis successfully target shipping by August 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
