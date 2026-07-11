@@ -3170,3 +3170,6 @@
 {"strategy": "trend", "trend_id": "朝鲜通报朴喜哲为首特大腐败行为", "trend_title": "朝鲜通报朴喜哲为首特大腐败行为", "market_title": "Kim Jong Un out as Supreme Leader of North Korea by December 31, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "卫星图像伊朗或在重建多处核设施", "trend_title": "卫星图像：伊朗或在重建多处核设施", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "苹果起诉openai指控其窃取绝密信息", "trend_title": "苹果起诉OpenAI，指控其“窃取绝密信息”", "market_title": "", "reason": "LLM 判定不下注：此話題是關於蘋果起訴 OpenAI 的事件，這是一個法律和商業糾紛，與候選市場中 OpenAI 的 IPO 時程、模型評"}
+{"strategy": "trend", "trend_id": "据伊朗国家媒体伊朗最高领袖将在未来数小时内发表有关前任遇害领袖的葬礼的信息", "trend_title": "据伊朗国家媒体：伊朗最高领袖将在未来数小时内发表有关前任遇害领袖的葬礼的信息。", "market_title": "", "reason": "LLM 判定不下注：此話題是關於伊朗最高領袖將就前任領袖的葬禮發表聲明，與核協議市場無關。"}
+{"strategy": "trend", "trend_id": "苹果起诉openai及两名前员工窃取硬件商业机密", "trend_title": "苹果起诉OpenAI及两名前员工窃取硬件商业机密", "market_title": "Will OpenAI not IPO by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "朝鲜通报特大腐败犯罪", "trend_title": "朝鲜通报特大腐败犯罪", "market_title": "", "reason": "LLM 判定不下注：该话题讨论朝鲜国内的腐败问题，与候选市场提出的朝鲜是否入侵韩国、是否承认以色列、最高领导人是否下台等政治外交议题关联度不"}
