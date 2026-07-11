@@ -50,7 +50,17 @@ STRATEGIES: dict[str, StrategyConfig] = {
         # 驗證 other 類別 edge（同 beachboy4/RN1 的 soccer 驗證邏輯）：
         # maz26 edge+5.1%（n=102）、大單edge+5.6%（n=99）、跟單模擬ROI+2.6% → 加入。
         # allowed_categories 會自動濾掉 maz26 41% 的 sports 交易，不需額外處理。
-        whale_filter=["The Spirit of Ukraine>UMA", "maz26"],
+        # 2026-07-11：同批 discovery 候選裡再測 5 隻，用「跟單ROI」而非「edge」判斷
+        # （UpTheBlues edge+1.6%看似正，但跟單ROI-8.7%——手續費吃光薄邊際，剔除；
+        # BreakTheBank edge-16.9%明確剔除）。3 隻驗證通過並加入：
+        # Allezpapa edge+4.2%/ROI+23.1%(n=67)、0xd4aa6f8e91cfea29...edge+19.8%/ROI+33.2%
+        # (n=143，本場資料offset上限只拉到48天，未來可重驗)、
+        # 0x2c335066FE58fe9237...edge+4.7%/ROI+5.7%(n=741，樣本量最大)。
+        whale_filter=[
+            "The Spirit of Ukraine>UMA", "maz26", "Allezpapa",
+            "0xd4aa6f8e91cfea29b66a48ebff52814",
+            "0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465",
+        ],
         min_size_usdc=100.0,           # $100：抓 Spirit of Ukraine 小額試水單
         min_market_hours_left=6.0,
         min_entry_hours_remaining=168.0,  # 7 天以上才跟

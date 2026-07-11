@@ -151,9 +151,19 @@ def _print_report(r: dict) -> None:
     print(f"\n  💰 跟單模擬（只跟≥$100單, ×{FOLLOW_RATIO}, cap ${MAX_BET_USDC:.0f}）")
     print(f"     n={f['n']}  勝率={f['win_rate']:.1%}  PnL=${f['pnl']:+.2f}  成本=${f['cost']:.2f}  ROI={roi_str}")
 
-    verdict = "✅ 建議加入 whale_filter" if eb.get('n', 0) >= 5 and eb.get('edge', -1) > 0 else \
-              "⚠️ 樣本不足或 edge 不明，暫緩加入" if eb.get('n', 0) < 5 else \
-              "❌ edge 為負，不建議加入"
+    # ⚠️ 2026-07-11 修正：原本只看 edge>0 就建議加入，但 UpTheBlues 案例顯示
+    # edge+1.4~1.6%（正）卻 follow ROI -8.7%（負）——手續費+滑價把薄邊際吃光。
+    # edge 是「鯨魚選股能力」的訊號，follow ROI 才是「我們實際會不會賺錢」，
+    # 必須以 follow ROI 為準，不能只看 edge 正負就下結論。
+    roi = f.get('roi')
+    if eb.get('n', 0) < 5:
+        verdict = "⚠️ 樣本不足，暫緩加入"
+    elif roi is None or f.get('n', 0) < 5:
+        verdict = "⚠️ 跟單模擬樣本不足，暫緩加入"
+    elif roi > 0:
+        verdict = "✅ 建議加入 whale_filter"
+    else:
+        verdict = f"❌ edge 雖為 {eb.get('edge',0):+.1%} 但跟單 ROI 為負（手續費吃掉薄邊際），不建議加入"
     print(f"\n  結論：{verdict}")
 
 
