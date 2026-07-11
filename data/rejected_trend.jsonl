@@ -3125,3 +3125,6 @@
 {"strategy": "trend", "trend_id": "特朗普宣布美光将在美投资2500亿美元制造存储芯片", "trend_title": "特朗普宣布美光将在美投资2500亿美元制造存储芯片", "market_title": "", "reason": "LLM 判定不下注：話題關於美光在美投資芯片製造，涉及產業政策與經濟，與候選市場完全無關。候選市場皆為特朗普個人政治事件（任期、世界盃出席、"}
 {"strategy": "trend", "trend_id": "iranwarliveusdemandsiranpubliclystatestraitofhormuzopenforall", "trend_title": "Iran war live: US demands Iran publicly state Strait of Hormuz open for all", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "朝鲜内阁总理与习近平会晤金正恩要求将朝中关系发展为最强有力的战略关系", "trend_title": "朝鲜内阁总理与习近平会晤：金正恩要求将朝中关系发展为最强有力的战略关系", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及朝鮮與中國的戰略關係強化，但候選市場[0-4]均不直接對應此事件。[0]涉及美中軍事衝突，[1]涉及中國政變"}
+{"strategy": "trend", "trend_id": "金正恩习近平互致贺电称朝中关系提升至新战略高度", "trend_title": "金正恩习近平互致贺电 称朝中关系提升至新战略高度", "market_title": "", "reason": "LLM 判定不下注：话题关于中朝关系提升，与所有候选市场（涉及中美军事冲突、习近平访美、中国政变、离婚、或与韩国李在明会面）均无直接关联。因"}
+{"strategy": "trend", "trend_id": "韩国大法院终审判处尹锡悦有期徒刑7年", "trend_title": "韩国大法院终审判处尹锡悦有期徒刑7年", "market_title": "Lee Jae-myung out as president of South Korea in 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "习近平中国愿与纳方共同加强矿产合作", "trend_title": "习近平：中国愿与纳方共同加强矿产合作", "market_title": "", "reason": "LLM 判定不下注：話題內容是習近平與納米比亞討論礦產合作的外交互動，屬於常規經濟外交。候選市場[0]涉及軍事衝突，[1]涉及訪美，[2]["}
