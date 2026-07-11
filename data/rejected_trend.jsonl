@@ -3141,3 +3141,5 @@
 {"strategy": "trend", "trend_id": "伊朗外长批美方违反谅解备忘录第九条", "trend_title": "伊朗外长批美方违反谅解备忘录第九条", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "据伊朗迈赫尔通讯社以色列对南黎巴嫩的袭击造成1人死亡3人受伤", "trend_title": "据伊朗迈赫尔通讯社：以色列对南黎巴嫩的袭击造成1人死亡，3人受伤。", "market_title": "", "reason": "LLM 判定不下注：此新聞指出以色列與黎巴嫩之間發生衝突，但候選市場皆與以哈停火有關，並未直接關聯。因此，該新聞無法判斷市場方向。"}
 {"strategy": "trend", "trend_id": "iranprivatelytoldtrumpadviserstheymadeamistakeinshootingatshipsinstraitofhormuz", "trend_title": "Iran privately told Trump advisers \"they made a mistake\" in shooting at ships in Strait of Hormuz", "market_title": "Will Trump talk to Mojtaba Khamenei by December 31?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "上海航运交易研究所原油运价止跌回暖", "trend_title": "上海航运交易研究所：原油运价止跌回暖", "market_title": "", "reason": "LLM 判定不下注：话题关于原油运价止跌回暖，而候选市场关注的是WTI原油价格是否会在7月达到某个特定高点或低点。运价回暖不直接等同于原油价"}
+{"strategy": "trend", "trend_id": "台报馆长大陆行诠释两岸一家亲", "trend_title": "台报：“馆长”大陆行诠释“两岸一家亲”", "market_title": "", "reason": "信心 0.25 < 0.35：话题报道'馆长'访大陆诠释'两岸一家亲'，属于两岸交流缓和的积极信号，暗示短期内"}
