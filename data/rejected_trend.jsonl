@@ -3197,3 +3197,5 @@
 {"strategy": "trend", "trend_id": "特朗普宣布美伊停火终结美军连续空袭伊朗油价大涨", "trend_title": "特朗普宣布美伊停火终结 美军连续空袭伊朗油价大涨", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於特朗普與伊朗的衝突，但候選市場均與此無關，而是關於特朗普購買格陵蘭、總統任期、與卡塔爾的互動以及公開"}
 {"strategy": "trend", "trend_id": "伊朗学者称美方从未真正履行备忘录", "trend_title": "伊朗学者称美方从未真正履行备忘录", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "日本众议院通过皇室典范修正案", "trend_title": "日本众议院通过《皇室典范》修正案", "market_title": "", "reason": "LLM 判定不下注：熱門話題是日本皇室典範修正案，涉及日本國內政治。所有候選市場均為美國政治相關（參議院控制權、政府關門、國會股票交易禁令）"}
+{"strategy": "trend", "trend_id": "没戴保险套就不要做台湾拟管制事后避孕药引发女性焦虑", "trend_title": "“没戴保险套就不要做”？台湾拟管制事后避孕药引发女性焦虑", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及台灣事後避孕藥管制政策與女性權益議題。候選市場全數無關：[0][2][3]聚焦中國對台軍事入侵，[1]與[4"}
+{"strategy": "trend", "trend_id": "伊朗袭击油轮挑衅行动或重燃战争", "trend_title": "伊朗袭击油轮，挑衅行动或重燃战争", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
