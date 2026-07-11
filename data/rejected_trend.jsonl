@@ -3135,3 +3135,5 @@
 {"strategy": "trend", "trend_id": "据悉openai安全系统负责人将离职", "trend_title": "据悉OpenAI安全系统负责人将离职", "market_title": "Will OpenAI not IPO by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "特朗普宣布美伊停火终结并空袭伊朗致油价大涨", "trend_title": "特朗普宣布美伊停火终结并空袭伊朗致油价大涨", "market_title": "", "reason": "LLM 判定不下注：話題涉及美伊軍事衝突與油價上漲，但候選市場全部聚焦於特朗普個人政治地位、出席活動或言論習慣，沒有任何市場直接對應『美伊軍"}
 {"strategy": "trend", "trend_id": "哈梅内伊下葬之际美伊互相发动攻击", "trend_title": "哈梅内伊下葬之际，美伊互相发动攻击", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "伊朗外交部长伊朗迄今信守承诺不像美国财政部长那样违反谅解备忘录第9条这一违规行为是美国其他违规和失误的延续", "trend_title": "伊朗外交部长：伊朗迄今信守承诺，不像美国财政部长那样违反谅解备忘录第9条这一违规行为是美国其他违规和失误的延续。", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美伊确认7月11日在阿曼继续谈判", "trend_title": "美伊确认7月11日在阿曼继续谈判", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
