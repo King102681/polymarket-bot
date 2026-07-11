@@ -3166,3 +3166,5 @@
 {"strategy": "trend", "trend_id": "朝鲜外务省无核化应优先适用于日韩的核武装企图和北约的核对抗野心", "trend_title": "朝鲜外务省：“无核化”应优先适用于日韩的核武装企图和北约的核对抗野心", "market_title": "", "reason": "LLM 判定不下注：話題是關於朝鮮對無核化的立場，並將矛頭指向日韓和北約的核武企圖，這與其他候選市場（入侵、承認以色列、領導人變動）關聯性低"}
 {"strategy": "trend", "trend_id": "trumpthreatensiranafterchantsforhisdeatheruptedatkhameneifuneral", "trend_title": "Trump threatens Iran after chants for his death erupted at Khamenei funeral", "market_title": "", "reason": "LLM 判定不下注：話題涉及Trump對伊朗葬禮事件的威脅回應，但候選市場均無法準確對應此事件。市場[0][1]關於Trump下台與總統職位"}
 {"strategy": "trend", "trend_id": "特朗普改口美加跨国大桥将于27日通车", "trend_title": "特朗普改口：美加跨国大桥将于27日通车", "market_title": "", "reason": "LLM 判定不下注：話題是特朗普宣佈美加跨國大橋通車時間表，純粹基礎設施進展新聞。5個候選市場均與此話題無直接關聯：市場[0-4]涉及總統職"}
+{"strategy": "trend", "trend_id": "美伊战火重燃致霍尔木兹过境量骤降船东谨慎撤离推高运输成本", "trend_title": "美伊战火重燃致霍尔木兹过境量骤降，船东谨慎撤离推高运输成本", "market_title": "", "reason": "LLM 判定不下注：話題是關於美伊衝突對霍爾木茲海峽運輸量的影響，進而推高運輸成本。候選市場皆是關於美伊核協議的達成時間，與當前話題沒有直接"}
+{"strategy": "trend", "trend_id": "朝鲜通报朴喜哲为首特大腐败行为", "trend_title": "朝鲜通报朴喜哲为首特大腐败行为", "market_title": "Kim Jong Un out as Supreme Leader of North Korea by December 31, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
