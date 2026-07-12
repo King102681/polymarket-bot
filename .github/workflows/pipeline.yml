@@ -72,10 +72,13 @@ jobs:
           else
             git commit -m "data: pipeline state @ $(date -u +%Y-%m-%dT%H:%M:%SZ)"
             pushed=false
-            for i in 1 2 3; do
+            # 2026-07-12：3次/固定5秒間隔在同時多個 workflow 活躍時偶爾全部撞在一起
+            # （schedule 觸發跟 cron-job.org 的 workflow_dispatch 疊在同個5分鐘窗口）。
+            # 加到6次+隨機化間隔，讓兩個同時碰撞的run不會每次都在同一秒重試、持續互撞。
+            for i in 1 2 3 4 5 6; do
               git pull --rebase --autostash && git push && { pushed=true; break; }
               echo "push attempt $i failed, retrying..."
-              sleep 5
+              sleep $((4 + RANDOM % 8))
             done
             # ⚠️ 2026-07-03~07-10 踩過的坑：迴圈3次全失敗但沒有 exit 1，
             # 整個 step 靜默回報成功——monitor_state.json/signals.jsonl 因此
