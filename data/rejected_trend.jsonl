@@ -3337,3 +3337,4 @@
 {"strategy": "trend", "trend_id": "ukchristiansprotestforchurchofenglandtorecognisegenocideingaza", "trend_title": "UK Christians protest for Church of England to recognise genocide in Gaza", "market_title": "", "reason": "LLM 判定不下注：此話題是關於英國基督徒對加薩種族滅絕的抗議，與候選市場的以色列與哈瑪斯停火協議並無直接關聯，市場指數應為-1。"}
 {"strategy": "trend", "trend_id": "据伊朗媒体farsnews伊朗革命卫队此前在科威特的无人机行动中瞄准了美国火箭弹发射系统", "trend_title": "据伊朗媒体Fars News：伊朗革命卫队此前在科威特的无人机行动中瞄准了美国火箭弹发射系统。", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "科威特军方伊朗袭击致边境哨所及钻井平台受损", "trend_title": "科威特军方：伊朗袭击致边境哨所及钻井平台受损", "market_title": "", "reason": "LLM 判定不下注：此新聞描述的是科威特邊境設施受損，與美國和伊朗之間的核協議談判進展沒有直接關聯。因此，該話題與候選市場關聯性不高。"}
+{"strategy": "trend", "trend_id": "美伊一周内三轮互袭伊朗宣布无限期关闭霍尔木兹海峡", "trend_title": "美伊一周内三轮互袭，伊朗宣布无限期关闭霍尔木兹海峡", "market_title": "", "reason": "LLM 判定不下注：儘管美伊衝突升級，但熱門話題聚焦於軍事互襲和霍爾木茲海峽的封鎖，而所有候選市場都與美伊核協議的談判時間線有關。這兩者之間"}
