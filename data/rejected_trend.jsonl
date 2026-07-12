@@ -3259,3 +3259,7 @@
 {"strategy": "trend", "trend_id": "伊朗革命卫队美国军方对伊朗南部海岸的多个沿海基地和通信塔发起了空袭", "trend_title": "伊朗革命卫队：美国军方对伊朗南部海岸的多个沿海基地和通信塔发起了空袭。", "market_title": "", "reason": "LLM 判定不下注：此熱門話題描述的是軍事空襲事件，與候選市場中關於美伊核協議談判的預測無直接關聯，因此選擇無相關市場。"}
 {"strategy": "trend", "trend_id": "伊朗关闭霍尔木兹海峡打击美在中东目标美军对伊发动新一轮袭击多地传出爆炸声", "trend_title": "伊朗关闭霍尔木兹海峡、打击美在中东目标，美军对伊发动新一轮袭击、多地传出爆炸声", "market_title": "", "reason": "LLM 判定不下注：該話題主要集中在軍事衝突和地緣政治緊張局勢，而候選市場均與美伊核協議的最終達成時間有關。目前沒有足夠的資訊直接連結到核協"}
 {"strategy": "trend", "trend_id": "伊朗摧毁约旦美军基地的控制中心和无人机机库", "trend_title": "伊朗：摧毁约旦美军基地的控制中心和无人机机库", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "北约峰会特朗普在对盟友出言不逊后又展示团结", "trend_title": "北约峰会：特朗普在对盟友出言不逊后又展示团结", "market_title": "Will Donald Trump publicly insult someone on July 17, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "媒体伊朗伊斯兰革命卫队威胁称若遭侵略将打击中东地区敌方基地", "trend_title": "媒体：伊朗伊斯兰革命卫队威胁称若遭侵略将打击中东地区敌方基地", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "法国向叙利亚归还23件文物", "trend_title": "法国向叙利亚归还23件文物", "market_title": "", "reason": "信心 0.30 < 0.35：法国向叙利亚归还文物，这表明两国关系有所缓和，但并非直接的建交或承认关系。市场对"}
+{"strategy": "trend", "trend_id": "伊朗停火协议终结特朗普面临破局难题", "trend_title": "伊朗停火协议“终结”，特朗普面临破局难题", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及伊朗停火協議與地緣政治危機，但所有候選市場均為『特朗普是否公開侮辱他人』的通用預測，時間跨度在2026年7月"}
