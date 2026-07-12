@@ -3315,3 +3315,4 @@
 {"strategy": "trend", "trend_id": "伊朗最高领袖顾问雷扎伊霍尔木兹海峡是一种战略威慑力量其重要性甚至超过数十枚原子弹伊朗将守护这条至关重要的水道", "trend_title": "伊朗最高领袖顾问雷扎伊：霍尔木兹海峡是一种战略威慑力量，其重要性甚至超过数十枚原子弹。伊朗将守护这条至关重要的水道。", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美伊连续五日互袭致17死伊朗宣布关闭霍尔木兹海峡", "trend_title": "美伊连续五日互袭致17死 伊朗宣布关闭霍尔木兹海峡", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "特朗普伊朗昨天已同意完美协议但转头就开了火", "trend_title": "特朗普：伊朗昨天已同意“完美协议”，但转头就开了火", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於特朗普與伊朗的政治協議，而候選市場是關於特朗普是否會在特定日期公開侮辱某人。兩者之間沒有任何關聯性，"}
+{"strategy": "trend", "trend_id": "伊朗学者伊方寻求推进霍尔木兹海峡管理新框架", "trend_title": "伊朗学者：伊方寻求推进霍尔木兹海峡管理新框架", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
