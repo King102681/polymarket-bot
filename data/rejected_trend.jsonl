@@ -3265,3 +3265,4 @@
 {"strategy": "trend", "trend_id": "伊朗停火协议终结特朗普面临破局难题", "trend_title": "伊朗停火协议“终结”，特朗普面临破局难题", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及伊朗停火協議與地緣政治危機，但所有候選市場均為『特朗普是否公開侮辱他人』的通用預測，時間跨度在2026年7月"}
 {"strategy": "trend", "trend_id": "巴林国防部空中防御系统成功拦截伊朗的攻击", "trend_title": "巴林国防部：空中防御系统成功拦截伊朗的攻击。", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美伊连续五日交火致17死115伤", "trend_title": "美伊连续五日交火致17死115伤", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美国中央司令部商业船只在霍尔木兹海峡这一重要国际海上走廊的通航仍在继续", "trend_title": "美国中央司令部：商业船只在霍尔木兹海峡这一重要国际海上走廊的通航仍在继续。", "market_title": "Strait of Hormuz traffic returns to normal by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
