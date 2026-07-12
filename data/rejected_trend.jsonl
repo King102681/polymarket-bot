@@ -3312,3 +3312,5 @@
 {"strategy": "trend", "trend_id": "华尔街日报调查伊朗战争冲击低于预期但通胀更顽固", "trend_title": "华尔街日报调查：伊朗战争冲击低于预期，但通胀更顽固", "market_title": "", "reason": "LLM 判定不下注：該話題主要討論伊朗戰爭對通膨的影響，與候選市場關於美伊核協議的到期時間及外交會議的市場無直接關聯性。"}
 {"strategy": "trend", "trend_id": "据nbc新闻美国总统特朗普表示霍尔木兹海峡是开放的", "trend_title": "据NBC新闻：美国总统特朗普表示，霍尔木兹海峡是开放的。", "market_title": "", "reason": "LLM 判定不下注：此話題關於特朗普對霍爾木茲海峽的聲明，與候選市場中關於特朗普是否會侮辱某人的預測毫無關聯。"}
 {"strategy": "trend", "trend_id": "伊朗霍尔木兹海峡目前无法通行", "trend_title": "伊朗：霍尔木兹海峡目前无法通行", "market_title": "", "reason": "LLM 判定不下注：霍尔木兹海峡通行受阻是地缘政治风险事件,反映伊朗与地区局势紧张,但与候选市场（均聚焦核协议谈判进展和外交会晤）没有直接对"}
+{"strategy": "trend", "trend_id": "伊朗最高领袖顾问雷扎伊霍尔木兹海峡是一种战略威慑力量其重要性甚至超过数十枚原子弹伊朗将守护这条至关重要的水道", "trend_title": "伊朗最高领袖顾问雷扎伊：霍尔木兹海峡是一种战略威慑力量，其重要性甚至超过数十枚原子弹。伊朗将守护这条至关重要的水道。", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美伊连续五日互袭致17死伊朗宣布关闭霍尔木兹海峡", "trend_title": "美伊连续五日互袭致17死 伊朗宣布关闭霍尔木兹海峡", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
