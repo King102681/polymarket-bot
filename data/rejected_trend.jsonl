@@ -3294,3 +3294,5 @@
 {"strategy": "trend", "trend_id": "巴基斯坦外长呼吁各方落实美伊谅解备忘录", "trend_title": "巴基斯坦外长呼吁各方落实美伊谅解备忘录", "market_title": "US-Iran Final Nuclear Deal by September 30, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "外媒拜登之子因诽谤案获赔170万美元", "trend_title": "外媒：拜登之子因诽谤案获赔170万美元", "market_title": "", "reason": "LLM 判定不下注：此新聞是關於拜登之子漢特·拜登的诽謗案獲賠，與所提供的美國總統大選相關的候選市場（包括蓋文·紐森、瓊·奧索夫、亞歷山德里"}
 {"strategy": "trend", "trend_id": "美伊连续多轮互袭后伊朗宣布关闭霍尔木兹海峡", "trend_title": "美伊连续多轮互袭后伊朗宣布关闭霍尔木兹海峡", "market_title": "", "reason": "LLM 判定不下注：此熱門話題描述的是軍事行動和地緣政治衝突，與候選市場中關於美伊核協議談判的市場關聯性不大。關閉荷姆茲海峽是軍事對抗的表現"}
+{"strategy": "trend", "trend_id": "missilesanddronesfiredatgulfstatesafternightofusstrikesoniran", "trend_title": "Missiles and drones fired at Gulf states after night of US strikes on Iran", "market_title": "", "reason": "LLM 判定不下注：此話題是關於導彈和無人機攻擊，與美國和伊朗的核協議無直接關聯，因此市場指數選擇-1。"}
+{"strategy": "trend", "trend_id": "ussenatorlindseygrahamdiesafterbriefandsuddenillnesshisofficesays", "trend_title": "US Senator Lindsey Graham dies after 'brief and sudden illness', his office says", "market_title": "", "reason": "LLM 判定不下注：該話題關於美國參議員的健康狀況，與北約、俄羅斯或烏克蘭的軍事衝突或加入北約的市場無關。"}
