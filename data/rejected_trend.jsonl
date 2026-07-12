@@ -3256,3 +3256,6 @@
 {"strategy": "trend", "trend_id": "台驻美代表美国重申对台政策不变", "trend_title": "台驻美代表：美国重申对台政策不变", "market_title": "Will China invade Taiwan by December 31, 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "伊朗打击美国在中东地区目标", "trend_title": "伊朗打击美国在中东地区目标", "market_title": "", "reason": "LLM 判定不下注：話題是關於伊朗打擊美國在中東的目標，這屬於軍事衝突，與候選市場中的核協議談判或外交會議無關。"}
 {"strategy": "trend", "trend_id": "据伊朗塔斯尼姆通讯社与伊朗媒体farsnews报道约旦的防空系统已启动", "trend_title": "据伊朗塔斯尼姆通讯社与伊朗媒体Fars News报道，约旦的防空系统已启动。", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於約旦防空系統啟動，這是一則軍事或地緣政治的突發新聞。候選市場均與美國和伊朗的核協議談判有關，兩者之間"}
+{"strategy": "trend", "trend_id": "伊朗革命卫队美国军方对伊朗南部海岸的多个沿海基地和通信塔发起了空袭", "trend_title": "伊朗革命卫队：美国军方对伊朗南部海岸的多个沿海基地和通信塔发起了空袭。", "market_title": "", "reason": "LLM 判定不下注：此熱門話題描述的是軍事空襲事件，與候選市場中關於美伊核協議談判的預測無直接關聯，因此選擇無相關市場。"}
+{"strategy": "trend", "trend_id": "伊朗关闭霍尔木兹海峡打击美在中东目标美军对伊发动新一轮袭击多地传出爆炸声", "trend_title": "伊朗关闭霍尔木兹海峡、打击美在中东目标，美军对伊发动新一轮袭击、多地传出爆炸声", "market_title": "", "reason": "LLM 判定不下注：該話題主要集中在軍事衝突和地緣政治緊張局勢，而候選市場均與美伊核協議的最終達成時間有關。目前沒有足夠的資訊直接連結到核協"}
+{"strategy": "trend", "trend_id": "伊朗摧毁约旦美军基地的控制中心和无人机机库", "trend_title": "伊朗：摧毁约旦美军基地的控制中心和无人机机库", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
