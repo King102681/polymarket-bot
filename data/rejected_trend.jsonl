@@ -3290,3 +3290,4 @@
 {"strategy": "trend", "trend_id": "美伊在霍尔木兹海峡爆发多轮军事冲突", "trend_title": "美伊在霍尔木兹海峡爆发多轮军事冲突", "market_title": "", "reason": "LLM 判定不下注：提供的話題是關於軍事衝突，而所有候選市場都與美伊之間的『核協議』或『外交會議』有關，兩者關聯性不高，且軍事衝突的爆發本身"}
 {"strategy": "trend", "trend_id": "卡塔尔内政部伊朗袭击后三人受伤其中包括一名儿童均因弹片落下所致", "trend_title": "卡塔尔内政部：伊朗袭击后，三人受伤，其中包括一名儿童，均因弹片落下所致。", "market_title": "", "reason": "LLM 判定不下注：此新聞提到卡達，但主要內容是伊朗襲擊導致人員傷亡，與美國和伊朗之間的核協議或外交會議的候選市場無直接關聯。因此，無法判斷"}
 {"strategy": "trend", "trend_id": "ussenatorlindseygrahampassesaway", "trend_title": "US Senator Lindsey Graham passes away", "market_title": "", "reason": "LLM 判定不下注：參議員 Lindsey Graham 去世是重大新聞，但與兩個候選市場（NATO-俄羅斯軍事衝突、烏克蘭加入NATO）的"}
+{"strategy": "trend", "trend_id": "ussenatorlindseygrahamdiesfromsuddenillness", "trend_title": "US Senator Lindsey Graham Dies From Sudden Illness", "market_title": "", "reason": "LLM 判定不下注：話題是關於某參議員的死訊，與北約、俄羅斯軍事衝突或烏克蘭加入北約的市場完全無關。"}
