@@ -3292,3 +3292,4 @@
 {"strategy": "trend", "trend_id": "ussenatorlindseygrahampassesaway", "trend_title": "US Senator Lindsey Graham passes away", "market_title": "", "reason": "LLM 判定不下注：參議員 Lindsey Graham 去世是重大新聞，但與兩個候選市場（NATO-俄羅斯軍事衝突、烏克蘭加入NATO）的"}
 {"strategy": "trend", "trend_id": "ussenatorlindseygrahamdiesfromsuddenillness", "trend_title": "US Senator Lindsey Graham Dies From Sudden Illness", "market_title": "", "reason": "LLM 判定不下注：話題是關於某參議員的死訊，與北約、俄羅斯軍事衝突或烏克蘭加入北約的市場完全無關。"}
 {"strategy": "trend", "trend_id": "巴基斯坦外长呼吁各方落实美伊谅解备忘录", "trend_title": "巴基斯坦外长呼吁各方落实美伊谅解备忘录", "market_title": "US-Iran Final Nuclear Deal by September 30, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "外媒拜登之子因诽谤案获赔170万美元", "trend_title": "外媒：拜登之子因诽谤案获赔170万美元", "market_title": "", "reason": "LLM 判定不下注：此新聞是關於拜登之子漢特·拜登的诽謗案獲賠，與所提供的美國總統大選相關的候選市場（包括蓋文·紐森、瓊·奧索夫、亞歷山德里"}
