@@ -3252,3 +3252,4 @@
 {"strategy": "trend", "trend_id": "thousandsofalbaniansmarchagainsttrumplinkedresort", "trend_title": "Thousands of Albanians march against Trump-linked resort", "market_title": "", "reason": "LLM 判定不下注：該熱門話題描述的是數千名阿爾巴尼亞人抗議一個與特朗普有關的度假村。這與預測特朗普是否會在特定日期公開侮辱某人沒有直接關聯"}
 {"strategy": "trend", "trend_id": "指伊朗袭击商船美军发动新一轮空袭", "trend_title": "指伊朗袭击商船 美军发动新一轮空袭", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "伊朗称霍尔木兹海峡将无限期关闭", "trend_title": "伊朗称霍尔木兹海峡将“无限期关闭”", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "据伊朗媒体farsnews阿拉伯消息来源报道称在科威特听到两次爆炸声", "trend_title": "据伊朗媒体Fars News：阿拉伯消息来源报道称，在科威特听到两次爆炸声。", "market_title": "", "reason": "LLM 判定不下注：科威特爆炸事件屬於地區安全突發新聞，與美伊核協議談判的直接關聯性不明確。該事件可能間接影響地區局勢與外交環境，但不足以對"}
