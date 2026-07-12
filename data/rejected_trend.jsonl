@@ -3281,3 +3281,5 @@
 {"strategy": "trend", "trend_id": "伊朗称打击阿曼杜库姆港美军目标", "trend_title": "伊朗称打击阿曼杜库姆港美军目标", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "强台巴威横扫台湾致134伤逾24万户停电", "trend_title": "强台巴威横扫台湾致134伤 逾24万户停电", "market_title": "", "reason": "LLM 判定不下注：話題是颱風災害（強台巴威），涉及天災造成人員傷害與停電。候選市場都與地緣政治或宗教事件相關，與颱風災害無直接對應。市場["}
 {"strategy": "trend", "trend_id": "伊朗称再次打击违规船只并对卡塔尔美军基地发动袭击", "trend_title": "伊朗称再次打击“违规船只” 并对卡塔尔美军基地发动袭击", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "据伊朗媒体farsnews科威特和巴林传出强烈爆炸声", "trend_title": "据伊朗媒体Fars News：科威特和巴林传出强烈爆炸声。", "market_title": "", "reason": "LLM 判定不下注：爆炸新闻虽然听起来严重，但与伊核协议的进展没有直接关联，这些协议市场通常围绕政治谈判和制裁解除进行，而爆炸事件更多是地缘"}
+{"strategy": "trend", "trend_id": "iranlaunchesattacksacrossthegulfaftermoreusstrikes", "trend_title": "Iran launches attacks across the Gulf after more US strikes", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
