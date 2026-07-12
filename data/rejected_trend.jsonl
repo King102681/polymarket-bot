@@ -3318,3 +3318,4 @@
 {"strategy": "trend", "trend_id": "伊朗学者伊方寻求推进霍尔木兹海峡管理新框架", "trend_title": "伊朗学者：伊方寻求推进霍尔木兹海峡管理新框架", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "据伊朗迈赫尔通讯社初步消息称伊朗对美国在科威特的导弹发射基地发动了攻击", "trend_title": "据伊朗迈赫尔通讯社：初步消息称伊朗对美国在科威特的导弹发射基地发动了攻击。", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "中美印太地区格局莫迪拉拢印太伙伴", "trend_title": "中美印太地区格局 莫迪拉拢印太伙伴", "market_title": "", "reason": "LLM 判定不下注：熱門話題聚焦於莫迪拉攏印太伙伴、中美印太地區格局變化，涉及印度地緣政治戰略。三個候選市場分別涉及烏克蘭-俄羅斯和談、美中"}
+{"strategy": "trend", "trend_id": "israeliforceskillfivepalestiniansinlatestattacksongaza", "trend_title": "Israeli forces kill five Palestinians in latest attacks on Gaza", "market_title": "Israel x Hamas ceasefire cancelled by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
