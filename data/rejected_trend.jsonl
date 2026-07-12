@@ -3250,3 +3250,5 @@
 {"strategy": "trend", "trend_id": "据伊朗国家电视台在南部霍尔木兹甘省的贾斯克市传出两声爆炸声", "trend_title": "据伊朗国家电视台：在南部霍尔木兹甘省的贾斯克市传出两声爆炸声。", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美官员称伊朗暗杀特朗普威胁可信度不高", "trend_title": "美官员称伊朗暗杀特朗普威胁“可信度不高”", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於伊朗暗殺特朗普威脅的可信度，與候選市場關於特朗普是否會在特定日期公開侮辱某人的問題沒有任何關聯。因此"}
 {"strategy": "trend", "trend_id": "thousandsofalbaniansmarchagainsttrumplinkedresort", "trend_title": "Thousands of Albanians march against Trump-linked resort", "market_title": "", "reason": "LLM 判定不下注：該熱門話題描述的是數千名阿爾巴尼亞人抗議一個與特朗普有關的度假村。這與預測特朗普是否會在特定日期公開侮辱某人沒有直接關聯"}
+{"strategy": "trend", "trend_id": "指伊朗袭击商船美军发动新一轮空袭", "trend_title": "指伊朗袭击商船 美军发动新一轮空袭", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "伊朗称霍尔木兹海峡将无限期关闭", "trend_title": "伊朗称霍尔木兹海峡将“无限期关闭”", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
