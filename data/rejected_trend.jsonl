@@ -3280,3 +3280,4 @@
 {"strategy": "trend", "trend_id": "伊朗首席谈判代表卡利巴夫单方面协议的时代已经结束我们曾说过必须信守承诺否则将付出代价现实正在发出警告", "trend_title": "伊朗首席谈判代表卡利巴夫：单方面协议的时代已经结束。我们曾说过，必须信守承诺，否则将付出代价。现实正在发出警告。", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "伊朗称打击阿曼杜库姆港美军目标", "trend_title": "伊朗称打击阿曼杜库姆港美军目标", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "强台巴威横扫台湾致134伤逾24万户停电", "trend_title": "强台巴威横扫台湾致134伤 逾24万户停电", "market_title": "", "reason": "LLM 判定不下注：話題是颱風災害（強台巴威），涉及天災造成人員傷害與停電。候選市場都與地緣政治或宗教事件相關，與颱風災害無直接對應。市場["}
+{"strategy": "trend", "trend_id": "伊朗称再次打击违规船只并对卡塔尔美军基地发动袭击", "trend_title": "伊朗称再次打击“违规船只” 并对卡塔尔美军基地发动袭击", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
