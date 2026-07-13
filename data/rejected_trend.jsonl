@@ -3476,3 +3476,4 @@
 {"strategy": "trend", "trend_id": "美国中央司令部确认恢复对伊朗港口的封锁", "trend_title": "美国中央司令部确认恢复对伊朗港口的封锁", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "uktolistiransirgcasterrorthreat", "trend_title": "UK to list Iran’s IRGC as ‘terror’ threat", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美军将于格林尼治时间14日20时起对伊朗实施海上封锁", "trend_title": "美军将于格林尼治时间14日20时起对伊朗实施海上封锁", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "trumpreinstatingnavalblockadeofiranianports", "trend_title": "Trump reinstating naval blockade of Iranian ports", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題與所有候選市場都無關。話題是關於川普恢復對伊朗港口的が海軍封鎖，而所有市場都關於川普在特定日期公開侮辱他人"}
