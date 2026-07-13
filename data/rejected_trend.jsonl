@@ -3384,3 +3384,4 @@
 {"strategy": "trend", "trend_id": "oilpricesjumpasusandirantradeattacksoverstraitofhormuz", "trend_title": "Oil prices jump as US and Iran trade attacks over Strait of Hormuz", "market_title": "", "reason": "LLM 判定不下注：話題討論的是美伊在霍爾木茲海峽的軍事衝突升級與油價上漲，屬於短期地緣政治緊張局勢。候選市場全數聚焦於核協議談判與外交會議"}
 {"strategy": "trend", "trend_id": "评论美伊冲突持续国际油价涨超3", "trend_title": "评论：美伊冲突持续 国际油价涨超3%", "market_title": "", "reason": "LLM 判定不下注：话题讨论的是美伊冲突升温导致国际油价上涨的短期市场反应，属于地缘政治风险事件。但所有候选市场都围绕核协议谈判和外交会议的"}
 {"strategy": "trend", "trend_id": "美伊一周内四轮互袭伊朗宣布关闭霍尔木兹海峡", "trend_title": "美伊一周内四轮互袭 伊朗宣布关闭霍尔木兹海峡", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "黄金为什么跌", "trend_title": "黄金为什么跌", "market_title": "Will Gold (XAUUSD) hit (LOW) $3,900 in July?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
