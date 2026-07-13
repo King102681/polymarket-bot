@@ -3457,3 +3457,4 @@
 {"strategy": "trend", "trend_id": "韩国kospi指数暴跌近9创年内最大跌幅", "trend_title": "韩国KOSPI指数暴跌近9%创年内最大跌幅", "market_title": "", "reason": "LLM 判定不下注：KOSPI短期暴跌（股市日波动）与长期宏观经济指标（GDP增长、通胀率预测）的因果关系不够直接。股市大幅下跌可能反映短期"}
 {"strategy": "trend", "trend_id": "ai恐慌叠加中东局势升温美股指盘中齐跌sk海力士跌7油价涨超4黄金跌超2", "trend_title": "AI恐慌叠加中东局势升温，美股指盘中齐跌，SK海力士跌7%，油价涨超4%，黄金跌超2%，", "market_title": "", "reason": "LLM 判定不下注：話題提及黃金跌超2%，但三個候選市場都是針對黃金在特定價位的觸及概率，而非方向性預測。話題缺乏足夠資訊判斷7月黃金的具體"}
 {"strategy": "trend", "trend_id": "欧盟外交与安全政策高级代表卡拉斯或就以色列定居点贸易问题召开会议", "trend_title": "欧盟外交与安全政策高级代表卡拉斯：或就以色列定居点贸易问题召开会议。", "market_title": "", "reason": "LLM 判定不下注：欧盟外交高级代表关于以色列定居点贸易问题的会议计划，主要涉及外交谈判和贸易制裁层面，与三个候选市场（均聚焦以巴停火协议的"}
+{"strategy": "trend", "trend_id": "美伊连续第二天互袭谅解备忘录进入危机阶段", "trend_title": "美伊连续第二天互袭 谅解备忘录进入“危机阶段”", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
