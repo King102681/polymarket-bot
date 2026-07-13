@@ -3431,3 +3431,5 @@
 {"strategy": "trend", "trend_id": "英国将伊朗伊斯兰革命卫队列为恐怖组织", "trend_title": "英国将伊朗伊斯兰革命卫队列为恐怖组织", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "俄罗斯总统普京俄罗斯正在改善其武装力量", "trend_title": "俄罗斯总统普京：俄罗斯正在改善其武装力量。", "market_title": "Will \"War\" be in the headlines this week?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "伊朗议员将向几代美国人追讨赔偿", "trend_title": "伊朗议员：将向几代美国人追讨赔偿", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "whatwillhappentotrumpsagendaafterlindseygrahamsdeath", "trend_title": "What will happen to Trump’s agenda after Lindsey Graham’s death?", "market_title": "", "reason": "LLM 判定不下注：熱門話題探討 Lindsey Graham 過世對 Trump 議程的影響，涉及政策走向、權力動態等深層問題。但所有候選"}
+{"strategy": "trend", "trend_id": "sk海力士暴跌15原因找到了韩国券商称q2盈利或不及预期", "trend_title": "SK海力士暴跌15%原因找到了？韩国券商称Q2盈利或“不及预期”", "market_title": "", "reason": "LLM 判定不下注：話題討論SK海力士(半導體龍頭)Q2盈利不及預期導致股價暴跌，屬於單一公司/產業層面的事件。所有候選市場都是韓國整體宏觀"}
