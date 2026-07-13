@@ -3418,3 +3418,5 @@
 {"strategy": "trend", "trend_id": "韩国五大银行已用掉85全年家庭贷款额度借钱炒股或刹车", "trend_title": "韩国五大银行已用掉85%全年家庭贷款额度，借钱炒股或“刹车”！", "market_title": "", "reason": "LLM 判定不下注：該話題是關於韓國家庭貸款額度使用情況，這對經濟有影響，但與候選的 GDP 增長或通貨膨脹預測市場沒有直接和即時的關聯性。"}
 {"strategy": "trend", "trend_id": "美国中央司令部美军未对伊朗哈尔克岛发动打击", "trend_title": "美国中央司令部：美军未对伊朗哈尔克岛发动打击。", "market_title": "", "reason": "LLM 判定不下注：該新聞是關於美軍未對伊朗特定地點發動襲擊的澄清，與核協議或外交會議的市場主題關聯性不高。因此，無法判斷其對任何一個市場的"}
 {"strategy": "trend", "trend_id": "印度贸易部印度6月石油原油及成品油进口额为1933亿美元", "trend_title": "印度贸易部：印度6月石油、原油及成品油进口额为193.3亿美元。", "market_title": "", "reason": "LLM 判定不下注：印度6月石油进口额数据是历史统计信息，反映的是已完成的贸易活动，不含关于7月油价走势的前瞻性信息。该数据既无法判断未来油"}
+{"strategy": "trend", "trend_id": "senatorlindseygrahamdiedofaortictearexaminersays", "trend_title": "Senator Lindsey Graham died of aortic tear, examiner says", "market_title": "", "reason": "LLM 判定不下注：該話題是關於一位美國參議員的死訊，與「北約與俄羅斯軍事衝突」的市場主題完全無關。因此，無法判斷任何方向或信心。"}
+{"strategy": "trend", "trend_id": "韩国kospi指数暴跌近9科技股卖压触发熔断", "trend_title": "韩国KOSPI指数暴跌近9% 科技股卖压触发熔断", "market_title": "Will South Korea GDP growth in Q2 2026 be between 3.0% and 3.4%?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
