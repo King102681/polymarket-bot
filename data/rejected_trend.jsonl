@@ -3500,3 +3500,5 @@
 {"strategy": "trend", "trend_id": "据cnn美国官员表示美军打击目标为伊朗军事设施包括海岸监视系统无人机和导弹能力", "trend_title": "据CNN：美国官员表示，美军打击目标为伊朗军事设施，包括海岸监视系统、无人机和导弹能力。", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "地缘风暴叠加鹰派双杀美股指齐跌半导体指数重挫5原油飙升10黄金暴跌", "trend_title": "地缘风暴叠加鹰派双杀，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金暴跌", "market_title": "", "reason": "LLM 判定不下注：話題提及原油飆升10%，但所有候選市場都是WTI七月份價格目標，而非短期價格動向。話題描述的是即時市場波動（地緣風暴、鷹"}
 {"strategy": "trend", "trend_id": "usiranexchangeattacksaroundstraitofhormuz", "trend_title": "US, Iran exchange attacks around Strait of Hormuz", "market_title": "", "reason": "LLM 判定不下注：此新聞關於美國和伊朗在荷姆茲海峽的軍事對抗，與所有候選的關於外交會談或核協議市場的關聯性不高，無法判斷買賣方向。"}
+{"strategy": "trend", "trend_id": "据伊朗媒体farsnews伊朗布什尔省贾姆县传出数次爆炸声", "trend_title": "据伊朗媒体Fars News：伊朗布什尔省贾姆县传出数次爆炸声。", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "据伊朗迈赫尔通讯社伊朗南部格什姆岛传出爆炸声", "trend_title": "据伊朗迈赫尔通讯社：伊朗南部格什姆岛传出爆炸声。", "market_title": "", "reason": "LLM 判定不下注：爆炸聲的發生地點是伊朗島嶼，與美伊核協議或外交會議市場無直接關聯。目前資訊不足以判斷任何市場的方向。"}
