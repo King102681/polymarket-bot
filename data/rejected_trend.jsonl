@@ -3386,3 +3386,6 @@
 {"strategy": "trend", "trend_id": "美伊一周内四轮互袭伊朗宣布关闭霍尔木兹海峡", "trend_title": "美伊一周内四轮互袭 伊朗宣布关闭霍尔木兹海峡", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "黄金为什么跌", "trend_title": "黄金为什么跌", "market_title": "Will Gold (XAUUSD) hit (LOW) $3,900 in July?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "伊朗革命卫队摧毁两台部署至科威特的美国海马斯火箭炮发射系统", "trend_title": "伊朗革命卫队：摧毁两台部署至科威特的美国海马斯火箭炮发射系统。", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "usandirantradefireastensionsriseoverstraitofhormuz", "trend_title": "US and Iran trade fire as tensions rise over Strait of Hormuz", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "韩国交易所年内第七次启动熔断机制", "trend_title": "韩国交易所年内第七次启动熔断机制", "market_title": "", "reason": "LLM 判定不下注：此話題關於韓國交易所的熔斷機制，與候選市場中關於韓國 GDP 成長率或通貨膨脹率的預測無關。"}
+{"strategy": "trend", "trend_id": "黄金避险属性为弱于美元盘面交易的优先级是黄金头条", "trend_title": "黄金避险属性为弱于美元？盘面交易的优先级是...｜黄金头条", "market_title": "Will Gold (XAUUSD) hit (LOW) $3,900 in July?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
