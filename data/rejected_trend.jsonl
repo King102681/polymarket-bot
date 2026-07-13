@@ -3413,3 +3413,4 @@
 {"strategy": "trend", "trend_id": "伯纳姆获压倒性提名将接任英国首相", "trend_title": "伯纳姆获压倒性提名将接任英国首相", "market_title": "", "reason": "LLM 判定不下注：话题提到伯纳姆可能接任英国首相，但所有候选市场都关于英国外交大臣的任命，与当前话题关联度不高。"}
 {"strategy": "trend", "trend_id": "itsexpensivesyriaselectricityhasimprovedbutchallengesremain", "trend_title": "‘It’s expensive’: Syria’s electricity has improved, but challenges remain", "market_title": "Will Syria recognize Israel by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "ukrainehitsrussianenergysitesasdronebarragereachesmoscow", "trend_title": "Ukraine Hits Russian Energy Sites as Drone Barrage Reaches Moscow", "market_title": "Will \"Oil\" or \"Gas\" be in the headlines this week?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "韩国股市波动性为1998年亚洲金融危机以来最高", "trend_title": "韩国股市波动性为1998年亚洲金融危机以来最高", "market_title": "", "reason": "LLM 判定不下注：該熱門話題提到韓國股市波動性創下新高，但所有候選市場均為關於GDP成長或通膨率的預測，且時間點是2026年，與當前股市波"}
