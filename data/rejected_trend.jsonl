@@ -3467,3 +3467,5 @@
 {"strategy": "trend", "trend_id": "美联储理事沃勒将于十分钟后发表讲话", "trend_title": "美联储理事沃勒将于十分钟后发表讲话。", "market_title": "", "reason": "LLM 判定不下注：沃勒的讲话内容未知，无法判断其对利率前景的实际影响方向。虽然讲话可能包含新信息，但在讲话发表前，市场已根据预期进行定价。"}
 {"strategy": "trend", "trend_id": "euunveils1bnfundforgazawarrecovery", "trend_title": "EU unveils $1bn fund for Gaza war recovery", "market_title": "Israel x Hamas ceasefire cancelled by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "格雷厄姆猝死将如何影响美中期选举", "trend_title": "格雷厄姆猝死将如何影响美中期选举", "market_title": "", "reason": "LLM 判定不下注：話題涉及格雷厄姆(美國參議員Lindsey Graham)猝死對美中期選舉的影響，這是美國政治內部事件。但候選市場均與烏"}
+{"strategy": "trend", "trend_id": "美联储理事沃勒近期就业报告持续好于预期且表现强劲", "trend_title": "美联储理事沃勒：近期就业报告持续好于预期，且表现强劲。", "market_title": "", "reason": "LLM 判定不下注：該話題是關於近期就業報告好於預期，以及美聯儲理事沃勒的評論。然而，所有候選市場的預測時間點都在 2026 年，遠超出該短"}
+{"strategy": "trend", "trend_id": "沃勒不希望过早加息引发衰退也不希望过晚行动犯下错误", "trend_title": "沃勒：不希望过早加息引发衰退，也不希望过晚行动犯下错误", "market_title": "", "reason": "LLM 判定不下注：沃勒言論表達美聯儲在加息時機上的權衡考量,屬於政策立場表述,但並未提供具體新資訊指向近期或特定會議的實際加息/降息方向。"}
