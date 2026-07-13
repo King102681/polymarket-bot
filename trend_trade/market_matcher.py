@@ -182,19 +182,41 @@ def _yes_price(market: dict) -> float | None:
     return None
 
 
-def _is_tradeable_price(market: dict) -> bool:
-    """已定價完的市場（Yes 出了進場價範圍，如 0.995）不當候選。
+def _side_cost(market: dict, yes: bool) -> float | None:
+    """實際買進某一邊的成本：買 YES ≈ bestAsk；買 NO ≈ 1 − bestBid。"""
+    v = market.get("bestAsk") if yes else market.get("bestBid")
+    try:
+        if v is None:
+            return None
+        v = float(v)
+        return v if yes else 1.0 - v
+    except Exception:
+        return None
 
-    2026-07-12 漏斗分析：門檻降到 0.35 後 163 筆拒絕中，57 筆（35%）通過
-    信心+時間檢查後死在進場價 0.995/0.999——候選只按流動性排序，而
-    「已塵埃落定」的市場流動性往往最高，等於一直把已開獎的彩券餵給 LLM，
-    還把真正未定價的二階市場擠出 top-5。Yes 在 [MIN, MAX] 之外代表買任一邊
-    都不可能落在進場價範圍內，直接踢出候選池。
+
+def _is_tradeable_price(market: dict) -> bool:
+    """至少一邊「實際掛單」在進場價範圍內才當候選。
+
+    2026-07-12 第一版只看 outcomePrices（中間價），漏掉一整類市場：
+    事件已成定局時訂單簿變成單邊（賣單只掛 0.99+、買單掛得低），
+    中間價還在 0.85 這種「範圍內」的假象——US-Iran Final Nuclear Deal
+    24 小時被反覆評估 8 次、次次死在 ask 0.995 就是這樣。
+    中間價會說謊，掛單價才是能不能成交的真相。
+
+    Gamma search 直接回傳 bestAsk/bestBid，零額外 API 成本：
+      買 YES 的真實成本 = bestAsk；買 NO 的真實成本 = 1 − bestBid。
+    兩邊都不在 [MIN, MAX] 內 → 對我們而言不可交易 → 踢出候選池。
+    完全拿不到掛單欄位時退回中間價判斷（fail-open 交下游把關）。
     """
+    lo, hi = config.TREND_MIN_ENTRY_PRICE, config.TREND_MAX_ENTRY_PRICE
+    yes_cost = _side_cost(market, yes=True)
+    no_cost = _side_cost(market, yes=False)
+    if yes_cost is not None or no_cost is not None:
+        return any(c is not None and lo <= c <= hi for c in (yes_cost, no_cost))
     p = _yes_price(market)
     if p is None:
-        return True  # 拿不到價格就保留，交給下游訂單簿檢查把關
-    return config.TREND_MIN_ENTRY_PRICE <= p <= config.TREND_MAX_ENTRY_PRICE
+        return True  # 什麼價都拿不到就保留，交給下游訂單簿檢查把關
+    return lo <= p <= hi
 
 
 def _pick_candidates(markets: list[dict], k: int = 5) -> list[dict]:
