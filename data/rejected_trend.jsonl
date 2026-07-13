@@ -3508,3 +3508,4 @@
 {"strategy": "trend", "trend_id": "美伊一周内四轮互袭伊朗关闭霍尔木兹海峡", "trend_title": "美伊一周内四轮互袭，伊朗关闭霍尔木兹海峡", "market_title": "", "reason": "LLM 判定不下注：該熱門話題描述的是美伊之間的軍事衝突升級（互襲、關閉霍爾木茲海峽），而所有候選市場都聚焦於美伊之間的外交會談或核協議簽署"}
 {"strategy": "trend", "trend_id": "新西兰联储首席经济学家保罗康威最近的pmi数据非常积极推动了gdpnow预测值的上调", "trend_title": "新西兰联储首席经济学家保罗·康威：最近的PMI数据非常积极，推动了GDPNow预测值的上调。", "market_title": "", "reason": "LLM 判定不下注：话题提到新西兰联储的经济学家对GDP预测的积极评论，但所有市场都关于美联储的利率决定，两者并无直接关联。"}
 {"strategy": "trend", "trend_id": "乌克兰总统泽连斯基宣布重组内阁总理斯维里坚科辞职", "trend_title": "乌克兰总统泽连斯基宣布重组内阁总理斯维里坚科辞职", "market_title": "Will \"Ukraine\" or \"Ukrainian\" be in the headlines this week?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "ninedeathstiedtotrumpsimmigrationenforcementoperationsinus", "trend_title": "Nine deaths tied to Trump’s immigration enforcement operations in US", "market_title": "", "reason": "LLM 判定不下注：熱門話題是關於川普的移民執法行動導致死亡事件，這與候選市場中關於川普是否會在特定日期公開侮辱某人的預測沒有直接關聯。因此"}
