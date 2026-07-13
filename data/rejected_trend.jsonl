@@ -3394,3 +3394,5 @@
 {"strategy": "trend", "trend_id": "台湾加权指数7月13日周一收盘上涨2591点涨幅006报4538052点", "trend_title": "台湾加权指数7月13日（周一）收盘上涨25.91点，涨幅0.06%，报45380.52点。", "market_title": "", "reason": "LLM 判定不下注：熱門話題是台灣加權指數單日漲幅0.06%的日常市場波動數據，完全是技術性財經資訊。候選市場涉及宗教預言、地緣政治入侵、加"}
 {"strategy": "trend", "trend_id": "sheikhhamadthearableaderwhobrokeisraelssiegeongaza", "trend_title": "Sheikh Hamad: The Arab leader who broke Israel’s siege on Gaza", "market_title": "Israel x Hamas Ceasefire Phase II by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "伊朗当局霍尔木兹海峡无法通行", "trend_title": "伊朗当局：霍尔木兹海峡“无法通行”", "market_title": "", "reason": "LLM 判定不下注：該新聞提到伊朗当局聲稱霍尔木兹海峡“无法通行”，這是一個與航運和潛在軍事緊張有關的事件。然而，提供的候選市場都與美國和伊"}
+{"strategy": "trend", "trend_id": "俄媒分析中美应对人工智能发展难题路径迥异", "trend_title": "俄媒分析：中美应对人工智能发展难题路径迥异", "market_title": "US Government removes public access to a major Chinese AI model in 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "学者分析极端天气如何影响中美竞争", "trend_title": "学者分析：极端天气如何影响中美竞争？", "market_title": "", "reason": "LLM 判定不下注：话题讨论极端天气对中美竞争的学术分析，属于长期地缘政治和气候变化的宏观观点。三个候选市场分别涉及：关税协议（短期贸易）、"}
