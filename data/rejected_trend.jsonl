@@ -3473,3 +3473,6 @@
 {"strategy": "trend", "trend_id": "美联储沃勒再现高通胀数据将是一个信号", "trend_title": "美联储沃勒：再现高通胀数据将是一个“信号”", "market_title": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美联储理事沃勒有时候设定一个单一目标点估值会在判断政策成功或失败时过于苛刻", "trend_title": "美联储理事沃勒：有时候，设定一个单一目标点估值，会在判断政策成功或失败时过于苛刻。", "market_title": "", "reason": "LLM 判定不下注：沃勒评论主要涉及美联储货币政策框架和决策方法论，而非对具体利率决议的新预测信号。讨论的是政策制定的灵活性和单一目标点的局"}
 {"strategy": "trend", "trend_id": "美军与伊朗一周内四轮互袭伊朗宣布关闭霍尔木兹海峡", "trend_title": "美军与伊朗一周内四轮互袭 伊朗宣布关闭霍尔木兹海峡", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美国中央司令部确认恢复对伊朗港口的封锁", "trend_title": "美国中央司令部确认恢复对伊朗港口的封锁", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "uktolistiransirgcasterrorthreat", "trend_title": "UK to list Iran’s IRGC as ‘terror’ threat", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美军将于格林尼治时间14日20时起对伊朗实施海上封锁", "trend_title": "美军将于格林尼治时间14日20时起对伊朗实施海上封锁", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
