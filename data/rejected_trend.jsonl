@@ -3391,3 +3391,4 @@
 {"strategy": "trend", "trend_id": "黄金避险属性为弱于美元盘面交易的优先级是黄金头条", "trend_title": "黄金避险属性为弱于美元？盘面交易的优先级是...｜黄金头条", "market_title": "Will Gold (XAUUSD) hit (LOW) $3,900 in July?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "三星准备生产特斯拉ai5芯片", "trend_title": "三星准备生产特斯拉AI5芯片", "market_title": "", "reason": "LLM 判定不下注：該熱門話題提及三星為特斯拉生產AI晶片，但候選市場皆與此無直接關聯，主要聚焦於特斯拉的合併、低價Cybercab以及加州"}
 {"strategy": "trend", "trend_id": "韩国总统李在明将引导政府支持芯片人工智能数据中心及物理人工智能这三大重点项目", "trend_title": "韩国总统李在明：将引导政府支持芯片、人工智能数据中心及物理人工智能这三大重点项目。", "market_title": "Will South Korea GDP growth in Q2 2026 be between 3.5% and 3.9%?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "台湾加权指数7月13日周一收盘上涨2591点涨幅006报4538052点", "trend_title": "台湾加权指数7月13日（周一）收盘上涨25.91点，涨幅0.06%，报45380.52点。", "market_title": "", "reason": "LLM 判定不下注：熱門話題是台灣加權指數單日漲幅0.06%的日常市場波動數據，完全是技術性財經資訊。候選市場涉及宗教預言、地緣政治入侵、加"}
