@@ -3396,3 +3396,5 @@
 {"strategy": "trend", "trend_id": "伊朗当局霍尔木兹海峡无法通行", "trend_title": "伊朗当局：霍尔木兹海峡“无法通行”", "market_title": "", "reason": "LLM 判定不下注：該新聞提到伊朗当局聲稱霍尔木兹海峡“无法通行”，這是一個與航運和潛在軍事緊張有關的事件。然而，提供的候選市場都與美國和伊"}
 {"strategy": "trend", "trend_id": "俄媒分析中美应对人工智能发展难题路径迥异", "trend_title": "俄媒分析：中美应对人工智能发展难题路径迥异", "market_title": "US Government removes public access to a major Chinese AI model in 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "学者分析极端天气如何影响中美竞争", "trend_title": "学者分析：极端天气如何影响中美竞争？", "market_title": "", "reason": "LLM 判定不下注：话题讨论极端天气对中美竞争的学术分析，属于长期地缘政治和气候变化的宏观观点。三个候选市场分别涉及：关税协议（短期贸易）、"}
+{"strategy": "trend", "trend_id": "野马电池欧盟对中国碱性二氧化锰原电池发起反倾销调查", "trend_title": "野马电池：欧盟对中国碱性二氧化锰原电池发起反倾销调查", "market_title": "", "reason": "LLM 判定不下注：话题涉及欧盟对中国电池产品的反倾销调查，属于贸易政策和中国制造业动态。候选市场全部聚焦欧洲政治选举和政府任命，与电池贸易"}
+{"strategy": "trend", "trend_id": "iniranpezeshkianwillbethescapegoatforthefailedmou", "trend_title": "In Iran, Pezeshkian will be the scapegoat for the failed MoU", "market_title": "", "reason": "LLM 判定不下注：該話題提到伊朗總統 Pezeshkian 可能會成為失敗協議的替罪羊，但這與候選市場中關於美伊核協議或外交會議的日期和地"}
