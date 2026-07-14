@@ -3574,3 +3574,4 @@
 {"strategy": "trend", "trend_id": "市场消息壳牌sheln在200亿美元尼日利亚石油项目中获更多税收减免", "trend_title": "市场消息：壳牌(SHEL.N)在200亿美元尼日利亚石油项目中获更多税收减免。", "market_title": "", "reason": "LLM 判定不下注：该消息涉及壳牌在尼日利亚获税收减免，属于单个企业/项目级利好，对其业务成本有正面影响。然而，所有候选市场均聚焦WTI原油"}
 {"strategy": "trend", "trend_id": "schumerslamstrumpoveriranwar", "trend_title": "Schumer slams Trump over Iran war", "market_title": "Will Trump accuse Iran of election interference by July 16?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "乌克兰与九欧洲国家成立反弹道导弹联盟", "trend_title": "乌克兰与九欧洲国家成立反弹道导弹联盟", "market_title": "", "reason": "LLM 判定不下注：烏克蘭與歐洲國家成立反彈道導彈聯盟是具體的地緣政治事件，但候選市場都是基於特定詞彙是否出現在頭條的籠統預測，與該話題無直"}
+{"strategy": "trend", "trend_id": "乌克兰与欧洲九国组建反弹道导弹联盟", "trend_title": "乌克兰与欧洲九国组建“反弹道导弹联盟”", "market_title": "Will \"Border\" be in the headlines this week?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
