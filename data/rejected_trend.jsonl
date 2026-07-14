@@ -3669,3 +3669,4 @@
 {"strategy": "trend", "trend_id": "美国恢复对伊朗海上封锁并发动新一轮军事打击", "trend_title": "美国恢复对伊朗海上封锁并发动新一轮军事打击", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "伊朗地方政府霍尔木兹海峡发生交火", "trend_title": "伊朗地方政府：霍尔木兹海峡发生交火", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美国通胀降温美股指全线反弹海力士adr飙升27ibm暴跌25油金齐涨", "trend_title": "美国通胀降温，美股指全线反弹，海力士ADR飙升27%，IBM暴跌25%，油金齐涨", "market_title": "", "reason": "LLM 判定不下注：話題涉及美股個股漲跌（海力士ADR、IBM）、通胀降温、油金齐涨等多個市場事件，但候選市場均為『7月年度通胀特定數值』的"}
+{"strategy": "trend", "trend_id": "24小时反转特朗普放弃海峡收费重启封锁威胁摧毁伊朗电厂桥梁", "trend_title": "24小时反转！特朗普放弃海峡收费，重启封锁、威胁“摧毁伊朗电厂桥梁”", "market_title": "Will Trump accuse Iran of election interference by July 16?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
