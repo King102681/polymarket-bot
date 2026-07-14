@@ -3668,3 +3668,4 @@
 {"strategy": "trend", "trend_id": "美国财长贝森特美国财政部外国资产控制办公室制裁了多个与伊朗央行关联的钱包超过13亿美元资金被冻结", "trend_title": "美国财长贝森特：美国财政部外国资产控制办公室制裁了多个与伊朗央行关联的钱包，超过1.3亿美元资金被冻结。", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美国恢复对伊朗海上封锁并发动新一轮军事打击", "trend_title": "美国恢复对伊朗海上封锁并发动新一轮军事打击", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "伊朗地方政府霍尔木兹海峡发生交火", "trend_title": "伊朗地方政府：霍尔木兹海峡发生交火", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美国通胀降温美股指全线反弹海力士adr飙升27ibm暴跌25油金齐涨", "trend_title": "美国通胀降温，美股指全线反弹，海力士ADR飙升27%，IBM暴跌25%，油金齐涨", "market_title": "", "reason": "LLM 判定不下注：話題涉及美股個股漲跌（海力士ADR、IBM）、通胀降温、油金齐涨等多個市場事件，但候選市場均為『7月年度通胀特定數值』的"}
