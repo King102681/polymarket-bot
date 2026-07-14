@@ -3581,3 +3581,4 @@
 {"strategy": "trend", "trend_id": "美媒特朗普支持沙特打击胡塞武装", "trend_title": "美媒：特朗普支持沙特打击胡塞武装", "market_title": "", "reason": "LLM 判定不下注：此話題是關於特朗普支持沙特打擊胡塞武裝，與候選市場討論的特朗普指控其他國家干預選舉無關。"}
 {"strategy": "trend", "trend_id": "russianenergyisnowatukrainesmercy", "trend_title": "Russian Energy Is Now at Ukraine’s Mercy", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於俄羅斯的能源供應，受烏克蘭的影響。候選市場全部是關於特定詞彙是否會出現在新聞標題中，與能源供應話題的關聯"}
 {"strategy": "trend", "trend_id": "yemenshouthislaunchmissilesatsaudiarabiaafterstrikesonsanaaairport", "trend_title": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport", "market_title": "Bab el-Mandeb Strait effectively closed by August 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "howtostopclaudefromsayingloadbearing", "trend_title": "How to stop Claude from saying load-bearing", "market_title": "", "reason": "LLM 判定不下注：話題討論的是Claude AI模型在回應中避免使用特定措辭（load-bearing）的技術問題，屬於產品功能改進的細節"}
