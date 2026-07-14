@@ -3541,3 +3541,4 @@
 {"strategy": "trend", "trend_id": "美股收盘美伊局势升级打压风险偏好芯片股重挫纳指跌逾15", "trend_title": "美股收盘：美伊局势升级打压风险偏好 芯片股重挫纳指跌逾1.5%", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "现货黄金站上4020美元盎司日内涨046", "trend_title": "现货黄金站上4020美元/盎司，日内涨0.46%。", "market_title": "", "reason": "信心 0.32 < 0.35：現貨黃金突破4020美元，創新高並上漲動能持續。市場[0]要求7月觸及4300美"}
 {"strategy": "trend", "trend_id": "trumpnotifiescongressofnewwaragainstiran", "trend_title": "Trump notifies Congress of new war against Iran", "market_title": "", "reason": "LLM 判定不下注：話題是關於Trump對伊朗的戰爭宣示，這是重大地緣政治事件。候選市場[0]和[1]都只涉及Trump個人發表辱罵言論的可"}
+{"strategy": "trend", "trend_id": "韩国拟放宽外汇管制推动韩元国际化", "trend_title": "韩国拟放宽外汇管制 推动韩元国际化", "market_title": "", "reason": "LLM 判定不下注：話題討論韓國放寬外匯管制與韓元國際化的貨幣政策，涉及金融市場自由化。但候選市場全數聚焦政治人物與通膨預測，與匯率政策、韓"}
