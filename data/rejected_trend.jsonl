@@ -3665,3 +3665,6 @@
 {"strategy": "trend", "trend_id": "伊朗军方称持续打击地区内美军基地", "trend_title": "伊朗军方称持续打击地区内美军基地", "market_title": "", "reason": "LLM 判定不下注：该话题是关于伊朗军方称持续打击地区内美军基地，这与伊朗与美国之间的核协议或外交会议的候选市场没有直接关联。因此，没有合适"}
 {"strategy": "trend", "trend_id": "美伊一周内多轮互袭致海峡通行量骤降", "trend_title": "美伊一周内多轮互袭致海峡通行量骤降", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美国总统特朗普我现在不想谈判我说了我们不谈判了", "trend_title": "美国总统特朗普：我现在不想谈判。我说了，我们不谈判了。", "market_title": "", "reason": "LLM 判定不下注：特朗普声明内容专注于拒绝谈判态度，与五个候选市场（均关于特朗普指控某国选举干预）没有直接对应关系。该言论不提供关于选举干"}
+{"strategy": "trend", "trend_id": "美国财长贝森特美国财政部外国资产控制办公室制裁了多个与伊朗央行关联的钱包超过13亿美元资金被冻结", "trend_title": "美国财长贝森特：美国财政部外国资产控制办公室制裁了多个与伊朗央行关联的钱包，超过1.3亿美元资金被冻结。", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美国恢复对伊朗海上封锁并发动新一轮军事打击", "trend_title": "美国恢复对伊朗海上封锁并发动新一轮军事打击", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "伊朗地方政府霍尔木兹海峡发生交火", "trend_title": "伊朗地方政府：霍尔木兹海峡发生交火", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
