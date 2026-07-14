@@ -3664,3 +3664,4 @@
 {"strategy": "trend", "trend_id": "美国众议院投票通过永久实行夏令时的法案并将该法案提交参议院审议", "trend_title": "美国众议院投票通过永久实行夏令时的法案，并将该法案提交参议院审议。", "market_title": "", "reason": "LLM 判定不下注：眾議院通過永久實行夏令時的法案是技術性立法議題，與長期參議院政治控制權（2026中期選舉）沒有直接因果關係。候選市場[0"}
 {"strategy": "trend", "trend_id": "伊朗军方称持续打击地区内美军基地", "trend_title": "伊朗军方称持续打击地区内美军基地", "market_title": "", "reason": "LLM 判定不下注：该话题是关于伊朗军方称持续打击地区内美军基地，这与伊朗与美国之间的核协议或外交会议的候选市场没有直接关联。因此，没有合适"}
 {"strategy": "trend", "trend_id": "美伊一周内多轮互袭致海峡通行量骤降", "trend_title": "美伊一周内多轮互袭致海峡通行量骤降", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美国总统特朗普我现在不想谈判我说了我们不谈判了", "trend_title": "美国总统特朗普：我现在不想谈判。我说了，我们不谈判了。", "market_title": "", "reason": "LLM 判定不下注：特朗普声明内容专注于拒绝谈判态度，与五个候选市场（均关于特朗普指控某国选举干预）没有直接对应关系。该言论不提供关于选举干"}
