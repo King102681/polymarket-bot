@@ -3551,3 +3551,6 @@
 {"strategy": "trend", "trend_id": "美国6月cpi或假摔华尔街保持谨慎债市更是定价加息", "trend_title": "美国6月CPI或“假摔”？华尔街保持谨慎，债市更是定价加息", "market_title": "", "reason": "LLM 判定不下注：话题讨论的是6月CPI数据的真实性以及华尔街和债市对加息的定价，但所有候选市场都聚焦于2026年7月、9月、10月的美联"}
 {"strategy": "trend", "trend_id": "欧洲多国与乌克兰共建反弹道导弹联盟", "trend_title": "欧洲多国与乌克兰共建“反弹道导弹联盟”", "market_title": "", "reason": "LLM 判定不下注：话题涉及欧洲-乌克兰军事防御联盟，属于国际地缘政治新闻。候选市场均为英文单词出现频率预测，与该话题无实质对应关系。市场["}
 {"strategy": "trend", "trend_id": "胡塞武装报复沙特空袭四年停火被打破", "trend_title": "胡塞武装报复沙特空袭，四年停火被打破", "market_title": "Bab el-Mandeb Strait effectively closed by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "伊朗snn通讯社上周在东北部遭袭的铁路桥经修复后已重新开放", "trend_title": "伊朗SNN通讯社：上周在东北部遭袭的铁路桥经修复后已重新开放。", "market_title": "", "reason": "LLM 判定不下注：话题内容为伊朗修复被袭铁路桥梁的基础设施恢复新闻，与美伊核协议谈判、外交会晤等市场主题无直接因果关系。该信息不足以对任何"}
+{"strategy": "trend", "trend_id": "美军已完成对伊朗新一轮打击", "trend_title": "美军已完成对伊朗新一轮打击", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "伊朗革命卫队确认袭击美国海军第五舰队", "trend_title": "伊朗革命卫队确认袭击美国海军第五舰队", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
