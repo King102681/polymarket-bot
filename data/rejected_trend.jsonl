@@ -3622,3 +3622,4 @@
 {"strategy": "trend", "trend_id": "英新首相上任即迎考验经济承压伊朗风险加剧", "trend_title": "英新首相上任即迎考验 经济承压、伊朗风险加剧", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美军7月14日起恢复对伊朗海上封锁", "trend_title": "美军7月14日起恢复对伊朗海上封锁", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "trumpscrapsthreatof20feeonhormuzcargoasuspreparestoresumeblockadeofiranports", "trend_title": "Trump scraps threat of 20% fee on Hormuz cargo as US prepares to resume blockade of Iran ports", "market_title": "Will Trump accuse Iran of election interference by July 16?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美联储理事丽莎库克将于十分钟后在美联储年度金融普惠会议上发表讲话", "trend_title": "美联储理事丽莎·库克将于十分钟后在美联储年度金融普惠会议上发表讲话。", "market_title": "", "reason": "LLM 判定不下注：联邦理事库克的讲话主题是金融普惠会议,与货币政策利率决议无直接关系。虽然讲话可能涉及经济观点,但题目未提供具体内容,无法"}
