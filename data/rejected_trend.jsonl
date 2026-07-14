@@ -3554,3 +3554,4 @@
 {"strategy": "trend", "trend_id": "伊朗snn通讯社上周在东北部遭袭的铁路桥经修复后已重新开放", "trend_title": "伊朗SNN通讯社：上周在东北部遭袭的铁路桥经修复后已重新开放。", "market_title": "", "reason": "LLM 判定不下注：话题内容为伊朗修复被袭铁路桥梁的基础设施恢复新闻，与美伊核协议谈判、外交会晤等市场主题无直接因果关系。该信息不足以对任何"}
 {"strategy": "trend", "trend_id": "美军已完成对伊朗新一轮打击", "trend_title": "美军已完成对伊朗新一轮打击", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "伊朗革命卫队确认袭击美国海军第五舰队", "trend_title": "伊朗革命卫队确认袭击美国海军第五舰队", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "withusirantrustbrokenagaincanpakistanbringthembacktotalks", "trend_title": "With US-Iran trust broken again, can Pakistan bring them back to talks?", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
