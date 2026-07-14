@@ -3559,3 +3559,5 @@
 {"strategy": "trend", "trend_id": "特朗普索海峡护航费超级油轮或须付数千万美元", "trend_title": "特朗普索海峡护航费 超级油轮或须付数千万美元", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及特朗普對海峽護航費的政策立場和經濟影響（油輪成本），這是地緣政治與貿易議題。候選市場0只涉及特朗普在特定日期"}
 {"strategy": "trend", "trend_id": "普京俄对领土遭袭将以数倍力度反击", "trend_title": "普京：俄对领土遭袭将以数倍力度反击", "market_title": "Will \"Border\" be in the headlines this week?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "伊朗26天靠卖油赚取逾60亿美元", "trend_title": "伊朗26天靠卖油赚取逾60亿美元", "market_title": "", "reason": "LLM 判定不下注：這條熱門話題討論的是伊朗透過賣石油賺取外匯，這與美伊核協議或外交會議的進展沒有直接關聯。因此，沒有合適的市場可以預測。"}
+{"strategy": "trend", "trend_id": "usmilitaryreleasesvideoofitslateststrikesoniran", "trend_title": "US military releases video of its latest strikes on Iran", "market_title": "", "reason": "LLM 判定不下注：該新聞報導美國軍方發布了對伊朗的最新襲擊影片，但候選市場都與美伊核協議或外交會議的日期和地點有關，與軍事打擊的直接關聯性"}
+{"strategy": "trend", "trend_id": "卡塔尔外交部卡塔尔强烈谴责在霍尔木兹海峡袭击两艘阿联酋油轮的行为认为此举严重侵犯国际航行安全直接威胁全球能源供应安全并明显违反国际法", "trend_title": "卡塔尔外交部：卡塔尔强烈谴责在霍尔木兹海峡袭击两艘阿联酋油轮的行为，认为此举严重侵犯国际航行安全，直接威胁全球能源供应安全，并明显违反国际法。", "market_title": "Strait of Hormuz traffic returns to normal by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
