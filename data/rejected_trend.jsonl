@@ -3658,3 +3658,4 @@
 {"strategy": "trend", "trend_id": "美伊一周内多轮互袭霍尔木兹海峡通行量骤降", "trend_title": "美伊一周内多轮互袭 霍尔木兹海峡通行量骤降", "market_title": "", "reason": "LLM 判定不下注：此話題主要聚焦於美伊之間的軍事衝突及其對霍爾木茲海峽航運的影響，而候選市場均為外交談判或特定會議的地點與時間，關聯性較低"}
 {"strategy": "trend", "trend_id": "市场消息openai计划推出ai智能音箱作为旗下首款硬件产品定位为ai陪伴助手", "trend_title": "市场消息：OpenAI计划推出AI智能音箱作为旗下首款硬件产品，定位为AI陪伴助手。", "market_title": "Will OpenAI launch a new consumer hardware product by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美国能源部长赖特我们必须确保石油能够从阿拉伯湾流出", "trend_title": "美国能源部长赖特：我们必须确保石油能够从阿拉伯湾流出。", "market_title": "Will WTI Crude Oil (WTI) hit (HIGH) $95 in July?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美国通胀降温美股指全线反弹存储芯片股大涨ibm暴跌25油金齐涨", "trend_title": "美国通胀降温，美股指全线反弹，存储芯片股大涨，IBM暴跌25%，油金齐涨", "market_title": "Will annual inflation be 3.2% in July?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
