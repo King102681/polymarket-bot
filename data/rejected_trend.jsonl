@@ -3529,3 +3529,4 @@
 {"strategy": "trend", "trend_id": "美伊一周互袭四轮伊朗关闭霍尔木兹海峡", "trend_title": "美伊一周互袭四轮 伊朗关闭霍尔木兹海峡", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "伊媒伊朗袭击美国海军第五舰队司令部", "trend_title": "伊媒：伊朗袭击美国海军第五舰队司令部", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "特朗普已正式通知国会重启伊朗战事", "trend_title": "特朗普已正式通知国会重启伊朗战事", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及特朗普重啟伊朗戰事的重大地緣政治決策，但所有候選市場都是關於『特朗普在特定日期是否公開侮辱他人』的預測。兩者"}
+{"strategy": "trend", "trend_id": "原油盘中暴涨10美军恢复对伊朗封锁特朗普放话今晚明天重击对海峡货运收两成费用", "trend_title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用", "market_title": "", "reason": "LLM 判定不下注：热门话题涉及原油价格、伊朗制裁、海峡费用等地缘政治和能源市场事件，但两个候选市场都是关于特朗普是否会公开辱骂他人的政治行"}
