@@ -3733,3 +3733,4 @@
 {"strategy": "trend", "trend_id": "美官员证实英伟达h200芯片已少量出货至中国", "trend_title": "美官员证实英伟达H200芯片已少量出货至中国", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及英伟达H200芯片對華出货的地缘政治與供應链消息。候選市場均為Ornn指數相關產品（H100、B200價格指"}
 {"strategy": "trend", "trend_id": "美伊一周内四轮互袭致平民伤亡霍尔木兹海峡关闭", "trend_title": "美伊一周内四轮互袭致平民伤亡霍尔木兹海峡关闭", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "iranthreatenstoblockmoretraderoutesasuslaunchesfreshstrikes", "trend_title": "Iran threatens to block more trade routes as US launches fresh strikes", "market_title": "", "reason": "LLM 判定不下注：此新聞討論的是伊朗威脅封鎖更多貿易路線，以及美國發動新一輪襲擊，這與候選市場中關於美伊核協議或外交會議的議題關聯性不高。"}
+{"strategy": "trend", "trend_id": "美国白宫国家经济委员会主任哈塞特我几天前见过沃什和他聊得很开心", "trend_title": "美国白宫国家经济委员会主任哈塞特：我几天前见过沃什，和他聊得很开心。", "market_title": "", "reason": "LLM 判定不下注：用户提供的话题是关于白宫经济顾问与沃什的会面，并无直接提及美联储的利率政策。候选市场全部是关于美联储在2026年9月或1"}
