@@ -3674,3 +3674,5 @@
 {"strategy": "trend", "trend_id": "美伊连续一周互袭致海峡航运瘫痪油价飙升", "trend_title": "美伊连续一周互袭致海峡航运瘫痪油价飙升", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美国6月cpi超预期降温美联储主席沃什重申鹰派立场", "trend_title": "美国6月CPI超预期降温 美联储主席沃什重申鹰派立场", "market_title": "Will there be no change in Fed interest rates after the September 2026 meeting?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美国通胀降温美股指全线反弹sk海力士adr飙升27ibm暴跌25美油闪跌", "trend_title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌", "market_title": "Will annual inflation be 3.6% in July?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美国6月通胀超预期降温美联储主席沃什国会重申抗通胀立场", "trend_title": "美国6月通胀超预期降温 美联储主席沃什国会重申抗通胀立场", "market_title": "", "reason": "LLM 判定不下注：該話題涉及美國6月通胀數據及聯儲主席的貨幣政策立場，屬於宏觀經濟/貨幣政策範疇。五個候選市場均聚焦於2026年中期選舉、"}
+{"strategy": "trend", "trend_id": "美伊连续一周互袭致海峡通行量骤降九成", "trend_title": "美伊连续一周互袭致海峡通行量骤降九成", "market_title": "", "reason": "LLM 判定不下注：此熱門話題討論的是軍事衝突對航運量的影響，與所有候選的關於美伊核協議或外交會議的市場均無直接關聯。因此，無法判斷市場方向"}
