@@ -3685,3 +3685,5 @@
 {"strategy": "trend", "trend_id": "国台办敦促欧洲议会立即纠正涉台错误言行", "trend_title": "国台办：敦促欧洲议会立即纠正涉台错误言行", "market_title": "Will China invade Taiwan by December 31, 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "国台办欢迎台湾民众党青年交流团来上海参访", "trend_title": "国台办：欢迎台湾民众党青年交流团来上海参访", "market_title": "", "reason": "信心 0.30 < 0.35：台湾民众党青年交流团访沪是两岸民间交流的积极信号，短期内降低了因紧张关系可能引发"}
 {"strategy": "trend", "trend_id": "美恢复封锁伊朗航运后少数船只仍通过霍尔木兹海峡", "trend_title": "美恢复封锁伊朗航运后 少数船只仍通过霍尔木兹海峡", "market_title": "", "reason": "LLM 判定不下注：話題是關於美國恢復對伊朗航運的封鎖，但少數船隻仍通過霍爾木茲海峽。這條資訊與所有候選市場（均圍繞美伊核協議或外交會議）的"}
+{"strategy": "trend", "trend_id": "金十图示2026年07月15日周三黄金etf持仓报告", "trend_title": "金十图示：2026年07月15日（周三）黄金ETF持仓报告", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於黃金ETF持倉報告，這是一個歷史性的數據報告，與黃金ETF的未來價格走勢沒有直接的預測關聯。話題本身"}
+{"strategy": "trend", "trend_id": "李在明韩国股市急涨后需时间企稳敦促监管部门应对杠杆etf争议", "trend_title": "李在明：韩国股市急涨后需时间企稳 敦促监管部门应对杠杆ETF争议", "market_title": "", "reason": "LLM 判定不下注：李在明的言論關於韓股短期波動和杠杆ETF監管風險，主要涉及股市流動性和政策微調，而非GDP成長或通膨預測。候選市場皆為2"}
