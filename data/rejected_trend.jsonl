@@ -3801,3 +3801,4 @@
 {"strategy": "trend", "trend_id": "ukrainestrikes20russianvessels", "trend_title": "Ukraine strikes 20 Russian vessels", "market_title": "", "reason": "LLM 判定不下注：烏克蘭擊中20艘俄羅斯軍艦是具體的地緣政治軍事事件新聞。候選市場都是關於『特定詞彙是否出現在頭條』的抽象預測，與該具體軍"}
 {"strategy": "trend", "trend_id": "ppi确认通胀降温美股小幅收涨美光闪迪暴跌8原油黄金走v", "trend_title": "PPI确认通胀降温，美股小幅收涨，美光、闪迪暴跌8%，原油、黄金走V", "market_title": "", "reason": "LLM 判定不下注：話題討論的是PPI(生產者物價指數)確認通脹降溫，但候選市場全部聚焦於CPI(消費者物價指數)的7月具體數值預測。PPI"}
 {"strategy": "trend", "trend_id": "美军7月袭击已致伊朗35人死亡", "trend_title": "美军7月袭击已致伊朗35人死亡", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "万斯以色列内部有人操纵美国舆论以延长军事行动", "trend_title": "万斯：以色列内部有人操纵美国舆论 以延长军事行动", "market_title": "", "reason": "LLM 判定不下注：這條話題是關於萬斯(JD Vance)對以色列遊說的政治評論,屬於國際政治與輿論操縱議題。候選市場[0-4]全數聚焦於2"}
