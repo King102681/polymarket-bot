@@ -3802,3 +3802,5 @@
 {"strategy": "trend", "trend_id": "ppi确认通胀降温美股小幅收涨美光闪迪暴跌8原油黄金走v", "trend_title": "PPI确认通胀降温，美股小幅收涨，美光、闪迪暴跌8%，原油、黄金走V", "market_title": "", "reason": "LLM 判定不下注：話題討論的是PPI(生產者物價指數)確認通脹降溫，但候選市場全部聚焦於CPI(消費者物價指數)的7月具體數值預測。PPI"}
 {"strategy": "trend", "trend_id": "美军7月袭击已致伊朗35人死亡", "trend_title": "美军7月袭击已致伊朗35人死亡", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "万斯以色列内部有人操纵美国舆论以延长军事行动", "trend_title": "万斯：以色列内部有人操纵美国舆论 以延长军事行动", "market_title": "", "reason": "LLM 判定不下注：這條話題是關於萬斯(JD Vance)對以色列遊說的政治評論,屬於國際政治與輿論操縱議題。候選市場[0-4]全數聚焦於2"}
+{"strategy": "trend", "trend_id": "美军恢复对伊朗海上封锁并发动空袭伊朗回击", "trend_title": "美军恢复对伊朗海上封锁并发动空袭伊朗回击", "market_title": "", "reason": "LLM 判定不下注：該熱門話題描述的是美軍恢復對伊朗的海上封鎖和空襲，以及伊朗的反擊。這是一個軍事衝突和地緣政治的突發事件，而所有提供的候選"}
+{"strategy": "trend", "trend_id": "whataretheobstaclestopeacebetweenisraelandlebanon", "trend_title": "What are the obstacles to peace between Israel and Lebanon?", "market_title": "", "reason": "LLM 判定不下注：熱門話題討論的是以色列與黎巴嫩之間的和平障礙，但三個候選市場都聚焦於以色列與哈馬斯的停火談判，完全不同的衝突對象。沒有市"}
