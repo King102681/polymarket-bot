@@ -3690,3 +3690,5 @@
 {"strategy": "trend", "trend_id": "台湾中联油脂大豆沙拉油检出致癌物苯骈芘超标4倍", "trend_title": "台湾中联油脂大豆沙拉油检出致癌物苯骈芘超标4倍", "market_title": "", "reason": "LLM 判定不下注：台灣食品安全事件（中聯油脂苯駢芘超標）是區域食安議題，與所有候選市場無直接相關。候選市場涉及地緣政治（中國侵台）、宗教預"}
 {"strategy": "trend", "trend_id": "据伊朗irib新闻网美国在周三凌晨袭击了伊朗霍韦泽hoveyzeh的一处小麦储存筒仓", "trend_title": "据伊朗IRIB新闻网：美国在周三凌晨袭击了伊朗霍韦泽（Hoveyzeh）的一处小麦储存筒仓。", "market_title": "", "reason": "LLM 判定不下注：雖然有提及美國和伊朗，但此新聞報導的是一次襲擊事件，與核協議或外交會議的市場主題關聯性不大，無法判斷對市場有何影響。"}
 {"strategy": "trend", "trend_id": "美国恢复对伊朗海上封锁并发动新一轮打击", "trend_title": "美国恢复对伊朗海上封锁并发动新一轮打击", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "回应美日韩外长涉台表态国台办停止在台湾问题上说三道四", "trend_title": "回应美日韩外长涉台表态，国台办：停止在台湾问题上说三道四", "market_title": "Will China invade Taiwan by December 31, 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "关于台海现状国台办发声民进党当局是台海现状的破坏者", "trend_title": "关于台海现状，国台办发声：民进党当局是台海现状的破坏者", "market_title": "Will China invade Taiwan by December 31, 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
