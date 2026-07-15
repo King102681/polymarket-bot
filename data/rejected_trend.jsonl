@@ -3753,3 +3753,4 @@
 {"strategy": "trend", "trend_id": "farrightisraelilawmakerraidspalestinianschoolandthreatensshutdown", "trend_title": "Far-right Israeli lawmaker raids Palestinian school and threatens shutdown", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及以色列極右翼議員突襲巴勒斯坦學校，這是中東地區政治衝突事件。候選市場[0]和[1]都是關於美國政府shutd"}
 {"strategy": "trend", "trend_id": "加拿大央行连续第六次维持利率不变经济前景改善", "trend_title": "加拿大央行连续第六次维持利率不变，经济前景改善", "market_title": "", "reason": "LLM 判定不下注：話題討論的是加拿大央行（BoC）的利率決策，但所有候選市場都是針對美國聯邦儲備委員會（Fed）的利率預期。兩個央行在貨幣"}
 {"strategy": "trend", "trend_id": "美国恢复对伊朗海上封锁并发动空袭伊朗报复打击美军基地", "trend_title": "美国恢复对伊朗海上封锁并发动空袭 伊朗报复打击美军基地", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "台湾评估开放西安包机大陆促取消两岸航运限制", "trend_title": "台湾评估开放西安包机 大陆促取消两岸航运限制", "market_title": "Will China invade Taiwan by December 31, 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
