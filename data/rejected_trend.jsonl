@@ -3681,3 +3681,5 @@
 {"strategy": "trend", "trend_id": "美伊连续一周互袭致海峡航运骤降油价飙升", "trend_title": "美伊连续一周互袭致海峡航运骤降油价飙升", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "伊朗革命卫队此次袭击是对美国敌对行动的回应", "trend_title": "伊朗革命卫队：此次袭击是对美国“敌对”行动的回应。", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "马斯克与奥尔特曼骂战升级", "trend_title": "马斯克与奥尔特曼骂战升级", "market_title": "", "reason": "LLM 判定不下注：馬斯克和奧爾特曼之間的爭論與特斯拉和 SpaceX 的合併或具體產品發布時間表無關，話題與所有候選市場的關聯度低。"}
+{"strategy": "trend", "trend_id": "台湾民众党青年团首次正式组团赴上海参访", "trend_title": "台湾民众党青年团首次正式组团赴上海参访", "market_title": "", "reason": "信心 0.30 < 0.35：民眾黨青年團赴上海參訪是緩和兩岸關係的積極訊號，但離實際武力攻台還有很長距離。目"}
+{"strategy": "trend", "trend_id": "国台办敦促欧洲议会立即纠正涉台错误言行", "trend_title": "国台办：敦促欧洲议会立即纠正涉台错误言行", "market_title": "Will China invade Taiwan by December 31, 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
