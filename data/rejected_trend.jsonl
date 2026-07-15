@@ -3698,3 +3698,4 @@
 {"strategy": "trend", "trend_id": "一夜变天美国通胀超预期降温美联储本月加息概率骤降至15", "trend_title": "一夜变天！美国通胀超预期降温 美联储本月加息概率骤降至15%", "market_title": "Will there be no change in Fed interest rates after the September 2026 meeting?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "伊朗官员美国新一轮空袭已造成伊朗逾260人受伤", "trend_title": "伊朗官员：美国新一轮空袭已造成伊朗逾260人受伤", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "习近平首度出席ai大会前人民日报刊文示警ai铁幕", "trend_title": "习近平首度出席AI大会前 人民日报刊文示警“AI铁幕”", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及習近平首次出席AI大會及人民日報警示AI安全，反映中國對AI治理和意識形態的立場。候選市場是關於習近平與日本"}
+{"strategy": "trend", "trend_id": "美媒马斯克2025年向选民发钱涉嫌违法", "trend_title": "美媒：马斯克2025年向选民发钱涉嫌违法", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於馬斯克在 2025 年向選民發錢涉嫌違法，但候選市場均與 Tesla 或 SpaceX 的合併、產品"}
