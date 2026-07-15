@@ -3716,3 +3716,4 @@
 {"strategy": "trend", "trend_id": "lindseygrahamssisterswornintofillhisussenateseat", "trend_title": "Lindsey Graham’s sister sworn in to fill his US Senate seat", "market_title": "", "reason": "LLM 判定不下注：這則新聞是關於 Lindsey Graham 的姐妹填補其參議員職位的消息，與所提供的任何一個市場（參議院或眾議院控制權"}
 {"strategy": "trend", "trend_id": "张雪机车想在台湾开店国台办愿意同广大台湾同胞分享大陆好产品", "trend_title": "张雪机车想在台湾开店，国台办：愿意同广大台湾同胞分享大陆好产品", "market_title": "", "reason": "LLM 判定不下注：熱門話題是關於张雪机车品牌在台灣開店、國台辦表示願意分享大陸好產品，這是商業與文化交流的話題。候選市場全部關於宗教預言、"}
 {"strategy": "trend", "trend_id": "巴林国防部今天早上我们拦截了多起伊朗的空中袭击", "trend_title": "巴林国防部：今天早上我们拦截了多起伊朗的空中袭击。", "market_title": "", "reason": "LLM 判定不下注：该话题关于伊朗对巴林的空袭，与所有提供的美国-伊朗外交会晤或核协议市场均无直接关联。"}
+{"strategy": "trend", "trend_id": "russiastripsarcticairdefensesasukrainewarstrainsmilitary", "trend_title": "Russia Strips Arctic Air Defenses As Ukraine War Strains Military", "market_title": "Will \"Reserve\" be in the headlines this week?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
