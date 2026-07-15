@@ -3679,3 +3679,4 @@
 {"strategy": "trend", "trend_id": "中兴通讯是获准购买英伟达h200晶片的中企之一", "trend_title": "中兴通讯是获准购买英伟达H200晶片的中企之一", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及中興通訊獲准購買英偉達H200晶片，屬於中國科技企業與美國晶片供應鏈的政策/貿易動向。所有候選市場均與『Or"}
 {"strategy": "trend", "trend_id": "香港选委会界别分组选举将在11月举行", "trend_title": "香港选委会界别分组选举将在11月举行", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及香港11月選委會界別分組選舉，完全與候選市場（美國川普對以色列2026年選舉政黨背書）無相關。沒有任何候選市"}
 {"strategy": "trend", "trend_id": "美伊连续一周互袭致海峡航运骤降油价飙升", "trend_title": "美伊连续一周互袭致海峡航运骤降油价飙升", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "伊朗革命卫队此次袭击是对美国敌对行动的回应", "trend_title": "伊朗革命卫队：此次袭击是对美国“敌对”行动的回应。", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
