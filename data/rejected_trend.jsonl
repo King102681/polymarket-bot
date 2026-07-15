@@ -3684,3 +3684,4 @@
 {"strategy": "trend", "trend_id": "台湾民众党青年团首次正式组团赴上海参访", "trend_title": "台湾民众党青年团首次正式组团赴上海参访", "market_title": "", "reason": "信心 0.30 < 0.35：民眾黨青年團赴上海參訪是緩和兩岸關係的積極訊號，但離實際武力攻台還有很長距離。目"}
 {"strategy": "trend", "trend_id": "国台办敦促欧洲议会立即纠正涉台错误言行", "trend_title": "国台办：敦促欧洲议会立即纠正涉台错误言行", "market_title": "Will China invade Taiwan by December 31, 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "国台办欢迎台湾民众党青年交流团来上海参访", "trend_title": "国台办：欢迎台湾民众党青年交流团来上海参访", "market_title": "", "reason": "信心 0.30 < 0.35：台湾民众党青年交流团访沪是两岸民间交流的积极信号，短期内降低了因紧张关系可能引发"}
+{"strategy": "trend", "trend_id": "美恢复封锁伊朗航运后少数船只仍通过霍尔木兹海峡", "trend_title": "美恢复封锁伊朗航运后 少数船只仍通过霍尔木兹海峡", "market_title": "", "reason": "LLM 判定不下注：話題是關於美國恢復對伊朗航運的封鎖，但少數船隻仍通過霍爾木茲海峽。這條資訊與所有候選市場（均圍繞美伊核協議或外交會議）的"}
