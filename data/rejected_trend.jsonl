@@ -3740,3 +3740,4 @@
 {"strategy": "trend", "trend_id": "市场消息spacexspcxo波音洛克希德马丁等公司高管将出席今日白宫活动", "trend_title": "市场消息：SpaceX(SPCX.O)、波音、洛克希德·马丁等公司高管将出席今日白宫活动。", "market_title": "", "reason": "LLM 判定不下注：熱門話題主要涉及SpaceX及波音、洛克希德·馬丁等航防公司高管參加白宮活動，這是政策/國防相關的新聞。所有候選市場都聚"}
 {"strategy": "trend", "trend_id": "美官员证实少量英伟达h200芯片已对华出口", "trend_title": "美官员证实少量英伟达H200芯片已对华出口", "market_title": "", "reason": "LLM 判定不下注：話題涉及英伟达H200芯片對華出口政策，但所有候選市場都是關於Ornn指數在2026年7月的價格區間預測，與芯片出口政策"}
 {"strategy": "trend", "trend_id": "特朗普的炸电厂威胁将如何冲击伊朗能源命脉", "trend_title": "特朗普的“炸电厂”威胁将如何冲击伊朗能源命脉？", "market_title": "", "reason": "LLM 判定不下注：此熱門話題與候選市場的事件（與特定人物的會面時間）無關。話題討論的是特朗普對伊朗能源的威脅，這與候選市場的內容完全不符。"}
+{"strategy": "trend", "trend_id": "israeliairattackongazaapartmentkillsfamilyofthree", "trend_title": "Israeli air attack on Gaza apartment kills family of three", "market_title": "Israel x Hamas ceasefire cancelled by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
