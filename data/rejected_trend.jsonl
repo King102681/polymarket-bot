@@ -3692,3 +3692,4 @@
 {"strategy": "trend", "trend_id": "美国恢复对伊朗海上封锁并发动新一轮打击", "trend_title": "美国恢复对伊朗海上封锁并发动新一轮打击", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "回应美日韩外长涉台表态国台办停止在台湾问题上说三道四", "trend_title": "回应美日韩外长涉台表态，国台办：停止在台湾问题上说三道四", "market_title": "Will China invade Taiwan by December 31, 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "关于台海现状国台办发声民进党当局是台海现状的破坏者", "trend_title": "关于台海现状，国台办发声：民进党当局是台海现状的破坏者", "market_title": "Will China invade Taiwan by December 31, 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "howiranssoutherncoastisbearingthebruntofusattacks", "trend_title": "How Iran’s southern coast is bearing the brunt of US attacks", "market_title": "", "reason": "LLM 判定不下注：該新聞報導美國對伊朗南部海岸的攻擊，但候選市場均圍繞美伊核協議或外交會議，與當前新聞事件沒有直接關聯性。因此無法判斷市場"}
