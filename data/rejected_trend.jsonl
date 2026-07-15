@@ -3810,3 +3810,4 @@
 {"strategy": "trend", "trend_id": "乌克兰基辅遭到弹道导弹袭击传出多声爆炸声空军警告将有更多导弹来袭", "trend_title": "乌克兰基辅遭到弹道导弹袭击，传出多声爆炸声。空军警告将有更多导弹来袭。", "market_title": "Will \"Fear\" be in the headlines this week?", "reason": "訂單簿無 asks"}
 {"strategy": "trend", "trend_id": "iransayspeacedealvoidedfightingexistentialwarafterusattacks", "trend_title": "Iran says peace deal voided, fighting ‘existential war’ after US attacks", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "据伊朗国家媒体伊朗南部霍尔木兹港东部传出两声爆炸声", "trend_title": "据伊朗国家媒体：伊朗南部霍尔木兹港东部传出两声爆炸声。", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美军恢复对伊朗海上封锁并发动空袭伊朗反击致冲突升级", "trend_title": "美军恢复对伊朗海上封锁并发动空袭，伊朗反击致冲突升级", "market_title": "", "reason": "LLM 判定不下注：這條熱門話題描述的是美伊之間的軍事衝突和封鎖，而候選市場全部是關於兩國之間的外交會談和核協議，兩者之間沒有直接關聯。因此"}
