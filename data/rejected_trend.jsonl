@@ -3721,3 +3721,4 @@
 {"strategy": "trend", "trend_id": "台湾中联油脂大豆沙拉油检出致癌物超标逾4倍", "trend_title": "台湾中联油脂大豆沙拉油检出致癌物超标逾4倍", "market_title": "", "reason": "LLM 判定不下注：台灣食品安全醜聞（中聯油脂大豆沙拉油含致癌物超標）是一個區域食品衛生議題，與所有候選市場無關。候選市場涉及宗教預言、地緣"}
 {"strategy": "trend", "trend_id": "洪秀柱将赴中国大陆出席海峡两岸青年发展论坛", "trend_title": "洪秀柱将赴中国大陆出席海峡两岸青年发展论坛", "market_title": "", "reason": "信心 0.20 < 0.35：洪秀柱的访问是和平交流性质，短期内并不会改变中国攻打台湾的根本性战略考量。当前市"}
 {"strategy": "trend", "trend_id": "美军恢复对伊朗海上封锁并发动空袭特朗普取消海峡收费计划", "trend_title": "美军恢复对伊朗海上封锁并发动空袭，特朗普取消海峡收费计划", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於軍事封鎖和空襲，以及特朗普取消海峽收費計劃，與所有候選市場（關於特朗普與其他領導人會面時間）無關。"}
+{"strategy": "trend", "trend_id": "russianattackonodesakillsthreeasukrainetargetsvesselsinblacksea", "trend_title": "Russian attack on Odesa kills three as Ukraine targets vessels in Black Sea", "market_title": "", "reason": "LLM 判定不下注：熱門話題是俄烏衝突中黑海局勢的軍事動態。候選市場均為『特定詞彙是否出現在標題』的通用指標,與此具體的地緣政治事件無直接對"}
