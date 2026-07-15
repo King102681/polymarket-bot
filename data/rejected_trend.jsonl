@@ -3786,3 +3786,6 @@
 {"strategy": "trend", "trend_id": "ciasaysaidronesgiverussiantroopsonly30minutestolive", "trend_title": "CIA Says AI Drones Give Russian Troops Only 30 Minutes to Live", "market_title": "Will \"Fear\" be in the headlines this week?", "reason": "訂單簿無 asks"}
 {"strategy": "trend", "trend_id": "美伊因海峡争端爆发一周军事冲突致35人死亡", "trend_title": "美伊因海峡争端爆发一周军事冲突致35人死亡", "market_title": "", "reason": "LLM 判定不下注：話題描述的是軍事衝突，與所有候選的關於核協議或外交會議的市場均無直接關聯。"}
 {"strategy": "trend", "trend_id": "syrianauthoritiesarrestexofficeraccusedofchemicalweaponscrimes", "trend_title": "Syrian authorities arrest ex-officer accused of chemical weapons crimes", "market_title": "", "reason": "LLM 判定不下注：敘利亞逮捕涉及化武犯罪的前軍官，這是對敘利亞內部司法行動的報導。候選市場均涉及以色列外交承認或敘利亞領導層變動，與此新聞"}
+{"strategy": "trend", "trend_id": "美国通胀降温提振美股存储跌幅扩大戴尔重挫13油价转跌", "trend_title": "美国通胀降温提振美股，存储跌幅扩大，戴尔重挫13%，油价转跌", "market_title": "Will annual inflation be 4.0% in July?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美国总统特朗普希望我能更快地使用关税手段", "trend_title": "美国总统特朗普：希望我能更快地使用关税手段。", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及特朗普關於使用關稅手段的評論，反映其貿易政策立場。然而候選市場[0][1][2]均為特定人物會面預測，與關稅"}
+{"strategy": "trend", "trend_id": "美国总统特朗普希望利率下降", "trend_title": "美国总统特朗普：希望利率下降。", "market_title": "", "reason": "LLM 判定不下注：特朗普關於利率下降的言論是宏觀經濟政策立場，與三個候選市場（均為特定人物在2026年7月的會晤預測）無相關性。這些會晤市"}
