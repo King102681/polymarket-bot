@@ -3865,3 +3865,4 @@
 {"strategy": "trend", "trend_id": "台湾中联油脂沙拉油检出致癌物超标波及千家业者", "trend_title": "台湾中联油脂沙拉油检出致癌物超标波及千家业者", "market_title": "", "reason": "LLM API 失敗（api_error:OverloadedError）"}
 {"strategy": "trend", "trend_id": "美军恢复对伊朗海上封锁并持续空袭伊朗威胁关闭油气通道", "trend_title": "美军恢复对伊朗海上封锁并持续空袭 伊朗威胁关闭油气通道", "market_title": "", "reason": "LLM API 失敗（api_error:OverloadedError）"}
 {"strategy": "trend", "trend_id": "美联储前顾问在涉华窃密案中撒谎判监三年多", "trend_title": "美联储前顾问在涉华窃密案中撒谎判监三年多", "market_title": "", "reason": "LLM 判定不下注：该话题涉及的是美联储前顾问的个人案件，与未来的美联储利率决策没有直接或明显的关联性。因此，无法判断其对候选市场的影响方向"}
+{"strategy": "trend", "trend_id": "上任仅半年乌克兰防长宣布离职", "trend_title": "上任仅半年，乌克兰防长宣布离职", "market_title": "", "reason": "LLM 判定不下注：烏克蘭防長離職是重要地緣政治事件，但候選市場均為通用關鍵詞週榜單預測，與該具體事件無直接對應。市場[0]「Shockin"}
