@@ -3968,3 +3968,4 @@
 {"strategy": "trend", "trend_id": "美伊围绕霍尔木兹海峡爆发新一轮军事冲突", "trend_title": "美伊围绕霍尔木兹海峡爆发新一轮军事冲突", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "blastsreportediniranasuslaunchesnewwaveofstrikes", "trend_title": "Blasts reported in Iran as US launches new wave of strikes", "market_title": "", "reason": "LLM 判定不下注：此話題描述的是美國對伊朗的軍事打擊，而所有候選市場都圍繞著美伊之間的外交或核協議，兩者關聯性不大。因此，無法判斷此話題對"}
 {"strategy": "trend", "trend_id": "据伊朗迈赫尔通讯社伊朗布什尔地区传出12声爆炸声", "trend_title": "据伊朗迈赫尔通讯社：伊朗布什尔地区传出12声爆炸声。", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "ilhanomarrenewspushforustojoiniccamidtrumppressure", "trend_title": "Ilhan Omar renews push for US to join ICC amid Trump pressure", "market_title": "", "reason": "LLM 判定不下注：話題是關於 Ilhan Omar 推動美國加入國際刑事法院，與候選市場提出的川普是否會與內唐亞胡會面無關。"}
