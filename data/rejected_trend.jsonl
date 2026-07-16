@@ -3815,3 +3815,4 @@
 {"strategy": "trend", "trend_id": "reallybignewswhattoknowabouttrumpsprimetimespeechonthursday", "trend_title": "‘Really big news’: What to know about Trump’s primetime speech on Thursday", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於川普的演講，但所有候選市場都關於他未來某個時間點與特定人物的會面，這與演講內容無直接關聯。因此，無法判斷"}
 {"strategy": "trend", "trend_id": "spacexai宣布开源grokbuild", "trend_title": "SpaceXAI宣布开源Grok Build", "market_title": "", "reason": "LLM 判定不下注：SpaceX AI開源Grok Build是軟體工程相關新聞，與所有四個候選市場都不相關。候選市場涉及Tesla-Spa"}
 {"strategy": "trend", "trend_id": "美ppi确认通胀降温科技巨头力撑美股指两连阳美光闪迪暴跌8原油黄金走v", "trend_title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，美光、闪迪暴跌8%，原油黄金走V", "market_title": "Will monthly inflation increase by 0.1% or more in July?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美军恢复海上封锁持续空袭伊朗威胁关闭其他油气出口通道", "trend_title": "美军恢复海上封锁持续空袭 伊朗威胁关闭其他油气出口通道", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
