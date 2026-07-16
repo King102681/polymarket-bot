@@ -3821,3 +3821,4 @@
 {"strategy": "trend", "trend_id": "美ppi确认通胀降温科技巨头力撑美股指两连阳中概跑赢大盘美光闪迪暴跌8", "trend_title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概跑赢大盘，美光、闪迪暴跌8%", "market_title": "Will monthly inflation increase by 0.1% or more in July?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "iranwarlivesirensinbahrainkuwaitusdisablesiranianoiltanker", "trend_title": "Iran war live: Sirens in Bahrain, Kuwait; US ‘disables’ Iranian oil tanker", "market_title": "", "reason": "LLM 判定不下注：此新聞關於伊朗與美國的軍事緊張局勢，包括油輪被禁用，但候選市場皆為外交協議相關，且時間點差距甚遠，無直接關聯性。"}
 {"strategy": "trend", "trend_id": "韩国kospi指数日内重挫500现报691968点", "trend_title": "韩国KOSPI指数日内重挫5.00%，现报6919.68点。", "market_title": "", "reason": "LLM 判定不下注：KOSPI指數單日跌幅5%屬短期市場波動，反映的是技術面或短期情緒變化。候選市場均為2026年韓國GDP增長及通膨的結構"}
+{"strategy": "trend", "trend_id": "罗伯特萨特特朗普的对华融冰政策将在华盛顿碰壁", "trend_title": "罗伯特·萨特：特朗普的对华融冰政策将在华盛顿碰壁", "market_title": "", "reason": "LLM 判定不下注：話題關於特朗普的對華政策，與候選市場的約見對象（內塔尼亞胡、梅洛尼、馬斯克）均無關聯。"}
