@@ -3844,3 +3844,4 @@
 {"strategy": "trend", "trend_id": "韩国央行行长申铉松我们将采取因应措施直到通胀持稳于韩国央行的目标水准", "trend_title": "韩国央行行长申铉松：我们将采取因应措施，直到通胀持稳于韩国央行的目标水准。", "market_title": "", "reason": "LLM 判定不下注：話題提及韓國央行行長關於通脹的言論，但候選市場的到期日均為 2026 年，而央行行長的聲明通常針對的是當前或近期（如 2"}
 {"strategy": "trend", "trend_id": "消息人士白宫考虑公开涉中国与美国选举的争议情报", "trend_title": "消息人士：白宫考虑公开涉中国与美国选举的争议情报", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及美國與中國在美國選舉中的爭議情報，這是美國國內政治議題。候選市場討論的是川普是否會在2026年以色列選舉中支"}
 {"strategy": "trend", "trend_id": "联合国报告认定以色列蓄意杀害巴儿童", "trend_title": "联合国报告认定以色列“蓄意杀害巴儿童”", "market_title": "", "reason": "信心 0.32 < 0.35：联合国报告认定以色列蓄意杀害巴儿童，此为严重国际指控，会强化国际压力并加剧双方对"}
+{"strategy": "trend", "trend_id": "美伊连续多日相互空袭伊朗宣布关闭霍尔木兹海峡", "trend_title": "美伊连续多日相互空袭伊朗宣布关闭霍尔木兹海峡", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
