@@ -3949,3 +3949,4 @@
 {"strategy": "trend", "trend_id": "布伦特原油期货结算价为每桶8423美元下跌72美分跌幅085", "trend_title": "布伦特原油期货结算价为每桶84.23美元，下跌72美分，跌幅0.85%。", "market_title": "Will WTI Crude Oil (WTI) hit (HIGH) $85 in July?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "irancondemnsbarbaricusattacknearchildrenscancerhospital", "trend_title": "Iran condemns ‘barbaric’ US attack near children’s cancer hospital", "market_title": "", "reason": "LLM 判定不下注：此新聞討論美國在伊朗附近針對兒童癌症醫院的攻擊，並未直接關聯至任何一個與美伊核協議或外交會議相關的預測市場。因此，無法判"}
 {"strategy": "trend", "trend_id": "伊朗司法部门暂无美国囚犯从伊朗监狱获释或交换", "trend_title": "伊朗司法部门：暂无美国囚犯从伊朗监狱获释或交换。", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "whatcouldausgroundinvasionofiranlooklike", "trend_title": "What could a US ground invasion of Iran look like?", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是地面入侵的可能性，與所有候選市場中的核協議或外交會議無關。"}
