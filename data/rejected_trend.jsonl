@@ -3911,3 +3911,4 @@
 {"strategy": "trend", "trend_id": "巴布亚新几内亚宣布关闭台湾驻巴新代表处", "trend_title": "巴布亚新几内亚宣布关闭台湾驻巴新代表处", "market_title": "", "reason": "LLM 判定不下注：巴布亚新几内亚关闭台湾代表处是外交事件，反映中国对台湾的压力升温，但这是『既有趋势的具体化』而非『突发新信息』。候选市场"}
 {"strategy": "trend", "trend_id": "乌克兰议会批准乌新任总理提交的内阁名单", "trend_title": "乌克兰议会批准乌新任总理提交的内阁名单", "market_title": "", "reason": "LLM 判定不下注：此話題涉及烏克蘭新總理的內閣名單批准，與候選市場的關鍵字（Reserve, Shocking, Fear, Border"}
 {"strategy": "trend", "trend_id": "胡塞武装沙特助纣为虐必须予以惩处", "trend_title": "胡塞武装：沙特助纣为虐 必须予以惩处", "market_title": "Will there be Houthi military action against Saudi Arabia by July 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美军恢复对伊朗海上封锁并空袭油轮", "trend_title": "美军恢复对伊朗海上封锁并空袭油轮", "market_title": "US-Iran Final Nuclear Deal by September 30, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
