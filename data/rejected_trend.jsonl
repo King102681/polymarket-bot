@@ -3901,3 +3901,5 @@
 {"strategy": "trend", "trend_id": "ukraineappointsnewpmamidcontroversialzelenskyyreshuffle", "trend_title": "Ukraine appoints new PM amid controversial Zelenskyy reshuffle", "market_title": "", "reason": "LLM 判定不下注：烏克蘭總理任命與澤連斯基改組是實質政治新聞，但候選市場全為『字詞出現在頭條』的泛用指標，缺乏真正對應此事件的二元結構市場"}
 {"strategy": "trend", "trend_id": "美国将铸造印有特朗普头像的硬币", "trend_title": "美国将铸造印有特朗普头像的硬币", "market_title": "", "reason": "LLM 判定不下注：话题讨论的是美国铸造印有特朗普头像的硬币，这是一个关于货币政策和纪念性商品的话题。所有候选市场都涉及特朗普与其他政治人物"}
 {"strategy": "trend", "trend_id": "irandepictstrumpincoffinonmassivebillboard", "trend_title": "Iran Depicts Trump in Coffin on Massive Billboard", "market_title": "", "reason": "LLM 判定不下注：伊朗在廣告牌上將川普描繪成棺材內的形象，反映伊朗對川普的敵意與政治諷刺，但這條話題與任何候選市場都沒有實質對應關係。候選"}
+{"strategy": "trend", "trend_id": "ai助力乌克兰无人机俄军战场上只能活30分钟", "trend_title": "AI助力乌克兰无人机 俄军战场上只能活30分钟", "market_title": "", "reason": "LLM 判定不下注：此熱門話題主要聚焦於AI技術如何影響俄烏戰爭中無人機的戰損時間，與候選市場討論的關鍵詞（Reserve, Shockin"}
+{"strategy": "trend", "trend_id": "台湾中联油脂大豆沙拉油检出致癌物超标逾2600吨流向全台", "trend_title": "台湾中联油脂大豆沙拉油检出致癌物超标逾2600吨流向全台", "market_title": "", "reason": "LLM 判定不下注：話題是台灣食品安全醜聞（大豆沙拉油檢出致癌物超標），與所有候選市場無相關性。候選市場涉及宗教、地緣政治、加密貨幣、政治人"}
