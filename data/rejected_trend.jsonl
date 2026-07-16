@@ -3869,3 +3869,4 @@
 {"strategy": "trend", "trend_id": "乌军袭击迫使关键水道关闭俄面临霍尔木兹海峡式危机", "trend_title": "乌军袭击迫使关键水道关闭 俄面临“霍尔木兹海峡式”危机", "market_title": "", "reason": "LLM 判定不下注：話題涉及烏克蘭襲擊俄羅斯水道（黑海/伏爾加河等），造成類似霍爾木茲海峽的危機。但所有候選市場皆聚焦於真實的霍爾木茲海峽、"}
 {"strategy": "trend", "trend_id": "韩国前总统尹锡悦因收受免费民调服务一审获刑两年", "trend_title": "韩国前总统尹锡悦因收受免费民调服务一审获刑两年", "market_title": "", "reason": "LLM 判定不下注：此熱門話題涉及韓國前總統的司法判決，與所有候選市場（包含韓國央行利率、GDP 成長、通膨率等）均無直接關聯。因此，無法判"}
 {"strategy": "trend", "trend_id": "irantargetsmilitarybasesasuslauncheswaveofstrikes", "trend_title": "Iran targets military bases as US launches wave of strikes", "market_title": "", "reason": "LLM 判定不下注：此話題描述的是美國與伊朗之間的軍事打擊，而非外交談判或核協議。因此，所有候選市場都與此熱門話題無直接關聯。"}
+{"strategy": "trend", "trend_id": "市场消息日本将购买27500颗英伟达nvdaorubin芯片用于构建机器人人工智能系统", "trend_title": "市场消息：日本将购买27500颗英伟达(NVDA.O)RUBIN芯片，用于构建机器人人工智能系统。", "market_title": "", "reason": "LLM 判定不下注：此话题涉及的是英伟达（Nvidia）的芯片采购，而候选市场均是关于“Ornn H200 Index”或“Ornn B20"}
