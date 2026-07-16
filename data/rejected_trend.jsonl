@@ -3944,3 +3944,5 @@
 {"strategy": "trend", "trend_id": "白宫特朗普今晚北京时间今早9点发表讲话时将谈及伊朗问题", "trend_title": "白宫：特朗普今晚（北京时间今早9点）发表讲话时将谈及伊朗问题。", "market_title": "", "reason": "LLM 判定不下注：白宫公告特朗普将谈及伊朗问题，与三个候选市场（特朗普与内塔尼亚胡会面日期）没有直接因果关系。伊朗问题涉及外交政策，而与内"}
 {"strategy": "trend", "trend_id": "美联储洛根由于移民限制得州劳动力市场面临压力令人担忧", "trend_title": "美联储洛根：由于移民限制，得州劳动力市场面临压力，令人担忧。", "market_title": "Will there be no change in Fed interest rates after the September 2026 meeting?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "insyriasjobarlocalsstruggletorebuildtheirdestroyedhomes", "trend_title": "In Syria’s Jobar, locals struggle to rebuild their destroyed homes", "market_title": "", "reason": "LLM 判定不下注：話題報導敘利亞Jobar地區重建困境，屬於人道災難相關新聞，反映戰後復興挑戰。雖涉及敘利亞，但所有候選市場聚焦於『國家是"}
+{"strategy": "trend", "trend_id": "openai董事长称对其他公司的商业机密没有兴趣", "trend_title": "OpenAI董事长称对其他公司的商业机密“没有兴趣”", "market_title": "", "reason": "LLM 判定不下注：OpenAI董事长关于'没有兴趣'获取他人商业机密的声明，是公司管理层对伦理和法律问题的政策立场表述。这条新闻不提供关于"}
+{"strategy": "trend", "trend_id": "白宫称伊朗仍在与美国对话", "trend_title": "白宫称伊朗仍在与美国对话", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
