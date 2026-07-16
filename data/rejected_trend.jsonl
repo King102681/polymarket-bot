@@ -3970,3 +3970,5 @@
 {"strategy": "trend", "trend_id": "据伊朗迈赫尔通讯社伊朗布什尔地区传出12声爆炸声", "trend_title": "据伊朗迈赫尔通讯社：伊朗布什尔地区传出12声爆炸声。", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "ilhanomarrenewspushforustojoiniccamidtrumppressure", "trend_title": "Ilhan Omar renews push for US to join ICC amid Trump pressure", "market_title": "", "reason": "LLM 判定不下注：話題是關於 Ilhan Omar 推動美國加入國際刑事法院，與候選市場提出的川普是否會與內唐亞胡會面無關。"}
 {"strategy": "trend", "trend_id": "半导体抛售潮拖累美股纳指跌超1中概再度逆市收涨黄金跌破4000关口", "trend_title": "半导体抛售潮拖累美股，纳指跌超1%，中概再度逆市收涨，黄金跌破4000关口", "market_title": "", "reason": "LLM 判定不下注：話題提到黃金跌破4000關口，但兩個候選市場都問的是『7月內是否觸及特定低點』。話題未提供關於7月黃金走勢的新資訊，只是"}
+{"strategy": "trend", "trend_id": "据伊朗法尔斯通讯社美国对伊朗布什尔地区的空袭目标为空军和海军两个基地", "trend_title": "据伊朗法尔斯通讯社：美国对伊朗布什尔地区的空袭目标为空军和海军两个基地。", "market_title": "", "reason": "LLM 判定不下注：這則新聞是關於美國對伊朗軍事基地的空襲，與候選市場的核協議或外交會議主題無關，因此選擇市場 index -1。"}
+{"strategy": "trend", "trend_id": "据伊朗法尔斯通讯社伊拉克消息人士称伊拉克埃尔比勒大部分地区停电", "trend_title": "据伊朗法尔斯通讯社：伊拉克消息人士称，伊拉克埃尔比勒大部分地区停电。", "market_title": "", "reason": "LLM 判定不下注：伊拉克埃尔比勒停电事件是局部基础设施问题，与美伊核协议谈判、外交会晤地点等战略性议题无直接因果关系。话题信息不足以推断伊"}
