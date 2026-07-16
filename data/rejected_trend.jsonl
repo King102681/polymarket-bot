@@ -3838,3 +3838,5 @@
 {"strategy": "trend", "trend_id": "欧盟与印度启动地平线欧洲计划谈判深化科技合作", "trend_title": "欧盟与印度启动“地平线欧洲”计划谈判 深化科技合作", "market_title": "", "reason": "LLM 判定不下注：热门话题涉及欧盟与印度的科技合作计划谈判，属于国际科技政策范畴。四个候选市场均为欧洲政治事件（德国州选举、冰岛EU谈判、"}
 {"strategy": "trend", "trend_id": "伊朗革命卫队称其针对科威特阿里萨利姆空军基地的美军聚集地实施了打击", "trend_title": "伊朗革命卫队称其针对科威特阿里·萨利姆空军基地的美军聚集地实施了打击。", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "韩国最低工资委员会表决通过2027年最低时薪上调37", "trend_title": "韩国最低工资委员会表决通过2027年最低时薪上调3.7%", "market_title": "", "reason": "LLM 判定不下注：该话题是关于韩国最低工资的决策，与通货膨胀或GDP增长没有直接关联。因此，没有适合的市场可以预测。"}
+{"strategy": "trend", "trend_id": "kyivunderfirefromrussianmissilesaftereuukrainesigndronedeal", "trend_title": "Kyiv under fire from Russian missiles after EU-Ukraine sign drone deal", "market_title": "Will \"Fear\" be in the headlines this week?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "印有特朗普头像1美元硬币将投入生产", "trend_title": "印有特朗普头像1美元硬币将投入生产", "market_title": "", "reason": "LLM 判定不下注：熱門話題是關於特朗普頭像硬幣的生產計劃，屬於美國造幣和紀念品相關新聞。而三個候選市場都是關於特朗普在2026年7月的外交"}
