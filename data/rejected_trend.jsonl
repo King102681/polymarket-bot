@@ -3862,3 +3862,5 @@
 {"strategy": "trend", "trend_id": "usattacksoiltankerinstraitofhormuzasstrikesreportedintehran", "trend_title": "U.S. attacks oil tanker in Strait of Hormuz as strikes reported in Tehran", "market_title": "Strait of Hormuz traffic returns to normal by August 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "法兴银行韩国央行为连续紧缩敞开大门", "trend_title": "法兴银行：韩国央行为连续紧缩敞开大门", "market_title": "Will the Bank of Korea hold at the August 2026 meeting?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "thelostjoyofmusicpiracy", "trend_title": "The lost joy of music piracy", "market_title": "", "reason": "LLM 判定不下注：熱門話題『音樂盜版的失落樂趣』是文化/技術懷舊討論，與候選市場全部關於7月通膨數據無任何關聯。不存在真正對應的市場，無法"}
+{"strategy": "trend", "trend_id": "台湾中联油脂沙拉油检出致癌物超标波及千家业者", "trend_title": "台湾中联油脂沙拉油检出致癌物超标波及千家业者", "market_title": "", "reason": "LLM API 失敗（api_error:OverloadedError）"}
+{"strategy": "trend", "trend_id": "美军恢复对伊朗海上封锁并持续空袭伊朗威胁关闭油气通道", "trend_title": "美军恢复对伊朗海上封锁并持续空袭 伊朗威胁关闭油气通道", "market_title": "", "reason": "LLM API 失敗（api_error:OverloadedError）"}
