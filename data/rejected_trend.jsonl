@@ -3847,3 +3847,5 @@
 {"strategy": "trend", "trend_id": "美伊连续多日相互空袭伊朗宣布关闭霍尔木兹海峡", "trend_title": "美伊连续多日相互空袭伊朗宣布关闭霍尔木兹海峡", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "张雪机车计划在台开店遭台湾经济部否决", "trend_title": "张雪机车计划在台开店遭台湾经济部否决", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及張雪機車在台灣開店遭經濟部否決，這是關於個別商業營運決策的商業新聞。候選市場皆為地緣政治、宗教、加密貨幣或美"}
 {"strategy": "trend", "trend_id": "沃什ai推高价格但未必推升通胀任何通胀指标都不精确特朗普没试图干预美联储", "trend_title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及沃什對AI、通胀與美联储政策的評論，屬於宏觀經濟政策層面。三個候選市場均是特定人物會面預測（Netanyah"}
+{"strategy": "trend", "trend_id": "wti原油回落至79美元桶下方日内跌092", "trend_title": "WTI原油回落至79美元/桶下方，日内跌0.92%。", "market_title": "Will WTI Crude Oil (WTI) hit (HIGH) $85 in July?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "分析宣布海峡征费后一天内撤销凸显特朗普进退失据", "trend_title": "分析：宣布海峡征费后一天内撤销 凸显特朗普进退失据", "market_title": "", "reason": "LLM 判定不下注：話題聚焦特朗普關於海峽徵費政策的決策反覆，凸顯其策略搖擺。三個候選市場均與特定人物會面相關，與『政策撤銷』這一核心信息無"}
