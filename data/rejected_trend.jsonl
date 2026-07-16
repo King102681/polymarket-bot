@@ -3816,3 +3816,5 @@
 {"strategy": "trend", "trend_id": "spacexai宣布开源grokbuild", "trend_title": "SpaceXAI宣布开源Grok Build", "market_title": "", "reason": "LLM 判定不下注：SpaceX AI開源Grok Build是軟體工程相關新聞，與所有四個候選市場都不相關。候選市場涉及Tesla-Spa"}
 {"strategy": "trend", "trend_id": "美ppi确认通胀降温科技巨头力撑美股指两连阳美光闪迪暴跌8原油黄金走v", "trend_title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，美光、闪迪暴跌8%，原油黄金走V", "market_title": "Will monthly inflation increase by 0.1% or more in July?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美军恢复海上封锁持续空袭伊朗威胁关闭其他油气出口通道", "trend_title": "美军恢复海上封锁持续空袭 伊朗威胁关闭其他油气出口通道", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美军恢复对伊朗海上封锁并发动新一轮空袭", "trend_title": "美军恢复对伊朗海上封锁并发动新一轮空袭", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "早报长鑫科技今日申购热门中概股普涨美军再次打击伊朗原油小幅收涨", "trend_title": "【早报】长鑫科技，今日申购；热门中概股普涨；美军再次打击伊朗；原油小幅收涨", "market_title": "", "reason": "信心 0.30 < 0.35：早报提到『美军再次打击伊朗』，这暗示美伊关系紧张，不利于达成核协议。但市场对20"}
