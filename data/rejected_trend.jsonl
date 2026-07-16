@@ -3846,3 +3846,4 @@
 {"strategy": "trend", "trend_id": "联合国报告认定以色列蓄意杀害巴儿童", "trend_title": "联合国报告认定以色列“蓄意杀害巴儿童”", "market_title": "", "reason": "信心 0.32 < 0.35：联合国报告认定以色列蓄意杀害巴儿童，此为严重国际指控，会强化国际压力并加剧双方对"}
 {"strategy": "trend", "trend_id": "美伊连续多日相互空袭伊朗宣布关闭霍尔木兹海峡", "trend_title": "美伊连续多日相互空袭伊朗宣布关闭霍尔木兹海峡", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "张雪机车计划在台开店遭台湾经济部否决", "trend_title": "张雪机车计划在台开店遭台湾经济部否决", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及張雪機車在台灣開店遭經濟部否決，這是關於個別商業營運決策的商業新聞。候選市場皆為地緣政治、宗教、加密貨幣或美"}
+{"strategy": "trend", "trend_id": "沃什ai推高价格但未必推升通胀任何通胀指标都不精确特朗普没试图干预美联储", "trend_title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及沃什對AI、通胀與美联储政策的評論，屬於宏觀經濟政策層面。三個候選市場均是特定人物會面預測（Netanyah"}
