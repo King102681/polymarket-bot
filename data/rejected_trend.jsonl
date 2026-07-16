@@ -3864,3 +3864,4 @@
 {"strategy": "trend", "trend_id": "thelostjoyofmusicpiracy", "trend_title": "The lost joy of music piracy", "market_title": "", "reason": "LLM 判定不下注：熱門話題『音樂盜版的失落樂趣』是文化/技術懷舊討論，與候選市場全部關於7月通膨數據無任何關聯。不存在真正對應的市場，無法"}
 {"strategy": "trend", "trend_id": "台湾中联油脂沙拉油检出致癌物超标波及千家业者", "trend_title": "台湾中联油脂沙拉油检出致癌物超标波及千家业者", "market_title": "", "reason": "LLM API 失敗（api_error:OverloadedError）"}
 {"strategy": "trend", "trend_id": "美军恢复对伊朗海上封锁并持续空袭伊朗威胁关闭油气通道", "trend_title": "美军恢复对伊朗海上封锁并持续空袭 伊朗威胁关闭油气通道", "market_title": "", "reason": "LLM API 失敗（api_error:OverloadedError）"}
+{"strategy": "trend", "trend_id": "美联储前顾问在涉华窃密案中撒谎判监三年多", "trend_title": "美联储前顾问在涉华窃密案中撒谎判监三年多", "market_title": "", "reason": "LLM 判定不下注：该话题涉及的是美联储前顾问的个人案件，与未来的美联储利率决策没有直接或明显的关联性。因此，无法判断其对候选市场的影响方向"}
