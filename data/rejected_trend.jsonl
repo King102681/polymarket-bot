@@ -3831,3 +3831,5 @@
 {"strategy": "trend", "trend_id": "uslaunchesfreshstrikesoniranastrumpwarnstehranitbetterbehave", "trend_title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'", "market_title": "", "reason": "LLM 判定不下注：話題涉及美國對伊朗軍事打擊與川普警告，屬地緣政治/中東衝突範疇。候選市場全數聚焦於2026年7月川普與特定人物的會面，與"}
 {"strategy": "trend", "trend_id": "万斯公开炮轰以色列某些势力正操纵美国舆论意在无限期拖延战争", "trend_title": "万斯公开炮轰以色列：某些势力正操纵美国舆论，意在无限期拖延战争", "market_title": "", "reason": "信心 0.25 < 0.35：万斯公开炮轰以色列言论可能引发政治争议，对其总统竞选声誉造成负面影响。该言论与美"}
 {"strategy": "trend", "trend_id": "现货黄金回落至4040美元盎司下方日内跌050", "trend_title": "现货黄金回落至4040美元/盎司下方，日内跌0.50%。", "market_title": "Will Gold (XAUUSD) hit (LOW) $3,800 in July?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "韩国央行首尔及其周边地区房价上涨步伐加快", "trend_title": "韩国央行：首尔及其周边地区房价上涨步伐加快。", "market_title": "", "reason": "LLM 判定不下注：韩国央行关于首尔房价上涨的评论主要反映房地产市场动态，与候选市场所涵盖的GDP增长和整体通胀率预测缺乏直接对应关系。房价"}
+{"strategy": "trend", "trend_id": "韩国央行半导体行业中东局势发展及贸易环境变化仍存在不确定性", "trend_title": "韩国央行：半导体行业、中东局势发展及贸易环境变化仍存在不确定性。", "market_title": "", "reason": "LLM 判定不下注：該新聞主要聚焦於韓國央行對半導體行業、中東局勢和貿易環境變化所指出的不確定性。這些因素雖然可能影響韓國經濟，但新聞本身並"}
