@@ -3979,3 +3979,4 @@
 {"strategy": "trend", "trend_id": "伊朗军方称对美在巴林军事设施发动无人机袭击", "trend_title": "伊朗军方称对美在巴林军事设施发动无人机袭击", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美伊连续多日互袭致数十人死亡伊朗关闭霍尔木兹海峡", "trend_title": "美伊连续多日互袭致数十人死亡 伊朗关闭霍尔木兹海峡", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "据伊朗塔斯尼姆通讯社伊朗军方表示对在巴林萨基尔基地的美国直升机和侦察机实施了无人机攻击", "trend_title": "据伊朗塔斯尼姆通讯社：伊朗军方表示，对在巴林萨基尔基地的美国直升机和侦察机实施了无人机攻击。", "market_title": "", "reason": "LLM 判定不下注：该话题描述的是伊朗军方对巴林萨基尔基地的美国设施进行无人机攻击，这属于军事冲突的范畴，与所提供的关于美伊核协议或外交会议"}
+{"strategy": "trend", "trend_id": "半导体抛售潮拖累美股纳指100一度跌2中概再逆市涨黄金大跌破4000", "trend_title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000", "market_title": "Will Gold (XAUUSD) hit (LOW) $3,900 in July?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
