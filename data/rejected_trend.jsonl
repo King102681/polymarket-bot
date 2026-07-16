@@ -3973,3 +3973,5 @@
 {"strategy": "trend", "trend_id": "据伊朗法尔斯通讯社美国对伊朗布什尔地区的空袭目标为空军和海军两个基地", "trend_title": "据伊朗法尔斯通讯社：美国对伊朗布什尔地区的空袭目标为空军和海军两个基地。", "market_title": "", "reason": "LLM 判定不下注：這則新聞是關於美國對伊朗軍事基地的空襲，與候選市場的核協議或外交會議主題無關，因此選擇市場 index -1。"}
 {"strategy": "trend", "trend_id": "据伊朗法尔斯通讯社伊拉克消息人士称伊拉克埃尔比勒大部分地区停电", "trend_title": "据伊朗法尔斯通讯社：伊拉克消息人士称，伊拉克埃尔比勒大部分地区停电。", "market_title": "", "reason": "LLM 判定不下注：伊拉克埃尔比勒停电事件是局部基础设施问题，与美伊核协议谈判、外交会晤地点等战略性议题无直接因果关系。话题信息不足以推断伊"}
 {"strategy": "trend", "trend_id": "美伊一周内多轮互袭致重大伤亡伊朗关闭霍尔木兹海峡", "trend_title": "美伊一周内多轮互袭致重大伤亡 伊朗关闭霍尔木兹海峡", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "spacexspcxo美股盘后下跌4星舰在得州的第13次试飞过程中于升空前最后一刻中止发射", "trend_title": "SpaceX(SPCX.O)美股盘后下跌4%，星舰在得州的第13次试飞过程中，于升空前最后一刻中止发射。", "market_title": "", "reason": "LLM 判定不下注：話題涉及SpaceX星舰第13次试飞中止，這是SpaceX的運營事件。然而候選市場[0][1]均涉及Tesla-Spac"}
+{"strategy": "trend", "trend_id": "美联储副主席杰斐逊将于十分钟后就经济和货币政策发表讲话", "trend_title": "美联储副主席杰斐逊将于十分钟后就经济和货币政策发表讲话。", "market_title": "", "reason": "LLM 判定不下注：杰斐逊副主席的讲话是实时事件，但候选市场都聚焦2026年9月和10月的FOMC决议，时间跨度过远。讲话内容对远期决议有影"}
