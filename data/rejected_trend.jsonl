@@ -3857,3 +3857,4 @@
 {"strategy": "trend", "trend_id": "特朗普幕僚认为中国违反贸易协议但不愿采取反制措施", "trend_title": "特朗普幕僚认为中国违反贸易协议 但不愿采取反制措施", "market_title": "", "reason": "LLM 判定不下注：這條話題涉及特朗普幕僚對中國貿易協議的態度，但三個候選市場均為『特朗普與特定人物在2026年7月的會面』，完全無相關性。"}
 {"strategy": "trend", "trend_id": "formerusambassadorsaysiranmiscalculatedtrumpsresolve", "trend_title": "Former US Ambassador says Iran miscalculated Trump’s resolve", "market_title": "", "reason": "LLM 判定不下注：話題討論伊朗對特朗普決心的誤判，涉及美伊關係與中東政策。三個候選市場均為2026年7月的雙邊會晤預測（Netanyahu"}
 {"strategy": "trend", "trend_id": "英国首相斯塔默将于周四访问基辅与乌克兰总统泽连斯基举行会谈", "trend_title": "英国首相斯塔默将于周四访问基辅，与乌克兰总统泽连斯基举行会谈。", "market_title": "", "reason": "LLM 判定不下注：熱門話題是英國首相訪問基輔與烏克蘭總統會談，這是地緣政治新聞。候選市場全部是generic headline keywo"}
+{"strategy": "trend", "trend_id": "欧盟和乌克兰达成无人机协议", "trend_title": "欧盟和乌克兰达成“无人机协议”", "market_title": "", "reason": "LLM 判定不下注：熱門話題是關於歐盟和烏克蘭達成的『無人機協議』，這是一個具體的軍事和政治合作新聞。候選市場的關鍵詞如『Shocking』"}
