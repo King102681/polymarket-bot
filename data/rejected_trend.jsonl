@@ -3908,3 +3908,4 @@
 {"strategy": "trend", "trend_id": "韩国央行加息25个基点至275", "trend_title": "韩国央行加息25个基点至2.75%", "market_title": "Will the Bank of Korea hike by 25 bps at the August 2026 meeting?", "reason": "進場價 0.955 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "powerfulstormfloodshundredsofhomesinrussiasurals", "trend_title": "Powerful storm floods hundreds of homes in Russia’s urals", "market_title": "", "reason": "LLM 判定不下注：話題是俄烏山區暴風水災，涉及自然災害與災民影響。候選市場都是『特定詞彙是否出現在本週頭條』的抽象預測，與實際災害事件內容"}
 {"strategy": "trend", "trend_id": "武契奇公开表示支持乌克兰", "trend_title": "武契奇公开表示支持乌克兰", "market_title": "", "reason": "LLM 判定不下注：話題是武契奇表示支持烏克蘭的政治立場聲明。候選市場均為通用新聞關鍵詞預測（Reserve、Shocking、Fear、B"}
+{"strategy": "trend", "trend_id": "巴布亚新几内亚宣布关闭台湾驻巴新代表处", "trend_title": "巴布亚新几内亚宣布关闭台湾驻巴新代表处", "market_title": "", "reason": "LLM 判定不下注：巴布亚新几内亚关闭台湾代表处是外交事件，反映中国对台湾的压力升温，但这是『既有趋势的具体化』而非『突发新信息』。候选市场"}
