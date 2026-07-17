@@ -4067,3 +4067,6 @@
 {"strategy": "trend", "trend_id": "spacex星舰第13次试飞因发动机故障自动中止", "trend_title": "SpaceX星舰第13次试飞因发动机故障自动中止", "market_title": "", "reason": "LLM 判定不下注：SpaceX星舰第13次试飞发动机故障自动中止，这是SpaceX运载火箭的技术问题。候选市场[0][1]涉及Tesla-"}
 {"strategy": "trend", "trend_id": "chinasxijinpinglaunchesnewaialliancewhatisit", "trend_title": "China’s Xi Jinping launches new AI alliance: What is it?", "market_title": "", "reason": "LLM 判定不下注：話題是習近平推出新的AI聯盟，主要涉及技術政策倡議。候選市場[0]是關於2027年前訪美，[1]是關於與高市與習會面，都"}
 {"strategy": "trend", "trend_id": "习近平出席世界人工智能大会宣布成立全球ai合作组织", "trend_title": "习近平出席世界人工智能大会宣布成立全球AI合作组织", "market_title": "", "reason": "LLM 判定不下注：話題涉及習近平出席AI大會並宣布成立全球AI合作組織，這是一次國內/多邊會議活動，與候選市場的『習訪美』(2027前)或"}
+{"strategy": "trend", "trend_id": "布伦特原油日内涨超200现报8581美元桶", "trend_title": "布伦特原油日内涨超2.00%，现报85.81美元/桶。", "market_title": "", "reason": "LLM 判定不下注：話題是布倫特原油 (Brent Crude Oil) 的價格變動，而候選市場是西德州原油 (WTI Crude Oil)"}
+{"strategy": "trend", "trend_id": "真实社交网站将出售特朗普帖文的优先访问权", "trend_title": "“真实社交”网站将出售特朗普帖文的优先访问权", "market_title": "", "reason": "LLM 判定不下注：該話題是關於一個網站出售特朗普帖文的優先訪問權，與候選市場中關於特朗普是否會與特定國家領導人會面的問題沒有直接關聯。因此"}
+{"strategy": "trend", "trend_id": "法国极右翼与马斯克保持距离", "trend_title": "法国极右翼与马斯克保持距离", "market_title": "", "reason": "LLM 判定不下注：話題討論法国極右翼與馬斯克的距離關係，屬於政治態度與社會形象層面。候選市場均聚焦Tesla/SpaceX的商業併購與產品"}
