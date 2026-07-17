@@ -4079,3 +4079,4 @@
 {"strategy": "trend", "trend_id": "法国外交部驻巴黎俄罗斯大使馆临时代办于7月17日被法国召见", "trend_title": "法国外交部：驻巴黎俄罗斯大使馆临时代办于7月17日被法国召见。", "market_title": "", "reason": "LLM 判定不下注：话题涉及法国外交部召见俄罗斯驻巴黎大使馆代办，属于国际外交事件。候选市场[0]、[1]、[2]分别关于'Shocking"}
 {"strategy": "trend", "trend_id": "安迪伯纳姆当选工党党魁将接替斯塔默出任英国首相", "trend_title": "安迪·伯纳姆当选工党党魁将接替斯塔默出任英国首相", "market_title": "", "reason": "LLM 判定不下注：話題講的是安迪·伯納姆當選工黨黨魁將接替斯塔默成為英國首相，但候選市場問的是沙巴納·馬哈茂德是否會成為2026年財政大臣"}
 {"strategy": "trend", "trend_id": "前线战况刚现转机乌克兰防务高层决裂恐挫军心", "trend_title": "前线战况刚现转机 乌克兰防务高层决裂恐挫军心", "market_title": "", "reason": "LLM 判定不下注：這則新聞是關於烏克蘭的戰況和內部防務高層的分歧，與候選市場中提及的「Shocking」、「Fear」、「Moon」等主題"}
+{"strategy": "trend", "trend_id": "亚特兰大联储gdpnow模型对第二季度实际gdp增速的预期维持在17", "trend_title": "亚特兰大联储GDPNow模型对第二季度实际GDP增速的预期维持在1.7%。", "market_title": "", "reason": "LLM 判定不下注：亞特蘭大聯儲GDPNow模型預測Q2 GDP增速1.7%是經濟基本面數據，但所有候選市場都是關於2026年9月及10月聯"}
