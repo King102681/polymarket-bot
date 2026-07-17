@@ -4026,3 +4026,5 @@
 {"strategy": "trend", "trend_id": "中使馆中国从未也永远不会干涉美大选", "trend_title": "中使馆：中国从未也永远不会干涉美大选", "market_title": "", "reason": "LLM 判定不下注：此新聞話題與美國大選相關，但候選市場是關於以色列選舉，兩者無關。因此，無法從此話題推斷任何市場方向。"}
 {"strategy": "trend", "trend_id": "高市早苗称应鼓励家庭和gpif增加日本资产投资", "trend_title": "高市早苗称应鼓励家庭和GPIF增加日本资产投资", "market_title": "", "reason": "LLM 判定不下注：話題提到日本資產投資，與國會解散無關。"}
 {"strategy": "trend", "trend_id": "russiantroopssurviveanaverage30minutesonukrainesbattlefieldciadirector", "trend_title": "Russian troops survive an average 30 minutes on Ukraine's battlefield: CIA director", "market_title": "", "reason": "LLM 判定不下注：此話題是關於俄羅斯士兵在烏克蘭戰場的生存時間，與候選市場中提及的單詞（'Shocking', 'Border', 'Fe"}
+{"strategy": "trend", "trend_id": "金十图示2026年07月17日周五上海黄金交易所市场行情", "trend_title": "金十图示：2026年07月17日（周五）上海黄金交易所市场行情", "market_title": "", "reason": "LLM 判定不下注：該話題僅為展示 2026 年 7 月 17 日的上海黃金交易所行情，並未提供任何關於金價未來走勢的預測或新資訊。因此，無"}
+{"strategy": "trend", "trend_id": "上海黄金交易所7月17日周五交易行情", "trend_title": "上海黄金交易所7月17日（周五）交易行情", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題僅是關於上海黃金交易所的交易行情，並未提供任何關於黃金價格趨勢的新資訊，也無法判斷市場是否尚未反應。因此，"}
