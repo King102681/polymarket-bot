@@ -4122,3 +4122,6 @@
 {"strategy": "trend", "trend_id": "伊朗称袭击美驻巴林设施警告美国中东ai资产或成目标", "trend_title": "伊朗称袭击美驻巴林设施 警告美国中东AI资产或成目标", "market_title": "", "reason": "LLM 判定不下注：這則新聞是關於伊朗對美國駐巴林設施的襲擊以及對中東AI資產的警告，這與候選市場中所有關於美伊核協議或外交會議的條款均無直"}
 {"strategy": "trend", "trend_id": "据伊朗塔斯尼姆通讯社伊朗中部城市亚兹德发生五起爆炸", "trend_title": "据伊朗塔斯尼姆通讯社：伊朗中部城市亚兹德发生五起爆炸。", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "据伊朗迈赫尔通讯社美国导弹袭击了伊朗阿瓦士市西南部地区", "trend_title": "据伊朗迈赫尔通讯社：美国导弹袭击了伊朗阿瓦士市西南部地区。", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "kimi冲击美科技股纳指再跌1芯片股跌入熊市美伊冲突升级油价大涨", "trend_title": "Kimi冲击美科技股，纳指再跌1%，芯片股跌入熊市，美伊冲突升级油价大涨", "market_title": "", "reason": "LLM 判定不下注：該熱門話題主要關注 Kimi 對美科技股的影響、納斯達克指數下跌、芯片股進入熊市，以及美伊衝突升級導致油價上漲。而候選市"}
+{"strategy": "trend", "trend_id": "美联储7月维持利率不变的概率856", "trend_title": "美联储7月维持利率不变的概率85.6%", "market_title": "", "reason": "LLM 判定不下注：話題討論的是7月聯邦公開市場委員會（FOMC）維持利率不變的概率，但所有候選市場都針對2026年9月或10月的會議。時間"}
+{"strategy": "trend", "trend_id": "伊朗称击落一架美军mq9无人机", "trend_title": "伊朗称击落一架美军MQ-9无人机", "market_title": "", "reason": "LLM 判定不下注：这条新闻是关于一起军事事件，直接击落无人机，而所有候选市场都集中在美伊核协议的外交进程和时间点上。事件本身与核协议的进展"}
