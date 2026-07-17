@@ -4001,3 +4001,4 @@
 {"strategy": "trend", "trend_id": "金十图示2026年07月17日周五黄金etf持仓报告", "trend_title": "金十图示：2026年07月17日（周五）黄金ETF持仓报告", "market_title": "Will Gold (XAUUSD) hit (LOW) $3,900 in July?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "uslaunchesfreshwaveofstrikesasiransayscivilianinfrastructurehit", "trend_title": "US launches fresh wave of strikes as Iran says civilian infrastructure hit", "market_title": "", "reason": "LLM 判定不下注：該新聞講述的是美國對伊朗發動新一輪襲擊，並指控伊朗平民基礎設施受損。這與所有候選市場（皆涉及美伊核協議或外交會議的日期/"}
 {"strategy": "trend", "trend_id": "机构批评韩国监管机构仓促批准单股杠杆产品是在为散户创造赌场", "trend_title": "机构批评韩国监管机构仓促批准单股杠杆产品是在为散户“创造赌场”", "market_title": "", "reason": "LLM 判定不下注：該話題是關於韓國監管機構批准單股槓桿產品，與候選市場中關於韓國央行利率決策、GDP 增長和通脹預測沒有直接關聯。話題內容"}
+{"strategy": "trend", "trend_id": "韩国股市暴跌每30名韩国成年人就有1人被追保强平率从21飙至10", "trend_title": "韩国股市暴跌！每30名韩国成年人就有1人被追保，强平率从2.1%飙至10%", "market_title": "Will the Bank of Korea hold at the August 2026 meeting?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
