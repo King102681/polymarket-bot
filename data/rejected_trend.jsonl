@@ -4109,3 +4109,5 @@
 {"strategy": "trend", "trend_id": "cantheusandiranreachalastingdealtoendtheconflict", "trend_title": "Can the US and Iran reach a lasting deal to end the conflict?", "market_title": "", "reason": "LLM 判定不下注：熱門話題是關於美伊能否達成『結束衝突的持久協議』，這是一個廣泛的議題。候選市場[0]至[4]都聚焦於『核協議』或『外交會"}
 {"strategy": "trend", "trend_id": "美国原油钻井平台连续第12周增长", "trend_title": "美国原油钻井平台连续第12周增长", "market_title": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in July?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美伊连续多日互袭致数百人伤亡", "trend_title": "美伊连续多日互袭致数百人伤亡", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "据悉spacex正洽谈为美国防部的ai项目提供数十亿美元算力", "trend_title": "据悉SpaceX正洽谈为美国防部的AI项目提供数十亿美元算力", "market_title": "", "reason": "LLM 判定不下注：該話題涉及SpaceX與美國防部的AI算力合作洽談，與四個候選市場均無直接對應關係。這些候選市場皆聚焦Tesla-Spa"}
+{"strategy": "trend", "trend_id": "伊朗最高领袖顾问雷扎伊如果美国的袭击持续数天伊朗将进入全面进攻行动阶段", "trend_title": "伊朗最高领袖顾问雷扎伊：如果美国的袭击持续数天，伊朗将进入全面进攻行动阶段。", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
