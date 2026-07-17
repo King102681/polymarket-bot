@@ -4030,3 +4030,6 @@
 {"strategy": "trend", "trend_id": "上海黄金交易所7月17日周五交易行情", "trend_title": "上海黄金交易所7月17日（周五）交易行情", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題僅是關於上海黃金交易所的交易行情，並未提供任何關於黃金價格趨勢的新資訊，也無法判斷市場是否尚未反應。因此，"}
 {"strategy": "trend", "trend_id": "usattackssoutherniranastehranhitsgulfcountrieswhatsthelatest", "trend_title": "US attacks southern Iran, as Tehran hits Gulf countries: What’s the latest?", "market_title": "", "reason": "LLM 判定不下注：此新聞提及的是美國對伊朗的攻擊以及伊朗對海灣國家的襲擊，這屬於軍事衝突和地緣政治緊張，與上述候選市場中關於美伊核協議或外"}
 {"strategy": "trend", "trend_id": "gulfstatescomeunderiranianfireasusstrikesintensify", "trend_title": "Gulf states come under Iranian fire as US strikes intensify", "market_title": "", "reason": "LLM 判定不下注：這則新聞提到美國和伊朗在海灣地區的軍事衝突升級，但候選市場主要聚焦於美伊核協議的簽署時間或外交會議地點，與當前新聞事件沒"}
+{"strategy": "trend", "trend_id": "俄对韩国向北约靠拢表示担忧", "trend_title": "俄对韩国向北约靠拢表示担忧", "market_title": "", "reason": "LLM 判定不下注：此話題主要關於俄羅斯對韓國外交政策的擔憂，並未提及韓國國內政治或經濟指標。因此，與提供的所有市場候選都無直接關聯。"}
+{"strategy": "trend", "trend_id": "中国促客观理性看待中俄军事合作停止主观臆测和抹黑炒作", "trend_title": "中国促客观理性看待中俄军事合作 停止主观臆测和抹黑炒作", "market_title": "", "reason": "LLM 判定不下注：話題涉及中俄軍事合作的政治評論，主要內容是中國官方呼籲理性看待、停止炒作。候選市場均為英文單詞頻率預測（Shocking"}
+{"strategy": "trend", "trend_id": "wti原油向上触及80美元桶日内涨069", "trend_title": "WTI原油向上触及80美元/桶，日内涨0.69%。", "market_title": "Will WTI Crude Oil (WTI) hit (HIGH) $85 in July?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
