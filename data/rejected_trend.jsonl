@@ -4014,3 +4014,4 @@
 {"strategy": "trend", "trend_id": "usbombardsiraninsixthstraightnightofattacks", "trend_title": "US bombards Iran in sixth-straight night of attacks", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美伊连续空袭致海峡封锁国际油价飙升", "trend_title": "美伊连续空袭致海峡封锁 国际油价飙升", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "泽连斯基解雇防长费多罗夫任命赫马拉代理", "trend_title": "泽连斯基解雇防长费多罗夫任命赫马拉代理", "market_title": "", "reason": "LLM 判定不下注：泽连斯基解雇防长费多罗夫并任命赫马拉代理是乌克兰国防部人事变动，与提供的五个市场都没有实质关联。这些市场聚焦于英文关键词"}
+{"strategy": "trend", "trend_id": "伊朗学生通讯社卫星图像显示位于阿联酋扎耶德zayed的三栋美方建筑物遭到破坏", "trend_title": "伊朗学生通讯社：卫星图像显示，位于阿联酋扎耶德（Zayed）的三栋美方建筑物遭到破坏。", "market_title": "", "reason": "LLM 判定不下注：這則新聞提到建築物遭到破壞，但這與目前所有候選市場（皆圍繞在美伊核協議或外交會議）的關聯性不高，且並未提供足以判斷是否達"}
