@@ -4104,3 +4104,4 @@
 {"strategy": "trend", "trend_id": "美国国会公布临时拨款法案将联邦政府资金期限延长至12月4日", "trend_title": "美国国会公布临时拨款法案，将联邦政府资金期限延长至12月4日。", "market_title": "", "reason": "信心 0.30 < 0.35：该话题是关于短期联邦政府拨款延期至12月4日，与市场3和市场4（关于1月31日前"}
 {"strategy": "trend", "trend_id": "lifeafteramputationgazawomenfindrecoverythroughfootball", "trend_title": "Life after amputation: Gaza women find recovery through football", "market_title": "", "reason": "LLM 判定不下注：這則新聞關於加薩女性透過足球尋求康復，與以哈停火的市場主題關聯性極低。"}
 {"strategy": "trend", "trend_id": "据伊朗努尔新闻nournews当地消息人士称伊朗阿巴斯港传出爆炸声", "trend_title": "据伊朗努尔新闻(Nour News)：当地消息人士称，伊朗阿巴斯港传出爆炸声。", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "一艘船只在霍尔木兹海峡遭袭", "trend_title": "一艘船只在霍尔木兹海峡遭袭", "market_title": "Strait of Hormuz traffic returns to normal by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
