@@ -4093,3 +4093,4 @@
 {"strategy": "trend", "trend_id": "习近平吁构建全球ai治理体系学者北京将ai列入多边外交框架", "trend_title": "习近平吁构建全球AI治理体系 学者：北京将AI列入多边外交框架", "market_title": "", "reason": "LLM 判定不下注：习近平关于全球AI治理体系的言论和外交政策倾向，与两个候选市场都没有直接对应关系。市场[0]关于访美与[1]关于与高市早"}
 {"strategy": "trend", "trend_id": "媒体为应对局势升级美国将向以色列增派数十架加油机", "trend_title": "媒体：为应对局势升级，美国将向以色列增派数十架加油机", "market_title": "Israel x Hamas ceasefire cancelled by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "据axios为应对可能升级的局势美国向以色列增派数十架加油机", "trend_title": "据AXIOS：为应对可能升级的局势，美国向以色列增派数十架加油机。", "market_title": "Israel x Hamas ceasefire cancelled by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "wti原油日内涨300现报8185美元桶", "trend_title": "WTI原油日内涨3.00%，现报81.85美元/桶。", "market_title": "Will WTI Crude Oil (WTI) hit (HIGH) $85 in July?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
