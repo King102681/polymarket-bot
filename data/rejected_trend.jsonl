@@ -4046,3 +4046,4 @@
 {"strategy": "trend", "trend_id": "knessetdissolveshowwillisraelvoteinoctobersgeneralelection", "trend_title": "Knesset dissolves: How will Israel vote in October’s general election?", "market_title": "", "reason": "LLM 判定不下注：熱門話題是關於以色列10月大選和議會解散，純粹是政治選舉事件。兩個候選市場都聚焦於以色列-哈馬斯停火協議的進展和取消，與"}
 {"strategy": "trend", "trend_id": "trumpsnewelectionpushexplained", "trend_title": "Trump’s new election push, explained", "market_title": "", "reason": "LLM 判定不下注：熱門話題是關於Trump的新選舉推動計畫，內容屬於美國國內政治動向。候選市場[0-3]全部聚焦在Trump與特定外國領導"}
 {"strategy": "trend", "trend_id": "布伦特原油站上85美元桶日内涨106", "trend_title": "布伦特原油站上85美元/桶，日内涨1.06%。", "market_title": "Will WTI Crude Oil (WTI) hit (HIGH) $85 in July?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "unabyssforclaude", "trend_title": "Unabyss for Claude", "market_title": "", "reason": "LLM 判定不下注：Unabyss for Claude 是 Product Hunt 上的一個工具/應用產品，與 Anthropic 公司"}
