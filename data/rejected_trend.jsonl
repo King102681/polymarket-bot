@@ -4049,3 +4049,4 @@
 {"strategy": "trend", "trend_id": "unabyssforclaude", "trend_title": "Unabyss for Claude", "market_title": "", "reason": "LLM 判定不下注：Unabyss for Claude 是 Product Hunt 上的一個工具/應用產品，與 Anthropic 公司"}
 {"strategy": "trend", "trend_id": "美军恢复对伊朗海上封锁并发动空袭霍尔木兹海峡航运中断", "trend_title": "美军恢复对伊朗海上封锁并发动空袭 霍尔木兹海峡航运中断", "market_title": "", "reason": "LLM 判定不下注：儘管話題提到美軍對伊朗的行動，但候選市場均圍繞著美伊核協議或外交會議的進展，與直接的軍事封鎖或空襲無關。話題缺乏直接資訊"}
 {"strategy": "trend", "trend_id": "whyistheusattackingsoutherniranscivilianinfrastructure", "trend_title": "Why is the US attacking southern Iran’s civilian infrastructure?", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "iranaccusesusofhittingcivilianinfrastructure", "trend_title": "Iran accuses US of hitting civilian infrastructure", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
