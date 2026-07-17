@@ -3998,3 +3998,4 @@
 {"strategy": "trend", "trend_id": "uslaunchesnewwaveofstrikesoniranastensionsescalateoverstraitofhormuz", "trend_title": "US launches new wave of strikes on Iran as tensions escalate over Strait of Hormuz", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "离岸人民币同业拆息利率基本持稳", "trend_title": "离岸人民币同业拆息利率基本持稳", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及離岸人民幣同業拆息利率在中國的基本面情況，與美聯儲利率決策完全無關。四個候選市場均針對美國Fed利率動向（2"}
 {"strategy": "trend", "trend_id": "美伊连续空袭致海峡航运骤降国际油价飙升", "trend_title": "美伊连续空袭致海峡航运骤降国际油价飙升", "market_title": "", "reason": "LLM 判定不下注：該話題聚焦於海峽航運和油價，與所有候選市場的『外交會談』或『核協議』主題關聯性不大。因此，無法判斷其對任何市場方向的影響"}
+{"strategy": "trend", "trend_id": "金十图示2026年07月17日周五黄金etf持仓报告", "trend_title": "金十图示：2026年07月17日（周五）黄金ETF持仓报告", "market_title": "Will Gold (XAUUSD) hit (LOW) $3,900 in July?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
