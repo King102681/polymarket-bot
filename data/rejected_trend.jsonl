@@ -4149,3 +4149,4 @@
 {"strategy": "trend", "trend_id": "美中央司令部结束连续第七晚对伊朗的打击行动", "trend_title": "美中央司令部：结束连续第七晚对伊朗的打击行动", "market_title": "", "reason": "LLM 判定不下注：該話題涉及美國對伊朗的軍事行動，與五個候選市場均無直接對應關係。候選市場聚焦於中美關係、烏克蘭衝突、ByteDance及"}
 {"strategy": "trend", "trend_id": "美国军方美国军方结束了对伊朗连续第七夜的打击", "trend_title": "美国军方：美国军方结束了对伊朗连续第七夜的打击。", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "巴布亚新几内亚宣布关闭台湾代表处", "trend_title": "巴布亚新几内亚宣布关闭台湾代表处", "market_title": "Will China invade Taiwan by December 31, 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "trumpmediareportedlymullingfeeforfirstaccesstosocialmediaposts", "trend_title": "Trump Media reportedly mulling fee for first access to social media posts", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於 Trump Media 考慮对其社交媒体帖子的首个访问收费。这与候选市场中提出的任何关于特朗普与内塔尼"}
