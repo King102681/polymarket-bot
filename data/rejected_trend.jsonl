@@ -4161,3 +4161,5 @@
 {"strategy": "trend", "trend_id": "伊朗媒体援引当地官员的话称多枚导弹击中了伊朗霍尔木兹甘省贾斯克地区的电力设施和海水淡化水泵", "trend_title": "伊朗媒体援引当地官员的话称，多枚导弹击中了（伊朗霍尔木兹甘省）贾斯克地区的电力设施和海水淡化水泵。", "market_title": "", "reason": "LLM 判定不下注：此新聞關於伊朗襲擊電力設施，與美國伊朗核協議或外交會議的市場主題關聯性低，無法判斷方向。"}
 {"strategy": "trend", "trend_id": "习近平通过中柬33对话机制联手打击电诈", "trend_title": "习近平：通过中柬3+3对话机制 联手打击电诈", "market_title": "", "reason": "LLM 判定不下注：這則新聞關於中柬合作打擊電信詐騙，與『習近平是否會在 2027 年前訪問美國』以及『習近平是否會在 2026 年底前會見"}
 {"strategy": "trend", "trend_id": "美国官员伊朗向沙特美军基地发射导弹", "trend_title": "美国官员：伊朗向沙特美军基地发射导弹", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "韩国央行三年多来首次加息", "trend_title": "韩国央行三年多来首次加息", "market_title": "Will South Korea GDP growth in Q2 2026 be between 3.0% and 3.4%?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "据半岛电视台霍尔木兹甘省一名官员表示由于敌方袭击海水淡化泵贾斯克地区的村庄出现饮用水中断", "trend_title": "据半岛电视台：霍尔木兹甘省一名官员表示，由于敌方袭击海水淡化泵，贾斯克地区的村庄出现饮用水中断。", "market_title": "Strait of Hormuz traffic returns to normal by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
