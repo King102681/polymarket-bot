@@ -4195,3 +4195,4 @@
 {"strategy": "trend", "trend_id": "aipacclosesdonorportaltodemocratswhovotedtoendaidtoisrael", "trend_title": "AIPAC Closes Donor Portal to Democrats Who Voted to End Aid to Israel", "market_title": "", "reason": "LLM 判定不下注：此話題是關於 AIPAC 關閉部分民主黨員的捐款入口，與以色列和哈馬之間的停火協議沒有直接關聯。因此，不選擇任何市場。"}
 {"strategy": "trend", "trend_id": "阿联酋外交部阿联酋强烈谴责伊朗对巴林科威特和约旦再次发动的侵略性袭击", "trend_title": "阿联酋外交部：阿联酋强烈谴责伊朗对巴林、科威特和约旦再次发动的侵略性袭击。", "market_title": "", "reason": "LLM 判定不下注：此新聞是關於阿聯酋譴責伊朗的襲擊，與美國和伊朗之間的核協議市場無直接關聯。因此，選擇 index -1。"}
 {"strategy": "trend", "trend_id": "美伊连续七日互袭致海峡通行受阻油价飙升", "trend_title": "美伊连续七日互袭致海峡通行受阻油价飙升", "market_title": "", "reason": "LLM 判定不下注：此熱門話題描述的是美伊之間的軍事衝突導致海峽通行受阻和油價飆升，與候選市場中關於核協議或外交會議的議題關聯性不大。市場對"}
+{"strategy": "trend", "trend_id": "金十数据整理特朗普过去24小时都忙了什么20260718", "trend_title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-18）", "market_title": "", "reason": "LLM 判定不下注：這則熱門話題是關於特朗普過去24小時的日程安排，並沒有提供任何關於他是否會與內塔尼亞胡會面的具體資訊，因此無法判斷市場方"}
