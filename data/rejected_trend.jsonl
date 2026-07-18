@@ -4215,3 +4215,4 @@
 {"strategy": "trend", "trend_id": "美伊冲突持续升级伊朗宣布停止履行谅解备忘录", "trend_title": "美伊冲突持续升级 伊朗宣布停止履行谅解备忘录", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美伊连续空袭致霍尔木兹海峡通行量骤降", "trend_title": "美伊连续空袭致霍尔木兹海峡通行量骤降", "market_title": "", "reason": "LLM 判定不下注：話題描述的是海峽通行量驟降，與軍事衝突有關，但所有候選市場都圍繞著美伊核協議的外交進程，兩者關聯性不高。市場未對此話題產"}
 {"strategy": "trend", "trend_id": "韩国全民借钱炒股的黄金梦为何破碎", "trend_title": "韩国全民借钱炒股的黄金梦为何破碎", "market_title": "Will South Korea GDP growth in Q2 2026 be between 3.0% and 3.4%?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "伊朗革命卫队海军司令美国别无选择只能远离海湾", "trend_title": "伊朗革命卫队海军司令：美国别无选择，只能远离海湾。", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
