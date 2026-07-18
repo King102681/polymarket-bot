@@ -4210,3 +4210,4 @@
 {"strategy": "trend", "trend_id": "美企与伊拉克签600亿大单欲打造霍尔木兹海峡替代线路", "trend_title": "美企与伊拉克签600亿大单，欲打造霍尔木兹海峡“替代线路”", "market_title": "", "reason": "LLM 判定不下注：話題涉及美企在伊拉克的基礎設施大單，旨在開發霍爾木茲海峽替代線路。然而所有候選市場都聚焦於『霍爾木茲海峽恢復正常』或『曼"}
 {"strategy": "trend", "trend_id": "朝鲜外长访问莫斯科与俄外长会谈", "trend_title": "朝鲜外长访问莫斯科 与俄外长会谈", "market_title": "Will North and South Korea engage in direct talks by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "俄外长与阿联酋外长通话强调美伊必须停火并恢复谈判", "trend_title": "俄外长与阿联酋外长通话 强调美伊必须停火并恢复谈判", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "fable5vsgpt56solonannphardproblemdoesgoalhelp", "trend_title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於 Fable 5 和 GPT-5.6 在 NP-Hard 問題上的性能比較，以及 /goal 參數是否有"}
