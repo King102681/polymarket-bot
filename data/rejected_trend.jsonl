@@ -4175,3 +4175,4 @@
 {"strategy": "trend", "trend_id": "spacex股价跌破ipo发行价市值蒸发超1万亿美元", "trend_title": "SpaceX股价跌破IPO发行价市值蒸发超1万亿美元", "market_title": "", "reason": "LLM 判定不下注：熱門話題提到 SpaceX 的市值蒸發，這與 IPO 發行價或併購無關，因此不符合任何候選市場。"}
 {"strategy": "trend", "trend_id": "fifa主席提议中美合办世界杯", "trend_title": "FIFA主席提议中美合办世界杯", "market_title": "Will Xi Jinping visit US before 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "据伊朗迈赫尔通讯社科威特第五次响起警报", "trend_title": "据伊朗迈赫尔通讯社：科威特第五次响起警报。", "market_title": "", "reason": "LLM 判定不下注：此新聞提到科威特響起警報，但與所有候選的美國-伊朗外交或核協議市場無直接關聯。無法判斷對任何市場方向的影響。"}
+{"strategy": "trend", "trend_id": "kimjongunwasmeanttobetheironlyidolthennorthkoreansdiscoveredkpop", "trend_title": "Kim Jong Un was meant to be their only idol - then North Koreans discovered K-pop", "market_title": "", "reason": "LLM 判定不下注：該話題討論北韓民眾接觸K-pop文化的現象，屬於社會文化議題。候選市場均聚焦於地緣政治（以色列外交承認）或具體軍事事件（"}
