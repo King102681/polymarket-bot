@@ -4160,3 +4160,4 @@
 {"strategy": "trend", "trend_id": "目标价翻倍至2581元高盛英伟达推动32t光模块需求加速中际旭创迎来估值重塑", "trend_title": "目标价翻倍至2581元！高盛：英伟达推动3.2T光模块需求加速，中际旭创迎来估值重塑", "market_title": "", "reason": "LLM 判定不下注：話題涉及中際旭創（光模塊製造商）的估值重塑和高盛目標價上調，但候選市場皆為 Ornn H100/B200 晶片指數期貨，"}
 {"strategy": "trend", "trend_id": "伊朗媒体援引当地官员的话称多枚导弹击中了伊朗霍尔木兹甘省贾斯克地区的电力设施和海水淡化水泵", "trend_title": "伊朗媒体援引当地官员的话称，多枚导弹击中了（伊朗霍尔木兹甘省）贾斯克地区的电力设施和海水淡化水泵。", "market_title": "", "reason": "LLM 判定不下注：此新聞關於伊朗襲擊電力設施，與美國伊朗核協議或外交會議的市場主題關聯性低，無法判斷方向。"}
 {"strategy": "trend", "trend_id": "习近平通过中柬33对话机制联手打击电诈", "trend_title": "习近平：通过中柬3+3对话机制 联手打击电诈", "market_title": "", "reason": "LLM 判定不下注：這則新聞關於中柬合作打擊電信詐騙，與『習近平是否會在 2027 年前訪問美國』以及『習近平是否會在 2026 年底前會見"}
+{"strategy": "trend", "trend_id": "美国官员伊朗向沙特美军基地发射导弹", "trend_title": "美国官员：伊朗向沙特美军基地发射导弹", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
