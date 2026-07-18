@@ -4201,3 +4201,6 @@
 {"strategy": "trend", "trend_id": "特朗普威胁对加拿大加征山火税", "trend_title": "特朗普威胁对加拿大加征“山火税”", "market_title": "", "reason": "LLM 判定不下注：话题关于特朗普威胁对加拿大征收“山火税”，与候选市场关于特朗普会见内塔尼亚胡的日期完全无关。"}
 {"strategy": "trend", "trend_id": "巴林防空系统启动挫败伊朗袭击", "trend_title": "巴林：防空系统启动 挫败伊朗袭击", "market_title": "US-Iran Final Nuclear Deal by September 30, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "伊朗报复美攻击科威特第二座发电厂和水厂遇袭", "trend_title": "伊朗报复美攻击 科威特第二座发电厂和水厂遇袭", "market_title": "", "reason": "LLM 判定不下注：此新聞描述的是對發電廠和水廠的襲擊事件，與候選市場中關於美伊核協議和外交會議的市場完全無關。"}
+{"strategy": "trend", "trend_id": "伊朗驻巴基斯坦大使谴责美方曲解伊美谅解备忘录", "trend_title": "伊朗驻巴基斯坦大使谴责美方曲解伊美谅解备忘录", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "伊朗卫生部自6月27日以来美国的袭击造成至少50人遇难500人受伤", "trend_title": "伊朗卫生部：自6月27日以来，美国的袭击造成至少50人遇难，500人受伤。", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美伊连续多日互袭致数百人伤亡霍尔木兹海峡通行受阻", "trend_title": "美伊连续多日互袭致数百人伤亡 霍尔木兹海峡通行受阻", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
