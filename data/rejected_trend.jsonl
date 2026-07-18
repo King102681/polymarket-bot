@@ -4150,3 +4150,5 @@
 {"strategy": "trend", "trend_id": "美国军方美国军方结束了对伊朗连续第七夜的打击", "trend_title": "美国军方：美国军方结束了对伊朗连续第七夜的打击。", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "巴布亚新几内亚宣布关闭台湾代表处", "trend_title": "巴布亚新几内亚宣布关闭台湾代表处", "market_title": "Will China invade Taiwan by December 31, 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "trumpmediareportedlymullingfeeforfirstaccesstosocialmediaposts", "trend_title": "Trump Media reportedly mulling fee for first access to social media posts", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於 Trump Media 考慮对其社交媒体帖子的首个访问收费。这与候选市场中提出的任何关于特朗普与内塔尼"}
+{"strategy": "trend", "trend_id": "美媒美国要向以色列增派数十架加油飞机", "trend_title": "美媒：美国要向以色列增派数十架加油飞机", "market_title": "", "reason": "LLM 判定不下注：话题涉及美国向以色列增派军事装备（加油飞机），属于军事支援动态，而非直接关于停火协议本身的进展。两个候选市场都聚焦停火协"}
+{"strategy": "trend", "trend_id": "美军伊朗称两艘油轮触雷爆炸说法不实", "trend_title": "美军：伊朗称两艘油轮触雷爆炸说法不实", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
