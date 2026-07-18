@@ -4189,3 +4189,4 @@
 {"strategy": "trend", "trend_id": "巴布亚新几内亚外长宣布关闭台湾代表处", "trend_title": "巴布亚新几内亚外长宣布关闭台湾代表处", "market_title": "Will China invade Taiwan by December 31, 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "加拿大野火烟霾南侵美国多州特朗普威胁加征关税", "trend_title": "加拿大野火烟霾南侵美国多州 特朗普威胁加征关税", "market_title": "", "reason": "LLM 判定不下注：熱門話題是關於加拿大野火和特朗普威脅加徵關稅，與候選市場中關於特朗普是否會見內塔尼亞胡的內容完全無關。"}
 {"strategy": "trend", "trend_id": "市场消息伊拉克石油部与雪佛龙cvxn签署两项补充协议旨在开发油田和能源基础设施", "trend_title": "市场消息：伊拉克石油部与雪佛龙(CVX.N)签署两项补充协议，旨在开发油田和能源基础设施。", "market_title": "Will WTI Crude Oil (WTI) hit (HIGH) $95 in July?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "伊朗革命卫队发布伊朗弹道导弹袭击哈尔季省苏丹王子空军基地的视频", "trend_title": "伊朗革命卫队发布伊朗弹道导弹袭击哈尔季省苏丹王子空军基地的视频。", "market_title": "", "reason": "LLM 判定不下注：新聞內容是關於伊朗彈道導彈襲擊，與候選市場中所有關於美伊核協議和外交會議的市場均無直接關聯，因此選擇 market_in"}
