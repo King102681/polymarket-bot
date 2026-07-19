@@ -4288,3 +4288,5 @@
 {"strategy": "trend", "trend_id": "黄金短期难破僵局期权数据与主力动向暗示底部夯实", "trend_title": "黄金短期难破僵局，期权数据与主力动向暗示底部夯实", "market_title": "Will Gold (XAUUSD) hit (LOW) $3,900 in July?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "2026世界人工智能大会聚焦具身智能与国产算力突破", "trend_title": "2026世界人工智能大会聚焦具身智能与国产算力突破", "market_title": "", "reason": "LLM 判定不下注：話題提及AI大会聚焦具身智能与国产算力，与阿里云AI模型无关。市场定价是針對阿里的模型表現，此新聞未能提供其短期內表現的"}
 {"strategy": "trend", "trend_id": "usandiranexchangestrikesaftertwousdeathsinjordanattack", "trend_title": "US and Iran exchange strikes after two US deaths in Jordan attack", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "据伊朗迈赫尔通讯社伊朗胡齐斯坦省萨兰德地区发生了深度8公里的4级余震", "trend_title": "据伊朗迈赫尔通讯社：伊朗胡齐斯坦省萨兰德地区发生了深度8公里的4级余震。", "market_title": "", "reason": "LLM 判定不下注：伊朗胡齐斯坦省地震信息是自然灾害事件，与所有候选市场（均聚焦US-Iran核协议谈判与外交会晤）无直接因果关系。地震本身"}
+{"strategy": "trend", "trend_id": "特朗普决策逻辑分析只想名垂千古政治成本不再重要", "trend_title": "特朗普决策逻辑分析：只想名垂千古，政治成本不再重要", "market_title": "", "reason": "LLM 判定不下注：該話題討論特朗普的決策邏輯和政治動機（追求歷史地位、政治成本不再重要），並未提供關於『與內塔尼亞胡會面』這一具體事件的新"}
