@@ -4292,3 +4292,5 @@
 {"strategy": "trend", "trend_id": "特朗普决策逻辑分析只想名垂千古政治成本不再重要", "trend_title": "特朗普决策逻辑分析：只想名垂千古，政治成本不再重要", "market_title": "", "reason": "LLM 判定不下注：該話題討論特朗普的決策邏輯和政治動機（追求歷史地位、政治成本不再重要），並未提供關於『與內塔尼亞胡會面』這一具體事件的新"}
 {"strategy": "trend", "trend_id": "usbombsiranforeighthstraightnight", "trend_title": "US bombs Iran for eighth-straight night", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "马斯克称看中国机器人格斗赛看乐了", "trend_title": "马斯克称看中国机器人格斗赛看乐了", "market_title": "", "reason": "LLM 判定不下注：马斯克关于中国机器人格斗赛的评论是娱乐性观点分享，与所有候选市场（Tesla-SpaceX并购、Cybercab定价、r"}
+{"strategy": "trend", "trend_id": "美伊连续多日互袭致数十人死亡霍尔木兹海峡航运近瘫痪", "trend_title": "美伊连续多日互袭致数十人死亡 霍尔木兹海峡航运近瘫痪", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "特朗普将现场观看美加墨世界杯决赛", "trend_title": "特朗普将现场观看美加墨世界杯决赛", "market_title": "", "reason": "LLM 判定不下注：話題內容是特朗普將現場觀看美加墨世界杯決賽（體育活動）。候選市場[0]和[1]都是關於特朗普與內塔尼亞胡會面的政治事件，"}
