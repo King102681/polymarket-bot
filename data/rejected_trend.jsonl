@@ -4273,3 +4273,5 @@
 {"strategy": "trend", "trend_id": "meta或向anthropic出租算力寻求变现巨额ai投资", "trend_title": "Meta或向Anthropic出租算力 寻求变现巨额AI投资", "market_title": "Will Anthropic IPO by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美媒爆料美伊冲突加剧五角大楼加紧向中东地区增派f16f35战机", "trend_title": "美媒爆料：美伊冲突加剧，五角大楼加紧向中东地区增派F-16、F-35战机", "market_title": "", "reason": "LLM 判定不下注：該新聞主要聚焦於美伊之間的軍事部署與緊張局勢升級，這與候選市場中關於核協議或外交會議的到期時間或地點的預測關聯性較低。市"}
 {"strategy": "trend", "trend_id": "加拿大安大略省省长特朗普对加拿大扑灭山火努力的批评是绝对不可接受的", "trend_title": "加拿大安大略省省长：特朗普对加拿大扑灭山火努力的批评是“绝对不可接受”的", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及加拿大安大略省長對特朗普山火批評的回應,屬於加拿大-美國外交分歧事件。候選市場[0]和[1]都專注於特朗普與"}
+{"strategy": "trend", "trend_id": "伊朗塔斯尼姆通讯社援引当地官员的话称美国军方瞄准了靠近西南部胡齐斯坦省沙德甘的一个地点", "trend_title": "伊朗塔斯尼姆通讯社援引当地官员的话称，美国军方瞄准了靠近（西南部胡齐斯坦省）沙德甘的一个地点。", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "2026世界人工智能大会上海开幕聚焦产业落地", "trend_title": "2026世界人工智能大会上海开幕聚焦产业落地", "market_title": "", "reason": "LLM 判定不下注：話題講述2026世界人工智能大會上海開幕、聚焦產業落地，屬於行業會議/生態新聞。候選市場[0]和[1]都在預測『特定公司"}
