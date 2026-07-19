@@ -4283,3 +4283,4 @@
 {"strategy": "trend", "trend_id": "为提振韩元韩国拟扩大外资韩债交易与抵押范围", "trend_title": "为提振韩元 韩国拟扩大外资韩债交易与抵押范围", "market_title": "Will the Bank of Korea hold at the August 2026 meeting?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美伊连续七日互袭致数十人死亡霍尔木兹海峡通行近瘫痪", "trend_title": "美伊连续七日互袭致数十人死亡 霍尔木兹海峡通行近瘫痪", "market_title": "", "reason": "LLM 判定不下注：該熱門話題描述的是美伊軍事衝突，而候選市場均為美伊外交或核協議相關，兩者關聯性不大，不足以判斷市場方向。"}
 {"strategy": "trend", "trend_id": "美军在宣布结束本轮打击前再次袭击伊朗格什姆岛", "trend_title": "美军在宣布结束本轮打击前再次袭击伊朗格什姆岛", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "momentiranianmissileshitairbaseinjordankillingussoldiers", "trend_title": "Moment Iranian missiles hit airbase in Jordan killing US soldiers", "market_title": "", "reason": "LLM 判定不下注：此話題為伊朗導彈襲擊約旦美軍基地，造成美軍死亡，與候選的美國-伊朗核協議或外交會議市場無直接關聯。市場的定價應不受此事件"}
