@@ -4269,3 +4269,5 @@
 {"strategy": "trend", "trend_id": "2026世界人工智能大会在上海开幕聚焦产业落地", "trend_title": "2026世界人工智能大会在上海开幕聚焦产业落地", "market_title": "", "reason": "LLM 判定不下注：话题讲的是2026世界人工智能大会在上海开幕、聚焦产业落地，属于行业会议和生态消息，没有明确指向具体公司（阿里巴巴或Mo"}
 {"strategy": "trend", "trend_id": "台湾中联油脂致癌油风暴延烧朝野攻防加剧", "trend_title": "台湾中联油脂致癌油风暴延烧 朝野攻防加剧", "market_title": "", "reason": "信心 0.30 < 0.35：话题是关于台湾的食品安全问题，与中国是否会入侵台湾没有直接关联。虽然有“台湾”和"}
 {"strategy": "trend", "trend_id": "usmilitarylaunchesnewairstrikestopunishiranfordeathsofustroops", "trend_title": "US military launches new airstrikes to 'punish' Iran for deaths of US troops", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "霍尔木兹海峡战略要地格什姆岛遭袭", "trend_title": "霍尔木兹海峡战略要地格什姆岛遭袭", "market_title": "", "reason": "LLM 判定不下注：话题讨论的是霍尔木兹海峡附近的格什姆岛遭袭，这是霍尔木兹海峡（Strait of Hormuz）的事件。但候选市场中，市"}
+{"strategy": "trend", "trend_id": "meta或向anthropic出租算力寻求变现巨额ai投资", "trend_title": "Meta或向Anthropic出租算力 寻求变现巨额AI投资", "market_title": "Will Anthropic IPO by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
