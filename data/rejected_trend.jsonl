@@ -4295,3 +4295,4 @@
 {"strategy": "trend", "trend_id": "美伊连续多日互袭致数十人死亡霍尔木兹海峡航运近瘫痪", "trend_title": "美伊连续多日互袭致数十人死亡 霍尔木兹海峡航运近瘫痪", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "特朗普将现场观看美加墨世界杯决赛", "trend_title": "特朗普将现场观看美加墨世界杯决赛", "market_title": "", "reason": "LLM 判定不下注：話題內容是特朗普將現場觀看美加墨世界杯決賽（體育活動）。候選市場[0]和[1]都是關於特朗普與內塔尼亞胡會面的政治事件，"}
 {"strategy": "trend", "trend_id": "长三角人工智能协同投资平台共建签约", "trend_title": "长三角人工智能协同投资平台共建签约", "market_title": "", "reason": "LLM 判定不下注：该话题讨论长三角地区人工智能协同投资平台的共建，涉及区域产业政策与基础设施建设，属于宏观投资政策层面。候选市场[0]与["}
+{"strategy": "trend", "trend_id": "usandiranexchangestrikesaftertwoussoldierskilledinjordan", "trend_title": "US and Iran exchange strikes after two US soldiers killed in Jordan", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於美伊之間的軍事衝突，而候選市場則全部關於美伊之間的核協議或外交會議，兩者沒有直接關聯。"}
