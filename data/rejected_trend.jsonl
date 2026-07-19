@@ -4314,3 +4314,4 @@
 {"strategy": "trend", "trend_id": "民进党全代会赖清德授旗19县市长参选人造势", "trend_title": "民进党全代会赖清德授旗19县市长参选人造势", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於民進黨的政治活動，與所有候選市場的主題（宗教、中國武力犯台、加密貨幣、美國總統）均無關聯。因此，無法"}
 {"strategy": "trend", "trend_id": "伊朗谴责美国对在建核电站发动恐怖袭击", "trend_title": "伊朗谴责美国对在建核电站发动“恐怖袭击”", "market_title": "US-Iran Final Nuclear Deal by September 30, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "金十数据整理特朗普过去24小时都忙了什么20260719", "trend_title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-19）", "market_title": "", "reason": "LLM 判定不下注：話題是關於特朗普在過去24小時的活動總結（2026年7月19日），並未提供具體的新侮辱事件或可驗證的新資訊。候選市場[0"}
+{"strategy": "trend", "trend_id": "warcrimeusattackonwaterdesalinationplantcutsoffsupplyforthousandsinsoutherniran", "trend_title": "'War Crime': US Attack on Water Desalination Plant Cuts Off Supply for Thousands in Southern Iran", "market_title": "", "reason": "LLM 判定不下注：該話題是關於美國襲擊伊朗南部的一個海水淡化廠，導致數千人用水困難，並被指控為戰爭罪。這與候選市場中關於美伊核協議或外交會"}
