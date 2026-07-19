@@ -4272,3 +4272,4 @@
 {"strategy": "trend", "trend_id": "霍尔木兹海峡战略要地格什姆岛遭袭", "trend_title": "霍尔木兹海峡战略要地格什姆岛遭袭", "market_title": "", "reason": "LLM 判定不下注：话题讨论的是霍尔木兹海峡附近的格什姆岛遭袭，这是霍尔木兹海峡（Strait of Hormuz）的事件。但候选市场中，市"}
 {"strategy": "trend", "trend_id": "meta或向anthropic出租算力寻求变现巨额ai投资", "trend_title": "Meta或向Anthropic出租算力 寻求变现巨额AI投资", "market_title": "Will Anthropic IPO by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美媒爆料美伊冲突加剧五角大楼加紧向中东地区增派f16f35战机", "trend_title": "美媒爆料：美伊冲突加剧，五角大楼加紧向中东地区增派F-16、F-35战机", "market_title": "", "reason": "LLM 判定不下注：該新聞主要聚焦於美伊之間的軍事部署與緊張局勢升級，這與候選市場中關於核協議或外交會議的到期時間或地點的預測關聯性較低。市"}
+{"strategy": "trend", "trend_id": "加拿大安大略省省长特朗普对加拿大扑灭山火努力的批评是绝对不可接受的", "trend_title": "加拿大安大略省省长：特朗普对加拿大扑灭山火努力的批评是“绝对不可接受”的", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及加拿大安大略省長對特朗普山火批評的回應,屬於加拿大-美國外交分歧事件。候選市場[0]和[1]都專注於特朗普與"}
