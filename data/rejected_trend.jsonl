@@ -4297,3 +4297,4 @@
 {"strategy": "trend", "trend_id": "长三角人工智能协同投资平台共建签约", "trend_title": "长三角人工智能协同投资平台共建签约", "market_title": "", "reason": "LLM 判定不下注：该话题讨论长三角地区人工智能协同投资平台的共建，涉及区域产业政策与基础设施建设，属于宏观投资政策层面。候选市场[0]与["}
 {"strategy": "trend", "trend_id": "usandiranexchangestrikesaftertwoussoldierskilledinjordan", "trend_title": "US and Iran exchange strikes after two US soldiers killed in Jordan", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於美伊之間的軍事衝突，而候選市場則全部關於美伊之間的核協議或外交會議，兩者沒有直接關聯。"}
 {"strategy": "trend", "trend_id": "2026世界人工智能大会聚焦具身智能与国产算力落地", "trend_title": "2026世界人工智能大会聚焦具身智能与国产算力落地", "market_title": "", "reason": "LLM 判定不下注：此話題聚焦於「具身智能」與「國產算力」在2026世界人工智能大會的落地，但候選市場僅討論「哪個中國AI模型在2026年7"}
+{"strategy": "trend", "trend_id": "伊朗媒体称伊朗击落一架美军无人机", "trend_title": "伊朗媒体称伊朗击落一架美军无人机", "market_title": "", "reason": "LLM 判定不下注：话题提及伊朗击落美军无人机，但这并未直接影响到美伊核协议的进展，因此无法确定与候选市场相关联。即便可能存在一些间接影响，"}
