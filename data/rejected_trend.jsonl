@@ -4321,3 +4321,4 @@
 {"strategy": "trend", "trend_id": "美伊连续多日互袭致重大伤亡霍尔木兹海峡航运受阻", "trend_title": "美伊连续多日互袭致重大伤亡 霍尔木兹海峡航运受阻", "market_title": "", "reason": "LLM 判定不下注：該話題是關於美伊之間的軍事衝突升級，而候選市場均為外交會晤或核協議的達成時間，與當前軍事對抗的熱門話題關聯性不大，市場價"}
 {"strategy": "trend", "trend_id": "据约旦国家新闻社援引军事官员的消息称伊朗导弹坠落在约旦后未造成人员伤亡或重大损失", "trend_title": "据约旦国家新闻社援引军事官员的消息称，伊朗导弹坠落在约旦后未造成人员伤亡或重大损失。", "market_title": "", "reason": "LLM 判定不下注：此消息指出伊朗導彈墜落在約旦，但未造成人員傷亡或重大損失。這與伊朗與美國之間核協議或外交會議的市場主題關聯性不大。該消息"}
 {"strategy": "trend", "trend_id": "外媒特朗普在伊朗迅速找到出路希望渺茫", "trend_title": "外媒：特朗普在伊朗“迅速找到出路希望渺茫”", "market_title": "", "reason": "LLM 判定不下注：該話題涉及特朗普在伊朗局勢的外交前景，強調找到出路希望渺茫，表達對伊朗問題解決的悲觀預期。候選市場[0]和[1]都是關於"}
+{"strategy": "trend", "trend_id": "usandirantradefireaftertwoussoldierskilledinjordan", "trend_title": "US and Iran trade fire after two US soldiers killed in Jordan", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
