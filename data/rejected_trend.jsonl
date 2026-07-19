@@ -4312,3 +4312,4 @@
 {"strategy": "trend", "trend_id": "claudecodeusesbunwritteninrustnow", "trend_title": "Claude Code uses Bun written in Rust now", "market_title": "", "reason": "LLM 判定不下注：該話題關於 Claude Code 使用 Bun 框架（Rust 語言編寫），與 Anthropic 是否 IPO 或其"}
 {"strategy": "trend", "trend_id": "美伊连续多日互袭致停火破裂伊朗关闭霍尔木兹海峡", "trend_title": "美伊连续多日互袭致停火破裂 伊朗关闭霍尔木兹海峡", "market_title": "", "reason": "LLM 判定不下注：此熱門話題描述的是美伊之間的軍事衝突升級，以及對重要航道（霍爾木茲海峽）的潛在影響。而所有候選市場都與美伊之間的外交會談"}
 {"strategy": "trend", "trend_id": "民进党全代会赖清德授旗19县市长参选人造势", "trend_title": "民进党全代会赖清德授旗19县市长参选人造势", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於民進黨的政治活動，與所有候選市場的主題（宗教、中國武力犯台、加密貨幣、美國總統）均無關聯。因此，無法"}
+{"strategy": "trend", "trend_id": "伊朗谴责美国对在建核电站发动恐怖袭击", "trend_title": "伊朗谴责美国对在建核电站发动“恐怖袭击”", "market_title": "US-Iran Final Nuclear Deal by September 30, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
