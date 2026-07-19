@@ -4328,3 +4328,4 @@
 {"strategy": "trend", "trend_id": "belgiumapprovesbanonimportsfromisraelisettlements", "trend_title": "Belgium approves ban on imports from Israeli settlements", "market_title": "", "reason": "LLM 判定不下注：比利時禁止進口以色列定居點產品，是歐盟層面的貿易制裁政策，反映對定居點的國際反對立場。然而，此舉與市場[0]和[1]涉及"}
 {"strategy": "trend", "trend_id": "美国总统特朗普英国每年向挪威支付数十亿美元购买石油而挪威开采的却只是北海价值较低的区域这简直太荒谬了", "trend_title": "美国总统特朗普：英国每年向挪威支付数十亿美元购买石油，而挪威开采的却只是北海价值较低的区域——这简直太荒谬了。", "market_title": "", "reason": "LLM 判定不下注：该话题与挪威和英国之间的石油交易有关，与任何关于特朗普总统是否会公开侮辱某人的市场预测无关。"}
 {"strategy": "trend", "trend_id": "称与美国达成协议是投降伊朗强硬派指领导层发动政变", "trend_title": "称与美国达成协议是投降 伊朗强硬派指领导层发动政变", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "伊朗阿巴丹附近遭导弹袭击传出爆炸声", "trend_title": "伊朗阿巴丹附近遭导弹袭击 传出爆炸声", "market_title": "", "reason": "LLM 判定不下注：此新聞是關於導彈襲擊，與候選市場皆為美伊核協議或外交會議無關，因此選擇無關市場。"}
