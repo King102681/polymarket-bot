@@ -4302,3 +4302,5 @@
 {"strategy": "trend", "trend_id": "美伊战争中美军伤亡情况梳理", "trend_title": "美伊战争中美军伤亡情况梳理", "market_title": "", "reason": "LLM 判定不下注：該話題主要關注美伊戰爭中的美軍傷亡情況，這與所有候選市場的內容（關稅、俄烏衝突、中國AI模型、中國軍工企業名單）均無直接"}
 {"strategy": "trend", "trend_id": "israeldemolishespalestinianhomeinmasaferyatta", "trend_title": "Israel demolishes Palestinian home in Masafer Yatta", "market_title": "", "reason": "LLM 判定不下注：該話題是關於以色列拆除巴勒斯坦房屋的單一事件，與候選市場中關於以哈停火協議的總體走向無直接關聯。市場似乎已經反映了目前的"}
 {"strategy": "trend", "trend_id": "习近平首度出席世界ai大会宣布成立全球合作组织", "trend_title": "习近平首度出席世界AI大会宣布成立全球合作组织", "market_title": "", "reason": "LLM 判定不下注：此話題主要圍繞習近平出席世界AI大會並宣布成立全球合作組織，與候選市場『習近平是否在2026年底前與高市早苗會面』並無直"}
+{"strategy": "trend", "trend_id": "赖清德绝不能让民主台湾走回头路成中国台湾", "trend_title": "赖清德：绝不能让“民主台湾”走回头路成“中国台湾”", "market_title": "Will China invade Taiwan by June 30, 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "fromsettlementstoblockedrecoveryisraelistrategytakingshapeingaza", "trend_title": "From settlements to blocked recovery: Israeli strategy taking shape in Gaza", "market_title": "Israel x Hamas Ceasefire Phase II by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
