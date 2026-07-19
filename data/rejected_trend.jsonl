@@ -4291,3 +4291,4 @@
 {"strategy": "trend", "trend_id": "据伊朗迈赫尔通讯社伊朗胡齐斯坦省萨兰德地区发生了深度8公里的4级余震", "trend_title": "据伊朗迈赫尔通讯社：伊朗胡齐斯坦省萨兰德地区发生了深度8公里的4级余震。", "market_title": "", "reason": "LLM 判定不下注：伊朗胡齐斯坦省地震信息是自然灾害事件，与所有候选市场（均聚焦US-Iran核协议谈判与外交会晤）无直接因果关系。地震本身"}
 {"strategy": "trend", "trend_id": "特朗普决策逻辑分析只想名垂千古政治成本不再重要", "trend_title": "特朗普决策逻辑分析：只想名垂千古，政治成本不再重要", "market_title": "", "reason": "LLM 判定不下注：該話題討論特朗普的決策邏輯和政治動機（追求歷史地位、政治成本不再重要），並未提供關於『與內塔尼亞胡會面』這一具體事件的新"}
 {"strategy": "trend", "trend_id": "usbombsiranforeighthstraightnight", "trend_title": "US bombs Iran for eighth-straight night", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "马斯克称看中国机器人格斗赛看乐了", "trend_title": "马斯克称看中国机器人格斗赛看乐了", "market_title": "", "reason": "LLM 判定不下注：马斯克关于中国机器人格斗赛的评论是娱乐性观点分享，与所有候选市场（Tesla-SpaceX并购、Cybercab定价、r"}
