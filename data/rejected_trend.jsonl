@@ -4309,3 +4309,4 @@
 {"strategy": "trend", "trend_id": "伊朗革命卫队已在霍尔木兹海峡成功拦截四艘违规船只", "trend_title": "伊朗革命卫队：已在霍尔木兹海峡成功“拦截”四艘“违规”船只", "market_title": "", "reason": "LLM 判定不下注：此事件是伊朗革命卫队在霍尔木兹海峡的军事行动，属于地缘政治风险事件，与美伊核协议或外交会议的市场没有直接关联，因此选择 "}
 {"strategy": "trend", "trend_id": "西媒美伊对抗进入不稳定平衡阶段", "trend_title": "西媒：美伊对抗进入“不稳定平衡阶段”", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "gazacheersforspainasworldcupfinalanticipationmounts", "trend_title": "Gaza cheers for Spain as World Cup final anticipation mounts", "market_title": "", "reason": "LLM 判定不下注：此話題為加薩人民對西班牙贏得世界盃決賽的歡呼，與以哈停火談判無關。因此，候選市場與話題無關。"}
+{"strategy": "trend", "trend_id": "claudecodeusesbunwritteninrustnow", "trend_title": "Claude Code uses Bun written in Rust now", "market_title": "", "reason": "LLM 判定不下注：該話題關於 Claude Code 使用 Bun 框架（Rust 語言編寫），與 Anthropic 是否 IPO 或其"}
