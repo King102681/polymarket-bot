@@ -4299,3 +4299,5 @@
 {"strategy": "trend", "trend_id": "2026世界人工智能大会聚焦具身智能与国产算力落地", "trend_title": "2026世界人工智能大会聚焦具身智能与国产算力落地", "market_title": "", "reason": "LLM 判定不下注：此話題聚焦於「具身智能」與「國產算力」在2026世界人工智能大會的落地，但候選市場僅討論「哪個中國AI模型在2026年7"}
 {"strategy": "trend", "trend_id": "伊朗媒体称伊朗击落一架美军无人机", "trend_title": "伊朗媒体称伊朗击落一架美军无人机", "market_title": "", "reason": "LLM 判定不下注：话题提及伊朗击落美军无人机，但这并未直接影响到美伊核协议的进展，因此无法确定与候选市场相关联。即便可能存在一些间接影响，"}
 {"strategy": "trend", "trend_id": "外媒以色列想用鳄鱼看守巴勒斯坦囚犯", "trend_title": "外媒：以色列想用鳄鱼看守巴勒斯坦囚犯", "market_title": "", "reason": "LLM 判定不下注：該話題是關於以色列擬採用特殊手段看守囚犯，與停火協議的直接關聯性不高，因此市場指數選擇-1。此資訊對停火協議的預期沒有明"}
+{"strategy": "trend", "trend_id": "美伊战争中美军伤亡情况梳理", "trend_title": "美伊战争中美军伤亡情况梳理", "market_title": "", "reason": "LLM 判定不下注：該話題主要關注美伊戰爭中的美軍傷亡情況，這與所有候選市場的內容（關稅、俄烏衝突、中國AI模型、中國軍工企業名單）均無直接"}
+{"strategy": "trend", "trend_id": "israeldemolishespalestinianhomeinmasaferyatta", "trend_title": "Israel demolishes Palestinian home in Masafer Yatta", "market_title": "", "reason": "LLM 判定不下注：該話題是關於以色列拆除巴勒斯坦房屋的單一事件，與候選市場中關於以哈停火協議的總體走向無直接關聯。市場似乎已經反映了目前的"}
