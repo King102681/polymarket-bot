@@ -4372,3 +4372,4 @@
 {"strategy": "trend", "trend_id": "wti原油向上触及85美元桶日内涨324", "trend_title": "WTI原油向上触及85美元/桶，日内涨3.24%。", "market_title": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in July?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "科威特军方科威特防空部队目前正应对敌方无人机的攻击此次攻击源于伊朗的敌对行为", "trend_title": "科威特军方：科威特防空部队目前正应对敌方无人机的攻击。此次攻击源于伊朗的敌对行为。", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "特朗普将现场观看世界杯决赛并与因凡蒂诺共同颁奖", "trend_title": "特朗普将现场观看世界杯决赛并与因凡蒂诺共同颁奖", "market_title": "", "reason": "LLM 判定不下注：話題內容是特朗普將出席世界杯決賽並頒獎，與候選市場關於他是否會與內塔尼亞胡會面的時間有明顯的差異，無法判斷其市場方向。"}
+{"strategy": "trend", "trend_id": "fansinmadridgowildasspainbeatargentinatowinsecondworldcup", "trend_title": "Fans in Madrid go wild as Spain beat Argentina to win second World Cup", "market_title": "", "reason": "LLM 判定不下注：此話題是關於西班牙贏得世界盃，與候選市場（北約、俄羅斯、烏克蘭）完全無關。"}
