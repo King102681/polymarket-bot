@@ -4408,3 +4408,6 @@
 {"strategy": "trend", "trend_id": "韩国今年人均gdp有望达39万美元", "trend_title": "韩国今年人均GDP有望达3.9万美元", "market_title": "Will South Korea GDP growth in Q2 2026 be between 3.5% and 3.9%?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美伊连续九晚互袭致数十人死亡霍尔木兹海峡航运中断", "trend_title": "美伊连续九晚互袭致数十人死亡 霍尔木兹海峡航运中断", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "trumplateststrikesoniraninhonourofkilledusmilitarypersonnel", "trend_title": "Trump: Latest strikes on Iran ‘in honour’ of killed US military personnel", "market_title": "", "reason": "LLM 判定不下注：該話題與候選市場無關。"}
+{"strategy": "trend", "trend_id": "据半岛电视台巴基斯坦内政部消息人士表示伊朗内政部长今天抵达巴基斯坦首都伊斯兰堡", "trend_title": "据半岛电视台：巴基斯坦内政部消息人士表示，伊朗内政部长今天抵达巴基斯坦首都伊斯兰堡。", "market_title": "", "reason": "信心 0.32 < 0.35：伊朗内政部长访问巴基斯坦表明伊朗在积极进行外交接触，这是一个正面的外交信号。市场"}
+{"strategy": "trend", "trend_id": "普京会见朝鲜外务相崔善姬感谢朝鲜支持", "trend_title": "普京会见朝鲜外务相崔善姬：感谢朝鲜支持", "market_title": "", "reason": "LLM 判定不下注：此熱門話題關於俄羅斯總統普京會見朝鮮外務相，並感謝朝鮮的支持，與候選市場「AI」或「人工智能」是否會登上本週頭條的議題完"}
+{"strategy": "trend", "trend_id": "国际现货黄金回吐日内涨幅资金首个承接区域位于", "trend_title": "国际现货黄金回吐日内涨幅，资金首个承接区域位于...", "market_title": "Will Gold (XAUUSD) hit (LOW) $3,900 in July?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
