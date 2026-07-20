@@ -4430,3 +4430,4 @@
 {"strategy": "trend", "trend_id": "港媒中美科技产业发展路径迥异", "trend_title": "港媒：中美科技产业发展路径迥异", "market_title": "", "reason": "LLM 判定不下注：這條新聞討論中美科技產業發展的路徑差異，與關稅協議、領導人會面、或特定公司是否被列入軍事公司名單等市場主題沒有直接關聯。"}
 {"strategy": "trend", "trend_id": "金十数据整理特朗普过去24小时都忙了什么20260720", "trend_title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-20）", "market_title": "", "reason": "信心 0.30 < 0.35：話題內容是關於特朗普過去24小時的活動，並未提供任何關於他是否會與內塔尼亞胡在7"}
 {"strategy": "trend", "trend_id": "朝鲜外长崔善姬访俄获普京会见致谢", "trend_title": "朝鲜外长崔善姬访俄获普京会见致谢", "market_title": "", "reason": "LLM 判定不下注：朝鲜外长会见普京是关于地缘政治和外交的新闻，与“AI”或“人工智能”成为头条新闻的市场没有直接关联。"}
+{"strategy": "trend", "trend_id": "whatdoesiransattackonkuwaitinfrastructuremeanforgulf", "trend_title": "What does Iran’s attack on Kuwait infrastructure mean for Gulf?", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
