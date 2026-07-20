@@ -4464,3 +4464,4 @@
 {"strategy": "trend", "trend_id": "伊朗官员伊朗中部霍梅尼市郊一处工业设施遭袭未造成人员伤亡潜在损失规模仍在评估中", "trend_title": "伊朗官员：伊朗中部霍梅尼市郊一处工业设施遭袭，未造成人员伤亡，潜在损失规模仍在评估中。", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美国总统特朗普以色列总理内塔尼亚胡在美国期间不会以任何形式遭到逮捕", "trend_title": "美国总统特朗普：以色列总理内塔尼亚胡在美国期间不会以任何形式遭到逮捕。", "market_title": "", "reason": "LLM 判定不下注：特朗普的言論涉及逮捕保護，與候選市場內容（會面日期）無直接對應關係。市場[0]和[1]都只是預測會面時間，不涉及逮捕問題"}
 {"strategy": "trend", "trend_id": "乌克兰总统泽连斯基与英国首相伯纳姆进行了通话就近期举行会晤达成共识进一步深化双边合作", "trend_title": "乌克兰总统泽连斯基：与英国首相伯纳姆进行了通话，就近期举行会晤达成共识，进一步深化双边合作。", "market_title": "", "reason": "LLM 判定不下注：熱門話題為烏克蘭與英國的外交互動與雙邊合作。候選市場均為通用情緒/概念詞彙（AI、Fear、Liberation、Sho"}
+{"strategy": "trend", "trend_id": "israeliairstrikeinjures14ingazacity", "trend_title": "Israeli air strike injures 14 in Gaza City", "market_title": "Israel x Hamas ceasefire cancelled by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
