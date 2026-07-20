@@ -4383,3 +4383,6 @@
 {"strategy": "trend", "trend_id": "据伊通社irna新一波伊朗导弹已从洛雷斯坦省发射指向敌方目标", "trend_title": "据伊通社（IRNA）：新一波伊朗导弹已从洛雷斯坦省发射，指向“敌方目标”。", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "iranwarliveusmilitarycarriesoutanotherwaveofstrikesoniran", "trend_title": "Iran war live: US military carries out another wave of strikes on Iran", "market_title": "US-Iran Final Nuclear Deal by September 30, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "韩国分析师韩国市场年底前或继续区间震荡", "trend_title": "韩国分析师：韩国市场年底前或继续区间震荡", "market_title": "", "reason": "LLM 判定不下注：熱門話題討論韓國股市年底前繼續區間震蕩，屬於短期市場技術面評論。五個候選市場分別涉及政治人物前景、GDP成長區間、央行利"}
+{"strategy": "trend", "trend_id": "布伦特原油日内涨幅达200现报8849美元桶", "trend_title": "布伦特原油日内涨幅达2.00%，现报88.49美元/桶。", "market_title": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in July?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "特朗普指控中国窃取22亿选民档案中方否认", "trend_title": "特朗普指控中国窃取2.2亿选民档案 中方否认", "market_title": "", "reason": "LLM 判定不下注：該熱門話題涉及特朗普指控中國竊取選民檔案，並提及中方否認。然而，候選市場是關於特朗普是否會與內塔尼亞胡會面，兩者之間沒有"}
+{"strategy": "trend", "trend_id": "美伊连续互袭致海峡关闭油价飙升", "trend_title": "美伊连续互袭致海峡关闭油价飙升", "market_title": "", "reason": "LLM 判定不下注：熱門話題聚焦於美伊軍事衝突升級與油價上漲等短期地緣政治風險，反映的是即時的對抗狀態。所有候選市場均關於核協議談判或外交會"}
