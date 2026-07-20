@@ -4382,3 +4382,4 @@
 {"strategy": "trend", "trend_id": "特朗普与因凡蒂诺现场观看美加墨世界杯决赛", "trend_title": "特朗普与因凡蒂诺现场观看美加墨世界杯决赛", "market_title": "", "reason": "LLM 判定不下注：熱門話題是特朗普觀看美加墨世界杯決賽，與因凡蒂諾（FIFA主席）互動。候選市場均涉及特朗普與內塔尼亞胡會面，話題內容完全"}
 {"strategy": "trend", "trend_id": "据伊通社irna新一波伊朗导弹已从洛雷斯坦省发射指向敌方目标", "trend_title": "据伊通社（IRNA）：新一波伊朗导弹已从洛雷斯坦省发射，指向“敌方目标”。", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "iranwarliveusmilitarycarriesoutanotherwaveofstrikesoniran", "trend_title": "Iran war live: US military carries out another wave of strikes on Iran", "market_title": "US-Iran Final Nuclear Deal by September 30, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "韩国分析师韩国市场年底前或继续区间震荡", "trend_title": "韩国分析师：韩国市场年底前或继续区间震荡", "market_title": "", "reason": "LLM 判定不下注：熱門話題討論韓國股市年底前繼續區間震蕩，屬於短期市場技術面評論。五個候選市場分別涉及政治人物前景、GDP成長區間、央行利"}
