@@ -4492,3 +4492,5 @@
 {"strategy": "trend", "trend_id": "trumpimposes50tariffoncanadianimports", "trend_title": "Trump imposes 50% tariff on Canadian imports", "market_title": "", "reason": "LLM 判定不下注：Trump對加拿大徵收50%關稅的話題與兩個候選市場（Trump與Netanyahu會面）無直接關聯。關稅政策屬於經貿議"}
 {"strategy": "trend", "trend_id": "waroniranwarresumes30daysaftermou", "trend_title": "War on Iran: War resumes 30 days after MoU", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "现货黄金失守4000美元盎司日内跌幅022", "trend_title": "现货黄金失守4000美元/盎司，日内跌幅0.22%。", "market_title": "Will Gold (XAUUSD) hit (LOW) $3,900 in July?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "消息人士各方正展开外交努力试图劝告特朗普政府不要切断与联合国难民署的联系", "trend_title": "消息人士：各方正展开外交努力，试图劝告特朗普政府不要切断与联合国难民署的联系。", "market_title": "", "reason": "LLM 判定不下注：該話題是關於特朗普政府與聯合國難民署的關係，而候選市場均是關於特朗普是否會與內塔尼亞胡會面，兩者主題不符。"}
+{"strategy": "trend", "trend_id": "特朗普放狠话伊朗杀一名美军将付出很多倍代价美军连续第10天轰炸", "trend_title": "特朗普放狠话：伊朗杀一名美军将付出“很多倍代价”！美军连续第10天轰炸", "market_title": "", "reason": "LLM 判定不下注：話題焦點為特朗普對伊朗的軍事威脅與美軍轟炸行動，涉及中東地緣政治衝突。兩個候選市場均聚焦於特朗普與內塔尼亞胡會面的時間框"}
