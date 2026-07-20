@@ -4401,3 +4401,6 @@
 {"strategy": "trend", "trend_id": "据巴林电视台巴林防空系统拦截了伊朗的袭击", "trend_title": "据巴林电视台：巴林防空系统拦截了伊朗的袭击。", "market_title": "", "reason": "LLM 判定不下注：该新闻涉及巴林和伊朗的军事冲突，而所有候选市场均关于美国和伊朗的外交会谈和核协议，两者关联度极低。"}
 {"strategy": "trend", "trend_id": "ai押注崩溃韩国散户直呼把我的钱还回来", "trend_title": "AI押注崩溃，韩国散户直呼“把我的钱还回来”", "market_title": "", "reason": "LLM 判定不下注：該熱門話題討論的是韓國散戶在 AI 投資上的虧損，這與韓國央行貨幣政策、GDP 成長或通膨預測等宏觀經濟指標無直接關聯，"}
 {"strategy": "trend", "trend_id": "usreleasesfootageofninthconsecutivenightofstrikesoniran", "trend_title": "US releases footage of ninth consecutive night of strikes on Iran", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美伊连续多日互袭致数十人死亡霍尔木兹海峡关闭", "trend_title": "美伊连续多日互袭致数十人死亡 霍尔木兹海峡关闭", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "科威特军方表示目前正在拦截伊朗无人机", "trend_title": "科威特军方表示，目前正在拦截伊朗无人机。", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "鲁比奥习近平9月访美行仍在推进", "trend_title": "鲁比奥：习近平9月访美行仍在推进", "market_title": "", "reason": "LLM 判定不下注：話題討論習近平9月訪美行程推進，但三個候選市場分別涉及：(0)習近平與韓國李在明會面、(1)習近平與日本高市早苗會面、("}
