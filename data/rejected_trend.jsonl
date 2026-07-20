@@ -4423,3 +4423,4 @@
 {"strategy": "trend", "trend_id": "伊朗总统祝贺西班牙人民和政府在世界杯上取得的成功和应得的冠军头衔西班牙友好人民和政府的喜悦就是伊朗人民和政府的喜悦", "trend_title": "伊朗总统：祝贺西班牙人民和政府在世界杯上取得的成功和应得的冠军头衔。西班牙友好人民和政府的喜悦就是伊朗人民和政府的喜悦。", "market_title": "", "reason": "LLM 判定不下注：這則熱門話題是關於伊朗總統祝賀西班牙贏得世界杯，與美國和伊朗之間的核協議或外交會議市場完全無關。"}
 {"strategy": "trend", "trend_id": "巴林国防军总司令部伊朗继续采取系统性的敌对行径针对巴林王国的平民发动罪恶袭击", "trend_title": "巴林国防军总司令部：伊朗继续采取系统性的敌对行径，针对巴林王国的平民发动罪恶袭击。", "market_title": "", "reason": "LLM 判定不下注：該話題描述伊朗對巴林的敵對行為，並未直接提及與美國的核協議談判進程，因此與提供的所有候選市場關聯性較低。候選市場主要集中"}
 {"strategy": "trend", "trend_id": "zelenskyyballisticmissilesarewhyputinstillbelievesinhiswar", "trend_title": "Zelenskyy: Ballistic missiles are why Putin still believes in his war", "market_title": "", "reason": "LLM 判定不下注：話題與候選市場無關。"}
+{"strategy": "trend", "trend_id": "北京批民进党用便利人员往来措施胁迫他国", "trend_title": "北京批民进党用便利人员往来措施胁迫他国", "market_title": "Will China invade Taiwan by December 31, 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
