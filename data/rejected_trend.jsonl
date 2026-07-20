@@ -4398,3 +4398,5 @@
 {"strategy": "trend", "trend_id": "伊朗外长说伊朗不被收买不惧威胁", "trend_title": "伊朗外长说伊朗不被收买不惧威胁", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "韩国kospi指数日内大跌5现报647920点", "trend_title": "韩国KOSPI指数日内大跌5%，现报6479.20点。", "market_title": "", "reason": "LLM 判定不下注：KOSPI 指數大跌 5% 是一個純粹的金融市場新聞，與候選市場中所有關於韓國總統、GDP 成長率或韓國銀行利率決策的預"}
 {"strategy": "trend", "trend_id": "claudefableproducedacounterexampletothejacobianconjecture", "trend_title": "Claude Fable produced a counterexample to the Jacobian Conjecture", "market_title": "Will Anthropic IPO by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "据巴林电视台巴林防空系统拦截了伊朗的袭击", "trend_title": "据巴林电视台：巴林防空系统拦截了伊朗的袭击。", "market_title": "", "reason": "LLM 判定不下注：该新闻涉及巴林和伊朗的军事冲突，而所有候选市场均关于美国和伊朗的外交会谈和核协议，两者关联度极低。"}
+{"strategy": "trend", "trend_id": "ai押注崩溃韩国散户直呼把我的钱还回来", "trend_title": "AI押注崩溃，韩国散户直呼“把我的钱还回来”", "market_title": "", "reason": "LLM 判定不下注：該熱門話題討論的是韓國散戶在 AI 投資上的虧損，這與韓國央行貨幣政策、GDP 成長或通膨預測等宏觀經濟指標無直接關聯，"}
