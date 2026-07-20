@@ -4407,3 +4407,4 @@
 {"strategy": "trend", "trend_id": "25万名日本民众游行抗议高市政策", "trend_title": "2.5万名日本民众游行抗议高市政策", "market_title": "", "reason": "LLM 判定不下注：該話題討論日本民眾遊行抗議高市（高市早苗）的政策，屬於日本國內政治事件。候選市場詢問的是『日本國會在2026年是否解散』"}
 {"strategy": "trend", "trend_id": "韩国今年人均gdp有望达39万美元", "trend_title": "韩国今年人均GDP有望达3.9万美元", "market_title": "Will South Korea GDP growth in Q2 2026 be between 3.5% and 3.9%?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美伊连续九晚互袭致数十人死亡霍尔木兹海峡航运中断", "trend_title": "美伊连续九晚互袭致数十人死亡 霍尔木兹海峡航运中断", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "trumplateststrikesoniraninhonourofkilledusmilitarypersonnel", "trend_title": "Trump: Latest strikes on Iran ‘in honour’ of killed US military personnel", "market_title": "", "reason": "LLM 判定不下注：該話題與候選市場無關。"}
