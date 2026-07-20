@@ -4427,3 +4427,4 @@
 {"strategy": "trend", "trend_id": "rubiousopentodiplomacyafterninthnightofbombingiran", "trend_title": "Rubio: US ‘open to diplomacy’ after ninth night of bombing Iran", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "中美俄外长拟在东盟会议期间会晤", "trend_title": "中美俄外长拟在东盟会议期间会晤", "market_title": "", "reason": "LLM 判定不下注：此話題是關於中美俄三國外長可能在東盟會議期間會晤。候選市場中，沒有一個市場與此話題直接相關。市場 0 關於中美貿易關稅，"}
 {"strategy": "trend", "trend_id": "俄罗斯国防部俄罗斯防空系统击落了8枚制导航空炸弹4枚美国制造的海马斯炮弹和917架固定翼无人机两艘乌克兰武装力量的无人艇在黑海被摧毁", "trend_title": "俄罗斯国防部：俄罗斯防空系统击落了8枚制导航空炸弹、4枚美国制造的“海马斯”炮弹和917架固定翼无人机。两艘乌克兰武装力量的无人艇在黑海被摧毁。", "market_title": "", "reason": "LLM 判定不下注：该话题涉及俄罗斯军事行动的战报，与“AI”或“人工智能”成为头条新闻的市场主题完全无关。"}
+{"strategy": "trend", "trend_id": "港媒中美科技产业发展路径迥异", "trend_title": "港媒：中美科技产业发展路径迥异", "market_title": "", "reason": "LLM 判定不下注：這條新聞討論中美科技產業發展的路徑差異，與關稅協議、領導人會面、或特定公司是否被列入軍事公司名單等市場主題沒有直接關聯。"}
