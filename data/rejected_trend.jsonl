@@ -4456,3 +4456,6 @@
 {"strategy": "trend", "trend_id": "冲突重燃威胁经济伊朗货币汇率暴跌", "trend_title": "冲突重燃威胁经济 伊朗货币汇率暴跌", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美国至7月20日3个月国债竞拍得标利率配置百分比7301前值847", "trend_title": "美国至7月20日3个月国债竞拍-得标利率配置百分比 73.01%，前值8.47%。", "market_title": "", "reason": "LLM 判定不下注：該話題是關於美國3個月國債競拍的得標利率配置百分比，與聯準會未來是否升降息在2026年的會議決策關聯性不高，市場價格可能"}
 {"strategy": "trend", "trend_id": "伯纳姆接替斯塔默出任英国首相", "trend_title": "伯纳姆接替斯塔默出任英国首相", "market_title": "", "reason": "LLM 判定不下注：熱門話題是『伯纳姆接替斯塔默出任英国首相』，屬於最高層級的行政首長變動。候選市場是關於『Shabana Mahmood是"}
+{"strategy": "trend", "trend_id": "美国战略石油储备的原油库存上周下降约510万桶降至3114亿桶为1983年以来最低水平", "trend_title": "美国战略石油储备的原油库存上周下降约510万桶，降至3.114亿桶，为1983年以来最低水平。", "market_title": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in July?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美伊连续九天互袭致数十人死亡霍尔木兹海峡关闭", "trend_title": "美伊连续九天互袭致数十人死亡 霍尔木兹海峡关闭", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "习近平出席世界人工智能大会宣布成立ai合作组织", "trend_title": "习近平出席世界人工智能大会宣布成立AI合作组织", "market_title": "", "reason": "LLM 判定不下注：熱門話題講的是習近平出席世界人工智能大會並宣布成立AI合作組織，這是關於中國AI政策和國際合作的新聞。三個候選市場分別涉"}
