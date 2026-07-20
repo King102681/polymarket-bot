@@ -4417,3 +4417,6 @@
 {"strategy": "trend", "trend_id": "伊朗外交部发言人与美国的谈判可以根据国家利益进行", "trend_title": "伊朗外交部发言人：与美国的谈判可以根据国家利益进行。", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "欧盟公布碳排放交易体系改革提案", "trend_title": "欧盟公布碳排放交易体系改革提案", "market_title": "", "reason": "LLM 判定不下注：歐盟碳排放交易體系(ETS)改革提案是環保政策議題,與提供的四個市場都無直接關聯。這些市場都涉及特定國家選舉或歐盟成員問"}
 {"strategy": "trend", "trend_id": "乌克兰总统泽连斯基乌克兰袭击了俄罗斯后勤设施及莫斯科地区的一处油库", "trend_title": "乌克兰总统泽连斯基：乌克兰袭击了俄罗斯后勤设施及莫斯科地区的一处油库。", "market_title": "", "reason": "LLM 判定不下注：此熱門話題關於烏克蘭的軍事行動，與候選市場「AI」或「人工智慧」無關。"}
+{"strategy": "trend", "trend_id": "哈佛大学教授斯蒂芬沃尔特北约依然是一只病恹恹的小狗", "trend_title": "哈佛大学教授斯蒂芬·沃尔特：北约依然是“一只病恹恹的小狗”", "market_title": "NATO x Russia military clash by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "usrenewsattacksoniranafterussoldierkilledwhatsthelatest", "trend_title": "US renews attacks on Iran after US soldier killed: What’s the latest?", "market_title": "", "reason": "LLM 判定不下注：此話題關於美軍士兵被殺後，美國對伊朗的襲擊，但所有候選市場都關於美伊外交會議或核協議的長期進展，與當前熱點新聞沒有直接關"}
+{"strategy": "trend", "trend_id": "阿曼外交大臣巴德尔布赛义迪美伊战争暴露遏制政策是一场幻想", "trend_title": "阿曼外交大臣巴德尔·布赛义迪：美伊战争暴露遏制政策是一场“幻想”", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
