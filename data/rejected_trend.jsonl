@@ -4415,3 +4415,4 @@
 {"strategy": "trend", "trend_id": "infantinotriestoushertrumpawayasspainliftworldcup", "trend_title": "Infantino tries to usher Trump away as Spain lift World Cup", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及Infantino在世界盃頒獎典禮上與Trump的互動，以及西班牙女足獲勝。候選市場均關於Trump與Net"}
 {"strategy": "trend", "trend_id": "加拿大野火烟霾蔓延美加特朗普威胁加征关税", "trend_title": "加拿大野火烟霾蔓延美加 特朗普威胁加征关税", "market_title": "", "reason": "LLM 判定不下注：该话题是关于加拿大野火和美加贸易关税，与特朗普是否会见内塔尼亚胡的市场无关。"}
 {"strategy": "trend", "trend_id": "伊朗外交部发言人与美国的谈判可以根据国家利益进行", "trend_title": "伊朗外交部发言人：与美国的谈判可以根据国家利益进行。", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "欧盟公布碳排放交易体系改革提案", "trend_title": "欧盟公布碳排放交易体系改革提案", "market_title": "", "reason": "LLM 判定不下注：歐盟碳排放交易體系(ETS)改革提案是環保政策議題,與提供的四個市場都無直接關聯。這些市場都涉及特定國家選舉或歐盟成員問"}
