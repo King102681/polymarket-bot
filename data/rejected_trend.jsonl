@@ -4509,3 +4509,5 @@
 {"strategy": "trend", "trend_id": "ustoimposenew50tariffoncanadaoveralcoholbansdairyquotasnational", "trend_title": "U.S. to impose new 50% tariff on Canada over alcohol bans, dairy quotas - National", "market_title": "", "reason": "LLM 判定不下注：話題討論的是美國對加拿大的新關稅（酒類禁令、乳製品配額），與候選市場[0]所涵蓋的「US-China關稅協議」完全不同。"}
 {"strategy": "trend", "trend_id": "美伊冲突升级致霍尔木兹海峡航运受阻油价突破90美元", "trend_title": "美伊冲突升级致霍尔木兹海峡航运受阻油价突破90美元", "market_title": "", "reason": "LLM 判定不下注：話題焦點是美伊軍事衝突升級、霍爾木茲海峽航運受阻和油價突破90美元，屬於短期地緣政治風險事件。所有5個候選市場均關於核協"}
 {"strategy": "trend", "trend_id": "美军袭击伊朗在建核电站工地致冲突升级", "trend_title": "美军袭击伊朗在建核电站工地致冲突升级", "market_title": "US-Iran Final Nuclear Deal by September 30, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美国军方最新一轮对伊朗的打击已结束", "trend_title": "美国军方：最新一轮对伊朗的打击已结束。", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "俄罗斯延长对中国公民免签至明年底", "trend_title": "俄罗斯延长对中国公民免签至明年底", "market_title": "", "reason": "LLM 判定不下注：俄罗斯延长对中国公民免签政策是双边外交利好新闻，与五个候选市场关键词均无直接对应。市场[4]涉及'Border'关键词，"}
