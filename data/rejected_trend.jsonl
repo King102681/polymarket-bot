@@ -4528,3 +4528,4 @@
 {"strategy": "trend", "trend_id": "全球最大船东急寻勇夫敢往返一次霍尔木兹额外支付半年薪水", "trend_title": "全球最大船东急寻“勇夫”：敢往返一次霍尔木兹，额外支付半年薪水！", "market_title": "Strait of Hormuz traffic returns to normal by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美军袭击伊朗在建核电站工地美伊冲突持续升级", "trend_title": "美军袭击伊朗在建核电站工地 美伊冲突持续升级", "market_title": "US-Iran Final Nuclear Deal by September 30, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "欧盟以违反数字服务法对全球速卖通罚款55亿欧元", "trend_title": "欧盟以违反数字服务法对全球速卖通罚款5.5亿欧元", "market_title": "", "reason": "LLM 判定不下注：熱門話題關於歐盟對全球速賣通（AliExpress）的罰款，屬於科技監管/反壟斷領域。候選市場涉及德國AfD黨派選舉、冰"}
+{"strategy": "trend", "trend_id": "manychristianvotersintheusseetrumpaschosenbygodtolead", "trend_title": "Many Christian voters in the US see Trump as ‘chosen’ by God to lead", "market_title": "", "reason": "LLM 判定不下注：這條話題討論美國基督教選民對川普的宗教認知與支持，屬於政治意識形態與選民心理層面。候選市場[0][1][2]都是關於川普"}
