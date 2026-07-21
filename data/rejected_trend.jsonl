@@ -4544,3 +4544,4 @@
 {"strategy": "trend", "trend_id": "又一油轮在霍尔木兹海峡遇袭胡塞武装同步威胁红海", "trend_title": "又一油轮在霍尔木兹海峡遇袭，胡塞武装同步威胁红海", "market_title": "Strait of Hormuz traffic returns to normal by August 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "activeinbdsdocumentrevealshowisraelscrutinisedglobalngos", "trend_title": "‘Active in BDS’: Document reveals how Israel scrutinised global NGOs", "market_title": "", "reason": "LLM 判定不下注：該話題討論以色列如何審查全球非政府組織，與停火協議的進行與否無直接關聯，因此選取 index -1。"}
 {"strategy": "trend", "trend_id": "据约旦国家通讯社约旦已击落五架伊朗无人机", "trend_title": "据约旦国家通讯社：约旦已击落五架伊朗无人机。", "market_title": "", "reason": "LLM 判定不下注：此新聞關於約旦擊落伊朗無人機，與候選市場中所有關於美伊核協議或外交會議的市場皆無直接關聯。"}
+{"strategy": "trend", "trend_id": "美媒原油荒暂缓汽油荒又至", "trend_title": "美媒：“原油荒”暂缓 “汽油荒”又至", "market_title": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in July?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
