@@ -4559,3 +4559,6 @@
 {"strategy": "trend", "trend_id": "伊朗总统有更多接触最高领袖的途径", "trend_title": "伊朗总统：有更多接触最高领袖的途径。", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "路透中美拟9月举行ai会谈", "trend_title": "路透：中美拟9月举行AI会谈", "market_title": "US Government removes public access to a major Chinese AI model in 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "lebanonsjosephaountomeettrumpwhattoexpect", "trend_title": "Lebanon’s Joseph Aoun to meet Trump: What to expect", "market_title": "", "reason": "LLM 判定不下注：此熱門話題是關於黎巴嫩總統 Aoun 會見美國總統 Trump，候選市場皆是關於 Trump 與其他國家領導人通話的可能"}
+{"strategy": "trend", "trend_id": "联合石油数据库jodi沙特阿拉伯5月份原油库存增加2827万桶达到142794亿桶", "trend_title": "联合石油数据库JODI：沙特阿拉伯5月份原油库存增加282.7万桶，达到1.42794亿桶。", "market_title": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in July?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美军袭击伊朗在建核电站致冲突升级", "trend_title": "美军袭击伊朗在建核电站致冲突升级", "market_title": "US-Iran Final Nuclear Deal by September 30, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "联合石油数据库jodi沙特阿拉伯5月直接原油燃烧量增加107万桶日达到647万桶日", "trend_title": "联合石油数据库JODI：沙特阿拉伯5月直接原油燃烧量增加10.7万桶/日，达到64.7万桶/日。", "market_title": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in July?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
