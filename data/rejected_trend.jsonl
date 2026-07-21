@@ -4526,3 +4526,4 @@
 {"strategy": "trend", "trend_id": "usmilitaryreleasesfootageoftenthconsecutivenightofstrikesoniran", "trend_title": "US military releases footage of tenth consecutive night of strikes on Iran", "market_title": "US-Iran Final Nuclear Deal by September 30, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "阿联酋两艘油轮在霍尔木兹海峡遭伊朗袭击致1死8伤", "trend_title": "阿联酋两艘油轮在霍尔木兹海峡遭伊朗袭击致1死8伤", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "全球最大船东急寻勇夫敢往返一次霍尔木兹额外支付半年薪水", "trend_title": "全球最大船东急寻“勇夫”：敢往返一次霍尔木兹，额外支付半年薪水！", "market_title": "Strait of Hormuz traffic returns to normal by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美军袭击伊朗在建核电站工地美伊冲突持续升级", "trend_title": "美军袭击伊朗在建核电站工地 美伊冲突持续升级", "market_title": "US-Iran Final Nuclear Deal by September 30, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
