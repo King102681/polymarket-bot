@@ -4547,3 +4547,4 @@
 {"strategy": "trend", "trend_id": "美媒原油荒暂缓汽油荒又至", "trend_title": "美媒：“原油荒”暂缓 “汽油荒”又至", "market_title": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in July?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "russianwarshipcarriesoutlivefireweaponsexercise46milesoffukcoastmodsays", "trend_title": "Russian warship carries out live-fire weapons exercise 46 miles off UK coast, MoD says", "market_title": "", "reason": "LLM 判定不下注：此熱門話題關於俄羅斯軍艦在英國海岸附近進行武器演習，並未提及任何一個候選市場的關鍵字。因此，與所有市場的關聯度皆為零。"}
 {"strategy": "trend", "trend_id": "加拿大野火烟霾南侵美国特朗普威胁加征关税", "trend_title": "加拿大野火烟霾南侵美国 特朗普威胁加征关税", "market_title": "", "reason": "LLM 判定不下注：加拿大野火烟霾和特朗普关税威胁与三个候选市场（特朗普与马克龙、习近平、冯德莱恩7月通话）都没有直接对应关系。这些都是特定"}
+{"strategy": "trend", "trend_id": "以媒曝伊朗主动求和两周战事已致近百名美军士兵受伤", "trend_title": "以媒曝伊朗主动求和，两周战事已致近百名美军士兵受伤", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
