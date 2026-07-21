@@ -4511,3 +4511,4 @@
 {"strategy": "trend", "trend_id": "美军袭击伊朗在建核电站工地致冲突升级", "trend_title": "美军袭击伊朗在建核电站工地致冲突升级", "market_title": "US-Iran Final Nuclear Deal by September 30, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美国军方最新一轮对伊朗的打击已结束", "trend_title": "美国军方：最新一轮对伊朗的打击已结束。", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "俄罗斯延长对中国公民免签至明年底", "trend_title": "俄罗斯延长对中国公民免签至明年底", "market_title": "", "reason": "LLM 判定不下注：俄罗斯延长对中国公民免签政策是双边外交利好新闻，与五个候选市场关键词均无直接对应。市场[4]涉及'Border'关键词，"}
+{"strategy": "trend", "trend_id": "canadaissuesairqualitywarningsoveruswildfiresmokeaftertrumptariffthreatwildfires", "trend_title": "Canada issues air quality warnings over US wildfire smoke after Trump tariff threat | Wildfires", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及加拿大空氣品質警告、美國野火煙霧及川普關稅威脅，與候選市場全無相關。三個市場均與川普是否在七月與特定領導人通"}
