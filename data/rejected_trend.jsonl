@@ -4535,3 +4535,7 @@
 {"strategy": "trend", "trend_id": "黎巴嫩总统带解武计划赴白宫欲联手特朗普逼退以军", "trend_title": "黎巴嫩总统带“解武计划”赴白宫，欲联手特朗普逼退以军", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及黎巴嫩總統訪白宮、中東和平談判、以色列撤軍等地緣政治議題。三個候選市場均涉及特朗普與特定歐洲/亞洲領導人在七"}
 {"strategy": "trend", "trend_id": "台湾中联油脂大豆油检出致癌物超标引发政治风暴", "trend_title": "台湾中联油脂大豆油检出致癌物超标引发政治风暴", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及台灣食品安全醜聞（中聯油脂大豆油致癌物超標），這是國內政治與健康議題。候選市場均為宗教、地緣政治或加密貨幣預"}
 {"strategy": "trend", "trend_id": "critictoisraeldocumentrevealshowisraelscrutinisedglobalngos", "trend_title": "‘Critic to Israel’: Document reveals how Israel scrutinised global NGOs", "market_title": "", "reason": "LLM 判定不下注：該話題為以色列對全球NGO的監控揭露，涉及國際輿論壓力，但不構成直接的停火協議新資訊。市場[1]（停火取消）已反映高度不"}
+{"strategy": "trend", "trend_id": "胡塞武装宣布对沙特实施海上封锁", "trend_title": "胡塞武装宣布对沙特实施海上封锁", "market_title": "Bab el-Mandeb Strait effectively closed by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美匿名官员指五角大楼隐瞒美军在伊朗战争受伤人数", "trend_title": "美匿名官员指五角大楼隐瞒美军在伊朗战争受伤人数", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "特朗普说内塔尼亚胡来美不会被捕", "trend_title": "特朗普说内塔尼亚胡来美不会被捕", "market_title": "", "reason": "LLM 判定不下注：话题涉及特朗普对内塔尼亚胡访美期间法律保护的评论，与候选市场（特朗普与各国领导人七月通话）无直接对应关系。候选市场均为通"}
+{"strategy": "trend", "trend_id": "伊朗称打击巴林和科威特境内多处美军目标", "trend_title": "伊朗称打击巴林和科威特境内多处美军目标", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
