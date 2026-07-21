@@ -4571,3 +4571,5 @@
 {"strategy": "trend", "trend_id": "特朗普收紧美国防业者采购中国关键矿产条例", "trend_title": "特朗普收紧美国防业者采购中国关键矿产条例", "market_title": "", "reason": "LLM 判定不下注：話題涉及美國防業採購中國關鍵礦產的監管政策收緊，屬於經濟/貿易制裁措施。候選市場全為『特朗普與各國領導人在七月通話』的政"}
 {"strategy": "trend", "trend_id": "iranwarlookbeyondstockstounderstandstateofeconomyexpertssay", "trend_title": "Iran war: Look beyond stocks to understand state of economy, experts say", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "伯纳姆组建新内阁撤换多名前首相亲信", "trend_title": "伯纳姆组建新内阁 撤换多名前首相亲信", "market_title": "", "reason": "LLM 判定不下注：話題描述伯納姆（Burnham）組建新內閣並撤換前首相親信，但這是內閣改組新聞，屬於政府運作調整，不涉及首相更替。候選市"}
+{"strategy": "trend", "trend_id": "习近平出席世界人工智能大会宣布成立waico", "trend_title": "习近平出席世界人工智能大会宣布成立WAICO", "market_title": "", "reason": "LLM 判定不下注：習近平出席世界人工智能大會宣布成立WAICO是一則政策及科技領域的新聞,反映中國在AI國際合作上的主動姿態。然而,候選市"}
+{"strategy": "trend", "trend_id": "匈牙利央行今年剩余时间内物价上涨率将保持在央行3的目标以下通胀将在2028年上半年回归央行目标", "trend_title": "匈牙利央行：今年剩余时间内，物价上涨率将保持在央行3%的目标以下。通胀将在2028年上半年回归央行目标。", "market_title": "", "reason": "LLM 判定不下注：該話題是匈牙利央行對2024年剩余時間及2028年上半年通胀展望的前瞻聲明，但所有候選市場都針對『七月年化通胀率』的具體"}
