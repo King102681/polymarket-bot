@@ -4606,3 +4606,4 @@
 {"strategy": "trend", "trend_id": "特朗普放话将轰炸伊朗镐山认为可能存放离心机", "trend_title": "特朗普放话将轰炸伊朗“镐山” 认为可能存放离心机", "market_title": "", "reason": "LLM 判定不下注：用户提供的话题是关于特朗普威胁轰炸伊朗，这与候选项市场中所有关于特朗普与不同国家领导人通话的预测市场没有任何关联。"}
 {"strategy": "trend", "trend_id": "据伊朗媒体farsnews巴林遭到袭击的区域是美国军方人员驻扎地点", "trend_title": "据伊朗媒体Fars News：巴林遭到袭击的区域是美国军方人员驻扎地点。", "market_title": "", "reason": "LLM 判定不下注：巴林美军基地遭袭击的消息反映了地区紧张局势升级，但并未提供关于美伊核协议谈判进展、外交会议举行地点或时间的新信息。现有市"}
 {"strategy": "trend", "trend_id": "据伊朗presstv伊拉克库尔德地区首府埃尔比勒美国领事馆附近发生爆炸", "trend_title": "据伊朗Press TV：伊拉克库尔德地区首府埃尔比勒美国领事馆附近发生爆炸。", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "iraniansstruggletogetbyamiduswaranddomesticwoes", "trend_title": "Iranians struggle to get by amid US war and domestic woes", "market_title": "", "reason": "LLM 判定不下注：話題討論伊朗國內經濟困境與美伊對立，屬於地緣政治背景/現狀描述，未提供新資訊支持核協議進展、外交會談時間地點等具體事件發"}
