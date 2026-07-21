@@ -4529,3 +4529,5 @@
 {"strategy": "trend", "trend_id": "美军袭击伊朗在建核电站工地美伊冲突持续升级", "trend_title": "美军袭击伊朗在建核电站工地 美伊冲突持续升级", "market_title": "US-Iran Final Nuclear Deal by September 30, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "欧盟以违反数字服务法对全球速卖通罚款55亿欧元", "trend_title": "欧盟以违反数字服务法对全球速卖通罚款5.5亿欧元", "market_title": "", "reason": "LLM 判定不下注：熱門話題關於歐盟對全球速賣通（AliExpress）的罰款，屬於科技監管/反壟斷領域。候選市場涉及德國AfD黨派選舉、冰"}
 {"strategy": "trend", "trend_id": "manychristianvotersintheusseetrumpaschosenbygodtolead", "trend_title": "Many Christian voters in the US see Trump as ‘chosen’ by God to lead", "market_title": "", "reason": "LLM 判定不下注：這條話題討論美國基督教選民對川普的宗教認知與支持，屬於政治意識形態與選民心理層面。候選市場[0][1][2]都是關於川普"}
+{"strategy": "trend", "trend_id": "欧盟因速卖通销售非法商品罚款55亿欧元", "trend_title": "欧盟因速卖通销售非法商品罚款5.5亿欧元", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於歐盟對速賣通處以罰款，與所有候選市場（均關於德國 AfD 政黨的選舉結果或冰島/西班牙的政治事件）均"}
+{"strategy": "trend", "trend_id": "阿联酋两艘油轮在霍尔木兹海峡遭伊朗袭击致一死八伤", "trend_title": "阿联酋两艘油轮在霍尔木兹海峡遭伊朗袭击致一死八伤", "market_title": "", "reason": "LLM 判定不下注：阿聯酋油輪遇襲事件與美國伊朗核協議談判沒有直接關聯，因此無法判斷任何一個市場。此事件更可能加劇地區緊張局勢，但對核協議進"}
