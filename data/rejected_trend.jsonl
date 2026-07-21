@@ -4558,3 +4558,4 @@
 {"strategy": "trend", "trend_id": "hugefireatukraineshoppingcentreafterrussiandronestrike", "trend_title": "Huge fire at Ukraine shopping centre after Russian drone strike", "market_title": "", "reason": "LLM 判定不下注：烏克蘭購物中心火災是地緣政治軍事事件新聞，與提供的5個候選市場都沒有真正對應關係。這些市場都在追蹤特定詞彙在標題中出現的"}
 {"strategy": "trend", "trend_id": "伊朗总统有更多接触最高领袖的途径", "trend_title": "伊朗总统：有更多接触最高领袖的途径。", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "路透中美拟9月举行ai会谈", "trend_title": "路透：中美拟9月举行AI会谈", "market_title": "US Government removes public access to a major Chinese AI model in 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "lebanonsjosephaountomeettrumpwhattoexpect", "trend_title": "Lebanon’s Joseph Aoun to meet Trump: What to expect", "market_title": "", "reason": "LLM 判定不下注：此熱門話題是關於黎巴嫩總統 Aoun 會見美國總統 Trump，候選市場皆是關於 Trump 與其他國家領導人通話的可能"}
