@@ -4592,3 +4592,4 @@
 {"strategy": "trend", "trend_id": "claudeisnotacompiler", "trend_title": "Claude Is Not a Compiler", "market_title": "", "reason": "LLM 判定不下注：話題『Claude Is Not a Compiler』是技術討論，關於Claude模型架構或功能特性，與Anthrop"}
 {"strategy": "trend", "trend_id": "美国总统特朗普在被记者问及可能的红海封锁时表示如果发生我们会处理好", "trend_title": "美国总统特朗普：（在被记者问及可能的红海封锁时表示）如果发生，我们会处理好。", "market_title": "", "reason": "LLM 判定不下注：特朗普关于红海封锁的表态是地缘政治评论，属于中东/海运安全议题。候选市场均为特定领导人通话预测，与该话题无直接对应关系。"}
 {"strategy": "trend", "trend_id": "特朗普承认伊朗在约旦钻了空子", "trend_title": "特朗普承认伊朗在约旦“钻了空子”", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及特朗普對伊朗在約旦活動的評論，屬於中東地緣政治議題。候選市場均為『特朗普是否與各國領導人在7月通話』的會談市"}
+{"strategy": "trend", "trend_id": "ukpmburnhamweneedtobeacostoflivinggovernment", "trend_title": "UK PM Burnham: ‘We need to be a cost-of-living government’", "market_title": "", "reason": "信心 0.25 < 0.35：話題顯示Burnham強調成本生活議題，展現政策方向而非下台跡象。高熱度反映其政"}
