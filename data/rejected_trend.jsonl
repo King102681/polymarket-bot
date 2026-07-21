@@ -4532,3 +4532,6 @@
 {"strategy": "trend", "trend_id": "欧盟因速卖通销售非法商品罚款55亿欧元", "trend_title": "欧盟因速卖通销售非法商品罚款5.5亿欧元", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於歐盟對速賣通處以罰款，與所有候選市場（均關於德國 AfD 政黨的選舉結果或冰島/西班牙的政治事件）均"}
 {"strategy": "trend", "trend_id": "阿联酋两艘油轮在霍尔木兹海峡遭伊朗袭击致一死八伤", "trend_title": "阿联酋两艘油轮在霍尔木兹海峡遭伊朗袭击致一死八伤", "market_title": "", "reason": "LLM 判定不下注：阿聯酋油輪遇襲事件與美國伊朗核協議談判沒有直接關聯，因此無法判斷任何一個市場。此事件更可能加劇地區緊張局勢，但對核協議進"}
 {"strategy": "trend", "trend_id": "黎巴嫩安全官员黎巴嫩军队已开始在南部城镇扎瓦特尔阿尔加尔比耶部署黎军队在以军撤离后开始部署", "trend_title": "黎巴嫩安全官员：黎巴嫩军队已开始在南部城镇扎瓦特尔·阿尔-加尔比耶部署。黎军队在以军撤离后开始部署。", "market_title": "", "reason": "LLM 判定不下注：話題報導的是黎巴嫩軍隊在南部城鎮部署（Zawaiter Al-Garbia），這是以軍撤離後的防守部署行為。候選市場問的"}
+{"strategy": "trend", "trend_id": "黎巴嫩总统带解武计划赴白宫欲联手特朗普逼退以军", "trend_title": "黎巴嫩总统带“解武计划”赴白宫，欲联手特朗普逼退以军", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及黎巴嫩總統訪白宮、中東和平談判、以色列撤軍等地緣政治議題。三個候選市場均涉及特朗普與特定歐洲/亞洲領導人在七"}
+{"strategy": "trend", "trend_id": "台湾中联油脂大豆油检出致癌物超标引发政治风暴", "trend_title": "台湾中联油脂大豆油检出致癌物超标引发政治风暴", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及台灣食品安全醜聞（中聯油脂大豆油致癌物超標），這是國內政治與健康議題。候選市場均為宗教、地緣政治或加密貨幣預"}
+{"strategy": "trend", "trend_id": "critictoisraeldocumentrevealshowisraelscrutinisedglobalngos", "trend_title": "‘Critic to Israel’: Document reveals how Israel scrutinised global NGOs", "market_title": "", "reason": "LLM 判定不下注：該話題為以色列對全球NGO的監控揭露，涉及國際輿論壓力，但不構成直接的停火協議新資訊。市場[1]（停火取消）已反映高度不"}
