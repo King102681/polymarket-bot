@@ -4520,3 +4520,4 @@
 {"strategy": "trend", "trend_id": "美国援引1930年关税法对加拿大商品加征50关税", "trend_title": "美国援引1930年关税法对加拿大商品加征50%关税", "market_title": "", "reason": "LLM 判定不下注：該話題是關於美國與加拿大的關稅，與候選市場『美國 x 中國關稅協議』無關。"}
 {"strategy": "trend", "trend_id": "朝鲜外务相崔善姬访俄获普京会见感谢军援", "trend_title": "朝鲜外务相崔善姬访俄获普京会见感谢军援", "market_title": "", "reason": "LLM 判定不下注：该话题涉及朝鲜外交、俄罗斯军援等国际政治事件，但候选市场均关于英文关键词（AI、Border、Fear、Senate、R"}
 {"strategy": "trend", "trend_id": "ukrainearmychiefsyrskyiexpectedtolosejobafterweekofprotests", "trend_title": "Ukraine army chief Syrskyi expected to lose job after week of protests", "market_title": "", "reason": "LLM 判定不下注：烏克蘭軍隊司令Syrskyi可能失職的話題，與五個候選市場都沒有直接對應關係。這些市場追蹤的是通用關鍵詞（AI、Bord"}
+{"strategy": "trend", "trend_id": "lebanesereturntopilotzonevillagestheysayisraelneveroccupied", "trend_title": "Lebanese return to ‘pilot zone’ villages they say Israel never occupied", "market_title": "", "reason": "LLM 判定不下注：此話題關於黎巴嫩村民返回村莊，並聲稱以色列未佔領，與候選市場關於以哈停火協議的關聯性不高，因此選擇 index -1。"}
