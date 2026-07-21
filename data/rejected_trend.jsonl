@@ -4569,3 +4569,5 @@
 {"strategy": "trend", "trend_id": "美军袭击伊朗在建核电站美伊冲突持续升级", "trend_title": "美军袭击伊朗在建核电站 美伊冲突持续升级", "market_title": "US-Iran Final Nuclear Deal by September 30, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "四名印度海员死亡印度召见俄罗斯外交官", "trend_title": "四名印度海员死亡，印度召见俄罗斯外交官", "market_title": "", "reason": "LLM 判定不下注：該熱門話題與所有候選市場均無關。話題是關於印度海員死亡及與俄羅斯的外交事件，與人工智慧、儲備、韓國、舞弊或參議院無直接關"}
 {"strategy": "trend", "trend_id": "特朗普收紧美国防业者采购中国关键矿产条例", "trend_title": "特朗普收紧美国防业者采购中国关键矿产条例", "market_title": "", "reason": "LLM 判定不下注：話題涉及美國防業採購中國關鍵礦產的監管政策收緊，屬於經濟/貿易制裁措施。候選市場全為『特朗普與各國領導人在七月通話』的政"}
+{"strategy": "trend", "trend_id": "iranwarlookbeyondstockstounderstandstateofeconomyexpertssay", "trend_title": "Iran war: Look beyond stocks to understand state of economy, experts say", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "伯纳姆组建新内阁撤换多名前首相亲信", "trend_title": "伯纳姆组建新内阁 撤换多名前首相亲信", "market_title": "", "reason": "LLM 判定不下注：話題描述伯納姆（Burnham）組建新內閣並撤換前首相親信，但這是內閣改組新聞，屬於政府運作調整，不涉及首相更替。候選市"}
