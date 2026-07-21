@@ -4556,3 +4556,4 @@
 {"strategy": "trend", "trend_id": "faragereformintroubleasukbracesforcryptoinfluenceinpolitics", "trend_title": "Farage, Reform in ‘trouble’, as UK braces for crypto influence in politics", "market_title": "", "reason": "LLM 判定不下注：該話題主要討論英國政治人物 Farage 和 Reform 黨與加密貨幣的潛在影響，並未直接提及或預測加密貨幣駭客事件的"}
 {"strategy": "trend", "trend_id": "双油转跌双海峡供应风险未退原油头条", "trend_title": "双油转跌，双海峡供应风险未退｜原油头条", "market_title": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in July?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "hugefireatukraineshoppingcentreafterrussiandronestrike", "trend_title": "Huge fire at Ukraine shopping centre after Russian drone strike", "market_title": "", "reason": "LLM 判定不下注：烏克蘭購物中心火災是地緣政治軍事事件新聞，與提供的5個候選市場都沒有真正對應關係。這些市場都在追蹤特定詞彙在標題中出現的"}
+{"strategy": "trend", "trend_id": "伊朗总统有更多接触最高领袖的途径", "trend_title": "伊朗总统：有更多接触最高领袖的途径。", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
