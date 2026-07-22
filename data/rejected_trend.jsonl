@@ -4647,3 +4647,5 @@
 {"strategy": "trend", "trend_id": "从乌干达美国到中国在俄罗斯战争中丧生的外国人", "trend_title": "从乌干达、美国到中国：在俄罗斯战争中丧生的外国人", "market_title": "", "reason": "LLM 判定不下注：話題涉及俄烏戰爭中的外國傷亡者統計，重點是地緣政治衝突。候選市場全為通用詞彙預測（AI、Reserve、House、Ko"}
 {"strategy": "trend", "trend_id": "usstrikesiranfor11thconsecutivenight", "trend_title": "US strikes Iran for ’11th consecutive night’", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "伯纳姆就任英国首相首日从无家可归者收容所到唐宁街", "trend_title": "伯纳姆就任英国首相首日：从无家可归者收容所到唐宁街", "market_title": "", "reason": "LLM 判定不下注：這則話題講述了英國新首相的背景故事，與候選市場中關於英國政治事件（如黨魁變動、立法生效、選舉次數）的預測沒有直接關聯。話"}
+{"strategy": "trend", "trend_id": "现货黄金站上4110美元盎司日内涨079", "trend_title": "现货黄金站上4110美元/盎司，日内涨0.79%。", "market_title": "", "reason": "LLM 判定不下注：話題提供的信息（現貨黃金站上4110美元/盎司，日內漲0.79%）是實時價格更新，屬於已實現的市場事實。三個候選市場要麼"}
+{"strategy": "trend", "trend_id": "sc原油主力合约日内大涨400现报55210元桶集运指数欧线主力合约日内涨超300现报28840点", "trend_title": "SC原油主力合约日内大涨4.00%，现报552.10元/桶。集运指数（欧线）主力合约日内涨超3.00%，现报2884.0点。", "market_title": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in July?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
