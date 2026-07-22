@@ -4650,3 +4650,5 @@
 {"strategy": "trend", "trend_id": "现货黄金站上4110美元盎司日内涨079", "trend_title": "现货黄金站上4110美元/盎司，日内涨0.79%。", "market_title": "", "reason": "LLM 判定不下注：話題提供的信息（現貨黃金站上4110美元/盎司，日內漲0.79%）是實時價格更新，屬於已實現的市場事實。三個候選市場要麼"}
 {"strategy": "trend", "trend_id": "sc原油主力合约日内大涨400现报55210元桶集运指数欧线主力合约日内涨超300现报28840点", "trend_title": "SC原油主力合约日内大涨4.00%，现报552.10元/桶。集运指数（欧线）主力合约日内涨超3.00%，现报2884.0点。", "market_title": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in July?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美媒特朗普批准与沙特达成30年核协议", "trend_title": "美媒：特朗普批准与沙特达成30年核协议", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及特朗普與沙特的30年核協議，這是重大地緣政治和能源政策事件。但所有4個候選市場都聚焦於『特朗普在七月是否與特"}
+{"strategy": "trend", "trend_id": "formerbidenofficialcantseepilotzonesschemeworkinginlebanon", "trend_title": "Former Biden official can’t see ‘pilot zones’ scheme working in Lebanon", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及黎巴嫩「試點區」計劃的可行性討論，屬於中東地區政策議題。候選市場均聚焦於美國2028民主黨總統提名、共和黨選"}
+{"strategy": "trend", "trend_id": "中国石油上半年乙烯产量创历史新高", "trend_title": "中国石油上半年乙烯产量创历史新高", "market_title": "", "reason": "LLM 判定不下注：該話題是關於中國石油的乙烯產量創歷史新高，這與國際原油價格（WTI）是否達到特定價位沒有直接關係。乙烯是石化產品，原油是"}
