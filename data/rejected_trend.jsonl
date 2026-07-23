@@ -4696,3 +4696,8 @@
 {"strategy": "trend", "trend_id": "rubiosaysuspolicyoniranisaheadforaneye", "trend_title": "Rubio says US policy on Iran is ‘a head for an eye’", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "商务部中美正就降税安排征求意见并将尽快推动实施", "trend_title": "商务部：中美正就降税安排征求意见并将尽快推动实施", "market_title": "US x China tariff agreement by December 31?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "欧洲对华政策再平衡台湾议题渐回归务实利益考量", "trend_title": "欧洲对华政策再平衡 台湾议题渐回归务实利益考量", "market_title": "", "reason": "信心 0.30 < 0.35：文章提到歐洲對華政策正在『再平衡』，並且『台灣議題漸回歸務實利益考量』，這意味著"}
+{"strategy": "trend", "trend_id": "美对加拿大多种产品加征50关税", "trend_title": "美对加拿大多种产品加征50%关税", "market_title": "", "reason": "LLM 判定不下注：該話題是關於美對加拿大的關稅，與美中貿易協定無關。因此，此話題不適用於該市場。"}
+{"strategy": "trend", "trend_id": "韩国地方选举投票率疑遭篡改调查人员搜查选委会总部", "trend_title": "韩国地方选举投票率疑遭篡改 调查人员搜查选委会总部", "market_title": "", "reason": "LLM 判定不下注：话题关于韩国地方选举投票率篡改调查，主要涉及选举诚信和政治风险。候选市场中：[0]关于Yoon政治前景但与选举篡改关系不"}
+{"strategy": "trend", "trend_id": "saudismustrecogniseisraelfornucleardealsaystrump", "trend_title": "Saudis must recognise Israel for nuclear deal, says Trump", "market_title": "Will Trump meet with Netanyahu by July 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "howarecompaniesgovernmentsrespondingtotheopenaihack", "trend_title": "How are companies, governments responding to the OpenAI hack?", "market_title": "", "reason": "LLM 判定不下注：該熱門話題討論的是 OpenAI 被駭客攻擊的應對措施，這與候選市場中關於 OpenAI IPO 估值或達成 AGI 的"}
+{"strategy": "trend", "trend_id": "无视美国威胁欧盟对谷歌处以逾13亿元罚款", "trend_title": "无视美国威胁 欧盟对谷歌处以逾13亿元罚款", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於歐盟對谷歌的罰款，與所有候選市場（均與德國選舉或冰島加入歐盟有關）完全無關。"}
