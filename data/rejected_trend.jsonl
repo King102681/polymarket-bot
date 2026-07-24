@@ -4740,3 +4740,4 @@
 {"strategy": "trend", "trend_id": "中国反制欧盟对俄制裁限制14家欧洲实体取得两用物项", "trend_title": "中国反制欧盟对俄制裁　限制14家欧洲实体取得两用物项", "market_title": "", "reason": "LLM 判定不下注：此新聞話題與歐洲議會選舉、冰島入歐或西班牙提前大選無關，因此無法判斷市場方向與信心。"}
 {"strategy": "trend", "trend_id": "德国检方北溪天然气管道破坏行动系乌克兰授意所为", "trend_title": "德国检方：“北溪”天然气管道破坏行动系乌克兰授意所为", "market_title": "", "reason": "LLM 判定不下注：這條話題是關於德國檢方指控烏克蘭授意破壞北溪天然氣管道的地緣政治事件。候選市場[0]涉及\"Woman\"、[1]涉及\"Re"}
 {"strategy": "trend", "trend_id": "沙特改以苏伊士运河出口石油海运时间增1个月", "trend_title": "沙特改以苏伊士运河出口石油 海运时间增1个月", "market_title": "Will WTI Crude Oil (WTI) hit (HIGH) $95 in July?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "ushitsdozensofcountrieswithnewwaveoftariffs", "trend_title": "US hits dozens of countries with new wave of tariffs", "market_title": "US x China tariff agreement by December 31?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
