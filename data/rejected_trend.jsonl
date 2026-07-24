@@ -4737,3 +4737,6 @@
 {"strategy": "trend", "trend_id": "外媒伊拉克动用庞大卡车车队借道叙利亚运油", "trend_title": "外媒：伊拉克动用庞大卡车车队借道叙利亚运油", "market_title": "", "reason": "信心 0.30 < 0.35：外媒報導伊拉克透過敘利亞運油，顯示兩國間存在合作或默契，這與敘利亞承認以色列的可"}
 {"strategy": "trend", "trend_id": "millionswatchedbillionsburnukrainehitswildberrieswarehousesacrossrussiaandcrimea", "trend_title": "“Millions Watched Billions Burn”: Ukraine Hits Wildberries Warehouses Across Russia and Crimea", "market_title": "", "reason": "LLM 判定不下注：話題內容是關於烏克蘭攻擊俄羅斯倉庫，與候選市場的關鍵字（Woman, China, Reserve）完全無關。因此，無法"}
 {"strategy": "trend", "trend_id": "中国官媒中国代表团在马尼拉就台海等议题有力驳斥日本", "trend_title": "中国官媒：中国代表团在马尼拉就台海等议题“有力驳斥”日本", "market_title": "Will China invade Taiwan by December 31, 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "中国反制欧盟对俄制裁限制14家欧洲实体取得两用物项", "trend_title": "中国反制欧盟对俄制裁　限制14家欧洲实体取得两用物项", "market_title": "", "reason": "LLM 判定不下注：此新聞話題與歐洲議會選舉、冰島入歐或西班牙提前大選無關，因此無法判斷市場方向與信心。"}
+{"strategy": "trend", "trend_id": "德国检方北溪天然气管道破坏行动系乌克兰授意所为", "trend_title": "德国检方：“北溪”天然气管道破坏行动系乌克兰授意所为", "market_title": "", "reason": "LLM 判定不下注：這條話題是關於德國檢方指控烏克蘭授意破壞北溪天然氣管道的地緣政治事件。候選市場[0]涉及\"Woman\"、[1]涉及\"Re"}
+{"strategy": "trend", "trend_id": "沙特改以苏伊士运河出口石油海运时间增1个月", "trend_title": "沙特改以苏伊士运河出口石油 海运时间增1个月", "market_title": "Will WTI Crude Oil (WTI) hit (HIGH) $95 in July?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
