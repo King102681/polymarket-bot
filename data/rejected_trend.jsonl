@@ -4769,3 +4769,4 @@
 {"strategy": "trend", "trend_id": "巴林科威特被曝曾秘密空袭伊朗科方否认", "trend_title": "巴林、科威特被曝曾秘密空袭伊朗 科方否认", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題涉及巴林和科威特對伊朗的空襲傳聞，以及科威特對此的否認。這與所有候選市場（均關於美國-伊朗核協議的日期和地"}
 {"strategy": "trend", "trend_id": "twobusescollideinsyriakillingatleast35people", "trend_title": "Two buses collide in Syria, killing at least 35 people", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於敘利亞的巴士碰撞事故，與所有候選市場（關於以色列與其他國家關係或領導人變動）均無關。"}
 {"strategy": "trend", "trend_id": "伊朗公布卫星图像显示约旦一美军基地弹药库被摧毁", "trend_title": "伊朗公布卫星图像显示约旦一美军基地弹药库被摧毁", "market_title": "", "reason": "LLM 判定不下注：话题内容是关于伊朗公布卫星图像显示约旦一美军基地弹药库被摧毁，这属于军事冲突或地缘政治紧张的范畴，而所有候选市场都与美伊"}
+{"strategy": "trend", "trend_id": "胡塞武装称一天内两次打击沙特", "trend_title": "胡塞武装称一天内两次打击沙特", "market_title": "Bab el-Mandeb Strait effectively closed by August 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
