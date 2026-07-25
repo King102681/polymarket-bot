@@ -4780,3 +4780,4 @@
 {"strategy": "trend", "trend_id": "伊朗革命卫队发言人在15天的战斗中我们摧毁了11架美国战斗机和直升机", "trend_title": "伊朗革命卫队发言人：在15天的战斗中，我们摧毁了11架美国战斗机和直升机。", "market_title": "", "reason": "LLM 判定不下注：此新聞涉及軍事衝突，與所有候選的核協議或外交會議市場無直接關聯，因此選擇市場索引 -1。"}
 {"strategy": "trend", "trend_id": "iransgovernmentsparswithstatetvasmediatorspushtalkswithus", "trend_title": "Iran’s government spars with state TV as mediators push talks with US", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "据悉阿曼与伊朗谈判取得进展特朗普周五叫停对伊打击", "trend_title": "据悉阿曼与伊朗谈判取得进展 特朗普周五叫停对伊打击", "market_title": "", "reason": "LLM 判定不下注：話題提及阿曼与伊朗谈判及特朗普叫停对伊打击，与候选市场『特朗普是否会与马斯克会面』完全无关。"}
+{"strategy": "trend", "trend_id": "伊朗美军伤亡数字远超官方口径", "trend_title": "伊朗：美军伤亡数字远超官方口径", "market_title": "", "reason": "LLM 判定不下注：此熱門話題主要在討論美軍與伊朗衝突中的傷亡數字，這與核協議或外交會議市場無直接關聯。市場氛圍和潛在衝突升級可能間接影響外"}
