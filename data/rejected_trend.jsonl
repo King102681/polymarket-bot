@@ -4761,3 +4761,6 @@
 {"strategy": "trend", "trend_id": "美联储7月维持利率不变的概率621", "trend_title": "美联储7月维持利率不变的概率62.1%", "market_title": "Will there be no change in Fed interest rates after the July 2026 meeting?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "沙特证实多国联军打击也门胡塞武装", "trend_title": "沙特证实多国联军打击也门胡塞武装", "market_title": "Bab el-Mandeb Strait effectively closed by August 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "台湾725反毒台游行前再有两人涉致癌油被声押禁见", "trend_title": "台湾725反毒台游行前 再有两人涉“致癌油”被声押禁见", "market_title": "", "reason": "LLM 判定不下注：話題涉及台灣食品安全醜聞（致癌油事件）與公眾遊行活動，屬於國內政治與社會議題。候選市場全為宗教預言、地緣政治軍事衝突、加"}
+{"strategy": "trend", "trend_id": "针对谷歌被罚款特朗普威胁对欧盟加征高额关税", "trend_title": "针对谷歌被罚款，特朗普威胁对欧盟加征“高额关税”", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於特朗普威脅對歐盟加徵關稅，與候選市場『特朗普是否會在 2026 年 7 月 28 日前會見內塔尼亞胡』完"}
+{"strategy": "trend", "trend_id": "黎巴嫩称以军行动致该国南部发生强烈爆炸", "trend_title": "黎巴嫩称以军行动致该国南部发生强烈爆炸", "market_title": "Israel military action against Greater Beirut by August 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "郑丽文国民党要成为台湾政治的台积电", "trend_title": "郑丽文：国民党要成为台湾政治的台积电", "market_title": "", "reason": "LLM 判定不下注：此話題是關於台灣政黨的論述，與候選市場中的任何一個（包括台灣的未來、川普、或遊戲發售）都沒有直接關聯性。熱度與市場預測無"}
