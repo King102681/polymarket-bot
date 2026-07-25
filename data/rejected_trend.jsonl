@@ -4770,3 +4770,7 @@
 {"strategy": "trend", "trend_id": "twobusescollideinsyriakillingatleast35people", "trend_title": "Two buses collide in Syria, killing at least 35 people", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於敘利亞的巴士碰撞事故，與所有候選市場（關於以色列與其他國家關係或領導人變動）均無關。"}
 {"strategy": "trend", "trend_id": "伊朗公布卫星图像显示约旦一美军基地弹药库被摧毁", "trend_title": "伊朗公布卫星图像显示约旦一美军基地弹药库被摧毁", "market_title": "", "reason": "LLM 判定不下注：话题内容是关于伊朗公布卫星图像显示约旦一美军基地弹药库被摧毁，这属于军事冲突或地缘政治紧张的范畴，而所有候选市场都与美伊"}
 {"strategy": "trend", "trend_id": "胡塞武装称一天内两次打击沙特", "trend_title": "胡塞武装称一天内两次打击沙特", "market_title": "Bab el-Mandeb Strait effectively closed by August 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "trumpsayseutopayverybigpricefor890milliongooglefine", "trend_title": "Trump says EU to pay 'very big price' for €890 million Google fine", "market_title": "", "reason": "LLM 判定不下注：此話題關於川普對歐盟因 Google 罰款發表的評論，與「川普是否會在 2026 年 7 月會見馬斯克」此市場無任何關聯"}
+{"strategy": "trend", "trend_id": "waroniranphaseiiday14", "trend_title": "War on Iran: Phase II: Day 14", "market_title": "", "reason": "LLM 判定不下注：話題『War on Iran: Phase II: Day 14』與所有候選市場的『核協議』或『外交會議』關聯性較低。雖"}
+{"strategy": "trend", "trend_id": "伊朗官员镐山设施目前是空的", "trend_title": "伊朗官员：镐山设施“目前是空的”", "market_title": "US-Iran Final Nuclear Deal by September 30, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "胡塞武装反击沙特空袭也门局势升级", "trend_title": "胡塞武装反击沙特空袭 也门局势升级", "market_title": "Bab el-Mandeb Strait effectively closed by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
