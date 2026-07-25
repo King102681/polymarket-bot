@@ -4759,3 +4759,5 @@
 {"strategy": "trend", "trend_id": "美伊谈判希望重燃原油一度跌超5科技股压制美股反弹芯片指数暴跌4", "trend_title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "韩国总统李在明与全球科技公司合作开启人工智能新纪元", "trend_title": "韩国总统李在明：与全球科技公司合作开启人工智能新纪元。", "market_title": "", "reason": "LLM 判定不下注：熱門話題為韓國總統李在明宣布與全球科技公司合作推進人工智能發展，屬於科技政策與產業合作層面。五個候選市場全數聚焦於韓國央"}
 {"strategy": "trend", "trend_id": "美联储7月维持利率不变的概率621", "trend_title": "美联储7月维持利率不变的概率62.1%", "market_title": "Will there be no change in Fed interest rates after the July 2026 meeting?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "沙特证实多国联军打击也门胡塞武装", "trend_title": "沙特证实多国联军打击也门胡塞武装", "market_title": "Bab el-Mandeb Strait effectively closed by August 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "台湾725反毒台游行前再有两人涉致癌油被声押禁见", "trend_title": "台湾725反毒台游行前 再有两人涉“致癌油”被声押禁见", "market_title": "", "reason": "LLM 判定不下注：話題涉及台灣食品安全醜聞（致癌油事件）與公眾遊行活動，屬於國內政治與社會議題。候選市場全為宗教預言、地緣政治軍事衝突、加"}
