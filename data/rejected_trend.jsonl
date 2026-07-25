@@ -4774,3 +4774,4 @@
 {"strategy": "trend", "trend_id": "waroniranphaseiiday14", "trend_title": "War on Iran: Phase II: Day 14", "market_title": "", "reason": "LLM 判定不下注：話題『War on Iran: Phase II: Day 14』與所有候選市場的『核協議』或『外交會議』關聯性較低。雖"}
 {"strategy": "trend", "trend_id": "伊朗官员镐山设施目前是空的", "trend_title": "伊朗官员：镐山设施“目前是空的”", "market_title": "US-Iran Final Nuclear Deal by September 30, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "胡塞武装反击沙特空袭也门局势升级", "trend_title": "胡塞武装反击沙特空袭 也门局势升级", "market_title": "Bab el-Mandeb Strait effectively closed by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "李在明豪赌韩国版硅谷", "trend_title": "李在明豪赌“韩国版硅谷”", "market_title": "", "reason": "信心 0.30 < 0.35：話題提及李在明豪賭“韓國版矽谷”，這是一個政治相關的新聞，可能影響其政治前景。目"}
