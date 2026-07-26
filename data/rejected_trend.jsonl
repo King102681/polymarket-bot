@@ -4811,3 +4811,6 @@
 {"strategy": "trend", "trend_id": "分析人士乌克兰打击伊朗商船有两个目的", "trend_title": "分析人士：乌克兰打击伊朗商船有两个目的", "market_title": "", "reason": "LLM 判定不下注：該熱門話題討論烏克蘭打擊伊朗商船的動機，這與美國和伊朗之間的核協議市場沒有直接關聯。話題內容並未提供任何關於核協議進展或"}
 {"strategy": "trend", "trend_id": "三韩国人向中企泄露oled技术分别获刑一年至五年", "trend_title": "三韩国人向中企泄露OLED技术 分别获刑一年至五年", "market_title": "", "reason": "LLM 判定不下注：此新聞涉及韓國人向中國企業洩漏 OLED 技術並被判刑，與候選市場討論的韓國總統任期、GDP 成長率或通脹率無直接關聯，"}
 {"strategy": "trend", "trend_id": "习近平中国和马尔代夫友好交往源远流长", "trend_title": "习近平：中国和马尔代夫友好交往源远流长", "market_title": "", "reason": "LLM 判定不下注：話題是關於中馬關係，與所有候選市場均無關。"}
+{"strategy": "trend", "trend_id": "伊媒一艘油轮在霍尔木兹海峡触雷爆炸", "trend_title": "伊媒：一艘油轮在霍尔木兹海峡触雷爆炸", "market_title": "Strait of Hormuz traffic returns to normal by August 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "巴西最高法院院长谴责阿根廷总统", "trend_title": "巴西最高法院院长谴责阿根廷总统", "market_title": "", "reason": "LLM 判定不下注：話題提及巴西最高法院，但候選市場為美國堪薩斯州最高法院的選舉修正案，兩者無關。"}
+{"strategy": "trend", "trend_id": "伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展", "trend_title": "伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展", "market_title": "", "reason": "LLM 判定不下注：话题是伊朗与阿曼就霍尔木兹海峡航运管理进行的会谈，这与所有候选项（均为美国与伊朗核协议或外交会议）无关。因此，无法判断任"}
