@@ -4805,3 +4805,6 @@
 {"strategy": "trend", "trend_id": "也门总理胡塞武装持续袭击船只并威胁红海安全证明其正在执行伊朗的指令", "trend_title": "也门总理：胡塞武装持续袭击船只并威胁红海安全，证明其正在执行伊朗的指令。", "market_title": "", "reason": "LLM 判定不下注：此新聞主要在討論也門胡塞武裝對紅海船隻的襲擊，並將其與伊朗聯繫起來。候選市場均與美國和伊朗之間的核協議或外交會議有關，與"}
 {"strategy": "trend", "trend_id": "israelraidswestbanklivedozensofpalestiniansdetainedduringassault", "trend_title": "Israel raids West Bank live: Dozens of Palestinians detained during assault", "market_title": "", "reason": "LLM 判定不下注：話題提到以色列襲擊約旦河西岸，導致巴勒斯坦人被拘留，這與停火協議的討論（市場 0 和 1）沒有直接關聯。襲擊行動本身不直"}
 {"strategy": "trend", "trend_id": "英伟达被错杀了估值跌至五年低点市场押注2027年后几乎零增长", "trend_title": "英伟达被“错杀”了？估值跌至五年低点，市场押注2027年后几乎零增长", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是英偉達（Nvidia）的估值和未來增長預期，而候選市場中的 'Ornn H100 Index' 和 'Or"}
+{"strategy": "trend", "trend_id": "伊朗因美军连续两晚未发动打击伊方已停止报复性打击", "trend_title": "伊朗：因美军连续两晚未发动打击 伊方已停止报复性打击", "market_title": "", "reason": "LLM 判定不下注：此話題討論的是美伊之間軍事衝突暫停，而非核協議或外交會晤。與所有候選市場均無直接關聯。"}
+{"strategy": "trend", "trend_id": "大空头burry加码做空英伟达美光", "trend_title": "“大空头” Burry加码做空英伟达、美光", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是「大空頭」Michael Burry 對輝達（Nvidia）和美光（Micron）的做空行為，但候選市場均"}
+{"strategy": "trend", "trend_id": "伊朗战事期间售出180亿美元石油", "trend_title": "伊朗：战事期间售出180亿美元石油", "market_title": "", "reason": "LLM 判定不下注：此話題提及伊朗在戰事期間售出石油，但所有候選市場都關於美伊核協議或外交會議，與出售石油的資訊沒有直接關聯，因此無法判斷任"}
