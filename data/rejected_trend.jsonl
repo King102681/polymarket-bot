@@ -4808,3 +4808,6 @@
 {"strategy": "trend", "trend_id": "伊朗因美军连续两晚未发动打击伊方已停止报复性打击", "trend_title": "伊朗：因美军连续两晚未发动打击 伊方已停止报复性打击", "market_title": "", "reason": "LLM 判定不下注：此話題討論的是美伊之間軍事衝突暫停，而非核協議或外交會晤。與所有候選市場均無直接關聯。"}
 {"strategy": "trend", "trend_id": "大空头burry加码做空英伟达美光", "trend_title": "“大空头” Burry加码做空英伟达、美光", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是「大空頭」Michael Burry 對輝達（Nvidia）和美光（Micron）的做空行為，但候選市場均"}
 {"strategy": "trend", "trend_id": "伊朗战事期间售出180亿美元石油", "trend_title": "伊朗：战事期间售出180亿美元石油", "market_title": "", "reason": "LLM 判定不下注：此話題提及伊朗在戰事期間售出石油，但所有候選市場都關於美伊核協議或外交會議，與出售石油的資訊沒有直接關聯，因此無法判斷任"}
+{"strategy": "trend", "trend_id": "分析人士乌克兰打击伊朗商船有两个目的", "trend_title": "分析人士：乌克兰打击伊朗商船有两个目的", "market_title": "", "reason": "LLM 判定不下注：該熱門話題討論烏克蘭打擊伊朗商船的動機，這與美國和伊朗之間的核協議市場沒有直接關聯。話題內容並未提供任何關於核協議進展或"}
+{"strategy": "trend", "trend_id": "三韩国人向中企泄露oled技术分别获刑一年至五年", "trend_title": "三韩国人向中企泄露OLED技术 分别获刑一年至五年", "market_title": "", "reason": "LLM 判定不下注：此新聞涉及韓國人向中國企業洩漏 OLED 技術並被判刑，與候選市場討論的韓國總統任期、GDP 成長率或通脹率無直接關聯，"}
+{"strategy": "trend", "trend_id": "习近平中国和马尔代夫友好交往源远流长", "trend_title": "习近平：中国和马尔代夫友好交往源远流长", "market_title": "", "reason": "LLM 判定不下注：話題是關於中馬關係，與所有候選市場均無關。"}
