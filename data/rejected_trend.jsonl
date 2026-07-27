@@ -4828,3 +4828,5 @@
 {"strategy": "trend", "trend_id": "叙利亚总统与以色列的安全协议若成功可能为全面和平铺平道路但不会以牺牲叙利亚对戈兰高地的主权权利为代价", "trend_title": "叙利亚总统：与以色列的安全协议若成功，可能为全面和平铺平道路，但不会以牺牲叙利亚对戈兰高地的主权权利为代价。", "market_title": "", "reason": "LLM 判定不下注：此話題主要關於敘利亞與以色列之間的潛在安全協議，以及戈蘭高地的歸屬問題。候選市場都集中在以色列與哈瑪斯之間的停火協議。這"}
 {"strategy": "trend", "trend_id": "伊朗最高领袖保卫黎巴嫩是伊战略使命", "trend_title": "伊朗最高领袖：保卫黎巴嫩是伊“战略使命”", "market_title": "", "reason": "LLM 判定不下注：話題主要強調伊朗對黎巴嫩的支持，屬於地區安全戰略層級的表態，與候選市場普遍關注的美國-伊朗核協議或外交會議主題關聯性不高"}
 {"strategy": "trend", "trend_id": "也门胡塞武装称48小时内袭击三艘沙特油轮", "trend_title": "也门胡塞武装称48小时内袭击三艘沙特油轮", "market_title": "Bab el-Mandeb Strait effectively closed by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "胡塞武装称击落沙特无人机", "trend_title": "胡塞武装称击落沙特无人机", "market_title": "Bab el-Mandeb Strait effectively closed by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "iranwarliveiranhaltsretaliatorystrikesafterpauseinusattacks", "trend_title": "Iran war live: Iran halts retaliatory strikes after pause in US attacks", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於伊朗暫停報復性襲擊，這與所有候選市場中的伊朗核協議或外交會議無直接關係。因此，無法判斷任何一個市場的"}
