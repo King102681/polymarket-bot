@@ -4861,3 +4861,5 @@
 {"strategy": "trend", "trend_id": "朝鲜若向俄派遣3万援军有何影响", "trend_title": "朝鲜若向俄派遣3万援军有何影响", "market_title": "Will North and South Korea engage in direct talks by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "普京谈快速恢复精力的秘诀", "trend_title": "普京谈快速恢复精力的秘诀", "market_title": "", "reason": "LLM 判定不下注：熱門話題是關於普京恢復精力的秘訣，與任何一個候選市場都沒有關聯性。"}
 {"strategy": "trend", "trend_id": "伊朗称未与美国谈判霍尔木兹海峡仍关闭", "trend_title": "伊朗称未与美国谈判 霍尔木兹海峡仍关闭", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "ukraineszelenskyysettomeettrumpasiranandukrainewarsconverge", "trend_title": "Ukraine’s Zelenskyy set to meet Trump as Iran and Ukraine wars converge", "market_title": "", "reason": "LLM 判定不下注：話題提到澤倫斯基將會見川普，這與川普和普丁是否會見的市場毫無關聯。此外，話題本身並未提供任何關於川普與普丁會面與否的預測"}
+{"strategy": "trend", "trend_id": "普京俄罗斯未来岌岌可危", "trend_title": "普京：俄罗斯未来岌岌可危", "market_title": "Russia x Ukraine ceasefire agreement by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
