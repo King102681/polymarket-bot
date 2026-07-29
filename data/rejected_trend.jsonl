@@ -4923,3 +4923,4 @@
 {"strategy": "trend", "trend_id": "美国总统特朗普称赞了爱国者导弹系统", "trend_title": "美国总统特朗普称赞了爱国者导弹系统。", "market_title": "", "reason": "LLM 判定不下注：话题涉及特朗普对爱国者导弹系统的称赞，属于军事/国防政策立场表达。但候选市场[0-4]全部聚焦于'内阁会议中特朗普说特定"}
 {"strategy": "trend", "trend_id": "媒体金正恩女儿亮相朝鲜纪念日活动", "trend_title": "媒体：金正恩女儿亮相朝鲜纪念日活动", "market_title": "", "reason": "LLM 判定不下注：話題涉及金正恩女兒在朝鮮紀念日活動中亮相，主要內容是領導人權力交接或家族政治信號，與市場[3]（韓朝直接對話）存在邊際相"}
 {"strategy": "trend", "trend_id": "lavrovsayswesthasunitedagainstrussiawarnsofitsdismemberment", "trend_title": "Lavrov Says West Has United Against Russia, Warns of Its ‘Dismemberment’", "market_title": "Russia-Ukraine peace talks by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美联储如预期按兵不动14成员投下反对票", "trend_title": "美联储如预期按兵不动 1/4成员投下反对票", "market_title": "Will there be no change in Fed interest rates after the October 2026 meeting?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
