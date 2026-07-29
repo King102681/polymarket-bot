@@ -4916,3 +4916,5 @@
 {"strategy": "trend", "trend_id": "特朗普称美国将强力打击伊朗中东局势升级推动国际油价大幅飙升", "trend_title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升", "market_title": "Will Trump say \"Iran\" or \"Israel\" 10+ times during cabinet meeting?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "加拿大央行会议纪要但委员们认为油价维持在高位的时间越长其通胀影响扩散的风险就越大", "trend_title": "加拿大央行会议纪要：但委员们认为，油价维持在高位的时间越长，其通胀影响扩散的风险就越大。", "market_title": "Will monthly inflation increase by 0.1% or more in July?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "散户集体抗议韩国会前摆满吊唁花圈", "trend_title": "散户集体抗议 韩国会前摆满吊唁花圈", "market_title": "", "reason": "LLM 判定不下注：話題涉及韓國散戶抗議與社會事件，與所有候選市場（均為美國政治預測）無關。無對應市場。"}
+{"strategy": "trend", "trend_id": "美联储按兵不动现货黄金涨逾1", "trend_title": "美联储按兵不动，现货黄金涨逾1%", "market_title": "Will there be no change in Fed interest rates after the September 2026 meeting?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "巴克莱银行我们将今日议息结果定性为鹰派按兵不动三张反对票将助燃未来几个月加息的押注", "trend_title": "巴克莱银行：我们将今日议息结果定性为鹰派按兵不动，三张反对票将助燃未来几个月加息的押注。", "market_title": "", "reason": "LLM 判定不下注：话题涉及巴克莱银行对央行（可能是英国央行BOE）议息结果的评价，提到'三张反对票'和未来加息押注，但候选市场全部针对美联"}
