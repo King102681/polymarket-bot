@@ -4918,3 +4918,7 @@
 {"strategy": "trend", "trend_id": "散户集体抗议韩国会前摆满吊唁花圈", "trend_title": "散户集体抗议 韩国会前摆满吊唁花圈", "market_title": "", "reason": "LLM 判定不下注：話題涉及韓國散戶抗議與社會事件，與所有候選市場（均為美國政治預測）無關。無對應市場。"}
 {"strategy": "trend", "trend_id": "美联储按兵不动现货黄金涨逾1", "trend_title": "美联储按兵不动，现货黄金涨逾1%", "market_title": "Will there be no change in Fed interest rates after the September 2026 meeting?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "巴克莱银行我们将今日议息结果定性为鹰派按兵不动三张反对票将助燃未来几个月加息的押注", "trend_title": "巴克莱银行：我们将今日议息结果定性为鹰派按兵不动，三张反对票将助燃未来几个月加息的押注。", "market_title": "", "reason": "LLM 判定不下注：话题涉及巴克莱银行对央行（可能是英国央行BOE）议息结果的评价，提到'三张反对票'和未来加息押注，但候选市场全部针对美联"}
+{"strategy": "trend", "trend_id": "美国总统特朗普我希望国会在俄罗斯制裁法案中增加对伊朗的关税", "trend_title": "美国总统特朗普：我希望国会在俄罗斯制裁法案中增加对伊朗的关税。", "market_title": "Will Trump say \"Iran\" or \"Israel\" 10+ times during cabinet meeting?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "saudiarabiasdilemmaasittriestostayoutofusiranwar", "trend_title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war", "market_title": "", "reason": "LLM 判定不下注：該熱門話題討論沙烏地阿拉伯在中東地區，試圖在中美戰爭中保持中立的困境。然而，所有候選市場都聚焦於美伊核協議或外交會議的具"}
+{"strategy": "trend", "trend_id": "美国总统特朗普称赞了爱国者导弹系统", "trend_title": "美国总统特朗普称赞了爱国者导弹系统。", "market_title": "", "reason": "LLM 判定不下注：话题涉及特朗普对爱国者导弹系统的称赞，属于军事/国防政策立场表达。但候选市场[0-4]全部聚焦于'内阁会议中特朗普说特定"}
+{"strategy": "trend", "trend_id": "媒体金正恩女儿亮相朝鲜纪念日活动", "trend_title": "媒体：金正恩女儿亮相朝鲜纪念日活动", "market_title": "", "reason": "LLM 判定不下注：話題涉及金正恩女兒在朝鮮紀念日活動中亮相，主要內容是領導人權力交接或家族政治信號，與市場[3]（韓朝直接對話）存在邊際相"}
