@@ -4962,3 +4962,5 @@
 {"strategy": "trend", "trend_id": "danubesrecordlowlevelsforceshutdownofhungarysonlynuclearplant", "trend_title": "Danube's record low levels force shutdown of Hungary's only nuclear plant", "market_title": "", "reason": "LLM 判定不下注：話題與核能廠關閉有關，但候選市場均為美國政府關門和國會選舉，兩者之間沒有直接關聯。"}
 {"strategy": "trend", "trend_id": "为切断西方军援俄军打击乌西部陆路补给通道", "trend_title": "为切断西方军援，俄军打击乌西部陆路补给通道", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "马斯克旗下团体拟斥资12亿美元助共和党选举", "trend_title": "马斯克旗下团体拟斥资1.2亿美元助共和党选举", "market_title": "", "reason": "LLM 判定不下注：話題涉及馬斯克政治獻金與共和黨選舉支持，與三個候選市場都無直接對應關係。市場 [0] 涉及 Tesla/SpaceX 合"}
+{"strategy": "trend", "trend_id": "加沙和平委员会加沙第二阶段机制将在14天内准备完成", "trend_title": "加沙和平委员会：加沙第二阶段机制将在14天内准备完成。", "market_title": "Israel x Hamas Ceasefire Phase II by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "台独汉奸在美开汉奸大会", "trend_title": "“台独”“汉奸”在美开“汉奸大会”", "market_title": "", "reason": "LLM 判定不下注：這條話題主要涉及政治言論爭議和海外集會事件，不直接對應任何候選市場。候選市場[0][1]雖涉及對台灣的軍事威脅，但此話題"}
