@@ -4970,3 +4970,4 @@
 {"strategy": "trend", "trend_id": "threeyearroadmapproposedforhamasdisarmamentingaza", "trend_title": "Three-year roadmap proposed for Hamas disarmament in Gaza", "market_title": "Israel x Hamas Ceasefire Phase II by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "whyisisraelarmingillegalsettlers", "trend_title": "Why is Israel arming illegal settlers?", "market_title": "", "reason": "LLM 判定不下注：此話題討論的是以色列武裝非法定居者的問題，與目前是否有停火協議或是協議被取消的市場無直接關聯。"}
 {"strategy": "trend", "trend_id": "polandproteststorussianambassadorovermissileincursion", "trend_title": "Poland protests to Russian ambassador over missile incursion", "market_title": "", "reason": "LLM 判定不下注：此話題涉及波蘭抗議俄羅斯大使，因為飛彈事件。這與俄烏之間的停火或和平談判市場（[0]-[4]）沒有直接關聯，因為事件本身"}
+{"strategy": "trend", "trend_id": "美媒美联储主席沃什据悉考虑减少美联储政策会议的频率", "trend_title": "美媒：美联储主席沃什据悉考虑减少美联储政策会议的频率", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是聯準會政策會議的『頻率』，而不是會議本身是否會『升息』或『不升息』。因此，與所有候選市場的預測內容（升息與"}
