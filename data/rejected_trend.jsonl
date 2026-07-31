@@ -4968,3 +4968,4 @@
 {"strategy": "trend", "trend_id": "zelenskyyukrainehaslostaround50000troopsinthewar", "trend_title": "Zelenskyy: Ukraine has lost around 50,000 troops in the war", "market_title": "", "reason": "LLM 判定不下注：Zelenskyy's statement on troop losses is a significant piece"}
 {"strategy": "trend", "trend_id": "习近平加快建设健康中国", "trend_title": "习近平：加快建设健康中国", "market_title": "", "reason": "LLM 判定不下注：這則熱門話題主要關注中國的健康政策，與候選市場中關於領導人會面或法律訴訟的議題關聯性不高。因此，無法從中判斷市場方向或給"}
 {"strategy": "trend", "trend_id": "threeyearroadmapproposedforhamasdisarmamentingaza", "trend_title": "Three-year roadmap proposed for Hamas disarmament in Gaza", "market_title": "Israel x Hamas Ceasefire Phase II by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "whyisisraelarmingillegalsettlers", "trend_title": "Why is Israel arming illegal settlers?", "market_title": "", "reason": "LLM 判定不下注：此話題討論的是以色列武裝非法定居者的問題，與目前是否有停火協議或是協議被取消的市場無直接關聯。"}
