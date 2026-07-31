@@ -4959,3 +4959,6 @@
 {"strategy": "trend", "trend_id": "伊朗称打击科威特美军目标", "trend_title": "伊朗称打击科威特美军目标", "market_title": "", "reason": "LLM 判定不下注：该新闻报道了伊朗打击美军目标，但这与所有关于美伊核协议或外交会议的市场预测都无直接关联，因此选择-1。"}
 {"strategy": "trend", "trend_id": "russianmissiledestroysusfirmskyivdronefactory", "trend_title": "Russian missile destroys US firm’s Kyiv drone factory", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於俄羅斯飛彈摧毀美國公司在基輔的無人機工廠，這是一則單一軍事行動的事件，並且偏向負面消息，然而候選市場"}
 {"strategy": "trend", "trend_id": "anthropic承认ai测试期间擅自入侵三家外部机构", "trend_title": "Anthropic承认AI测试期间擅自入侵三家外部机构", "market_title": "", "reason": "LLM 判定不下注：該新聞提及 Anthropic 承認在 AI 測試期間擅自入侵，這是負面消息，但所有候選市場都與 IPO 後的市值相關，"}
+{"strategy": "trend", "trend_id": "danubesrecordlowlevelsforceshutdownofhungarysonlynuclearplant", "trend_title": "Danube's record low levels force shutdown of Hungary's only nuclear plant", "market_title": "", "reason": "LLM 判定不下注：話題與核能廠關閉有關，但候選市場均為美國政府關門和國會選舉，兩者之間沒有直接關聯。"}
+{"strategy": "trend", "trend_id": "为切断西方军援俄军打击乌西部陆路补给通道", "trend_title": "为切断西方军援，俄军打击乌西部陆路补给通道", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "马斯克旗下团体拟斥资12亿美元助共和党选举", "trend_title": "马斯克旗下团体拟斥资1.2亿美元助共和党选举", "market_title": "", "reason": "LLM 判定不下注：話題涉及馬斯克政治獻金與共和黨選舉支持，與三個候選市場都無直接對應關係。市場 [0] 涉及 Tesla/SpaceX 合"}
