@@ -4979,3 +4979,8 @@
 {"strategy": "trend", "trend_id": "中国商务部中美经贸高层通话仅隔天美方即出台恶劣措施", "trend_title": "中国商务部:中美经贸高层通话仅隔天 美方即出台恶劣措施", "market_title": "US x China tariff agreement by August 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美联储连续第五次维持利率不变", "trend_title": "美联储连续第五次维持利率不变", "market_title": "", "reason": "LLM 判定不下注：該話題關於美聯儲『連續第五次維持利率不變』，這是一項過去事件的陳述，而不是對未來利率決策的預測。提供的市場選項都涉及 2"}
 {"strategy": "trend", "trend_id": "俄罗斯被曝首次打击美国防企业", "trend_title": "俄罗斯被曝首次打击美国防企业", "market_title": "", "reason": "LLM 判定不下注：該話題涉及俄羅斯打擊美國國防企業，但候選市場均為俄烏停火或和平談判，與該話題的直接關聯性不高，無法判斷對市場價格的影響方"}
+{"strategy": "trend", "trend_id": "israeliwestbanksettlertellsbbcattacksonpalestiniansarejustifiedasrevenge", "trend_title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge", "market_title": "", "reason": "LLM 判定不下注：該話題雖然與以色列相關，但討論的是定居者攻擊巴勒斯坦人的言論，與目前候選的兩個市場（關於以哈停火）關聯性不強，無法判斷對"}
+{"strategy": "trend", "trend_id": "泽连斯基爱国者拦截弹短缺基辅遭袭受损严重", "trend_title": "泽连斯基：“爱国者”拦截弹短缺 基辅遭袭受损严重", "market_title": "", "reason": "LLM 判定不下注：話題提到烏克蘭總統澤連斯基表示“愛國者”攔截彈短缺，基輔遭到襲擊並嚴重受損。這與候選市場中關於停火或和平談判的市場關聯性"}
+{"strategy": "trend", "trend_id": "俄罗斯袭击基辅生产美国无人机工厂", "trend_title": "俄罗斯袭击基辅生产美国无人机工厂", "market_title": "", "reason": "LLM 判定不下注：該話題報導俄羅斯襲擊烏克蘭的無人機工廠，但所有候選市場都與俄烏的停火或和平談判有關，並無直接關聯。襲擊事件本身不太可能直"}
+{"strategy": "trend", "trend_id": "tenadvancesinmathematicsandtheoreticalcomputerscience", "trend_title": "Ten advances in mathematics and theoretical computer science", "market_title": "", "reason": "LLM 判定不下注：此熱門話題是關於數學和理論計算機科學的進展，與所有候選市場（皆為美國總統選舉相關）完全無關。"}
+{"strategy": "trend", "trend_id": "民调显示仅有13美国人支持对伊朗开战", "trend_title": "民调显示：仅有1/3美国人支持对伊朗开战", "market_title": "", "reason": "LLM 判定不下注：此民調顯示美國民眾不希望與伊朗開戰，但所有候選市場都聚焦於美伊之間的『外交會談』或『核協議』，並非直接對戰爭的預期。該民"}
