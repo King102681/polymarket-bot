@@ -4986,3 +4986,5 @@
 {"strategy": "trend", "trend_id": "民调显示仅有13美国人支持对伊朗开战", "trend_title": "民调显示：仅有1/3美国人支持对伊朗开战", "market_title": "", "reason": "LLM 判定不下注：此民調顯示美國民眾不希望與伊朗開戰，但所有候選市場都聚焦於美伊之間的『外交會談』或『核協議』，並非直接對戰爭的預期。該民"}
 {"strategy": "trend", "trend_id": "乌克兰谋求使用星链的更大权限", "trend_title": "乌克兰谋求使用“星链”的更大权限", "market_title": "", "reason": "LLM 判定不下注：该话题关于乌克兰寻求“星链”更大权限，与所有提供的关于俄乌停火或和平谈判的市场均无直接关联。因此，无法判断市场方向和信心"}
 {"strategy": "trend", "trend_id": "鲁比奥中美之间任何冲突都是灾难", "trend_title": "鲁比奥：中美之间任何冲突都是灾难", "market_title": "", "reason": "LLM 判定不下注：此話題是關於魯比奧對中美衝突的評論，這是一個總體性的外交言論，並未直接或間接指向任何一個具體的、與候選市場中的任何一個（"}
+{"strategy": "trend", "trend_id": "俄军兵临双子城下", "trend_title": "俄军兵临双子城下", "market_title": "", "reason": "LLM 判定不下注：此話題提到俄軍兵臨雙子城下，但候選市場皆為停火協議或和平談判的日期，此新聞並未直接提供關於協議或談判是否會發生的新資訊，"}
+{"strategy": "trend", "trend_id": "itmighttakealightningboltfromgodtogetthesesenatedemocratichopefulstobowforindependents", "trend_title": "It might take ‘a lightning bolt from God’ to get these Senate Democratic hopefuls to bow for independents", "market_title": "", "reason": "信心 0.30 < 0.35：文章提到獨立選民的影響力，暗示在某些情況下，民主黨候選人可能需要更靈活或妥協才能"}
