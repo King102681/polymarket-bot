@@ -4988,3 +4988,7 @@
 {"strategy": "trend", "trend_id": "鲁比奥中美之间任何冲突都是灾难", "trend_title": "鲁比奥：中美之间任何冲突都是灾难", "market_title": "", "reason": "LLM 判定不下注：此話題是關於魯比奧對中美衝突的評論，這是一個總體性的外交言論，並未直接或間接指向任何一個具體的、與候選市場中的任何一個（"}
 {"strategy": "trend", "trend_id": "俄军兵临双子城下", "trend_title": "俄军兵临双子城下", "market_title": "", "reason": "LLM 判定不下注：此話題提到俄軍兵臨雙子城下，但候選市場皆為停火協議或和平談判的日期，此新聞並未直接提供關於協議或談判是否會發生的新資訊，"}
 {"strategy": "trend", "trend_id": "itmighttakealightningboltfromgodtogetthesesenatedemocratichopefulstobowforindependents", "trend_title": "It might take ‘a lightning bolt from God’ to get these Senate Democratic hopefuls to bow for independents", "market_title": "", "reason": "信心 0.30 < 0.35：文章提到獨立選民的影響力，暗示在某些情況下，民主黨候選人可能需要更靈活或妥協才能"}
+{"strategy": "trend", "trend_id": "据卡塔尔通讯社海湾合作委员会秘书长谴责伊朗对科威特平民设施的攻击", "trend_title": "据卡塔尔通讯社：海湾合作委员会秘书长谴责伊朗对科威特平民设施的攻击。", "market_title": "", "reason": "LLM 判定不下注：新闻报道了伊朗对科威特平民设施的袭击，海湾合作委员会秘书长对此表示谴责。这与提供的所有候选市场（主要关于美伊核协议或外交"}
+{"strategy": "trend", "trend_id": "俄副外长欧洲正在为与俄罗斯开战做准备", "trend_title": "俄副外长：欧洲正在为与俄罗斯开战做准备", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "temu被指未配合欧盟突击检查或面临年营业额1罚款", "trend_title": "Temu被指未配合欧盟突击检查 或面临年营业额1%罚款", "market_title": "", "reason": "LLM 判定不下注：話題與歐盟執委會對 Temu 的反壟斷調查有關，與候選市場的政治選舉議題無關。"}
+{"strategy": "trend", "trend_id": "美联储重大变革报道沃什考虑减少议息会议频率打破40年惯例", "trend_title": "美联储重大变革？报道：沃什考虑减少议息会议频率，打破40年惯例", "market_title": "", "reason": "LLM 判定不下注：報導提及的「減少議息會議頻率」是關於決策機制的長期結構性改變，而非短期內（如2026年9月、10月、12月）的具體升息或"}
