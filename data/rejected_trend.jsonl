@@ -4992,3 +4992,5 @@
 {"strategy": "trend", "trend_id": "俄副外长欧洲正在为与俄罗斯开战做准备", "trend_title": "俄副外长：欧洲正在为与俄罗斯开战做准备", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "temu被指未配合欧盟突击检查或面临年营业额1罚款", "trend_title": "Temu被指未配合欧盟突击检查 或面临年营业额1%罚款", "market_title": "", "reason": "LLM 判定不下注：話題與歐盟執委會對 Temu 的反壟斷調查有關，與候選市場的政治選舉議題無關。"}
 {"strategy": "trend", "trend_id": "美联储重大变革报道沃什考虑减少议息会议频率打破40年惯例", "trend_title": "美联储重大变革？报道：沃什考虑减少议息会议频率，打破40年惯例", "market_title": "", "reason": "LLM 判定不下注：報導提及的「減少議息會議頻率」是關於決策機制的長期結構性改變，而非短期內（如2026年9月、10月、12月）的具體升息或"}
+{"strategy": "trend", "trend_id": "日媒高市早苗已两月未与外国领导人通电话", "trend_title": "日媒：高市早苗已两月未与外国领导人通电话", "market_title": "", "reason": "LLM 判定不下注：该新闻是关于日本政客高市早苗个人动态的，与解散日本国会在2026年的可能性没有直接关联。因此，选择-1表示不相关。"}
+{"strategy": "trend", "trend_id": "乌克兰首都遇袭致九人死亡立陶宛大使馆受损", "trend_title": "乌克兰首都遇袭致九人死亡 立陶宛大使馆受损", "market_title": "", "reason": "LLM 判定不下注：此新聞描述的是烏克蘭首都遇襲，並未提供任何關於停火或和平談判進展的訊息，因此與所有候選市場均無直接關聯。"}
