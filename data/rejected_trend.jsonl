@@ -4984,3 +4984,5 @@
 {"strategy": "trend", "trend_id": "俄罗斯袭击基辅生产美国无人机工厂", "trend_title": "俄罗斯袭击基辅生产美国无人机工厂", "market_title": "", "reason": "LLM 判定不下注：該話題報導俄羅斯襲擊烏克蘭的無人機工廠，但所有候選市場都與俄烏的停火或和平談判有關，並無直接關聯。襲擊事件本身不太可能直"}
 {"strategy": "trend", "trend_id": "tenadvancesinmathematicsandtheoreticalcomputerscience", "trend_title": "Ten advances in mathematics and theoretical computer science", "market_title": "", "reason": "LLM 判定不下注：此熱門話題是關於數學和理論計算機科學的進展，與所有候選市場（皆為美國總統選舉相關）完全無關。"}
 {"strategy": "trend", "trend_id": "民调显示仅有13美国人支持对伊朗开战", "trend_title": "民调显示：仅有1/3美国人支持对伊朗开战", "market_title": "", "reason": "LLM 判定不下注：此民調顯示美國民眾不希望與伊朗開戰，但所有候選市場都聚焦於美伊之間的『外交會談』或『核協議』，並非直接對戰爭的預期。該民"}
+{"strategy": "trend", "trend_id": "乌克兰谋求使用星链的更大权限", "trend_title": "乌克兰谋求使用“星链”的更大权限", "market_title": "", "reason": "LLM 判定不下注：该话题关于乌克兰寻求“星链”更大权限，与所有提供的关于俄乌停火或和平谈判的市场均无直接关联。因此，无法判断市场方向和信心"}
+{"strategy": "trend", "trend_id": "鲁比奥中美之间任何冲突都是灾难", "trend_title": "鲁比奥：中美之间任何冲突都是灾难", "market_title": "", "reason": "LLM 判定不下注：此話題是關於魯比奧對中美衝突的評論，這是一個總體性的外交言論，並未直接或間接指向任何一個具體的、與候選市場中的任何一個（"}
