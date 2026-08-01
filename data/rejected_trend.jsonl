@@ -4977,3 +4977,5 @@
 {"strategy": "trend", "trend_id": "yemenshouthisdenyplantochargeshipstransitingredsea", "trend_title": "Yemen’s Houthis deny plan to charge ships transiting Red Sea", "market_title": "Bab el-Mandeb Strait effectively closed by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美国参议院司法委员会定于下周二就托德布兰奇出任司法部长的提名举行投票会议", "trend_title": "美国参议院司法委员会定于下周二就托德·布兰奇出任司法部长的提名举行投票会议。", "market_title": "", "reason": "LLM 判定不下注：此話題是關於一位特定人士的任命投票，與候選市場中提到的參議院或眾議院的長期控制權、政府關門或國會交易禁令等議題無直接關聯"}
 {"strategy": "trend", "trend_id": "中国商务部中美经贸高层通话仅隔天美方即出台恶劣措施", "trend_title": "中国商务部:中美经贸高层通话仅隔天 美方即出台恶劣措施", "market_title": "US x China tariff agreement by August 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美联储连续第五次维持利率不变", "trend_title": "美联储连续第五次维持利率不变", "market_title": "", "reason": "LLM 判定不下注：該話題關於美聯儲『連續第五次維持利率不變』，這是一項過去事件的陳述，而不是對未來利率決策的預測。提供的市場選項都涉及 2"}
+{"strategy": "trend", "trend_id": "俄罗斯被曝首次打击美国防企业", "trend_title": "俄罗斯被曝首次打击美国防企业", "market_title": "", "reason": "LLM 判定不下注：該話題涉及俄羅斯打擊美國國防企業，但候選市場均為俄烏停火或和平談判，與該話題的直接關聯性不高，無法判斷對市場價格的影響方"}
