@@ -5031,3 +5031,5 @@
 {"strategy": "trend", "trend_id": "以军空袭加沙致18人死亡", "trend_title": "以军空袭加沙致18人死亡", "market_title": "Israel x Hamas ceasefire cancelled by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "俄乌周日继续互相轰炸基础设施", "trend_title": "俄乌周日继续互相轰炸基础设施", "market_title": "", "reason": "信心 0.30 < 0.35：话题提到双方继续互相轰炸，这与达成停火协议的方向相反。当前市场0.23的停火概率"}
 {"strategy": "trend", "trend_id": "美国参议院拨款委员会发布融资立法草案的文本", "trend_title": "美国参议院拨款委员会发布融资立法草案的文本", "market_title": "", "reason": "信心 0.30 < 0.35：新聞提到參議院拨款委员会发布融资立法草案，这可能有助于避免政府关门。市场对‘政府"}
+{"strategy": "trend", "trend_id": "ukpmburnhamvowstoberelentlessonchannelmigrantcrossings", "trend_title": "UK PM Burnham vows to be ‘relentless’ on Channel migrant crossings", "market_title": "", "reason": "LLM 判定不下注：該話題是關於英國首相針對跨越英吉利海峽的移民的承諾，與候選市場（關於英國首相更迭的時間點）沒有直接關聯。"}
+{"strategy": "trend", "trend_id": "美国参议院少数党领袖舒默今日公布的持续决议案是负责任的选择", "trend_title": "美国参议院少数党领袖舒默：今日公布的持续决议案是负责任的选择。", "market_title": "", "reason": "LLM 判定不下注：这条热门话题是关于美国参议院少数党领袖舒默对一份持续决议案的评论，这更多是关于当前的立法程序和政治表态，与提出的候选中关"}
