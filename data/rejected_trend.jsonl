@@ -5029,3 +5029,5 @@
 {"strategy": "trend", "trend_id": "putinfacesfreshfuryovercatastrophecoverup", "trend_title": "Putin Faces Fresh Fury Over ‘Catastrophe’ Cover-Up", "market_title": "Russia x Ukraine ceasefire agreement by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "iransaysnegotiationswithomanoverstraitofhormuzinfinalstages", "trend_title": "Iran says negotiations with Oman over Strait of Hormuz in final stages", "market_title": "", "reason": "LLM 判定不下注：新聞內容是關於阿曼與伊朗就荷姆茲海峽進行談判，處於最後階段。但候選市場均與美伊核協議或外交會議相關，並無直接或間接關聯。"}
 {"strategy": "trend", "trend_id": "以军空袭加沙致18人死亡", "trend_title": "以军空袭加沙致18人死亡", "market_title": "Israel x Hamas ceasefire cancelled by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "俄乌周日继续互相轰炸基础设施", "trend_title": "俄乌周日继续互相轰炸基础设施", "market_title": "", "reason": "信心 0.30 < 0.35：话题提到双方继续互相轰炸，这与达成停火协议的方向相反。当前市场0.23的停火概率"}
+{"strategy": "trend", "trend_id": "美国参议院拨款委员会发布融资立法草案的文本", "trend_title": "美国参议院拨款委员会发布融资立法草案的文本", "market_title": "", "reason": "信心 0.30 < 0.35：新聞提到參議院拨款委员会发布融资立法草案，这可能有助于避免政府关门。市场对‘政府"}
