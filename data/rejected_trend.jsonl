@@ -5016,3 +5016,4 @@
 {"strategy": "trend", "trend_id": "日媒印度海员遇袭身亡家属向美伊提出巨额索赔", "trend_title": "日媒：印度海员遇袭身亡，家属向美伊提出巨额索赔", "market_title": "", "reason": "LLM 判定不下注：這條新聞是關於印度海員在遇襲身亡後，家屬向美伊提出索賠，這與美伊核協議或外交會議的市場主題沒有直接關聯。因此，沒有適合的"}
 {"strategy": "trend", "trend_id": "伊朗铜业公司2026年实现约90万亿里亚尔设备和零部件国产化", "trend_title": "伊朗铜业公司2026年实现约90万亿里亚尔设备和零部件国产化", "market_title": "", "reason": "LLM 判定不下注：此話題關於伊朗銅業公司實現設備國產化，與美國和伊朗之間的核協議談判或外交會議無直接關聯，因此選擇市場索引 -1。"}
 {"strategy": "trend", "trend_id": "伊朗武装部队司令充当美国护盾的地区国家都将陷于战火", "trend_title": "伊朗武装部队司令：充当美国“护盾”的地区国家都将“陷于战火”", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "ukraineblindsrussiasairdefenseshittingeightradarandmissilesystemsinonesweep", "trend_title": "Ukraine Blinds Russia’s Air Defenses, Hitting Eight Radar and Missile Systems in One Sweep", "market_title": "", "reason": "LLM 判定不下注：此話題描述的是對俄羅斯防禦系統的打擊，與停火或和平談判協議無直接關聯。市場目前沒有明顯被低估的機會。"}
