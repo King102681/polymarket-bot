@@ -5009,3 +5009,6 @@
 {"strategy": "trend", "trend_id": "usarabseyehistoricsenatewinforabdulelsayeddespiteaipacattacks", "trend_title": "US Arabs eye ‘historic’ Senate win for Abdul El-Sayed despite AIPAC attacks", "market_title": "", "reason": "LLM 判定不下注：討論的是一位特定候選人在參議院的潛在勝利，但候選市場均與此無關，而是關於兩黨對參議院/眾議院的控制權或政府關門等更廣泛的"}
 {"strategy": "trend", "trend_id": "卡塔尔lng船霍尔木兹海峡遭袭失控中东局势骤然升温", "trend_title": "卡塔尔LNG船霍尔木兹海峡遭袭失控，中东局势骤然升温", "market_title": "Strait of Hormuz traffic returns to normal by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "日媒美联储不降息或致金价继续下探", "trend_title": "日媒：美联储不降息或致金价继续下探", "market_title": "", "reason": "LLM 判定不下注：該新聞是關於美聯儲不降息可能導致金價下跌，但候選市場皆為關於 2026 年 9 月、10 月、12 月的利率決策，時間點"}
+{"strategy": "trend", "trend_id": "伊朗商品交易所单日白银入库数量创历史新高", "trend_title": "伊朗商品交易所单日白银入库数量创历史新高", "market_title": "", "reason": "LLM 判定不下注：提供的新聞是關於伊朗商品交易所白銀入庫數量創歷史新高。這與候選市場中所有關於美國與伊朗核協議或外交會議的問題沒有直接關聯"}
+{"strategy": "trend", "trend_id": "以媒预计美国恢复打击伊朗以色列提高警戒", "trend_title": "以媒：预计美国恢复打击伊朗，以色列提高警戒", "market_title": "Israel x Hamas ceasefire cancelled by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "俄罗斯当局称隔夜摧毁了635架乌克兰无人机", "trend_title": "俄罗斯当局称隔夜摧毁了635架乌克兰无人机。", "market_title": "", "reason": "LLM 判定不下注：此新聞是關於俄羅斯聲稱擊毀烏克蘭無人機，與停火或和平談判協議的市場無直接關聯。市場定價與此新聞無關。"}
