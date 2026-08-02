@@ -5034,3 +5034,4 @@
 {"strategy": "trend", "trend_id": "ukpmburnhamvowstoberelentlessonchannelmigrantcrossings", "trend_title": "UK PM Burnham vows to be ‘relentless’ on Channel migrant crossings", "market_title": "", "reason": "LLM 判定不下注：該話題是關於英國首相針對跨越英吉利海峽的移民的承諾，與候選市場（關於英國首相更迭的時間點）沒有直接關聯。"}
 {"strategy": "trend", "trend_id": "美国参议院少数党领袖舒默今日公布的持续决议案是负责任的选择", "trend_title": "美国参议院少数党领袖舒默：今日公布的持续决议案是负责任的选择。", "market_title": "", "reason": "LLM 判定不下注：这条热门话题是关于美国参议院少数党领袖舒默对一份持续决议案的评论，这更多是关于当前的立法程序和政治表态，与提出的候选中关"}
 {"strategy": "trend", "trend_id": "美联储9月加息25个基点的概率为736", "trend_title": "美联储9月加息25个基点的概率为73.6%", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於2026年9月聯準會的利率決策，而所有候選市場的標的會議日期均為2026年9月，這與話題內容不符。因"}
+{"strategy": "trend", "trend_id": "美伊或将举行谈判国际油价显著下跌", "trend_title": "美伊或将举行谈判 国际油价显著下跌", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
