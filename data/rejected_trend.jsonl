@@ -5020,3 +5020,5 @@
 {"strategy": "trend", "trend_id": "去年境外涉毒受领事协助韩国人两年来增两倍", "trend_title": "去年境外涉毒受领事协助韩国人 两年来增两倍", "market_title": "", "reason": "LLM 判定不下注：該熱門話題討論的是去年境外涉毒受領事協助的韓國人數量增加，這與韓國政治、貨幣政策或 GDP 增長預測沒有直接關聯。因此，"}
 {"strategy": "trend", "trend_id": "韩国拟严打大型活动期间酒店民宿业者漫天要价", "trend_title": "韩国拟严打大型活动期间 酒店民宿业者漫天要价", "market_title": "", "reason": "LLM 判定不下注：該熱門話題主要在討論韓國政府擬針對大型活動期間的酒店民宿業者的漫天要價行為進行嚴打。此新聞與韓國總統是否會被罷免、韓國央"}
 {"strategy": "trend", "trend_id": "heatwaveforcesnuclearshutdowninhungary", "trend_title": "Heatwave forces nuclear shutdown in Hungary", "market_title": "", "reason": "LLM 判定不下注：此新聞是關於匈牙利核能，與美國政府關門及國會選舉市場無關。"}
+{"strategy": "trend", "trend_id": "israelisettlersshootpalestinianchildduringfarmraid", "trend_title": "Israeli settlers shoot Palestinian child during farm raid", "market_title": "", "reason": "LLM 判定不下注：該話題描述的是以色列定居者槍殺巴勒斯坦兒童的事件，這與以哈停火的市場選項關聯性不高，無法直接推斷停火的可能性。市場定價似"}
+{"strategy": "trend", "trend_id": "据半岛电视台以色列持续袭击加沙地带截止周日死亡人数已上升至至少18人", "trend_title": "据半岛电视台：以色列持续袭击加沙地带，截止周日，死亡人数已上升至至少18人。", "market_title": "", "reason": "信心 0.30 < 0.35：新聞報導死亡人數增加，這通常會增加停火的壓力，使得停火的機率（市場0）上升，而非"}
