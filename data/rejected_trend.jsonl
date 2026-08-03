@@ -5045,3 +5045,4 @@
 {"strategy": "trend", "trend_id": "西媒美国在中期选举前三个月启动选举模式", "trend_title": "西媒：美国在中期选举前三个月启动选举模式", "market_title": "", "reason": "LLM 判定不下注：話題涉及美國中期選舉，與以色列2026年大選無關。候選市場均不對應此話題。"}
 {"strategy": "trend", "trend_id": "泽连斯基签署总统令解除多名乌克兰驻外大使职务", "trend_title": "泽连斯基签署总统令 解除多名乌克兰驻外大使职务", "market_title": "", "reason": "LLM 判定不下注：此話題為烏克蘭總統解除駐外大使職務，與俄烏停火或和平談判的市場主題關聯性不高，無法判斷對市場方向的影響。"}
 {"strategy": "trend", "trend_id": "russiasayssevenkilledand40injuredbyukrainiandronehittingbusybeach", "trend_title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於俄烏衝突中具體的攻擊事件，與市場上關於長期停火或和平談判的到期日期預測市場無關。因此挑選 -1。"}
+{"strategy": "trend", "trend_id": "声明显示美国众议院网络安全小组要求openai首席执行官奥尔特曼就huggingface入侵事件进行情况通报", "trend_title": "声明显示：美国众议院网络安全小组要求OpenAI首席执行官奥尔特曼就Hugging Face入侵事件进行情况通报。", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及 OpenAI 執行長因 Hugging Face 入侵事件被美國眾議院網路安全小組要求通報，這是科技公司資"}
