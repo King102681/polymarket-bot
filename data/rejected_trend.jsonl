@@ -5041,3 +5041,5 @@
 {"strategy": "trend", "trend_id": "小三通通航25周年典礼台媒两岸官员降规格同场无交流", "trend_title": "小三通通航25周年典礼 台媒：两岸官员“降规格”同场无交流", "market_title": "", "reason": "LLM 判定不下注：此話題關於小三通通航25周年慶典，兩岸官員規格降低且無交流。此資訊與候選市場（如中國是否入侵台灣、台灣總理更換、川普訪問"}
 {"strategy": "trend", "trend_id": "ukrainiandronestrikesdisablenearlytwothirdsofwildberrieslargestlogisticshubs", "trend_title": "Ukrainian Drone Strikes Disable Nearly Two-Thirds of Wildberries' Largest Logistics Hubs", "market_title": "", "reason": "LLM 判定不下注：該話題涉及對俄羅斯物流中心的襲擊，這與停火或和平談判的市場主題關聯性不高，無法判斷市場方向。"}
 {"strategy": "trend", "trend_id": "ukrainestrikesrussiasbiggestretaileragain", "trend_title": "Ukraine strikes Russia’s biggest retailer again", "market_title": "", "reason": "LLM 判定不下注：該話題是關於烏克蘭對俄羅斯零售商的襲擊，這與提議的停火或和平談判市場沒有直接關聯，因此選擇了 -1。"}
+{"strategy": "trend", "trend_id": "俄罗斯总统普京已任命德米特里多加金dmitrydogadkin为俄驻叙利亚大使", "trend_title": "俄罗斯总统普京已任命德米特里·多加金（Dmitry Dogadkin）为俄驻叙利亚大使。", "market_title": "", "reason": "LLM 判定不下注：此新聞關於俄羅斯任命駐敘利亞大使，與候選市場中所有關於國家承認以色列的預測市場完全無關。"}
+{"strategy": "trend", "trend_id": "西媒美国在中期选举前三个月启动选举模式", "trend_title": "西媒：美国在中期选举前三个月启动选举模式", "market_title": "", "reason": "LLM 判定不下注：話題涉及美國中期選舉，與以色列2026年大選無關。候選市場均不對應此話題。"}
