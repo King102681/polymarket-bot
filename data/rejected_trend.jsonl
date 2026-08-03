@@ -5036,3 +5036,4 @@
 {"strategy": "trend", "trend_id": "美联储9月加息25个基点的概率为736", "trend_title": "美联储9月加息25个基点的概率为73.6%", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於2026年9月聯準會的利率決策，而所有候選市場的標的會議日期均為2026年9月，這與話題內容不符。因"}
 {"strategy": "trend", "trend_id": "美伊或将举行谈判国际油价显著下跌", "trend_title": "美伊或将举行谈判 国际油价显著下跌", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "台湾加权指数8月3日周一开盘下跌1446点跌幅003报4310529点", "trend_title": "台湾加权指数8月3日（周一）开盘下跌14.46点，跌幅0.03%，报43105.29点。", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題僅是關於台灣加權指數開盤小幅下跌的即時數據，與任何候選市場的事件（如戰爭、政治人物變動或訪問）沒有直接關聯"}
+{"strategy": "trend", "trend_id": "海湾国家加速重构原油出口通道", "trend_title": "海湾国家加速重构原油出口通道", "market_title": "Will WTI Crude Oil (WTI) hit (HIGH) $95 in August?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
