@@ -5043,3 +5043,5 @@
 {"strategy": "trend", "trend_id": "ukrainestrikesrussiasbiggestretaileragain", "trend_title": "Ukraine strikes Russia’s biggest retailer again", "market_title": "", "reason": "LLM 判定不下注：該話題是關於烏克蘭對俄羅斯零售商的襲擊，這與提議的停火或和平談判市場沒有直接關聯，因此選擇了 -1。"}
 {"strategy": "trend", "trend_id": "俄罗斯总统普京已任命德米特里多加金dmitrydogadkin为俄驻叙利亚大使", "trend_title": "俄罗斯总统普京已任命德米特里·多加金（Dmitry Dogadkin）为俄驻叙利亚大使。", "market_title": "", "reason": "LLM 判定不下注：此新聞關於俄羅斯任命駐敘利亞大使，與候選市場中所有關於國家承認以色列的預測市場完全無關。"}
 {"strategy": "trend", "trend_id": "西媒美国在中期选举前三个月启动选举模式", "trend_title": "西媒：美国在中期选举前三个月启动选举模式", "market_title": "", "reason": "LLM 判定不下注：話題涉及美國中期選舉，與以色列2026年大選無關。候選市場均不對應此話題。"}
+{"strategy": "trend", "trend_id": "泽连斯基签署总统令解除多名乌克兰驻外大使职务", "trend_title": "泽连斯基签署总统令 解除多名乌克兰驻外大使职务", "market_title": "", "reason": "LLM 判定不下注：此話題為烏克蘭總統解除駐外大使職務，與俄烏停火或和平談判的市場主題關聯性不高，無法判斷對市場方向的影響。"}
+{"strategy": "trend", "trend_id": "russiasayssevenkilledand40injuredbyukrainiandronehittingbusybeach", "trend_title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於俄烏衝突中具體的攻擊事件，與市場上關於長期停火或和平談判的到期日期預測市場無關。因此挑選 -1。"}
