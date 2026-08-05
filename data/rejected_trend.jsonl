@@ -5079,3 +5079,5 @@
 {"strategy": "trend", "trend_id": "iranwarlivetehranomantalksonhormuzpositiveshiphitinredsea", "trend_title": "Iran war live: Tehran-Oman talks on Hormuz ‘positive’; ship hit in Red Sea", "market_title": "", "reason": "LLM 判定不下注：此新聞主要報導伊朗與阿曼關於荷姆茲海峽的談判，以及紅海船隻遇襲事件。這與候選市場中所有關於美伊核協議或外交會議的選項關聯"}
 {"strategy": "trend", "trend_id": "美众院报告美中电信系统存连接漏洞或为黑客入侵敞大门", "trend_title": "美众院报告：美中电信系统存连接漏洞 或为黑客入侵敞大门", "market_title": "", "reason": "LLM 判定不下注：該話題涉及美中電信系統安全漏洞的發現報告，屬於技術安全與基礎設施風險範疇。四個候選市場分別聚焦於：關稅協議談判、字節跳動"}
 {"strategy": "trend", "trend_id": "据伊朗国家媒体援引知情人士消息称只要美国持续威胁伊朗与阿曼的霍尔木兹海协议就将被推迟", "trend_title": "据伊朗国家媒体援引知情人士消息称，只要美国持续威胁伊朗，与阿曼的霍尔木兹海协议就将被推迟。", "market_title": "", "reason": "LLM 判定不下注：該話題是關於伊朗與阿曼的霍爾木茲海峽協議可能推遲，這與候選市場中關於美國-伊朗核協議或外交會議的日期和地點的議題關聯性較"}
+{"strategy": "trend", "trend_id": "俄军空袭基辅至少14死27伤", "trend_title": "俄军空袭基辅至少14死27伤", "market_title": "", "reason": "LLM 判定不下注：此新聞是關於俄羅斯對基輔的空襲，造成人員傷亡。這與停火協議或和平談判市場的關聯性不高，且新聞本身並未提供對停火或談判有利"}
+{"strategy": "trend", "trend_id": "韩警方搜查星巴克韩国总部调查涉嫌亵渎民运案", "trend_title": "韩警方搜查星巴克韩国总部 调查涉嫌亵渎民运案", "market_title": "", "reason": "LLM 判定不下注：話題是關於韓國警方搜查星巴克韓國總部的案件，可能涉及褻瀆民運。這與韓國央行的貨幣政策、通膨或 GDP 成長等宏觀經濟指標"}
