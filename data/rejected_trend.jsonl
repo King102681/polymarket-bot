@@ -5117,3 +5117,5 @@
 {"strategy": "trend", "trend_id": "inodesanooneissafefromrussiasnewblackseastrikes", "trend_title": "In Odesa, no-one is safe from Russia's new Black Sea strikes", "market_title": "", "reason": "LLM 判定不下注：這則新聞提到俄羅斯在敖德薩發動襲擊，但候選市場都在討論停火協議或和平談判的日期，與新聞中的具體襲擊事件關聯性不高，且新聞"}
 {"strategy": "trend", "trend_id": "半年来最大涨幅昨日全球市场最炸裂资产黄金", "trend_title": "半年来最大涨幅！昨日全球市场“最炸裂资产”：黄金……", "market_title": "Will Gold (XAUUSD) hit (HIGH) $4,500 in August?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "中国将打造交通黄金大外环", "trend_title": "中国将打造交通“黄金大外环”", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是中國的交通基礎設施建設，與黃金（Gold, XAUUSD）的價格無關。因此，所有候選市場均不相關。"}
+{"strategy": "trend", "trend_id": "日媒高市早苗搞吃喝政治遭质疑", "trend_title": "日媒：高市早苗搞“吃喝政治”遭质疑", "market_title": "", "reason": "LLM 判定不下注：该话题关于日本一位政治人物的“吃喝政治”争议，与“日本国会是否会在 2026 年解散”的市场没有直接关联。"}
+{"strategy": "trend", "trend_id": "russiaquietlyburiestwogeneralsasmysterydeepensarounddeadlymoscowexplosion", "trend_title": "Russia Quietly Buries Two Generals as Mystery Deepens Around Deadly Moscow Explosion", "market_title": "", "reason": "LLM 判定不下注：該話題是關於俄羅斯將軍在莫斯科爆炸案中喪生，並無直接提及任何關於停火或和平談判的可能性，因此與所有候選市場關聯性均不高。"}
