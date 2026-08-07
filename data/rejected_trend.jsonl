@@ -5139,3 +5139,5 @@
 {"strategy": "trend", "trend_id": "特朗普冷淡回应基辅遭袭我们隔着大洋呢", "trend_title": "特朗普冷淡回应基辅遭袭：“我们隔着大洋呢”", "market_title": "", "reason": "LLM 判定不下注：話題是關於特朗普對基輔遭襲的回應，表達了對俄烏戰爭的冷淡態度，強調美國與事件的距離。這與所有候選市場的主題（特朗普與特定"}
 {"strategy": "trend", "trend_id": "英伟达jetson大幅涨价理工雷科推出山海智算模组提供国产替代方案", "trend_title": "英伟达Jetson大幅涨价 理工雷科推出“山海”智算模组提供国产替代方案", "market_title": "", "reason": "LLM 判定不下注：话题涉及英伟达Jetson涨价和国产替代方案竞争，但候选市场全部针对Ornn指数（H100/B200芯片价格指数）在特定"}
 {"strategy": "trend", "trend_id": "中国央行据悉在香港增加黄金存放", "trend_title": "中国央行据悉在香港增加黄金存放", "market_title": "Will Gold (XAUUSD) hit (HIGH) $4,700 in August?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美联储鹰风四起沃什被曝为9月加息敞开大门承认存在沟通失误", "trend_title": "美联储鹰风四起！沃什被曝为9月加息敞开大门 承认存在沟通失误", "market_title": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美媒爆料特朗普希望万斯赢得2028年大选", "trend_title": "美媒爆料：“特朗普希望万斯赢得2028年大选”", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是特朗普對2028年大選的個人偏好，與候選市場中列出的2026年特定人物會面事件無關。因此，沒有市場真正對應"}
