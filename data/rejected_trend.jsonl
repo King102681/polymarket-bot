@@ -5141,3 +5141,4 @@
 {"strategy": "trend", "trend_id": "中国央行据悉在香港增加黄金存放", "trend_title": "中国央行据悉在香港增加黄金存放", "market_title": "Will Gold (XAUUSD) hit (HIGH) $4,700 in August?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美联储鹰风四起沃什被曝为9月加息敞开大门承认存在沟通失误", "trend_title": "美联储鹰风四起！沃什被曝为9月加息敞开大门 承认存在沟通失误", "market_title": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美媒爆料特朗普希望万斯赢得2028年大选", "trend_title": "美媒爆料：“特朗普希望万斯赢得2028年大选”", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是特朗普對2028年大選的個人偏好，與候選市場中列出的2026年特定人物會面事件無關。因此，沒有市場真正對應"}
+{"strategy": "trend", "trend_id": "赤峰黄金控股子公司签订22亿美元海外采矿服务合同", "trend_title": "赤峰黄金：控股子公司签订2.2亿美元海外采矿服务合同", "market_title": "", "reason": "LLM 判定不下注：此熱門話題是關於一家名為「赤峰黄金」的控股子公司簽署採礦服務合同，金額為 2.2 億美元。這個訊息主要影響的是該公司的營"}
