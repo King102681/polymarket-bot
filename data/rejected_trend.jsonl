@@ -5149,3 +5149,4 @@
 {"strategy": "trend", "trend_id": "韩媒韩国足协被曝为外国裁判提供性服务", "trend_title": "韩媒：韩国足协被曝为外国裁判提供性服务", "market_title": "", "reason": "LLM 判定不下注：該熱門話題關於韓國足協涉及腐敗醜聞，與所有候選市場（GDP、韓國銀行利率決策）均無關聯。因此，無法判斷市場方向或給予信心"}
 {"strategy": "trend", "trend_id": "胡塞武装袭击沙特致11伤打击也门政府军集结地致58死", "trend_title": "胡塞武装袭击沙特致11伤 打击也门政府军集结地致58死", "market_title": "Bab el-Mandeb Strait effectively closed by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "外媒胡塞武装发动无人机袭击3名政府军成员死亡", "trend_title": "外媒：胡塞武装发动无人机袭击，3名政府军成员死亡", "market_title": "Bab el-Mandeb Strait effectively closed by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "twocivilianskilledinhouthistrikeonmaribsaysyemensgovernment", "trend_title": "Two civilians killed in Houthi strike on Marib, says Yemen’s government", "market_title": "Bab el-Mandeb Strait effectively closed by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
