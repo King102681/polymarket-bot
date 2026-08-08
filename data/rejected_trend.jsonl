@@ -5205,3 +5205,5 @@
 {"strategy": "trend", "trend_id": "美国副总统万斯伊朗已通知美国将允许最大流量的石油通过海峡但我们不信任他们", "trend_title": "美国副总统万斯：伊朗已通知美国将允许最大流量的石油通过海峡，但我们不信任他们。", "market_title": "", "reason": "LLM 判定不下注：話題是伊朗石油海峽通行政策的地緣政治聲明，與副總統萬斯的外交立場相關，但所有候選市場均為2028年總統選舉相關。這條話題"}
 {"strategy": "trend", "trend_id": "lebanondetainsformeralassaderageneralweighshandinghimtosyria", "trend_title": "Lebanon ‘detains’ former al-Assad-era general, weighs handing him to Syria", "market_title": "", "reason": "LLM 判定不下注：該新聞涉及黎巴嫩拘捕敘利亞前阿薩德政權將領，與引渡敘利亞的司法/政治問題。候選市場全為『國家是否承認以色列』的長期地緣政"}
 {"strategy": "trend", "trend_id": "美国副总统万斯美国将继续对伊朗施加压力", "trend_title": "美国副总统万斯：美国将继续对伊朗施加压力。", "market_title": "", "reason": "LLM 判定不下注：话题是关于美国副总统万斯表态将继续对伊朗施压，这与他是否会参加2028年美国总统大选的预期没有直接关联，属于政治表态，但"}
+{"strategy": "trend", "trend_id": "专家霍尔木兹海峡绝无可能回到战前状态", "trend_title": "专家：霍尔木兹海峡“绝无可能”回到战前状态", "market_title": "Strait of Hormuz traffic returns to normal by August 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "市场消息保加利亚因无人机在其境内爆炸召见乌克兰大使", "trend_title": "市场消息：保加利亚因无人机在其境内爆炸召见乌克兰大使。", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
