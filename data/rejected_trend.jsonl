@@ -5209,3 +5209,5 @@
 {"strategy": "trend", "trend_id": "市场消息保加利亚因无人机在其境内爆炸召见乌克兰大使", "trend_title": "市场消息：保加利亚因无人机在其境内爆炸召见乌克兰大使。", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "土耳其外交部长防务协议将设立部长级委员会及秘书长类似北约架构", "trend_title": "土耳其外交部长：防务协议将设立部长级委员会及秘书长，类似北约架构。", "market_title": "NATO x Russia military clash by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "土耳其外交部长土耳其巴基斯坦沙特阿拉伯的防务协议在技术上与北约第五条相同", "trend_title": "土耳其外交部长：土耳其、巴基斯坦、沙特阿拉伯的防务协议在技术上与北约第五条相同。", "market_title": "", "reason": "LLM 判定不下注：該話題談論的是土耳其、巴基斯坦和沙特阿拉伯之間的防務協議，雖然提到了與北約第五條的類比，但與候選市場中直接關聯到北約與俄"}
+{"strategy": "trend", "trend_id": "gazahealthchiefurgesactiontosavedrabusafiabeforeitstoolate", "trend_title": "Gaza health chief urges action to ‘save’ Dr Abu Safia before it’s too late", "market_title": "", "reason": "信心 0.32 < 0.35：話題聚焦加薩健康危機，醫療系統崩潰，醫護人員生命安全受威脅，反映衝突升級的人道災"}
+{"strategy": "trend", "trend_id": "武契奇会晤泽连斯基双方同意深化经贸合作", "trend_title": "武契奇会晤泽连斯基 双方同意深化经贸合作", "market_title": "Russia-Ukraine peace talks by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
