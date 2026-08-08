@@ -5213,3 +5213,5 @@
 {"strategy": "trend", "trend_id": "武契奇会晤泽连斯基双方同意深化经贸合作", "trend_title": "武契奇会晤泽连斯基 双方同意深化经贸合作", "market_title": "Russia-Ukraine peace talks by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "消息人士以军正评估加沙撤军方案内部仍存分歧", "trend_title": "消息人士：以军正评估加沙撤军方案，内部仍存分歧", "market_title": "Israel x Hamas Ceasefire Phase II by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "乌克兰总统泽连斯基乌克兰在战争结束后将获得来自美国的非常强大的安全保障", "trend_title": "乌克兰总统泽连斯基：乌克兰在战争结束后将获得来自美国的“非常强大的”安全保障。", "market_title": "Russia-Ukraine peace talks by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "沙特方面重申对合法也门政府的坚定支持", "trend_title": "沙特方面重申对合法也门政府的坚定支持。", "market_title": "", "reason": "LLM 判定不下注：该话题是关于沙特对也门合法政府的支持，而候选市场是关于曼德海峡是否关闭。两者之间没有直接关联。沙特重申支持合法政府是常规"}
+{"strategy": "trend", "trend_id": "hormuztalkspositiveomansaysasiranwarnsdealwouldnotopenstrait", "trend_title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
