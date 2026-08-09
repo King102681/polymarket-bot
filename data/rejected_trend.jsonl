@@ -5237,3 +5237,7 @@
 {"strategy": "trend", "trend_id": "israelaccusedofweaponisingarchaeologyatancientwestbanksites", "trend_title": "Israel accused of weaponising archaeology at ancient West Bank sites", "market_title": "", "reason": "LLM 判定不下注：這條話題是關於以色列在西岸古蹟遺址的考古爭議，屬於人權/文化議題。候選市場[0]和[1]都針對以色列-哈瑪斯停火協議的具"}
 {"strategy": "trend", "trend_id": "澳洲联储下周料按兵不动关注通胀风险", "trend_title": "澳洲联储下周料按兵不动 关注通胀风险", "market_title": "", "reason": "LLM 判定不下注：話題是澳洲聯儲，但候選市場全部關於美國聯儲（Fed）。無相關性。"}
 {"strategy": "trend", "trend_id": "高市早苗再度对无核三原则含糊表态", "trend_title": "高市早苗再度对“无核三原则”含糊表态", "market_title": "", "reason": "LLM 判定不下注：高市早苗的核能政策表態與日本議會解散在2026年是否發生無直接因果關係。雖然高市早苗對核能政策的含糊表態可能影響日本政治"}
+{"strategy": "trend", "trend_id": "外媒伊朗对沙土巴三国共同防务协议表示欢迎", "trend_title": "外媒：伊朗对沙土巴三国共同防务协议表示欢迎", "market_title": "", "reason": "LLM 判定不下注：该话题是关于伊朗欢迎与沙特、阿联酋的共同防御协议，与美国和伊朗之间关于核协议、外交会议的预测市场没有直接关联。"}
+{"strategy": "trend", "trend_id": "俄罗斯方面表示昨晚对乌克兰港口的燃料储存设施进行了打击", "trend_title": "俄罗斯方面表示，昨晚对乌克兰港口的燃料储存设施进行了打击。", "market_title": "", "reason": "LLM 判定不下注：此新聞是關於俄羅斯攻擊烏克蘭港口燃料儲存設施，這屬於軍事行動，與停火或和平談判的市場預測無直接關聯。新聞內容並未提供任何"}
+{"strategy": "trend", "trend_id": "韩国立秋后高温疾病患者增三倍", "trend_title": "韩国立秋后高温疾病患者增三倍", "market_title": "", "reason": "LLM 判定不下注：該熱門話題講述韓國立秋後高溫導致疾病患者增加，這是一個短期健康和民生議題。而候選市場均與韓國央行利率決策或 2026 年"}
+{"strategy": "trend", "trend_id": "武契奇支持维护乌克兰领土完整", "trend_title": "武契奇：支持维护乌克兰领土完整", "market_title": "Russia-Ukraine peace talks by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
