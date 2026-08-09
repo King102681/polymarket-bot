@@ -5251,3 +5251,5 @@
 {"strategy": "trend", "trend_id": "日媒长崎核爆纪念现场高市致辞时响起抗议声", "trend_title": "日媒：长崎核爆纪念现场，高市致辞时响起抗议声", "market_title": "", "reason": "LLM 判定不下注：该新闻报道的是长崎核爆纪念活动中的抗议事件，与日本国会在2026年是否解散的预测市场完全无关。"}
 {"strategy": "trend", "trend_id": "伊朗称在阿巴斯港附近海域扣押12艘违规船只", "trend_title": "伊朗称在阿巴斯港附近海域扣押12艘违规船只", "market_title": "", "reason": "LLM 判定不下注：此話題是關於伊朗在阿巴斯港附近海域扣押船隻的軍事/執法行動，與美國和伊朗之間的外交會談或核協議無直接關聯，因此市場指數選"}
 {"strategy": "trend", "trend_id": "israelblockedtransferofusirondomesystemstoukraineoverfearsoftechnologyleakstoiran", "trend_title": "Israel Blocked Transfer of U.S. Iron Dome Systems to Ukraine Over Fears of Technology Leaks to Iran", "market_title": "", "reason": "LLM 判定不下注：這條熱門話題是關於以色列阻止向烏克蘭轉讓鐵穹系統，擔心技術洩漏給伊朗。這個話題與候選市場中關於以色列和哈馬斯停火的討論沒"}
+{"strategy": "trend", "trend_id": "特稿中美科技竞争外溢大学被推向国安前线", "trend_title": "特稿：中美科技竞争外溢 大学被推向国安前线", "market_title": "US Government removes public access to a major Chinese AI model in 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "伊朗央行禁止银行超额提款", "trend_title": "伊朗央行禁止银行超额提款", "market_title": "", "reason": "LLM 判定不下注：此話題關於伊朗央行禁止銀行超額提款的國內金融政策，與候選市場中關於美伊外交或核協議的國際關係議題關聯性極低，因此選擇無相"}
