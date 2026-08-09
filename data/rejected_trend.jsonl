@@ -5231,3 +5231,5 @@
 {"strategy": "trend", "trend_id": "美国前总统拜登前列腺癌恶化癌细胞已扩散", "trend_title": "美国前总统拜登前列腺癌恶化 癌细胞已扩散", "market_title": "", "reason": "LLM 判定不下注：提供的話題是關於美國前總統拜登的健康狀況，而所有候選市場都與美國總統大選的提名人或選舉結果相關，與拜登個人健康無直接關聯"}
 {"strategy": "trend", "trend_id": "israelisettlerattacksriseaswestbankresidentsloseland", "trend_title": "Israeli settler attacks rise as West Bank residents lose land", "market_title": "", "reason": "LLM 判定不下注：該話題主要講述以色列定居者對約旦河西岸居民的襲擊增加，導致土地流失。這與是否達成哈馬斯停火的市場關聯性較低，更可能影響的"}
 {"strategy": "trend", "trend_id": "伊朗提六项要求促美方纠正自身行为", "trend_title": "伊朗提六项要求 促美方纠正自身行为", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "评论中国7月份cpi和ppi环比均下降", "trend_title": "评论：中国7月份CPI和PPI环比均下降", "market_title": "Will monthly inflation stay flat (0.0%) in July?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "据塔斯社报道美国中东问题特使威特科夫和特朗普高级顾问库什纳可能在接下来七到十天内访问基辅和莫斯科", "trend_title": "据塔斯社报道，美国中东问题特使威特科夫和特朗普高级顾问库什纳可能在接下来七到十天内访问基辅和莫斯科。", "market_title": "", "reason": "LLM 判定不下注：此话题提及的“特朗普高级顾问库什纳”和“基辅”、“莫斯科”与候选项市场完全无关，尤其是市场涉及 2026 年 8 月的会"}
