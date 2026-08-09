@@ -5233,3 +5233,5 @@
 {"strategy": "trend", "trend_id": "伊朗提六项要求促美方纠正自身行为", "trend_title": "伊朗提六项要求 促美方纠正自身行为", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "评论中国7月份cpi和ppi环比均下降", "trend_title": "评论：中国7月份CPI和PPI环比均下降", "market_title": "Will monthly inflation stay flat (0.0%) in July?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "据塔斯社报道美国中东问题特使威特科夫和特朗普高级顾问库什纳可能在接下来七到十天内访问基辅和莫斯科", "trend_title": "据塔斯社报道，美国中东问题特使威特科夫和特朗普高级顾问库什纳可能在接下来七到十天内访问基辅和莫斯科。", "market_title": "", "reason": "LLM 判定不下注：此话题提及的“特朗普高级顾问库什纳”和“基辅”、“莫斯科”与候选项市场完全无关，尤其是市场涉及 2026 年 8 月的会"}
+{"strategy": "trend", "trend_id": "台当局证实台湾居民遭乌干达拒绝入境", "trend_title": "台当局证实：台湾居民遭乌干达拒绝入境", "market_title": "", "reason": "LLM 判定不下注：這條熱門話題是關於台灣居民在烏干達被拒絕入境的事件，與候選市場中關於中國是否入侵台灣、台灣總理更替、或美國總統是否訪問德"}
+{"strategy": "trend", "trend_id": "israelaccusedofweaponisingarchaeologyatancientwestbanksites", "trend_title": "Israel accused of weaponising archaeology at ancient West Bank sites", "market_title": "", "reason": "LLM 判定不下注：這條話題是關於以色列在西岸古蹟遺址的考古爭議，屬於人權/文化議題。候選市場[0]和[1]都針對以色列-哈瑪斯停火協議的具"}
