@@ -5241,3 +5241,5 @@
 {"strategy": "trend", "trend_id": "俄罗斯方面表示昨晚对乌克兰港口的燃料储存设施进行了打击", "trend_title": "俄罗斯方面表示，昨晚对乌克兰港口的燃料储存设施进行了打击。", "market_title": "", "reason": "LLM 判定不下注：此新聞是關於俄羅斯攻擊烏克蘭港口燃料儲存設施，這屬於軍事行動，與停火或和平談判的市場預測無直接關聯。新聞內容並未提供任何"}
 {"strategy": "trend", "trend_id": "韩国立秋后高温疾病患者增三倍", "trend_title": "韩国立秋后高温疾病患者增三倍", "market_title": "", "reason": "LLM 判定不下注：該熱門話題講述韓國立秋後高溫導致疾病患者增加，這是一個短期健康和民生議題。而候選市場均與韓國央行利率決策或 2026 年"}
 {"strategy": "trend", "trend_id": "武契奇支持维护乌克兰领土完整", "trend_title": "武契奇：支持维护乌克兰领土完整", "market_title": "Russia-Ukraine peace talks by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "世卫组织总干事谭德塞上周五乌克兰第聂伯罗的世卫组织人道主义仓库遭到袭击并被摧毁目前没有报告伤亡情况", "trend_title": "世卫组织总干事谭德塞：上周五，乌克兰第聂伯罗的世卫组织人道主义仓库遭到袭击并被摧毁；目前没有报告伤亡情况。", "market_title": "Russia x Ukraine ceasefire by October 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "霍尔木兹海峡阿曼称会谈进展顺利伊朗则警告协议不会打通海峡", "trend_title": "霍尔木兹海峡：阿曼称会谈进展顺利，伊朗则警告协议不会打通海峡", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
