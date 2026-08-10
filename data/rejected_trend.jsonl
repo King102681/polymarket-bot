@@ -5312,3 +5312,5 @@
 {"strategy": "trend", "trend_id": "绕不开的霍尔木兹海峡", "trend_title": "“绕不开”的霍尔木兹海峡", "market_title": "Strait of Hormuz traffic returns to normal by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美国7月就业岗位意外减少美联储下月加息预期降温", "trend_title": "美国7月就业岗位意外减少 美联储下月加息预期降温", "market_title": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "trumpnameswillscharfaswhitehousecounselaheadofmidterms", "trend_title": "Trump names Will Scharf as White House counsel ahead of midterms", "market_title": "", "reason": "LLM 判定不下注：這條新聞是關於川普任命白宮法律顧問，與川普是否會與普丁見面沒有直接關聯。因此，無法判斷市場相關性。"}
+{"strategy": "trend", "trend_id": "据塔斯社有无人机袭击俄罗斯下卡姆斯克的工业和民用设施", "trend_title": "据塔斯社：有无人机袭击俄罗斯下卡姆斯克的工业和民用设施。", "market_title": "", "reason": "LLM 判定不下注：此熱門話題描述的是俄羅斯境內發生的無人機襲擊事件，與所提供的候選市場（皆與俄烏停火或和平談判有關）沒有直接關聯。因此，無"}
+{"strategy": "trend", "trend_id": "automodeisnowthedefaultinclaudecode", "trend_title": "Auto mode is now the default in Claude Code", "market_title": "", "reason": "LLM 判定不下注：Claude Code 的 Auto Mode 預設啟用是產品功能迭代，反映 Anthropic 技術進展，但與候選市場"}
