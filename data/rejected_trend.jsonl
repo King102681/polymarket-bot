@@ -5337,3 +5337,5 @@
 {"strategy": "trend", "trend_id": "gazahonoursaljazeerasanasalsharifandmohammedqraiqea", "trend_title": "Gaza honours Al Jazeera’s Anas al-Sharif and Mohammed Qraiqea", "market_title": "", "reason": "LLM 判定不下注：這則新聞是關於加薩對記者進行榮譽表彰，與停火談判的直接關聯性不高。目前候選市場是關於停火是否延續或取消，此新聞未能提供足"}
 {"strategy": "trend", "trend_id": "内塔尼亚胡拒绝特朗普加沙计划白宫回应理解比比的政治需要", "trend_title": "内塔尼亚胡拒绝特朗普加沙计划，白宫回应：“理解比比的政治需要”", "market_title": "", "reason": "LLM 判定不下注：話題關於以色列總理内塔尼亚胡拒绝特朗普的加沙计划，以及白宫的回应。此話題與特朗普和普丁是否會見或在中國會見兩個市場均無直"}
 {"strategy": "trend", "trend_id": "台湾不是国家不存在国格", "trend_title": "台湾不是国家不存在“国格”", "market_title": "", "reason": "LLM 判定不下注：此熱門話題僅是關於台灣的政治論述，並未提供任何與市場預測相關的具體新資訊，例如戰爭、領導層變動等，因此無法判斷市場方向或"}
+{"strategy": "trend", "trend_id": "据沙特媒体哈达斯引述以色列第12频道美国继续减少在以色列本古里安机场的加油机数量", "trend_title": "据沙特媒体哈达斯引述以色列第12频道：美国继续减少在以色列本古里安机场的加油机数量。", "market_title": "Israel x Hamas Ceasefire Phase II by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "伊朗土巴沙防务协定凸显地区国家安全策略更依赖自身能力", "trend_title": "伊朗：土巴沙防务协定凸显地区国家安全策略更依赖自身能力", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
