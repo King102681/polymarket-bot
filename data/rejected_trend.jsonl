@@ -5314,3 +5314,7 @@
 {"strategy": "trend", "trend_id": "trumpnameswillscharfaswhitehousecounselaheadofmidterms", "trend_title": "Trump names Will Scharf as White House counsel ahead of midterms", "market_title": "", "reason": "LLM 判定不下注：這條新聞是關於川普任命白宮法律顧問，與川普是否會與普丁見面沒有直接關聯。因此，無法判斷市場相關性。"}
 {"strategy": "trend", "trend_id": "据塔斯社有无人机袭击俄罗斯下卡姆斯克的工业和民用设施", "trend_title": "据塔斯社：有无人机袭击俄罗斯下卡姆斯克的工业和民用设施。", "market_title": "", "reason": "LLM 判定不下注：此熱門話題描述的是俄羅斯境內發生的無人機襲擊事件，與所提供的候選市場（皆與俄烏停火或和平談判有關）沒有直接關聯。因此，無"}
 {"strategy": "trend", "trend_id": "automodeisnowthedefaultinclaudecode", "trend_title": "Auto mode is now the default in Claude Code", "market_title": "", "reason": "LLM 判定不下注：Claude Code 的 Auto Mode 預設啟用是產品功能迭代，反映 Anthropic 技術進展，但與候選市場"}
+{"strategy": "trend", "trend_id": "伊朗外交部发言人与阿曼的谈判富有建设性且积极", "trend_title": "伊朗外交部发言人：与阿曼的谈判富有建设性且积极。", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "特朗普谈对伊朗施压我们保持低调", "trend_title": "特朗普谈对伊朗施压：“我们保持低调”", "market_title": "", "reason": "LLM 判定不下注：该话题是关于特朗普对伊朗施压的言论，与特朗普是否与普京或泽连斯基会面这两个市场均无直接关联。"}
+{"strategy": "trend", "trend_id": "两岸民间交流活动轮番登场", "trend_title": "两岸民间交流活动轮番登场", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是兩岸『民間交流』活動，這與軍事侵略、政治領導人任期或國際訪問等市場主題無直接關聯，因此無法判斷任何市場方向"}
+{"strategy": "trend", "trend_id": "美战机拦截多架闯特朗普高球场禁飞区民机", "trend_title": "美战机拦截多架闯特朗普高球场禁飞区民机", "market_title": "", "reason": "LLM 判定不下注：此熱門話題關於美戰機攔截民航機事件，與候選市場中關於川普與普丁或澤倫斯基會面的議題，完全沒有關聯。因此選擇 index "}
