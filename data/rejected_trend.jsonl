@@ -5311,3 +5311,4 @@
 {"strategy": "trend", "trend_id": "韩国kospi指数日内涨幅达200", "trend_title": "韩国KOSPI指数日内涨幅达2.00%。", "market_title": "", "reason": "LLM 判定不下注：KOSPI單日漲幅2%是短期市場波動，反映的是當日資金面或技術性買盤，並不能有效預測2026年Q3韓國GDP成長區間或8"}
 {"strategy": "trend", "trend_id": "绕不开的霍尔木兹海峡", "trend_title": "“绕不开”的霍尔木兹海峡", "market_title": "Strait of Hormuz traffic returns to normal by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美国7月就业岗位意外减少美联储下月加息预期降温", "trend_title": "美国7月就业岗位意外减少 美联储下月加息预期降温", "market_title": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "trumpnameswillscharfaswhitehousecounselaheadofmidterms", "trend_title": "Trump names Will Scharf as White House counsel ahead of midterms", "market_title": "", "reason": "LLM 判定不下注：這條新聞是關於川普任命白宮法律顧問，與川普是否會與普丁見面沒有直接關聯。因此，無法判斷市場相關性。"}
