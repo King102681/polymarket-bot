@@ -5403,3 +5403,4 @@
 {"strategy": "trend", "trend_id": "ussayshelicopterfiredmissilestodisableshipbreakingiranblockade", "trend_title": "US says helicopter fired missiles to disable ship breaking Iran blockade", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "伊朗石油部长伊天然气日产能有望大幅回升", "trend_title": "伊朗石油部长：伊天然气日产能有望大幅回升", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是伊朗的天然氣產能，與所有候選市場的美國-伊朗核協議或外交會議無關。因此，沒有相關的市場。"}
 {"strategy": "trend", "trend_id": "金十数据整理俄乌冲突最新24小时局势跟踪20260812", "trend_title": "金十数据整理：俄乌冲突最新24小时局势跟踪（2026-08-12）", "market_title": "", "reason": "LLM 判定不下注：提供的資訊是關於俄烏衝突的24小時局勢更新，並未提供任何關於停火協議、停火或和平談判是否會發生的新資訊。市場目前的機率已"}
+{"strategy": "trend", "trend_id": "ai担忧惹的祸韩国股市7月外资大撤退亚洲股市连续失血九个月", "trend_title": "AI担忧惹的祸？ 韩国股市7月外资“大撤退” 亚洲股市连续“失血”九个月", "market_title": "", "reason": "LLM 判定不下注：該熱門話題討論的是南韓股市外資撤退以及AI擔憂，這與宏觀經濟指標（如通膨、GDP增長、央行利率決策）關聯性不高，因此沒有"}
