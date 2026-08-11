@@ -5363,3 +5363,4 @@
 {"strategy": "trend", "trend_id": "美伊协议希望渺茫油价大涨英伟达循环融资担忧拖累美股光通信股重挫", "trend_title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "insideasecretlaunchsiteforukrainesdeepstrikedrones", "trend_title": "Inside a secret launch site for Ukraine’s deep-strike drones", "market_title": "", "reason": "LLM 判定不下注：這篇報導講述烏克蘭正在秘密建造深層打擊無人機的發射場，這與戰爭的軍事動態有關，但與所有提供的市場（皆為停火或和平談判的到"}
 {"strategy": "trend", "trend_id": "anthropic据悉与云计算公司riot达成91亿美元合作协议", "trend_title": "Anthropic据悉与云计算公司Riot达成91亿美元合作协议", "market_title": "Will Anthropic IPO by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "伊朗若乌不赔偿伊朗就自己动手了", "trend_title": "伊朗：若乌不赔偿 伊朗就自己动手了", "market_title": "", "reason": "LLM 判定不下注：該熱門話題提及伊朗可能採取軍事行動，這與候選市場中關於美伊核協議談判或外交會議的內容關聯性極低，無法判斷任何市場方向。"}
