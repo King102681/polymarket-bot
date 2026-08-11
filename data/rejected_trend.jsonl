@@ -5367,3 +5367,4 @@
 {"strategy": "trend", "trend_id": "美联储鹰派释放强硬信号一次升息不够或需多次加息", "trend_title": "美联储鹰派释放强硬信号：一次升息不够 或需多次加息", "market_title": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "7月cpi可能反弹但美联储当前更怕错杀而非落后新版发布", "trend_title": "7月CPI可能反弹，但美联储当前更怕错杀而非落后——新版发布", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是7月CPI數據對美聯儲決策的影響，並指出美聯儲更擔心『錯殺』而非『落後』。然而，所有候選市場都與2026年"}
 {"strategy": "trend", "trend_id": "美国原油价格重回82美元上方", "trend_title": "美国原油价格重回82美元上方", "market_title": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in August?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "伊朗警告乌克兰不赔偿就动手", "trend_title": "伊朗警告乌克兰不赔偿就动手", "market_title": "", "reason": "LLM 判定不下注：該話題是關於伊朗對烏克蘭的警告，但候選市場均為美伊外交與核協議相關。話題內容與任何市場均無直接關聯，無法判斷方向和信心。"}
