@@ -5376,3 +5376,4 @@
 {"strategy": "trend", "trend_id": "乌克兰称俄军大规模袭击造成至少9人死亡", "trend_title": "乌克兰称俄军大规模袭击造成至少9人死亡", "market_title": "Russia x Ukraine ceasefire by October 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "伊朗最高领袖正式任命六人担任高级军事职务", "trend_title": "伊朗最高领袖正式任命六人担任高级军事职务", "market_title": "", "reason": "LLM 判定不下注：此話題是關於伊朗最高領導人任命軍事職位，與美伊之間的外交或核協議無直接關聯。因此，沒有相關的預測市場可以選擇。"}
 {"strategy": "trend", "trend_id": "israelisettlerviolenceisclearstateterrorism", "trend_title": "Israeli settler violence is ‘clear state terrorism’", "market_title": "", "reason": "LLM 判定不下注：該熱門話題談論的是以色列定居者暴力被定性為「國家恐怖主義」，這與停火協議的市場（是否達成或取消）沒有直接關聯。因此，選擇"}
+{"strategy": "trend", "trend_id": "哥伦比亚74级地震已致132死习近平致慰问电表示深切哀悼", "trend_title": "哥伦比亚7.4级地震已致132死 习近平致慰问电表示深切哀悼", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於哥倫比亞發生的地震以及習近平的慰問，與所有提供的市場（涉及習近平會晤、張又俠被判刑等）均無關聯。"}
