@@ -5416,3 +5416,4 @@
 {"strategy": "trend", "trend_id": "美官员美军向与伊朗有关船只开火", "trend_title": "美官员：美军向与伊朗有关船只开火", "market_title": "", "reason": "LLM 判定不下注：該新聞提到美軍向與伊朗有關的船隻開火，這是一項軍事行動，與候選市場中所有關於美伊核協議或外交會議的到期日和地點的預測無直"}
 {"strategy": "trend", "trend_id": "trumpsayssecretplaneswitchuptothesecretservice", "trend_title": "Trump says secret plane switch ‘up to the Secret Service’", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於川普飛機調度的說法，與候選市場的任何一個都沒有直接關聯。候選市場主要關注川普與普丁的會面、以及川普在"}
 {"strategy": "trend", "trend_id": "日元再度逼近160贝森特与高市早苗的政策分歧成隐患", "trend_title": "日元再度逼近160！贝森特与高市早苗的政策分歧成隐患？", "market_title": "", "reason": "LLM 判定不下注：熱門話題討論日元匯率走勢與日本政界人物（貝森特、高市早苗）的政策分歧，焦點在短期貨幣政策與政治風險。候選市場[0]問的是"}
+{"strategy": "trend", "trend_id": "巴基斯坦方面表示我们强烈谴责胡塞武装对一艘民用商船的袭击胡塞武装的袭击对红海的航行自由海上安全及航运构成严重威胁", "trend_title": "巴基斯坦方面表示，我们强烈谴责胡塞武装对一艘民用商船的袭击。胡塞武装的袭击对红海的航行自由、海上安全及航运构成严重威胁。", "market_title": "Bab el-Mandeb Strait effectively closed by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
