@@ -5409,3 +5409,8 @@
 {"strategy": "trend", "trend_id": "伊朗密集换将特朗普提索赔美伊协议希望渺茫", "trend_title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？", "market_title": "", "reason": "LLM 判定不下注：該話題主要關注美伊關係，而候選市場均為特朗普與普丁的會面，兩者關聯性極低。"}
 {"strategy": "trend", "trend_id": "美股收盘美伊僵局施压三大指数续跌存储光通信概念整体反弹", "trend_title": "美股收盘：美伊僵局施压三大指数续跌 存储&光通信概念整体反弹", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美联储官员释放信号通胀是头号大敌", "trend_title": "美联储官员释放信号：通胀是头号大敌", "market_title": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "油价上涨保险资金需求减弱韩国30年期国债收益率创纪录高位", "trend_title": "油价上涨、保险资金需求减弱 韩国30年期国债收益率创纪录高位", "market_title": "", "reason": "信心 0.30 < 0.35：油价上涨和保险资金需求减弱通常会导致通胀压力上升，这可能促使韩国央行在未来加息以"}
+{"strategy": "trend", "trend_id": "普京抵达南萨哈林斯克指挥太平洋舰队演习的最后阶段", "trend_title": "普京抵达南萨哈林斯克，指挥太平洋舰队演习的最后阶段", "market_title": "", "reason": "LLM 判定不下注：话题是关于普京视察军事演习，与俄乌停火或和平谈判的日期市场没有直接关联性。目前市场对停火或谈判达成持较低预期，但普京的活"}
+{"strategy": "trend", "trend_id": "大陆与印尼在台湾以东海域演练台陆委会批破坏区域和平稳定", "trend_title": "大陆与印尼在台湾以东海域演练 台陆委会批破坏区域和平稳定", "market_title": "Will China invade Taiwan by December 31, 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "iranholdsfirmonhormuzconditionsaspakistansnaqvivisitstehran", "trend_title": "Iran holds firm on Hormuz conditions as Pakistan’s Naqvi visits Tehran", "market_title": "", "reason": "信心 0.32 < 0.35：伊朗在何爾木茲海峽問題上態度強硬，巴基斯坦特使訪德黑蘭。此舉反映伊朗在談判中採取"}
+{"strategy": "trend", "trend_id": "美官员美军向与伊朗有关船只开火", "trend_title": "美官员：美军向与伊朗有关船只开火", "market_title": "", "reason": "LLM 判定不下注：該新聞提到美軍向與伊朗有關的船隻開火，這是一項軍事行動，與候選市場中所有關於美伊核協議或外交會議的到期日和地點的預測無直"}
