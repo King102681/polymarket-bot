@@ -5450,3 +5450,4 @@
 {"strategy": "trend", "trend_id": "白宫新闻秘书莱维特特朗普总统已要求我在外部继续担任他的高级顾问我将永远是maga和共和党的坚定代言人", "trend_title": "白宫新闻秘书莱维特：特朗普总统已要求我在外部继续担任他的高级顾问，我将永远是MAGA和共和党的坚定代言人。", "market_title": "", "reason": "LLM 判定不下注：話題內容是白宮新聞秘書萊維特宣布將繼續以特朗普高級顧問身分工作，屬於人事/組織結構公告。五個候選市場均為關於特朗普在紐約"}
 {"strategy": "trend", "trend_id": "巴西众议院批准法案建立新的支出控制机制法案文本将提交参议院", "trend_title": "巴西众议院批准法案，建立新的支出控制机制；法案文本将提交参议院。", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於巴西眾議院批准支出控制法案，並將提交參議院。所有候選市場都與美國政治（中期選舉、政府關閉、國會股票交易禁"}
 {"strategy": "trend", "trend_id": "israelvowstokeeptroopsinlebanongazaandsyria", "trend_title": "Israel vows to keep troops in Lebanon, Gaza and Syria", "market_title": "Israel x Hamas Ceasefire Phase II by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "白宫特朗普签署备忘录授权美国执法部门使用网络工具打击在外国司法管辖区活动的犯罪组织", "trend_title": "白宫：特朗普签署备忘录，授权美国执法部门使用网络工具打击在外国司法管辖区活动的犯罪组织。", "market_title": "", "reason": "LLM 判定不下注：此新聞與川普在紐約的談話內容無直接關聯，屬於不同事件。"}
