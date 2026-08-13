@@ -5483,3 +5483,4 @@
 {"strategy": "trend", "trend_id": "美国7月ppi通胀不及预期美联储9月加息预期进一步降温", "trend_title": "美国7月PPI通胀不及预期 美联储9月加息预期进一步降温", "market_title": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "现货黄金失守4350美元盎司日内跌幅133", "trend_title": "现货黄金失守4350美元/盎司，日内跌幅1.33%。", "market_title": "Will Gold (XAUUSD) hit (HIGH) $4,500 in August?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "acceleratinggpt56solultrafast", "trend_title": "Accelerating GPT-5.6 Sol Ultrafast", "market_title": "", "reason": "LLM 判定不下注：熱門話題是關於 GPT-5.6 的開發進度，與 OpenAI IPO 的估值沒有直接關聯。候選市場均為 OpenAI I"}
+{"strategy": "trend", "trend_id": "sudanarmysaysrsfadvanceonkeytownborderingethiopia", "trend_title": "Sudan army says RSF advance on key town bordering Ethiopia", "market_title": "", "reason": "LLM 判定不下注：該話題是關於蘇丹的軍事衝突，與美國總統大選的候選市場無關。"}
