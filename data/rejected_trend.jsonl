@@ -5475,3 +5475,5 @@
 {"strategy": "trend", "trend_id": "前达拉斯联邦储备主席卡普兰美联储在7月份没有加息是绝对正确的决定", "trend_title": "前达拉斯联邦储备主席卡普兰：美联储在7月份没有加息是“绝对”正确的决定。", "market_title": "", "reason": "LLM 判定不下注：该话题讨论的是美联储在7月份的加息决定，而所有候选市场都涉及2026年和2027年的利率变动。话题内容与市场选项在时间跨"}
 {"strategy": "trend", "trend_id": "如何看待普京首登俄日争议岛屿", "trend_title": "如何看待普京首登俄日争议岛屿", "market_title": "", "reason": "LLM 判定不下注：话题涉及俄日争议岛屿，与俄罗斯和乌克兰之间的停火或和平谈判市场无直接关联。"}
 {"strategy": "trend", "trend_id": "palestinianstoldtoleavehomesinvillagewhereisraelisettlersbesiegedhouses", "trend_title": "Palestinians told to leave homes in village where Israeli settlers besieged houses", "market_title": "", "reason": "LLM 判定不下注：該話題聚焦於以色列定居者與巴勒斯坦村民之間的衝突，與目前提出的兩個關於以哈停火協議的市場沒有直接關聯。"}
+{"strategy": "trend", "trend_id": "gemini37flash", "trend_title": "Gemini 3.7 Flash", "market_title": "", "reason": "LLM 判定不下注：話題是關於 Gemini 3.7 Flash，但候選市場詢問的是 Gemini Pro 的發布時間，兩者不符。"}
+{"strategy": "trend", "trend_id": "据也门胡塞武装控制的萨巴通讯社沙特炮击了也门北部萨达省的村庄", "trend_title": "据也门胡塞武装控制的萨巴通讯社：沙特炮击了也门北部萨达省的村庄。", "market_title": "Will there be Houthi military action against Saudi Arabia by August 15, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
