@@ -5485,3 +5485,4 @@
 {"strategy": "trend", "trend_id": "acceleratinggpt56solultrafast", "trend_title": "Accelerating GPT-5.6 Sol Ultrafast", "market_title": "", "reason": "LLM 判定不下注：熱門話題是關於 GPT-5.6 的開發進度，與 OpenAI IPO 的估值沒有直接關聯。候選市場均為 OpenAI I"}
 {"strategy": "trend", "trend_id": "sudanarmysaysrsfadvanceonkeytownborderingethiopia", "trend_title": "Sudan army says RSF advance on key town bordering Ethiopia", "market_title": "", "reason": "LLM 判定不下注：該話題是關於蘇丹的軍事衝突，與美國總統大選的候選市場無關。"}
 {"strategy": "trend", "trend_id": "阿联酋外交部阿联酋谴责伊朗在霍尔木兹海峡对阿布扎比国家石油公司船只的攻击", "trend_title": "阿联酋外交部：阿联酋谴责伊朗在霍尔木兹海峡对阿布扎比国家石油公司船只的攻击。", "market_title": "", "reason": "LLM 判定不下注：此話題是關於阿聯酋對伊朗攻擊其船隻的譴責，這是一個地緣政治衝突事件。候選市場全部是關於美國與伊朗的核協議或外交會議，與此"}
+{"strategy": "trend", "trend_id": "普京为何此时集中警告北约亚太化", "trend_title": "普京为何此时集中警告北约亚太化", "market_title": "", "reason": "LLM 判定不下注：該話題探討普京對北約亚太化的警告，屬於地緣政治層面的宣示性言論，並未提供關於俄烏戰爭停火或和談的具體新資訊。候選市場均為"}
