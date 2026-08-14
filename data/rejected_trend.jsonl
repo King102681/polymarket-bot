@@ -5501,3 +5501,5 @@
 {"strategy": "trend", "trend_id": "特朗普专机上全是一箱又一箱麦当劳", "trend_title": "特朗普专机上全是一箱又一箱麦当劳", "market_title": "", "reason": "LLM 判定不下注：热门话题讨论特朗普专机上有大量麦当劳，这是关于其饮食习惯和生活方式的八卦内容。三个候选市场都是关于特朗普在特定日期是否会"}
 {"strategy": "trend", "trend_id": "知情人士放风日本央行最快9月加息并考虑加快紧缩节奏", "trend_title": "知情人士放风：日本央行最快9月加息，并考虑加快紧缩节奏", "market_title": "Bank of Japan increases interest rates by 25 bps after the October 2026 meeting?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "据国际文传电讯社俄罗斯外长拉夫罗夫表示俄罗斯将加大力度摧毁西方一切助长基辅战争机器的势力", "trend_title": "据国际文传电讯社：俄罗斯外长拉夫罗夫表示，俄罗斯将加大力度，摧毁西方一切助长基辅战争机器的势力。", "market_title": "", "reason": "LLM 判定不下注：拉夫罗夫的声明强硬，但其内容是关于摧毁支持乌克兰的势力，而非直接预示停火协议的达成。目前的市场都在猜测停火协议，这与声明"}
+{"strategy": "trend", "trend_id": "日元汇率压力牵动美联储通胀降温难消长债压力每日市场观察0814", "trend_title": "日元汇率压力牵动美联储，通胀降温难消长债压力 | 每日市场观察08.14", "market_title": "", "reason": "LLM 判定不下注：该话题主要讨论日元汇率压力对美联储和长债压力的影响，以及通胀降温的背景。然而，所有候选市场都集中在2026年9月、10月"}
+{"strategy": "trend", "trend_id": "whatisaceasefiresupposedtoachieve", "trend_title": "What is a ‘ceasefire’ supposed to achieve?", "market_title": "", "reason": "LLM 判定不下注：話題是關於「停火」的定義，而非美國與伊朗之間的具體外交或核協議。因此，與所有候選市場的關聯性皆不強。"}
