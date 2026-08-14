@@ -5516,3 +5516,5 @@
 {"strategy": "trend", "trend_id": "泽连斯基俄罗斯使用朝鲜导弹攻击乌克兰", "trend_title": "泽连斯基：俄罗斯使用朝鲜导弹攻击乌克兰", "market_title": "", "reason": "LLM 判定不下注：该话题涉及俄罗斯使用朝鲜导弹攻击乌克兰，这更多地是关于冲突的升级和手段，而不是关于停火或和平谈判的直接进展。因此，它与所"}
 {"strategy": "trend", "trend_id": "kushnertovisitisraelafternetanyahurejectsgazaboardofpeaceplan", "trend_title": "Kushner to visit Israel after Netanyahu rejects Gaza Board of Peace plan", "market_title": "Israel x Hamas Ceasefire Phase II by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "韩国海关数据显示7月份进口原油1220万桶去年同期为1130万桶", "trend_title": "韩国海关数据显示，7月份进口原油1220万桶，去年同期为1130万桶。", "market_title": "", "reason": "LLM 判定不下注：這則新聞是關於韓國七月份的進口原油數據，與所有提供的市場預測（關於政治、GDP、央行利率決策、通膨）沒有直接關聯性。進口"}
+{"strategy": "trend", "trend_id": "美国至8月14日当周石油钻井总数455口前值454口", "trend_title": "美国至8月14日当周石油钻井总数 455口，前值454口。", "market_title": "", "reason": "LLM 判定不下注：该话题是关于石油钻井数量的，而不是石油价格的直接预测，且钻井数量变化非常微小（仅增加1口），不足以对石油价格产生显著的短"}
+{"strategy": "trend", "trend_id": "高市就朱镕基逝世致哀分析借葬礼外交管控日中关系跌势", "trend_title": "高市就朱镕基逝世致哀 分析：借葬礼外交管控日中关系跌势", "market_title": "", "reason": "LLM 判定不下注：该话题是关于政治人物的逝世及其可能带来的外交影响，与冲绳县知事选举的候选人完全无关。"}
