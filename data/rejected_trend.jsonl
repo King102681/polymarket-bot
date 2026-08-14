@@ -5494,3 +5494,8 @@
 {"strategy": "trend", "trend_id": "厄瓜多尔总统诺沃亚周日首次访华将与习近平会谈", "trend_title": "厄瓜多尔总统诺沃亚周日首次访华 将与习近平会谈", "market_title": "", "reason": "LLM 判定不下注：話題關於厄瓜多爾總統訪華與習近平會談，與候選市場中關於李在明、張又俠或高市早苗的會面或判刑無關。"}
 {"strategy": "trend", "trend_id": "普京在俄日争议岛大口品尝鱼子酱", "trend_title": "普京在俄日争议岛大口品尝鱼子酱", "market_title": "", "reason": "LLM 判定不下注：話題涉及俄日爭議島嶼與魚子醬品嚐，主要涉及俄日領土紛爭，與俄烏停火/和平談判無直接關聯。該話題未提供任何新資訊能夠改變俄"}
 {"strategy": "trend", "trend_id": "青瓦台回应李在明支持率下降将检查不足", "trend_title": "青瓦台回应李在明支持率下降：将检查不足", "market_title": "Lee Jae-myung out as president of South Korea in 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "据俄新社俄罗斯无人机在赫尔松地区摧毁乌军一无人机组装车间", "trend_title": "据俄新社：俄罗斯无人机在赫尔松地区摧毁乌军一无人机组装车间。", "market_title": "", "reason": "LLM 判定不下注：此話題是關於俄羅斯摧毀烏克蘭的無人機組裝車間，這屬於軍事行動的細節，與「停火協議」或「和平談判」這類宏觀的市場預測沒有直"}
+{"strategy": "trend", "trend_id": "知情者肯尼迪董事会决定将特朗普姓名刻在中心外墙", "trend_title": "知情者：肯尼迪董事会决定将特朗普姓名刻在中心外墙", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於肯尼迪董事會的決定，與候選市場中關於唐納·特朗普是否會在特定日期公開侮辱某人的預測無關。"}
+{"strategy": "trend", "trend_id": "特朗普命令美新建航母改回老式蒸汽弹射器", "trend_title": "特朗普命令美新建航母改回老式蒸汽弹射器", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題關於特朗普命令美新建航母改回老式蒸汽彈射器，與候選市場中關於特朗普在特定日期是否會公開侮辱某人完全無關。"}
+{"strategy": "trend", "trend_id": "朝鲜批美国新核战略具攻击性誓强化核遏制力", "trend_title": "朝鲜批美国新核战略具攻击性 誓强化核遏制力", "market_title": "Will there be 3 or more North Korea tests in August 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "特朗普专机上全是一箱又一箱麦当劳", "trend_title": "特朗普专机上全是一箱又一箱麦当劳", "market_title": "", "reason": "LLM 判定不下注：热门话题讨论特朗普专机上有大量麦当劳，这是关于其饮食习惯和生活方式的八卦内容。三个候选市场都是关于特朗普在特定日期是否会"}
