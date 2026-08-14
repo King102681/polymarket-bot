@@ -5527,3 +5527,4 @@
 {"strategy": "trend", "trend_id": "anthropic二季度营收超115亿美元较去年同期增长至少14倍", "trend_title": "Anthropic二季度营收超115亿美元 较去年同期增长至少14倍", "market_title": "Will Anthropic IPO by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "putinorderedkremlintodestroynatoandeufromwithinnyt", "trend_title": "Putin Ordered Kremlin to ‘Destroy NATO and EU From Within’ – NYT", "market_title": "", "reason": "LLM 判定不下注：這條話題主要在討論普丁的內部策略，與俄烏戰爭的停火或和談預期關聯性不高，市場定價尚未反映此消息。"}
 {"strategy": "trend", "trend_id": "lebanonspmurgestimetableforisraeliwithdrawalashezbollahslamsdeal", "trend_title": "Lebanon’s PM urges timetable for Israeli withdrawal as Hezbollah slams deal", "market_title": "", "reason": "LLM 判定不下注：此話題關注黎巴嫩總理呼籲以色列撤軍，以及真主黨批評協議，這與當前市場關注的以色列與哈馬斯停火協議（Phase II）或取"}
+{"strategy": "trend", "trend_id": "中方回应普京首登俄日争议岛屿", "trend_title": "中方回应普京首登俄日争议岛屿", "market_title": "", "reason": "LLM 判定不下注：話題涉及俄日爭議島嶼領土問題，中方表態屬地緣政治態度陳述，與烏克蘭停火/和談市場無直接因果關聯。該話題未提供新資訊改變烏"}
