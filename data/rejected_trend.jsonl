@@ -5493,3 +5493,4 @@
 {"strategy": "trend", "trend_id": "norwaysfmtellsaljazeeratheuswaroniranwasnotsmart", "trend_title": "Norway’s FM tells Al Jazeera the US war on Iran was not ‘smart’", "market_title": "", "reason": "LLM 判定不下注：這則新聞是關於挪威外長對美國在伊朗問題上的立場表達質疑，但並未提供任何關於美伊核協議或外交會議進展的新資訊，因此無法判斷"}
 {"strategy": "trend", "trend_id": "厄瓜多尔总统诺沃亚周日首次访华将与习近平会谈", "trend_title": "厄瓜多尔总统诺沃亚周日首次访华 将与习近平会谈", "market_title": "", "reason": "LLM 判定不下注：話題關於厄瓜多爾總統訪華與習近平會談，與候選市場中關於李在明、張又俠或高市早苗的會面或判刑無關。"}
 {"strategy": "trend", "trend_id": "普京在俄日争议岛大口品尝鱼子酱", "trend_title": "普京在俄日争议岛大口品尝鱼子酱", "market_title": "", "reason": "LLM 判定不下注：話題涉及俄日爭議島嶼與魚子醬品嚐，主要涉及俄日領土紛爭，與俄烏停火/和平談判無直接關聯。該話題未提供任何新資訊能夠改變俄"}
+{"strategy": "trend", "trend_id": "青瓦台回应李在明支持率下降将检查不足", "trend_title": "青瓦台回应李在明支持率下降：将检查不足", "market_title": "Lee Jae-myung out as president of South Korea in 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
