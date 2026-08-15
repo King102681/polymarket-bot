@@ -5587,3 +5587,4 @@
 {"strategy": "trend", "trend_id": "高市终战日谈话未提反思二战阁僚参拜遭中韩抗议", "trend_title": "高市终战日谈话未提反思二战 阁僚参拜遭中韩抗议", "market_title": "", "reason": "LLM 判定不下注：該話題涉及日本高市早苗終戰談話及閣僚參拜爭議，主要反映日本對歷史認知的政治立場。兩個候選市場均針對2026年沖繩縣知事選"}
 {"strategy": "trend", "trend_id": "黎巴嫩谴责以色列袭击黎南违反框架协议", "trend_title": "黎巴嫩谴责以色列袭击黎南违反框架协议", "market_title": "Israel x Hamas Ceasefire Phase II by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "ukrainehitsrussianstarlinkstylenetworkmoscowtracksarmspackage", "trend_title": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package", "market_title": "", "reason": "LLM 判定不下注：該話題主要描述俄烏戰爭中的軍事行動，並未提供關於停火或和平談判的直接進展或重大訊息，因此與所有候選市場的關聯性不高。"}
+{"strategy": "trend", "trend_id": "也门摩卡港口在遭遇胡塞武装袭击后暂停运营", "trend_title": "也门摩卡港口在遭遇胡塞武装袭击后暂停运营", "market_title": "Bab el-Mandeb Strait effectively closed by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
