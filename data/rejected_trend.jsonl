@@ -5581,3 +5581,5 @@
 {"strategy": "trend", "trend_id": "ukrainestrikesrussiasonlysoyuzrocketplantwithflamingomissiles", "trend_title": "Ukraine strikes Russia's only Soyuz rocket plant with Flamingo missiles", "market_title": "", "reason": "LLM 判定不下注：該新聞涉及俄羅斯境內軍事目標，屬於衝突升級的潛在跡象，對停火或和平談判的影響是負面的，但所有提供的市場都圍繞著「停火」或"}
 {"strategy": "trend", "trend_id": "straitofhormuzlivetraffictracking", "trend_title": "Strait of Hormuz Live Traffic Tracking", "market_title": "Strait of Hormuz traffic returns to normal by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "英媒乌克兰爱国者拦截弹耗尽防空体系暴露严重缺口", "trend_title": "英媒：乌克兰“爱国者”拦截弹耗尽，防空体系暴露严重缺口", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "伊朗总统召开三权领导人会议", "trend_title": "伊朗总统召开三权领导人会议", "market_title": "", "reason": "LLM 判定不下注：此話題僅提到伊朗總統召開三權領導人會議，這是一項內部事務，並未直接提及與美國的核協議或外交會議的相關資訊。因此，無法判斷"}
+{"strategy": "trend", "trend_id": "以色列总理办公室黎巴嫩真主党在黎巴嫩的安全区发动攻击导致三名士兵受伤", "trend_title": "以色列总理办公室：黎巴嫩真主党在黎巴嫩的“安全区”发动攻击，导致三名士兵受伤。", "market_title": "", "reason": "LLM 判定不下注：這條話題涉及以色列與黎巴嫩真主黨的衝突，但兩個候選市場都聚焦於以色列與哈馬斯的停火協議。話題內容（黎巴嫩真主黨攻擊）與候"}
