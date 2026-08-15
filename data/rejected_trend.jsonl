@@ -5575,3 +5575,6 @@
 {"strategy": "trend", "trend_id": "习近平将出席纪念江泽民诞辰100周年大会并讲话", "trend_title": "习近平将出席纪念江泽民诞辰100周年大会并讲话", "market_title": "", "reason": "LLM 判定不下注：話題是習近平將出席紀念江澤民誕辰100周年大會並講話，這是一個國內政治紀念活動，主要涉及對江澤民的追悼與習近平的政治立場"}
 {"strategy": "trend", "trend_id": "纪念江泽民同志诞辰100周年大会17日上午在京隆重举行习近平将出席大会并发表重要讲话", "trend_title": "纪念江泽民同志诞辰100周年大会17日上午在京隆重举行 习近平将出席大会并发表重要讲话", "market_title": "", "reason": "LLM 判定不下注：热门话题是纪念江泽民诞辰100周年大会，习近平将出席并发表讲话。这是国内政治仪式性活动，与三个候选市场都没有直接对应关系"}
 {"strategy": "trend", "trend_id": "韩国谴责日右翼政客参拜靖国神社", "trend_title": "韩国谴责日右翼政客参拜靖国神社", "market_title": "", "reason": "LLM 判定不下注：韓國譴責日本右翼政客參拜靖國神社是地緣政治新聞，反映兩國歷史爭議與外交緊張。候選市場涉及韓國GDP成長、通膨率與央行利率"}
+{"strategy": "trend", "trend_id": "伊朗与阿曼已就通过霍尔木兹海峡的航运路线达成一致", "trend_title": "伊朗与阿曼已就通过霍尔木兹海峡的航运路线达成一致", "market_title": "", "reason": "LLM 判定不下注：伊朗与阿曼就霍尔木兹海峡航运路线达成一致，是区域性双边航运协议，反映伊朗与邻国的务实合作。但所有候选市场都聚焦于美国与伊"}
+{"strategy": "trend", "trend_id": "李在明对朝政策迈向和平体制首提遏制朝鲜核能力升级", "trend_title": "李在明对朝政策迈向“和平体制” 首提遏制朝鲜核能力升级", "market_title": "Will North and South Korea engage in direct talks by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "俄罗斯外交部美国与土耳其向基辅提供武器的潜在计划将削弱莫斯科与华盛顿安卡拉的关系", "trend_title": "俄罗斯外交部：美国与土耳其向基辅提供武器的潜在计划将削弱莫斯科与华盛顿、安卡拉的关系。", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
