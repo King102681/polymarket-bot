@@ -5586,3 +5586,4 @@
 {"strategy": "trend", "trend_id": "以色列国防军以色列国防军消灭了真主党拉德万部队的一名指挥官", "trend_title": "以色列国防军：以色列国防军消灭了真主党拉德万部队的一名指挥官。", "market_title": "", "reason": "LLM 判定不下注：话题是关于以色列国防军消灭真主党的一名指挥官，与以色列和哈马斯停火协议的两个候选项市场（[0]停火取消，[1]第二阶段停"}
 {"strategy": "trend", "trend_id": "高市终战日谈话未提反思二战阁僚参拜遭中韩抗议", "trend_title": "高市终战日谈话未提反思二战 阁僚参拜遭中韩抗议", "market_title": "", "reason": "LLM 判定不下注：該話題涉及日本高市早苗終戰談話及閣僚參拜爭議，主要反映日本對歷史認知的政治立場。兩個候選市場均針對2026年沖繩縣知事選"}
 {"strategy": "trend", "trend_id": "黎巴嫩谴责以色列袭击黎南违反框架协议", "trend_title": "黎巴嫩谴责以色列袭击黎南违反框架协议", "market_title": "Israel x Hamas Ceasefire Phase II by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "ukrainehitsrussianstarlinkstylenetworkmoscowtracksarmspackage", "trend_title": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package", "market_title": "", "reason": "LLM 判定不下注：該話題主要描述俄烏戰爭中的軍事行動，並未提供關於停火或和平談判的直接進展或重大訊息，因此與所有候選市場的關聯性不高。"}
