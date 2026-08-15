@@ -5588,3 +5588,4 @@
 {"strategy": "trend", "trend_id": "黎巴嫩谴责以色列袭击黎南违反框架协议", "trend_title": "黎巴嫩谴责以色列袭击黎南违反框架协议", "market_title": "Israel x Hamas Ceasefire Phase II by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "ukrainehitsrussianstarlinkstylenetworkmoscowtracksarmspackage", "trend_title": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package", "market_title": "", "reason": "LLM 判定不下注：該話題主要描述俄烏戰爭中的軍事行動，並未提供關於停火或和平談判的直接進展或重大訊息，因此與所有候選市場的關聯性不高。"}
 {"strategy": "trend", "trend_id": "也门摩卡港口在遭遇胡塞武装袭击后暂停运营", "trend_title": "也门摩卡港口在遭遇胡塞武装袭击后暂停运营", "market_title": "Bab el-Mandeb Strait effectively closed by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "以色列国防军这些事件构成对停火协议的违反以军对此予以最严厉的谴责", "trend_title": "以色列国防军：这些事件构成对停火协议的违反，以军对此予以最严厉的谴责。", "market_title": "Israel x Hamas Ceasefire Phase II by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
