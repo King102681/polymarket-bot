@@ -5534,3 +5534,4 @@
 {"strategy": "trend", "trend_id": "伊朗跟美国以色列打仗还能撑多久", "trend_title": "伊朗跟美国、以色列打仗 还能撑多久？", "market_title": "", "reason": "LLM 判定不下注：話題涉及伊朗-美國-以色列三方衝突可能性，但兩個候選市場都專注於以色列-哈馬斯停火談判，並非話題核心。話題討論的是伊朗參"}
 {"strategy": "trend", "trend_id": "普京致电金正恩俄朝积极合作保障地区安全稳定", "trend_title": "普京致电金正恩：俄朝积极合作保障地区安全稳定", "market_title": "", "reason": "LLM 判定不下注：此話題主要關於俄朝合作，與俄烏戰爭的停火或和平談判關聯性不高，因此選擇無相關市場。"}
 {"strategy": "trend", "trend_id": "uspresidenttrumpsayshewilldeclarestraitofhormuzusterritory", "trend_title": "US President Trump says he will declare Strait of Hormuz US territory", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及川普對荷莫茲海峽領土主權的政治宣言，這是重大地緣政治事件。但所有候選市場都只關於川普在特定時間段的Truth"}
+{"strategy": "trend", "trend_id": "hrwsaysuscivilrightsenforcementreducedundertrumpwhattoknow", "trend_title": "HRW says US civil rights enforcement reduced under Trump: What to know", "market_title": "", "reason": "LLM 判定不下注：話題涉及川普政府民權執法政策縮減的報導，性質為政策評論/事後分析。候選市場全數為技術性交易預測（Truth Social"}
