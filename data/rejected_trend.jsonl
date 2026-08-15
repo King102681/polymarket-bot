@@ -5583,3 +5583,6 @@
 {"strategy": "trend", "trend_id": "英媒乌克兰爱国者拦截弹耗尽防空体系暴露严重缺口", "trend_title": "英媒：乌克兰“爱国者”拦截弹耗尽，防空体系暴露严重缺口", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "伊朗总统召开三权领导人会议", "trend_title": "伊朗总统召开三权领导人会议", "market_title": "", "reason": "LLM 判定不下注：此話題僅提到伊朗總統召開三權領導人會議，這是一項內部事務，並未直接提及與美國的核協議或外交會議的相關資訊。因此，無法判斷"}
 {"strategy": "trend", "trend_id": "以色列总理办公室黎巴嫩真主党在黎巴嫩的安全区发动攻击导致三名士兵受伤", "trend_title": "以色列总理办公室：黎巴嫩真主党在黎巴嫩的“安全区”发动攻击，导致三名士兵受伤。", "market_title": "", "reason": "LLM 判定不下注：這條話題涉及以色列與黎巴嫩真主黨的衝突，但兩個候選市場都聚焦於以色列與哈馬斯的停火協議。話題內容（黎巴嫩真主黨攻擊）與候"}
+{"strategy": "trend", "trend_id": "以色列国防军以色列国防军消灭了真主党拉德万部队的一名指挥官", "trend_title": "以色列国防军：以色列国防军消灭了真主党拉德万部队的一名指挥官。", "market_title": "", "reason": "LLM 判定不下注：话题是关于以色列国防军消灭真主党的一名指挥官，与以色列和哈马斯停火协议的两个候选项市场（[0]停火取消，[1]第二阶段停"}
+{"strategy": "trend", "trend_id": "高市终战日谈话未提反思二战阁僚参拜遭中韩抗议", "trend_title": "高市终战日谈话未提反思二战 阁僚参拜遭中韩抗议", "market_title": "", "reason": "LLM 判定不下注：該話題涉及日本高市早苗終戰談話及閣僚參拜爭議，主要反映日本對歷史認知的政治立場。兩個候選市場均針對2026年沖繩縣知事選"}
+{"strategy": "trend", "trend_id": "黎巴嫩谴责以色列袭击黎南违反框架协议", "trend_title": "黎巴嫩谴责以色列袭击黎南违反框架协议", "market_title": "Israel x Hamas Ceasefire Phase II by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
