@@ -5541,3 +5541,4 @@
 {"strategy": "trend", "trend_id": "伊外长伊朗目前没有决定是否与美国重新开始谈判", "trend_title": "伊外长：伊朗目前没有决定是否与美国重新开始谈判", "market_title": "", "reason": "信心 0.30 < 0.35：伊外长表示伊朗尚未决定是否与美国重启谈判，这暗示了谈判进程的不确定性增加。当前市"}
 {"strategy": "trend", "trend_id": "iransaysnodecisionyetonareturntotalkswiththeus", "trend_title": "Iran says no decision yet on a return to talks with the US", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "菲称台海有事不允许美从菲领土攻击", "trend_title": "菲称台海有事不允许美从菲领土攻击", "market_title": "", "reason": "信心 0.28 < 0.35：菲律賓聲明『台海有事不允許美從菲領土攻擊』，暗示對台灣衝突的預期升高，並限制美國"}
+{"strategy": "trend", "trend_id": "韩国政府解雇负责美韩贸易谈判的首席贸易代表", "trend_title": "韩国政府解雇负责美韩贸易谈判的首席贸易代表", "market_title": "Will South Korea GDP growth in Q3 2026 be between 2.0% and 2.4%?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
