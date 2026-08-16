@@ -5686,3 +5686,4 @@
 {"strategy": "trend", "trend_id": "美国总统特朗普表示他度过了一个很棒的周末进行了许多会议", "trend_title": "美国总统特朗普表示，他度过了一个“很棒”的周末，进行了“许多会议”。", "market_title": "", "reason": "LLM 判定不下注：話題内容是特朗普言及周末進行了多次會議，屬於日常政治活動陳述，不包含關於與普京見面的任何具體信息。候選市場[0]和[1]"}
 {"strategy": "trend", "trend_id": "特朗普已要求大幅削减与韩国的联合军演规模", "trend_title": "特朗普：已要求大幅削减与韩国的联合军演规模", "market_title": "", "reason": "LLM 判定不下注：熱門話題關於特朗普要求削減與韓國的聯合軍演規模，涉及美韓軍事合作政策。候選市場[0]和[1]均聚焦於特朗普與普京是否會面"}
 {"strategy": "trend", "trend_id": "美国总统特朗普我对美国很久以前就同意与韩国进行联合军事演习这一事实感到不满我已指示战争部长赫格塞思大幅减少联合军事演习", "trend_title": "美国总统特朗普：我对美国很久以前就同意与韩国进行联合军事演习这一事实感到不满。我已指示战争部长赫格塞思大幅减少联合军事演习。", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及美國與韓國的聯合軍事演習縮減，屬於美韓軍事關係議題。候選市場[0]和[1]都聚焦於特朗普與普京是否會面及會面"}
+{"strategy": "trend", "trend_id": "trumpsaysuswillscalebackmilitarydrillswithsouthkorea", "trend_title": "Trump says US will scale back military drills with South Korea", "market_title": "", "reason": "LLM 判定不下注：該話題是關於川普與南韓的軍事演習，而候選市場都是關於川普與普丁的會面，兩者毫無關聯。"}
