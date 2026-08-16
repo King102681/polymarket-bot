@@ -5636,3 +5636,4 @@
 {"strategy": "trend", "trend_id": "伊朗革命卫队科威特在关于四名被拘留的伊朗人命运方面向德黑兰隐瞒了信息", "trend_title": "伊朗革命卫队：科威特在关于四名被拘留的伊朗人命运方面向德黑兰隐瞒了信息。", "market_title": "", "reason": "LLM 判定不下注：此新聞與伊朗和科威特之間關於被拘留者的爭端有關，這與候選市場中關於美國-伊朗核協議或外交會議的內容沒有直接關聯。因此，沒"}
 {"strategy": "trend", "trend_id": "俄罗斯国防部部队已占领乌克兰顿涅茨克地区的佩尔肖马里夫卡村和哈尔科夫地区的库迪伊夫卡", "trend_title": "俄罗斯国防部：部队已占领乌克兰顿涅茨克地区的佩尔肖马里夫卡村和哈尔科夫地区的库迪伊夫卡。", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "德媒美方要对北约盟国忠诚度进行问卷调查", "trend_title": "德媒：美方要对北约盟国忠诚度进行问卷调查", "market_title": "Ukraine agrees not to join NATO before 2027? ", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "trumppostsphotowithnkleaderkimsaystheygetalonggreat", "trend_title": "Trump posts photo with NK leader Kim, says they 'get along great'", "market_title": "", "reason": "LLM 判定不下注：此話題是關於川普與金正恩的互動，與候選市場中川普與普丁或沙烏地阿拉伯王儲的會面無關。"}
