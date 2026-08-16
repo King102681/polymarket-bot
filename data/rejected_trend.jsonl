@@ -5646,3 +5646,4 @@
 {"strategy": "trend", "trend_id": "海峡控制权各说各话特朗普放话拿下霍尔木兹伊朗称已与阿曼就通行方案达成协议", "trend_title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议", "market_title": "", "reason": "LLM 判定不下注：話題涉及霍爾木茲海峽地緣政治緊張局勢（美伊競爭、伊朗與阿曼協議），但兩個候選市場都聚焦於「特朗普與普京是否會面、在何地會"}
 {"strategy": "trend", "trend_id": "以媒美方施压之下以色列对真主党和哈马斯的回应空间有限", "trend_title": "以媒：美方施压之下，以色列对真主党和哈马斯的回应空间有限", "market_title": "Israel x Hamas ceasefire cancelled by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "俄罗斯就美土供乌武器计划提出质询", "trend_title": "俄罗斯就美土供乌武器计划提出质询", "market_title": "Russia-Ukraine peace talks by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "limitedoptionsformanyiraniansaswarwithuschokeseconomy", "trend_title": "‘Limited options’ for many Iranians as war with US chokes economy", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
