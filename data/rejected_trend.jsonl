@@ -5659,3 +5659,4 @@
 {"strategy": "trend", "trend_id": "伊朗战争正在掏空美国弹药库", "trend_title": "伊朗战争，正在掏空美国弹药库", "market_title": "", "reason": "LLM 判定不下注：該熱門話題討論的是美國因伊朗衝突而消耗彈藥庫，這與候選市場中關於美國與伊朗核協議或外交會議的議題關聯性不高，無法判斷對哪"}
 {"strategy": "trend", "trend_id": "伊朗称美军已被驱逐不得进入海峡", "trend_title": "伊朗称美军已被驱逐不得进入海峡", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "特朗普女婿库什纳埃及是美国在中东的重要合作伙伴", "trend_title": "特朗普女婿库什纳：埃及是美国在中东的重要合作伙伴。", "market_title": "", "reason": "LLM 判定不下注：熱門話題討論庫什納關於埃及作為美國中東合作夥伴的評論，與兩個候選市場均無相關性。候選市場皆涉及特朗普與普京的會面預期，而"}
+{"strategy": "trend", "trend_id": "ukrainefindsnvidiaaichipinnewrussianmissilehursays", "trend_title": "Ukraine Finds Nvidia AI Chip in New Russian Missile, HUR Says", "market_title": "", "reason": "LLM 判定不下注：該新聞指出俄羅斯在導彈中使用 Nvidia AI 晶片，這與是否達成停火協議或和平談判沒有直接關聯。因此，沒有合適的市場"}
