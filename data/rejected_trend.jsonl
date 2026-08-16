@@ -5621,3 +5621,5 @@
 {"strategy": "trend", "trend_id": "russianstrikeskillukrainianwomanasnatojetdownsdroneoverromania", "trend_title": "Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania", "market_title": "Russia-Ukraine peace talks by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "据耶路撒冷邮报以色列国防军在周末对黎巴嫩南部德尔扎赫拉尼地区的袭击中击毙了高级真主党指挥官阿布哈桑阿拉", "trend_title": "据耶路撒冷邮报：以色列国防军在周末对黎巴嫩南部德尔扎赫拉尼地区的袭击中击毙了高级真主党指挥官阿布·哈桑·阿拉。", "market_title": "", "reason": "LLM 判定不下注：該話題涉及以色列與真主黨（黎巴嫩）的軍事衝突，但候選市場均針對以色列與哈馬斯（加薩）的停火談判。兩條不同的衝突線，市場不"}
 {"strategy": "trend", "trend_id": "howasimplelighterhasbecomethebackboneoflifeingaza", "trend_title": "How a simple lighter has become the backbone of life in Gaza", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是加薩地區打火機的普及，與停火協議的市場無直接關聯。"}
+{"strategy": "trend", "trend_id": "伊朗外交部强烈谴责以色列对黎袭击", "trend_title": "伊朗外交部强烈谴责以色列对黎袭击", "market_title": "", "reason": "LLM 判定不下注：此新聞關於伊朗譴責以色列對黎巴嫩的襲擊，與以哈停火的市場主題關聯性較低，不適合入場。"}
+{"strategy": "trend", "trend_id": "特朗普上传与金正恩合影或释放重启朝美会谈信号", "trend_title": "特朗普上传与金正恩合影 或释放重启朝美会谈信号", "market_title": "", "reason": "LLM 判定不下注：话题涉及特朗普与金正恩，而候选市场全部与特朗普与普京相关，关联性不强。"}
