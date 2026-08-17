@@ -5714,3 +5714,6 @@
 {"strategy": "trend", "trend_id": "strategicoilstockpileshavehita40yearlowamidtheiranwar", "trend_title": "Strategic oil stockpiles have hit a 40-year low amid the Iran war", "market_title": "", "reason": "LLM 判定不下注：熱門話題是關於美國戰略石油儲備降至 40 年新低，且提到伊朗戰爭，但所有候選市場都與『美伊核協議』或『美伊外交會議』的具"}
 {"strategy": "trend", "trend_id": "也门政府军胡塞武装再次用两枚弹道导弹袭击摩卡港", "trend_title": "也门政府军：胡塞武装再次用两枚弹道导弹袭击摩卡港。", "market_title": "Bab el-Mandeb Strait effectively closed by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "以色列国家安全部部长加沙人甚至算不上人", "trend_title": "以色列国家安全部部长：“加沙人甚至算不上人”", "market_title": "", "reason": "LLM 判定不下注：這條新聞評論的是加沙人的處境，與停火協議的達成與否無直接關聯，因此選擇無相關市場。"}
+{"strategy": "trend", "trend_id": "美国8月纽约联储制造业物价获得指数227前值276", "trend_title": "美国8月纽约联储制造业物价获得指数 22.7，前值27.6。", "market_title": "", "reason": "LLM 判定不下注：该经济数据（纽约联储制造业物价指数）与美联储是否会在 2026 年 9 月、10 月或 12 月的会议上加息或不加息的预"}
+{"strategy": "trend", "trend_id": "美债逼近40万亿美银hartnett做多黄金是当下最优解", "trend_title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解", "market_title": "Will Gold (XAUUSD) hit (HIGH) $4,500 in August?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美国8月纽约联储制造业就业指数93前值114", "trend_title": "美国8月纽约联储制造业就业指数 9.3，前值11.4。", "market_title": "", "reason": "LLM 判定不下注：该话题是关于纽约联储制造业就业指数，属于经济数据。而所有候选项都与美联储在2026年9月、10月或12月会议上是否加息或"}
