@@ -5747,3 +5747,4 @@
 {"strategy": "trend", "trend_id": "库什纳称美伊双方尚未达成共识", "trend_title": "库什纳称美伊双方尚未达成共识", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "据悉美加正努力弥合潜在汽车关税削减的分歧", "trend_title": "据悉美加正努力弥合潜在汽车关税削减的分歧", "market_title": "", "reason": "LLM 判定不下注：話題涉及美加之間的汽車關稅談判，與候選市場『US x China tariff agreement by August "}
 {"strategy": "trend", "trend_id": "wsjrussiacouldattacknatonextmonth", "trend_title": "WSJ: Russia could attack NATO next month", "market_title": "", "reason": "LLM 判定不下注：話題提及俄羅斯可能攻擊北約，與俄烏停火或和平談判的市場無直接關聯。即使有間接影響，此新聞也未提供明確的方向或市場尚未反應"}
+{"strategy": "trend", "trend_id": "美联储9月维持利率不变的概率为65", "trend_title": "美联储9月维持利率不变的概率为65%", "market_title": "Will there be no change in Fed interest rates after the September 2026 meeting?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
