@@ -5745,3 +5745,5 @@
 {"strategy": "trend", "trend_id": "美国航空航天局nasa选定四家企业为任务有效载荷提供处理设施服务入选企业包括蓝色起源萤火虫航空及l3harris等该合同总价值最高可达1亿美元", "trend_title": "美国航空航天局（NASA）：选定四家企业为任务有效载荷提供处理设施服务。入选企业包括蓝色起源、萤火虫航空及L3Harris等。该合同总价值最高可达1亿美元。", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及NASA選定商業太空企業提供有效載荷處理設施服務的合同，這是一項航天產業政策決定。候選市場[0-2]全部聚焦"}
 {"strategy": "trend", "trend_id": "巴西国家石油公司高管迄今为止在亚马逊河口钻井的成本约为3亿美元", "trend_title": "巴西国家石油公司高管：迄今为止在亚马逊河口钻井的成本约为3亿美元。", "market_title": "", "reason": "LLM 判定不下注：巴西石油公司在亚马逊河口的钻井成本信息（3亿美元）属于区域勘探进展，不直接对应WTI原油价格走向。此话题反映的是长期供应"}
 {"strategy": "trend", "trend_id": "库什纳称美伊双方尚未达成共识", "trend_title": "库什纳称美伊双方尚未达成共识", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "据悉美加正努力弥合潜在汽车关税削减的分歧", "trend_title": "据悉美加正努力弥合潜在汽车关税削减的分歧", "market_title": "", "reason": "LLM 判定不下注：話題涉及美加之間的汽車關稅談判，與候選市場『US x China tariff agreement by August "}
+{"strategy": "trend", "trend_id": "wsjrussiacouldattacknatonextmonth", "trend_title": "WSJ: Russia could attack NATO next month", "market_title": "", "reason": "LLM 判定不下注：話題提及俄羅斯可能攻擊北約，與俄烏停火或和平談判的市場無直接關聯。即使有間接影響，此新聞也未提供明確的方向或市場尚未反應"}
