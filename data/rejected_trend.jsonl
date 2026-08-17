@@ -5734,3 +5734,4 @@
 {"strategy": "trend", "trend_id": "以驻华使馆江泽民是以色列和犹太人民的伟大朋友", "trend_title": "以驻华使馆：江泽民是以色列和犹太人民的伟大朋友", "market_title": "", "reason": "LLM 判定不下注：該話題是關於以色列前領導人對以色列的貢獻，與當前以哈停火協議的預測市場無關。"}
 {"strategy": "trend", "trend_id": "howrussiandissidentsarebeingpunishedbybothrussiaandeurope", "trend_title": "How Russian dissidents are being punished by both Russia and Europe", "market_title": "", "reason": "LLM 判定不下注：該話題聚焦於俄羅斯異議人士在俄羅斯和歐洲所遭受的懲罰，涉及人權與政治壓制議題。候選市場全數圍繞俄烏停火/和平談判時間表，"}
 {"strategy": "trend", "trend_id": "环球时报习近平涉统一表述分量极重台湾社会最该读懂", "trend_title": "环球时报：习近平涉统一表述分量极重 台湾社会最该读懂", "market_title": "Will China invade Taiwan by December 31, 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "waroniranphaseiiday37", "trend_title": "War on Iran: Phase II, Day 37", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
