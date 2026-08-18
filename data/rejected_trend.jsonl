@@ -5761,3 +5761,4 @@
 {"strategy": "trend", "trend_id": "美国或对哈马斯解除武装进行监督", "trend_title": "美国或对哈马斯解除武装进行监督", "market_title": "Israel x Hamas Ceasefire Phase II by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "cantrumplimitbirthrightcitizenshiplegalexpertsaredoubtful", "trend_title": "Can Trump limit birthright citizenship? Legal experts are doubtful", "market_title": "", "reason": "LLM 判定不下注：話題討論的是川普是否能限制落地公民權，專家對此表示懷疑。這與候選市場中關於川普是否會與外國領導人通話的預測市場無關。"}
 {"strategy": "trend", "trend_id": "gpt56solpricingcutby50", "trend_title": "GPT-5.6 Sol Pricing Cut by 50%", "market_title": "", "reason": "LLM 判定不下注：話題涉及GPT-5.6在Solana上的定價下調（明顯為第三方應用/代幣，非OpenAI官方產品），與五個候選市場（均聚"}
+{"strategy": "trend", "trend_id": "英国无人机参战俄罗斯发出警告", "trend_title": "英国无人机参战，俄罗斯发出警告", "market_title": "Russia-Ukraine peace talks by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
