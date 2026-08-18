@@ -5762,3 +5762,5 @@
 {"strategy": "trend", "trend_id": "cantrumplimitbirthrightcitizenshiplegalexpertsaredoubtful", "trend_title": "Can Trump limit birthright citizenship? Legal experts are doubtful", "market_title": "", "reason": "LLM 判定不下注：話題討論的是川普是否能限制落地公民權，專家對此表示懷疑。這與候選市場中關於川普是否會與外國領導人通話的預測市場無關。"}
 {"strategy": "trend", "trend_id": "gpt56solpricingcutby50", "trend_title": "GPT-5.6 Sol Pricing Cut by 50%", "market_title": "", "reason": "LLM 判定不下注：話題涉及GPT-5.6在Solana上的定價下調（明顯為第三方應用/代幣，非OpenAI官方產品），與五個候選市場（均聚"}
 {"strategy": "trend", "trend_id": "英国无人机参战俄罗斯发出警告", "trend_title": "英国无人机参战，俄罗斯发出警告", "market_title": "Russia-Ukraine peace talks by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "russiasaysmorethan600dronestargetedmoscowregion", "trend_title": "Russia says more than 600 drones targeted Moscow region", "market_title": "", "reason": "LLM 判定不下注：新聞內容是關於俄羅斯聲稱擊落大量無人機，這與俄烏停火或和平談判的預測市場沒有直接關聯。市場定價很可能未受此消息影響，因此"}
+{"strategy": "trend", "trend_id": "伊朗驻埃及利益代表处负责人伊朗在军事和政治领域的胜利显而易见", "trend_title": "伊朗驻埃及利益代表处负责人：伊朗在军事和政治领域的胜利显而易见。", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
