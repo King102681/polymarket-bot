@@ -5805,3 +5805,4 @@
 {"strategy": "trend", "trend_id": "知情人士透露美国据称降低对周二达成美加贸易协议的预期美国总统特朗普和加拿大总理卡尼预计将于当地时间周二再次通话", "trend_title": "知情人士透露，美国据称降低对周二达成美加贸易协议的预期。美国总统特朗普和加拿大总理卡尼预计将于当地时间周二再次通话。", "market_title": "", "reason": "LLM 判定不下注：熱門話題關於美加貿易協議談判進展，與候選市場'特朗普在12月31日前訪問北韓'無關聯。候選市場完全不對應該話題的內容，因"}
 {"strategy": "trend", "trend_id": "norwayshouldbuyopenai", "trend_title": "Norway Should Buy OpenAI", "market_title": "", "reason": "LLM 判定不下注：這條話題是關於挪威國家主權基金是否應該收購 OpenAI，這與 OpenAI 的 IPO 或市值預測市場無關，因此沒有相"}
 {"strategy": "trend", "trend_id": "伊朗外长伊朗不要停火只接受战争结束", "trend_title": "伊朗外长：伊朗不要停火，只接受战争结束", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美国至8月14日当周api原油库存将于十分钟后公布", "trend_title": "美国至8月14日当周API原油库存将于十分钟后公布。", "market_title": "", "reason": "LLM 判定不下注：話題是即將公布的原油庫存數據，但並沒有透露數據的預期方向或實際結果，無法判斷對市場價格的影響，因此不對市場方向做出判斷。"}
