@@ -5757,3 +5757,4 @@
 {"strategy": "trend", "trend_id": "阿里云韩国第三座数据中心上线", "trend_title": "阿里云韩国第三座数据中心上线", "market_title": "", "reason": "LLM 判定不下注：提供的話題是關於阿里云在韓國設立新的數據中心，這是一個關於基礎設施建設和科技發展的消息。然而，所有候選市場都與韓國的經濟"}
 {"strategy": "trend", "trend_id": "伊朗细数美方四连败战场未胜换权未果分裂未遂武装未成", "trend_title": "伊朗细数美方四连败：战场未胜、换权未果、分裂未遂、武装未成", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "伊朗多国外长私下坦言伊朗战争外交均取得胜利", "trend_title": "伊朗：多国外长私下坦言 伊朗战争外交均取得胜利", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "trumpmovingtoallyusawithnorthkorea", "trend_title": "Trump moving to ally USA with North Korea", "market_title": "Will Trump speak to Kim Jong Un in August?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
