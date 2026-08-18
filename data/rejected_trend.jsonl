@@ -5799,3 +5799,5 @@
 {"strategy": "trend", "trend_id": "伊朗外长近期冲突表明未设美军基地的国家受损害更小", "trend_title": "伊朗外长：近期冲突表明未设美军基地的国家受损害更小", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是伊朗認為未設美軍基地的國家受損較小，這與核協議或特定時間點的外交會議無直接關聯，因此無法從中判斷任何一個市"}
 {"strategy": "trend", "trend_id": "claudecodeweeklylimitsreducebyathirdtomorrow", "trend_title": "Claude Code weekly limits reduce by a third tomorrow", "market_title": "", "reason": "LLM 判定不下注：此話題關於 Claude Code 的使用限制，與 Anthropic 是否 IPO 的市場無關。"}
 {"strategy": "trend", "trend_id": "泽连斯基与比利时外长讨论无人机问题", "trend_title": "泽连斯基与比利时外长讨论无人机问题", "market_title": "Russia-Ukraine peace talks by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "伊朗议长向美国高官开炮贝森特赫格塞思自不量力", "trend_title": "伊朗议长向美国高官开炮：贝森特、赫格塞思“自不量力”", "market_title": "", "reason": "信心 0.30 < 0.35：话题虽然是伊朗官员批评美国官员，但并未直接提及核协议的进展或障碍。然而，近期伊朗"}
+{"strategy": "trend", "trend_id": "以军持续对加沙地带发动打击巴方称6死14伤", "trend_title": "以军持续对加沙地带发动打击 巴方称6死14伤", "market_title": "Israel x Hamas ceasefire cancelled by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
