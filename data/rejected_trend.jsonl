@@ -5766,3 +5766,6 @@
 {"strategy": "trend", "trend_id": "伊朗驻埃及利益代表处负责人伊朗在军事和政治领域的胜利显而易见", "trend_title": "伊朗驻埃及利益代表处负责人：伊朗在军事和政治领域的胜利显而易见。", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "朱镕基遗体火化习近平等送别胡锦涛送花圈", "trend_title": "朱镕基遗体火化 习近平等送别 胡锦涛送花圈", "market_title": "", "reason": "LLM 判定不下注：該話題涉及中國前領導人的逝世與告別儀式，與其他市場選項（如政治人物會面、審判）無關。"}
 {"strategy": "trend", "trend_id": "韩国外交部王毅明起访韩两天", "trend_title": "韩国外交部：王毅明起访韩两天", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於韓國外交部部長王毅將訪問韓國，這是一個外交新聞，與候選市場中關於韓國總統、GDP 增長率或韓國央行利率決"}
+{"strategy": "trend", "trend_id": "日媒伊朗加速转向对美强硬路线", "trend_title": "日媒：伊朗加速转向对美强硬路线", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "trumplashesoutatcnnreporteroversouthkoreaquestion", "trend_title": "Trump lashes out at CNN reporter over South Korea question", "market_title": "", "reason": "LLM 判定不下注：該話題涉及川普對 CNN 記者的回應，內容是關於韓國問題。然而，所有候選市場都關於川普是否會在八月與其他國家領導人通話，"}
+{"strategy": "trend", "trend_id": "卢拉谁也别想染指巴西的石油", "trend_title": "卢拉：“谁也别想染指巴西的石油”", "market_title": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in August?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
