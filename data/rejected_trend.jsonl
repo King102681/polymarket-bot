@@ -5801,3 +5801,5 @@
 {"strategy": "trend", "trend_id": "泽连斯基与比利时外长讨论无人机问题", "trend_title": "泽连斯基与比利时外长讨论无人机问题", "market_title": "Russia-Ukraine peace talks by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "伊朗议长向美国高官开炮贝森特赫格塞思自不量力", "trend_title": "伊朗议长向美国高官开炮：贝森特、赫格塞思“自不量力”", "market_title": "", "reason": "信心 0.30 < 0.35：话题虽然是伊朗官员批评美国官员，但并未直接提及核协议的进展或障碍。然而，近期伊朗"}
 {"strategy": "trend", "trend_id": "以军持续对加沙地带发动打击巴方称6死14伤", "trend_title": "以军持续对加沙地带发动打击 巴方称6死14伤", "market_title": "Israel x Hamas ceasefire cancelled by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "布伦特原油期货结算价为每桶9102美元上涨15美分涨幅017", "trend_title": "布伦特原油期货结算价为每桶91.02美元，上涨15美分，涨幅0.17%。", "market_title": "", "reason": "LLM 判定不下注：布伦特原油期货结算价微幅上涨0.17%，这属于日常价格波动，且涨幅非常小，几乎可以忽略不计。同时，市场对WTI原油8月触"}
+{"strategy": "trend", "trend_id": "知情人士透露美国据称降低对周二达成美加贸易协议的预期美国总统特朗普和加拿大总理卡尼预计将于当地时间周二再次通话", "trend_title": "知情人士透露，美国据称降低对周二达成美加贸易协议的预期。美国总统特朗普和加拿大总理卡尼预计将于当地时间周二再次通话。", "market_title": "", "reason": "LLM 判定不下注：熱門話題關於美加貿易協議談判進展，與候選市場'特朗普在12月31日前訪問北韓'無關聯。候選市場完全不對應該話題的內容，因"}
