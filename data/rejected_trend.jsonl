@@ -5882,3 +5882,4 @@
 {"strategy": "trend", "trend_id": "美国总统特朗普非常希望利率能够下降", "trend_title": "美国总统特朗普：非常希望利率能够下降。", "market_title": "", "reason": "LLM 判定不下注：此話題是關於特朗普對利率的看法，與候選市場中提及的特朗普與特定領導人會面的事件無關。"}
 {"strategy": "trend", "trend_id": "美国总统特朗普利率水平太荒谬了", "trend_title": "美国总统特朗普：利率水平太荒谬了。", "market_title": "", "reason": "LLM 判定不下注：特朗普關於利率水平的言論主要涉及美國貨幣政策與經濟議題，與候選市場完全無關。三個市場均聚焦於特定外交人士會面，不存在對應"}
 {"strategy": "trend", "trend_id": "美国总统特朗普关于债券市场美国人不应担心波动性", "trend_title": "美国总统特朗普：（关于债券市场）美国人不应担心波动性。", "market_title": "", "reason": "LLM 判定不下注：特朗普关于债券市场波动性的言论是对金融市场的宏观评论，不涉及具体政治人物会晤。三个候选市场均为国际领导人会晤预测，与债券"}
+{"strategy": "trend", "trend_id": "floridarejectsdemocraticestablishmentandevensnubstrump", "trend_title": "Florida rejects Democratic establishment — and even snubs Trump", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於佛羅里達州的政治動態，特別是與民主黨和川普的關係，而候選市場全部是關於川普與國際領導人會面的預測，兩者之"}
