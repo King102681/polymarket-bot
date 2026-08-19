@@ -5854,3 +5854,5 @@
 {"strategy": "trend", "trend_id": "伊朗未与美国进行任何直接对话", "trend_title": "伊朗：未与美国进行任何直接对话", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "台湾抗议安华认同北京以武力解决两岸统一问题", "trend_title": "台湾抗议安华认同北京以武力解决两岸统一问题", "market_title": "Will China invade Taiwan by December 31, 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "全球瞩目美联储会议纪要今夜来袭能否抑制美债风暴", "trend_title": "全球瞩目！美联储会议纪要今夜来袭 能否抑制“美债风暴”？", "market_title": "", "reason": "LLM 判定不下注：該話題主要關注美聯儲會議紀要對“美債風暴”的影響，重點在於其對當前和未來利率政策的潛在衝擊。然而，候選市場均圍繞 202"}
+{"strategy": "trend", "trend_id": "atleastfivekilledinrussianairattacksonukraine", "trend_title": "At least five killed in Russian air attacks on Ukraine", "market_title": "", "reason": "LLM 判定不下注：新聞指出俄羅斯空襲烏克蘭造成傷亡，此類衝突升級事件通常會降低和平談判或停火的可能性。然而，目前所有的市場都與『停火』或『"}
+{"strategy": "trend", "trend_id": "中方回应马来西亚总理涉台表态", "trend_title": "中方回应马来西亚总理涉台表态", "market_title": "", "reason": "LLM 判定不下注：話題是中方回應馬來西亞總理的涉台表態，這與是否會發生戰爭、台灣總理是否下台、或是川普的國際訪問行程，都沒有直接的關聯性。"}
