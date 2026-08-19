@@ -5880,3 +5880,5 @@
 {"strategy": "trend", "trend_id": "美联储会议纪要支持加息者认为此举可能避免未来进一步加息", "trend_title": "美联储会议纪要：支持加息者认为此举可能避免未来进一步加息", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題關於美聯儲會議紀要，但所有候選市場的 are for the September, October, an"}
 {"strategy": "trend", "trend_id": "violenceinthenewsyria", "trend_title": "Violence in the New Syria?", "market_title": "Israel military action against Syria by September 15, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美国总统特朗普非常希望利率能够下降", "trend_title": "美国总统特朗普：非常希望利率能够下降。", "market_title": "", "reason": "LLM 判定不下注：此話題是關於特朗普對利率的看法，與候選市場中提及的特朗普與特定領導人會面的事件無關。"}
+{"strategy": "trend", "trend_id": "美国总统特朗普利率水平太荒谬了", "trend_title": "美国总统特朗普：利率水平太荒谬了。", "market_title": "", "reason": "LLM 判定不下注：特朗普關於利率水平的言論主要涉及美國貨幣政策與經濟議題，與候選市場完全無關。三個市場均聚焦於特定外交人士會面，不存在對應"}
+{"strategy": "trend", "trend_id": "美国总统特朗普关于债券市场美国人不应担心波动性", "trend_title": "美国总统特朗普：（关于债券市场）美国人不应担心波动性。", "market_title": "", "reason": "LLM 判定不下注：特朗普关于债券市场波动性的言论是对金融市场的宏观评论，不涉及具体政治人物会晤。三个候选市场均为国际领导人会晤预测，与债券"}
