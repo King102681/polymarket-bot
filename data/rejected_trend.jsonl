@@ -5860,3 +5860,4 @@
 {"strategy": "trend", "trend_id": "克里姆林宫俄罗斯总统普京与马里领导人讨论安全与合作", "trend_title": "克里姆林宫：俄罗斯总统普京与马里领导人讨论安全与合作。", "market_title": "", "reason": "LLM 判定不下注：話題提及俄羅斯總統普丁與馬利領導人討論安全與合作，與俄烏戰爭的停火或和談市場無直接關聯，因此選擇-1。"}
 {"strategy": "trend", "trend_id": "whywhitehouseenvoyscannotswayisraelswarleader", "trend_title": "Why White House envoys cannot sway Israel’s war leader", "market_title": "Israel x Hamas Ceasefire Phase II by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "乌克兰议会批准叶夫根尼赫马拉yevheniikhmara出任新任国防部长", "trend_title": "乌克兰议会批准叶夫根尼·赫马拉（Yevhenii Khmara）出任新任国防部长。", "market_title": "", "reason": "LLM 判定不下注：话题是关于乌克兰新任国防部长的任命，与所列的俄乌停火或和谈市场没有直接关联。"}
+{"strategy": "trend", "trend_id": "据日本读卖新闻日本将解除对更多叙利亚实体的制裁", "trend_title": "据日本读卖新闻：日本将解除对更多叙利亚实体的制裁。", "market_title": "", "reason": "信心 0.30 < 0.35：日本解除對敘利亞實體的制裁，此為緩和關係的訊號，與市場對以色列軍事行動的預期（Y"}
