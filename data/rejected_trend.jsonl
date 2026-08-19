@@ -5857,3 +5857,6 @@
 {"strategy": "trend", "trend_id": "atleastfivekilledinrussianairattacksonukraine", "trend_title": "At least five killed in Russian air attacks on Ukraine", "market_title": "", "reason": "LLM 判定不下注：新聞指出俄羅斯空襲烏克蘭造成傷亡，此類衝突升級事件通常會降低和平談判或停火的可能性。然而，目前所有的市場都與『停火』或『"}
 {"strategy": "trend", "trend_id": "中方回应马来西亚总理涉台表态", "trend_title": "中方回应马来西亚总理涉台表态", "market_title": "", "reason": "LLM 判定不下注：話題是中方回應馬來西亞總理的涉台表態，這與是否會發生戰爭、台灣總理是否下台、或是川普的國際訪問行程，都沒有直接的關聯性。"}
 {"strategy": "trend", "trend_id": "瑞士政府将把寻求保护的乌克兰人员s身份保护期限延长至2028年3月4日", "trend_title": "瑞士政府：将把寻求保护的乌克兰人员S身份保护期限延长至2028年3月4日。", "market_title": "", "reason": "LLM 判定不下注：瑞士政府延长对乌克兰寻求保护人员的身份保护期限，这与俄乌停火或和平谈判的直接目标不同。此消息没有提供关于停火或和平谈判进"}
+{"strategy": "trend", "trend_id": "克里姆林宫俄罗斯总统普京与马里领导人讨论安全与合作", "trend_title": "克里姆林宫：俄罗斯总统普京与马里领导人讨论安全与合作。", "market_title": "", "reason": "LLM 判定不下注：話題提及俄羅斯總統普丁與馬利領導人討論安全與合作，與俄烏戰爭的停火或和談市場無直接關聯，因此選擇-1。"}
+{"strategy": "trend", "trend_id": "whywhitehouseenvoyscannotswayisraelswarleader", "trend_title": "Why White House envoys cannot sway Israel’s war leader", "market_title": "Israel x Hamas Ceasefire Phase II by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "乌克兰议会批准叶夫根尼赫马拉yevheniikhmara出任新任国防部长", "trend_title": "乌克兰议会批准叶夫根尼·赫马拉（Yevhenii Khmara）出任新任国防部长。", "market_title": "", "reason": "LLM 判定不下注：话题是关于乌克兰新任国防部长的任命，与所列的俄乌停火或和谈市场没有直接关联。"}
