@@ -5844,3 +5844,6 @@
 {"strategy": "trend", "trend_id": "俄罗斯乌法当局称无人机袭击工业设施", "trend_title": "俄罗斯乌法当局称，无人机袭击工业设施。", "market_title": "", "reason": "LLM 判定不下注：俄乌冲突中无人机袭击工业设施是日常军事行动，属于战争持续状态的常规事件。该话题本身不包含关于停火协议、和平谈判或外交接触"}
 {"strategy": "trend", "trend_id": "formerusofficialcallsshiftinrelationswithsyriasurreal", "trend_title": "Former US official calls shift in relations with Syria ‘surreal’", "market_title": "Will Iran target Syria by September 15, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "韩国对华乙酸乙酯启动反倾销调查", "trend_title": "韩国对华乙酸乙酯启动反倾销调查", "market_title": "", "reason": "LLM 判定不下注：韩国对华乙酸乙酯启动反倾销调查是一项贸易政策事件，涉及韩国与中国的双边商业关系。候选市场[0]关于李在明政治地位，[1]"}
+{"strategy": "trend", "trend_id": "lebanonnolongerasafehavenforformersyrianregimeofficials", "trend_title": "Lebanon no longer a safe haven for former Syrian regime officials", "market_title": "", "reason": "LLM 判定不下注：該熱門話題主要關於黎巴嫩與敘利亞政權官員的安全問題，與候選市場中關於國家間外交承認、軍事行動的時間點等議題關聯性不高。因"}
+{"strategy": "trend", "trend_id": "英国通胀年率走高主要受能源价格上限上调推动", "trend_title": "英国通胀年率走高 主要受能源价格上限上调推动", "market_title": "Will annual inflation be 3.5% in August?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "俄媒文章消耗游戏美伊均押注拖垮对方", "trend_title": "俄媒文章：消耗游戏：美伊均押注拖垮对方", "market_title": "", "reason": "信心 0.30 < 0.35：文章指出美伊都在消耗對方，暗示談判進展緩慢，對達成協議不利，因此判定 NO。目前"}
