@@ -5889,3 +5889,4 @@
 {"strategy": "trend", "trend_id": "巴基斯坦外长叙利亚外长谢巴尼应邀抵达巴基斯坦伊斯兰堡展开正式访问", "trend_title": "巴基斯坦外长：叙利亚外长谢巴尼应邀抵达巴基斯坦伊斯兰堡，展开正式访问。", "market_title": "", "reason": "LLM 判定不下注：此話題僅是巴基斯坦與敘利亞之間的外交訪問，與任何候選市場的預測事件（承認以色列、軍事行動）無關。"}
 {"strategy": "trend", "trend_id": "英国外交大臣谴责以色列政府发布e1定居点项目招标并宣布召见以色列驻英临时代办", "trend_title": "英国外交大臣谴责以色列政府发布E1定居点项目招标，并宣布召见以色列驻英临时代办。", "market_title": "Israel x Hamas Ceasefire Phase II by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "israelistrikeongazacitypoliceheadquarterskillswomenspolicechief", "trend_title": "Israeli strike on Gaza City police headquarters kills women’s police chief", "market_title": "", "reason": "LLM 判定不下注：此話題為加薩衝突的最新發展，屬於區域衝突事件。候選市場皆為『停火』相關，但這則新聞並未提供關於停火談判是否有進展或破裂的"}
+{"strategy": "trend", "trend_id": "美联储9月维持利率不变的概率为673", "trend_title": "美联储9月维持利率不变的概率为67.3%", "market_title": "", "reason": "LLM 判定不下注：話題提及美联储9月维持利率不变概率67.3%，市場0號正對應9月會議。但市場定價（Yes=0.71）已經非常接近話題中的"}
