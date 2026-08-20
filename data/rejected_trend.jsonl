@@ -5940,3 +5940,5 @@
 {"strategy": "trend", "trend_id": "巴西财政部长降低利率可以扭转债务轨迹", "trend_title": "巴西财政部长：降低利率可以扭转债务轨迹。", "market_title": "", "reason": "LLM 判定不下注：該話題是關於巴西財政部長對巴西利率的看法，而所有候選市場都關於美聯儲（Fed）的利率決策。兩者不相關。"}
 {"strategy": "trend", "trend_id": "atleast15killedinkyivasukrainegrappleswithairdefenceshortages", "trend_title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "商务部发声事关美征收无人机关税问题欧方滥用单边工具打压中国企业", "trend_title": "商务部发声！事关美征收无人机关税问题、欧方滥用单边工具打压中国企业", "market_title": "US x China tariff agreement by August 31?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "韩国光州双年展台湾馆被更名主办方称与政治审查无关", "trend_title": "韩国光州双年展台湾馆被更名 主办方称与政治审查无关", "market_title": "", "reason": "LLM 判定不下注：此話題關於台灣館在韓國光州雙年展被更名，但與提供的任何市場選項（中國侵略台灣、台灣總理任期、川普訪問德國/日本/以色列）"}
+{"strategy": "trend", "trend_id": "拉脱维亚武装部队8月14日在拉脱维亚空域被击落的无人机来源于乌克兰", "trend_title": "拉脱维亚武装部队：8月14日在拉脱维亚空域被击落的无人机来源于乌克兰。", "market_title": "", "reason": "LLM 判定不下注：拉脱维亚空域击落乌克兰无人机的新闻，属于俄乌战事局部动态报道，未能直接推导出停火、和平谈判或外交会议的新进展信号。候选市"}
