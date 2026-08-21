@@ -5976,3 +5976,4 @@
 {"strategy": "trend", "trend_id": "俄罗斯今年减持160万盎司黄金储备降至2020年以来最低水平", "trend_title": "俄罗斯今年减持160万盎司黄金 储备降至2020年以来最低水平", "market_title": "", "reason": "LLM 判定不下注：俄罗斯减持黄金、储备下降至2020年以来最低水平，反映的是俄罗斯外汇储备管理政策与经济压力，与俄乌停火/和平谈判没有直接"}
 {"strategy": "trend", "trend_id": "伊朗美国经济恐怖主义无法动摇伊朗人民决心", "trend_title": "伊朗：美国经济恐怖主义无法动摇伊朗人民决心", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "pakistansimrankhanmovedtohospitalaftersupremecourtorder", "trend_title": "Pakistan’s Imran Khan moved to hospital after Supreme Court order", "market_title": "", "reason": "LLM 判定不下注：巴基斯坦前總理伊姆蘭·汗入院的新聞與所有候選市場都無直接關聯。候選市場涉及字節跳動、小米、2020年美國選舉、美國對中國"}
+{"strategy": "trend", "trend_id": "日媒中美专利申请量显著领先日本申请量暴跌", "trend_title": "日媒：中美专利申请量显著领先，日本申请量暴跌", "market_title": "US x China tariff agreement by August 31?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
