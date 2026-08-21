@@ -5985,3 +5985,5 @@
 {"strategy": "trend", "trend_id": "法德意英发联合声明要求以色列取消西岸定居点计划", "trend_title": "法德意英发联合声明要求以色列取消西岸定居点计划", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於法德意英四國聯合聲明要求以色列取消西岸定居點計劃。然而，所有候選市場都只關注以色列與哈馬斯的停火協議，與"}
 {"strategy": "trend", "trend_id": "黄金牛市即将回归华尔街热情高涨矿业大佬喊出5万美元目标价", "trend_title": "黄金牛市即将回归？华尔街热情高涨，矿业大佬喊出5万美元目标价！", "market_title": "Will Gold (XAUUSD) hit (HIGH) $4,700 in August?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "受益三星sk海力士扩产韩国多家半导体设备商积压订单翻番", "trend_title": "受益三星、SK海力士扩产 韩国多家半导体设备商积压订单翻番", "market_title": "", "reason": "LLM 判定不下注：該話題是關於韓國半導體設備商的訂單增長，與韓國總統、韓國央行利率決策、GDP增長或通貨膨脹等市場沒有直接關聯性。"}
+{"strategy": "trend", "trend_id": "距离台地方选举剩三个多月民进党发表竞选歌曲", "trend_title": "距离台地方选举剩三个多月 民进党发表竞选歌曲", "market_title": "", "reason": "LLM 判定不下注：此話題關於台灣地方選舉的競選歌曲，與候選市場中的兩岸關係、內閣人事變動或美國前總統的國際訪問均無直接關聯。市場價格很可能"}
+{"strategy": "trend", "trend_id": "外交部回应朝鲜发射10余枚弹道导弹", "trend_title": "外交部回应朝鲜发射10余枚弹道导弹", "market_title": "Will North and South Korea engage in direct talks by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
