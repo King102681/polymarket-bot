@@ -6018,3 +6018,4 @@
 {"strategy": "trend", "trend_id": "anthropic拟将ai反弹情绪列入招股书主要风险因素", "trend_title": "Anthropic拟将AI反弹情绪列入招股书主要风险因素", "market_title": "Will Anthropic IPO by September 30, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "usvicepresidentjdvanceholdsmidtermelectionrallyinohiohometown", "trend_title": "US Vice President JD Vance holds midterm election rally in Ohio hometown", "market_title": "Will JD Vance win the 2028 US Presidential Election?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美股止跌反弹道指涨近1数字货币再猛涨黄金升破4600", "trend_title": "美股止跌反弹，道指涨近1%，数字货币再猛涨，黄金升破4600", "market_title": "Will Gold (XAUUSD) hit (HIGH) $4,700 in August?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "贝森特促中国配合孤立伊朗经济中方指制裁无助解决问题", "trend_title": "贝森特促中国配合孤立伊朗经济 中方指制裁无助解决问题", "market_title": "", "reason": "LLM 判定不下注：該話題是關於中國對美國針對伊朗經濟制裁的立場，而候選市場是關於美伊外交會議是否在特定日期前發生。兩者關聯性低，話題內容並"}
