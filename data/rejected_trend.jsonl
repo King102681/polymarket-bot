@@ -6012,3 +6012,4 @@
 {"strategy": "trend", "trend_id": "欧盟委员会主席冯德莱恩以色列政府决定发布e1定居点项目的建设招标是不可接受的", "trend_title": "欧盟委员会主席冯德莱恩：以色列政府决定发布E1定居点项目的建设招标是不可接受的。", "market_title": "", "reason": "LLM 判定不下注：话题关于欧盟委员会对以色列定居点项目的批评，与休战协议的议题无关。"}
 {"strategy": "trend", "trend_id": "openai未来三个月将把gpt56solapi及积分价格下调超过20", "trend_title": "OpenAI：未来三个月将把GPT-5.6Sol API及积分价格下调超过20%。", "market_title": "", "reason": "LLM 判定不下注：此熱門話題與所有候選市場均無直接關聯。話題是關於GPT-5.6 Sol API及積分價格下調，而候選市場皆與OpenAI"}
 {"strategy": "trend", "trend_id": "美国商品期货交易委员会cftc截至8月18日当周纽约商品交易所nymexwti原油期货投机者将净多头头寸减少3584手至102274手", "trend_title": "美国商品期货交易委员会（CFTC）：截至8月18日当周，纽约商品交易所（NYMEX）WTI原油期货投机者将净多头头寸减少3,584手，至102,274手。", "market_title": "Will WTI Crude Oil (WTI) hit (HIGH) $100 in August?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "spacex招聘天然气交易员保障能源需求", "trend_title": "SpaceX招聘天然气交易员，保障能源需求", "market_title": "", "reason": "LLM 判定不下注：話題涉及SpaceX招聘天然氣交易員以保障能源供應，屬於SpaceX內部運營策略。所有候選市場均為『Tesla與Spac"}
