@@ -6015,3 +6015,4 @@
 {"strategy": "trend", "trend_id": "spacex招聘天然气交易员保障能源需求", "trend_title": "SpaceX招聘天然气交易员，保障能源需求", "market_title": "", "reason": "LLM 判定不下注：話題涉及SpaceX招聘天然氣交易員以保障能源供應，屬於SpaceX內部運營策略。所有候選市場均為『Tesla與Spac"}
 {"strategy": "trend", "trend_id": "quickimpressionsaweekofusingcodexmorethanclaude", "trend_title": "Quick impressions: A week of using Codex more than Claude", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於 Codex 和 Claude 的使用體驗比較，與 Anthropic 的 IPO 無關。因此，所有"}
 {"strategy": "trend", "trend_id": "消息人士美国商务部长卢特尼克认为美国仍可争取更有利的协议并反对降低232条款关税", "trend_title": "消息人士：美国商务部长卢特尼克认为美国仍可争取更有利的协议，并反对降低232条款关税。", "market_title": "US x China tariff agreement by August 31?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "anthropic拟将ai反弹情绪列入招股书主要风险因素", "trend_title": "Anthropic拟将AI反弹情绪列入招股书主要风险因素", "market_title": "Will Anthropic IPO by September 30, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
