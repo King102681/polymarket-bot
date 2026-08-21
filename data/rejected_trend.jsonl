@@ -6000,3 +6000,4 @@
 {"strategy": "trend", "trend_id": "russianexpertwarnsofimpendingsocialcrisisasukrainedeathtollrises", "trend_title": "Russian expert warns of impending social crisis as Ukraine death toll rises", "market_title": "Russia-Ukraine peace talks by September 30, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "伊朗陆军总司令伊朗防御能力改变敌方战略计算", "trend_title": "伊朗陆军总司令：伊朗防御能力改变敌方战略计算", "market_title": "", "reason": "LLM 判定不下注：此話題與候選市場無直接關聯。伊朗陸軍總司令的聲明是關於伊朗的防禦能力，這並不能直接推斷出是否有特定時間範圍內的美國與伊朗"}
 {"strategy": "trend", "trend_id": "张雪机车在台遭查扣张雪称查扣一台送一台直到两岸统一", "trend_title": "张雪机车在台遭查扣 张雪称查扣一台送一台“直到两岸统一”", "market_title": "", "reason": "信心 0.25 < 0.35：話題涉及兩岸關係的小規模衝突（機車查扣），但這類邊境小事件通常反映日常緊張局勢，"}
+{"strategy": "trend", "trend_id": "消息人士美加贸易协议将引入钢铁配额及25较低关税", "trend_title": "消息人士：美加贸易协议将引入钢铁配额及25%较低关税", "market_title": "", "reason": "LLM 判定不下注：此新聞討論的是美加貿易協議，與候選市場「美中關稅協議」關聯性低，因此選擇無關聯的市場。"}
