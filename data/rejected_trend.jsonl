@@ -6005,3 +6005,4 @@
 {"strategy": "trend", "trend_id": "turkeyissuesgenocidearrestwarrantforisraelsnetanyahu", "trend_title": "Turkey issues genocide arrest warrant for Israel’s Netanyahu", "market_title": "Israel x Hamas ceasefire cancelled by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美国国务院批准向韩国出售aim9x响尾蛇blockii战术导弹及相关设备预计价值125亿美元", "trend_title": "美国国务院批准向韩国出售AIM-9X响尾蛇Block II战术导弹及相关设备，预计价值1.25亿美元。", "market_title": "", "reason": "LLM 判定不下注：美国向韩国出售防空导弹系统是军事装备交易，涉及地缘政治与防御能力提升。候选市场涵盖韩国GDP、通胀、央行货币政策及朝韩对"}
 {"strategy": "trend", "trend_id": "anthropic发起3500万美元开源网络防御基金", "trend_title": "Anthropic发起3500万美元开源网络防御基金。", "market_title": "", "reason": "LLM 判定不下注：該話題是關於 Anthropic 設立一個網絡防禦基金，與其 IPO 時間沒有直接關聯。因此，候選市場均不相關。"}
+{"strategy": "trend", "trend_id": "伊朗寻求贸易突围与阿曼敲定优惠贸易协定", "trend_title": "伊朗寻求贸易突围，与阿曼敲定优惠贸易协定", "market_title": "", "reason": "LLM 判定不下注：話題是伊朗與阿曼簽署貿易協定，但候選市場是關於美伊外交會議，兩者無關。"}
