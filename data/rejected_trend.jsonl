@@ -6067,3 +6067,4 @@
 {"strategy": "trend", "trend_id": "据塔斯社俄罗斯总统普京表示乌克兰对经济目标的打击已打开了潘多拉魔盒", "trend_title": "据塔斯社：俄罗斯总统普京表示，乌克兰对经济目标的打击已打开了“潘多拉魔盒”。", "market_title": "Russia-Ukraine peace talks by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "israelidronestrikeoncivilianvehicleinjuresseveralinsyria", "trend_title": "Israeli drone strike on ‘civilian vehicle’ injures several in Syria", "market_title": "", "reason": "LLM 判定不下注：此新聞報導以色列在敘利亞的襲擊，與候選市場討論的以色列與哈瑪斯之間的停火協議無直接關聯，因此無法判斷市場方向。"}
 {"strategy": "trend", "trend_id": "法国与乌克兰两国总统通电话讨论军事援助等议题", "trend_title": "法国与乌克兰两国总统通电话 讨论军事援助等议题", "market_title": "", "reason": "信心 0.32 < 0.35：法国与乌克兰总统讨论军事援助，表明乌克兰继续寻求国际支持，暗示短期内停火可能性低"}
+{"strategy": "trend", "trend_id": "习特会临近美军p8a再过台海学者大陆反应克制", "trend_title": "“习特会”临近美军P-8A再过台海 学者：大陆反应克制", "market_title": "Will China invade Taiwan by December 31, 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
