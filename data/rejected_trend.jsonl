@@ -6087,3 +6087,4 @@
 {"strategy": "trend", "trend_id": "据黎巴嫩国家通讯社以色列持续袭击黎巴嫩南部空袭了马吉勒祖恩科宁和曼苏里三座村庄", "trend_title": "据黎巴嫩国家通讯社：以色列持续袭击黎巴嫩南部，空袭了马吉勒祖恩、科宁和曼苏里三座村庄。", "market_title": "Israel x Hamas ceasefire cancelled by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美国特使表示以色列针对叙利亚开展的空袭行动有可能是刻意挑起其与土耳其之间的矛盾冲突", "trend_title": "美国特使表示，以色列针对叙利亚开展的空袭行动，有可能是刻意挑起其与土耳其之间的矛盾冲突。", "market_title": "", "reason": "LLM 判定不下注：熱門話題討論美國特使評估以色列對敘利亞的空襲行動及其與土耳其關係，此為區域地緣政治分析。候選市場[0]和[1]均聚焦以色"}
 {"strategy": "trend", "trend_id": "据悉英伟达已通知客户ai相关产品涨价超15", "trend_title": "据悉英伟达已通知客户 AI相关产品涨价超15%", "market_title": "", "reason": "LLM 判定不下注：候選市場均為Ornn指數（GPU晶片定價指數）在2026年8月31日的價格區間預測，與英偉達產品『漲價超15%』的新聞無"}
+{"strategy": "trend", "trend_id": "envoysaysisraeldidnotgivetheusnoticebeforestrikesonsyrianbase", "trend_title": "Envoy says Israel did not give the US notice before strikes on Syrian base", "market_title": "", "reason": "LLM 判定不下注：此話題討論的是以色列針對敘利亞基地襲擊前未告知美國，與候選市場的以哈停火協議無關。"}
