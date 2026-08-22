@@ -6026,3 +6026,5 @@
 {"strategy": "trend", "trend_id": "霍尔木兹海峡动荡如何在巴拿马运河引发中美角力", "trend_title": "霍尔木兹海峡动荡，如何在巴拿马运河引发中美角力？", "market_title": "US x China tariff agreement by December 31?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "伊朗外交部美国对伊朗实施新制裁毫无国际法依据", "trend_title": "伊朗外交部：美国对伊朗实施新制裁毫无国际法依据", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "外电伊朗将以军事攻势回击美经济战", "trend_title": "外电：伊朗将以军事攻势回击美经济战", "market_title": "", "reason": "LLM 判定不下注：該熱門話題提到伊朗將以軍事攻勢回擊美國的經濟戰，但候選市場主要關注與伊朗的核協議和外交會談的時程。這兩個市場與話題的關聯"}
+{"strategy": "trend", "trend_id": "一周展望黄金冲上4600后美伊制裁杰克逊霍尔pce将轮番轰炸", "trend_title": "一周展望：黄金冲上4600后，美伊制裁、杰克逊霍尔、PCE将轮番轰炸", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "关闭驻芬兰大使馆新开驻缅甸大使馆白俄罗斯外交大转向", "trend_title": "关闭驻芬兰大使馆，新开驻缅甸大使馆：白俄罗斯外交大转向", "market_title": "", "reason": "LLM 判定不下注：此話題關於白俄羅斯調整其外交策略，關閉駐芬蘭大使館並開設駐緬甸大使館，這與候選市場中所有關於俄烏之間停火、和平談判或外交"}
