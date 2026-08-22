@@ -6037,3 +6037,8 @@
 {"strategy": "trend", "trend_id": "高市早苗急了发文叫屈还引用论语", "trend_title": "高市早苗急了，发文“叫屈”还引用《论语》", "market_title": "", "reason": "LLM 判定不下注：話題內容是關於日本政治人物高市早苗的個人言論，並未提及沖繩縣知事選舉的任何資訊，因此與候選市場無關。"}
 {"strategy": "trend", "trend_id": "伊朗议会议长卡利巴夫伊朗收到邻国关于建立新安全安排和经济合作的信息", "trend_title": "伊朗议会议长卡利巴夫：伊朗收到邻国关于建立“新安全安排和经济合作”的信息。", "market_title": "", "reason": "LLM 判定不下注：话题提到伊朗收到邻国关于建立“新安全安排和经济合作”的信息。这与美国的核协议或外交会议没有直接关联，因此无法判断市场方向"}
 {"strategy": "trend", "trend_id": "马斯克回应癌症疫苗", "trend_title": "马斯克回应癌症疫苗", "market_title": "", "reason": "LLM 判定不下注：此話題為「馬斯克回應癌症疫苗」，與所有提供的市場（特斯拉和 SpaceX 合併、Cybercab 價格）無關。"}
+{"strategy": "trend", "trend_id": "哥伦比亚恢复向以色列出口煤炭", "trend_title": "哥伦比亚恢复向以色列出口煤炭", "market_title": "", "reason": "LLM 判定不下注：该话题是关于哥伦比亚恢复向以色列出口煤炭，这与以色列和哈马斯停火的议题没有直接关联。因此，没有合适的市场可以预测。"}
+{"strategy": "trend", "trend_id": "土耳其提议与叙利亚签订新安全协议对抗以色列", "trend_title": "土耳其提议：与叙利亚签订新安全协议对抗以色列", "market_title": "", "reason": "LLM 判定不下注：此話題涉及土耳其與敘利亞的新安全協議，但候選市場均為以色列與哈瑪斯之間的停火協議。話題與市場關聯性低，無法判斷方向。"}
+{"strategy": "trend", "trend_id": "imontheballottrumplendsahandtostrugglingdarlinegraham", "trend_title": "‘I’m on the ballot’: Trump lends a hand to struggling Darline Graham", "market_title": "", "reason": "LLM 判定不下注：話題關於川普支持某位候選人，與川普是否會與普丁會面無關。"}
+{"strategy": "trend", "trend_id": "乌克兰袭击俄罗斯一座物流中心引发大火", "trend_title": "乌克兰袭击俄罗斯一座物流中心 引发大火", "market_title": "", "reason": "信心 0.30 < 0.35：烏克蘭襲擊俄羅斯物流中心，顯示衝突並未緩和，短期內達成停火協議的可能性降低。但此"}
+{"strategy": "trend", "trend_id": "高市引用论语发文叫屈遭日本网民讽刺言行脱节", "trend_title": "高市引用《论语》发文“叫屈”，遭日本网民讽刺“言行脱节”", "market_title": "", "reason": "LLM 判定不下注：話題內容與選舉市場完全無關，無法判斷市場方向或置信度。"}
