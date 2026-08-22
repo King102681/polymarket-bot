@@ -6035,3 +6035,5 @@
 {"strategy": "trend", "trend_id": "外媒俄罗斯海军十余年来首次在地中海缺席", "trend_title": "外媒：俄罗斯海军十余年来首次在地中海“缺席”", "market_title": "", "reason": "LLM 判定不下注：該話題提及俄羅斯海軍在地中海的『缺席』，這是一個戰術或戰略層面的動態，但並未直接提供關於俄烏衝突停火、和平談判或外交會議"}
 {"strategy": "trend", "trend_id": "iransaysnewussanctionsviolatesovereigntyofotherstates", "trend_title": "Iran says new US sanctions violate sovereignty of other states", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "高市早苗急了发文叫屈还引用论语", "trend_title": "高市早苗急了，发文“叫屈”还引用《论语》", "market_title": "", "reason": "LLM 判定不下注：話題內容是關於日本政治人物高市早苗的個人言論，並未提及沖繩縣知事選舉的任何資訊，因此與候選市場無關。"}
+{"strategy": "trend", "trend_id": "伊朗议会议长卡利巴夫伊朗收到邻国关于建立新安全安排和经济合作的信息", "trend_title": "伊朗议会议长卡利巴夫：伊朗收到邻国关于建立“新安全安排和经济合作”的信息。", "market_title": "", "reason": "LLM 判定不下注：话题提到伊朗收到邻国关于建立“新安全安排和经济合作”的信息。这与美国的核协议或外交会议没有直接关联，因此无法判断市场方向"}
+{"strategy": "trend", "trend_id": "马斯克回应癌症疫苗", "trend_title": "马斯克回应癌症疫苗", "market_title": "", "reason": "LLM 判定不下注：此話題為「馬斯克回應癌症疫苗」，與所有提供的市場（特斯拉和 SpaceX 合併、Cybercab 價格）無關。"}
