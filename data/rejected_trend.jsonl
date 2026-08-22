@@ -6028,3 +6028,5 @@
 {"strategy": "trend", "trend_id": "外电伊朗将以军事攻势回击美经济战", "trend_title": "外电：伊朗将以军事攻势回击美经济战", "market_title": "", "reason": "LLM 判定不下注：該熱門話題提到伊朗將以軍事攻勢回擊美國的經濟戰，但候選市場主要關注與伊朗的核協議和外交會談的時程。這兩個市場與話題的關聯"}
 {"strategy": "trend", "trend_id": "一周展望黄金冲上4600后美伊制裁杰克逊霍尔pce将轮番轰炸", "trend_title": "一周展望：黄金冲上4600后，美伊制裁、杰克逊霍尔、PCE将轮番轰炸", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "关闭驻芬兰大使馆新开驻缅甸大使馆白俄罗斯外交大转向", "trend_title": "关闭驻芬兰大使馆，新开驻缅甸大使馆：白俄罗斯外交大转向", "market_title": "", "reason": "LLM 判定不下注：此話題關於白俄羅斯調整其外交策略，關閉駐芬蘭大使館並開設駐緬甸大使館，這與候選市場中所有關於俄烏之間停火、和平談判或外交"}
+{"strategy": "trend", "trend_id": "伊拉克总统如果局势持续升级我们将成为仅次于伊朗的受害国因为我们经济紧密相连完全依赖石油", "trend_title": "伊拉克总统：如果局势持续升级，我们将成为仅次于伊朗的受害国，因为我们经济紧密相连，完全依赖石油。", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題涉及伊拉克總統對局勢升級的擔憂，及其與伊朗經濟的關聯。該話題並未直接或間接提及美國與伊朗核協議的進展，因此"}
+{"strategy": "trend", "trend_id": "伊拉克证实部分油轮获得霍尔木兹海峡通行许可", "trend_title": "伊拉克证实部分油轮获得霍尔木兹海峡通行许可", "market_title": "Strait of Hormuz traffic returns to normal by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
