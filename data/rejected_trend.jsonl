@@ -6091,3 +6091,6 @@
 {"strategy": "trend", "trend_id": "whyisisraelbuildingnewillegalsettlements", "trend_title": "Why is Israel building new illegal settlements?", "market_title": "", "reason": "LLM 判定不下注：該話題討論以色列新建非法定居點，屬於中期地緣政治結構性議題。候選市場[0]和[1]都聚焦於停火協議在12月31日前的達成"}
 {"strategy": "trend", "trend_id": "雷扎伊警告伊朗邻国不要加入美国的经济战", "trend_title": "雷扎伊警告伊朗邻国不要加入美国的经济战", "market_title": "", "reason": "信心 0.30 < 0.35：雷扎伊的警告與美國的經濟戰是負面消息，不利於伊朗核協議的達成，但市場上該協議達成"}
 {"strategy": "trend", "trend_id": "irangrantspermissionforsomeiraqioiltankerstopassthroughhormuz", "trend_title": "Iran grants permission for some Iraqi oil tankers to pass through Hormuz", "market_title": "", "reason": "LLM 判定不下注：此話題涉及伊拉克油輪通過荷姆茲海峽的權限，與美國和伊朗的核協議談判或外交會議無直接關聯。市場目前定價反映了與這些核協議相"}
+{"strategy": "trend", "trend_id": "特朗普与加拿大的贸易战可能刺痛美国经济", "trend_title": "特朗普与加拿大的贸易战可能刺痛美国经济", "market_title": "", "reason": "LLM 判定不下注：話題是特朗普與加拿大的貿易戰，與候選市場關注重點（特朗普與普丁是否會面）不符。"}
+{"strategy": "trend", "trend_id": "伊朗官员任何参与对伊经济限制的国家都被视为敌人", "trend_title": "伊朗官员：任何参与对伊经济限制的国家都被视为敌人", "market_title": "", "reason": "LLM 判定不下注：該話題是伊朗單方面宣稱，將與經濟制裁相關的國家視為敵人，這是一個較為強硬但表態性的言論，並未直接指向特定協議或會議是否會"}
+{"strategy": "trend", "trend_id": "伊朗外长阿拉格齐与巴基斯坦陆军参谋长穆尼尔在周六进行了通话就地区局势与安全议题展开探讨", "trend_title": "伊朗外长阿拉格齐与巴基斯坦陆军参谋长穆尼尔在周六进行了通话，就地区局势与安全议题展开探讨。", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
