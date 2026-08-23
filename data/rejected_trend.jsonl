@@ -6147,3 +6147,5 @@
 {"strategy": "trend", "trend_id": "据沙特卫星电视台消息人士表示已提出修改原定于9月30日的限制武器归国家的截止日期的提案伊拉克的派系倾向于根据伊朗的愿景冻结使用武器两年", "trend_title": "据沙特卫星电视台： 消息人士表示，已提出修改原定于9月30日的限制武器归国家的截止日期的提案。伊拉克的派系倾向于根据“伊朗的愿景”冻结使用武器两年。", "market_title": "", "reason": "LLM 判定不下注：话题关于伊拉克武器归属日期和伊朗的愿景，与三个候选市场（均涉及美伊核协议或外交会议）均无直接关联。"}
 {"strategy": "trend", "trend_id": "据伊朗国家媒体伊朗部长表示伊朗在法尔斯省南部的油田发现了超过75万亿立方英尺的天然气", "trend_title": "据伊朗国家媒体：伊朗部长表示，伊朗在法尔斯省南部的油田发现了超过7.5万亿立方英尺的天然气。", "market_title": "", "reason": "LLM 判定不下注：此話題關於伊朗發現天然氣儲量，與提供的關於美伊核協議、外交會議的市場完全無關。"}
 {"strategy": "trend", "trend_id": "freestyleflyawesomegptimage2", "trend_title": "freestylefly /      awesome-gpt-image-2", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題 \"freestylefly / awesome-gpt-image-2\" 來自 Github Trend"}
+{"strategy": "trend", "trend_id": "explosioninjures13intaiwan", "trend_title": "Explosion injures 13 in Taiwan", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於台灣發生的爆炸事件，造成13人受傷，這與候選市場的任何一個主題（中國入侵台灣、台灣行政院長人事變動、Nv"}
+{"strategy": "trend", "trend_id": "伊朗外长伊朗从未害怕过美国制裁", "trend_title": "伊朗外长：伊朗从未害怕过美国制裁", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
