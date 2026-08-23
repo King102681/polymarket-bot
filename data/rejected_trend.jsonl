@@ -6192,3 +6192,4 @@
 {"strategy": "trend", "trend_id": "willdonaldtrumpsnewsanctionsagainstiranwork", "trend_title": "Will Donald Trump’s new sanctions against Iran work?", "market_title": "", "reason": "LLM 判定不下注：話題是關於川普對伊朗的新制裁是否有效，與川普是否在2026年8月會見馬斯克完全無關。因此市場索引為-1。"}
 {"strategy": "trend", "trend_id": "当地州长表示俄罗斯正在抵御对斯塔夫罗波尔南部地区涅维诺梅斯克工业区的无人机袭击", "trend_title": "当地州长表示，俄罗斯正在抵御对斯塔夫罗波尔南部地区涅维诺梅斯克工业区的无人机袭击。", "market_title": "", "reason": "LLM 判定不下注：此話題僅是俄羅斯當地針對無人機襲擊的防禦行為，與俄烏之間停火、和平談判或外交會晤無直接關聯，因此選擇無關市場。"}
 {"strategy": "trend", "trend_id": "贝森特撰文对伊朗的经济战将势如诺曼底登陆", "trend_title": "贝森特撰文：对伊朗的经济战将势如“诺曼底登陆”", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美欲打空前经济战伊朗亮出石油出口反制牌", "trend_title": "美欲打空前经济战 伊朗亮出“石油出口反制牌”", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於美伊之間的經濟戰與石油出口反制，但所有候選市場都聚焦在外交會晤或核協議的特定日期，與當前熱點資訊的直接關"}
