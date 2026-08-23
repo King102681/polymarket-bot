@@ -6139,3 +6139,6 @@
 {"strategy": "trend", "trend_id": "伊朗称巴基斯坦陆军参谋长穆尼尔将于周一访问德黑兰", "trend_title": "伊朗称巴基斯坦陆军参谋长穆尼尔将于周一访问德黑兰", "market_title": "", "reason": "LLM 判定不下注：此話題是關於巴基斯坦陸軍參謀長訪問伊朗，與美國和伊朗的核協議或外交會議無直接關聯。因此，無法從此話題中判斷出任何候選市場"}
 {"strategy": "trend", "trend_id": "俄罗斯国防部俄罗斯军队在顿涅茨克和哈尔科夫地区对乌克兰军队的临时部署点发射了fab500和fab1500炸弹", "trend_title": "俄罗斯国防部：俄罗斯军队在顿涅茨克和哈尔科夫地区对乌克兰军队的临时部署点发射了FAB-500和FAB-1500炸弹。", "market_title": "", "reason": "LLM 判定不下注：此話題僅描述俄羅斯軍事行動，未提及任何與停火、和平談判或結束戰爭相關的資訊，因此與所有候選市場均無關聯。"}
 {"strategy": "trend", "trend_id": "俄媒哈萨克斯坦举行首次一院制议会选举", "trend_title": "俄媒：哈萨克斯坦举行首次一院制议会选举", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於哈薩克斯坦的議會選舉，與候選的兩個市場（涉及以色列選舉及川普的表態）完全無關。"}
+{"strategy": "trend", "trend_id": "外媒被美国批评后以色列再次袭击叙利亚", "trend_title": "外媒：被美国批评后，以色列再次袭击叙利亚", "market_title": "", "reason": "LLM 判定不下注：該話題是關於以色列與敘利亞的衝突，與候選市場的以色列與哈瑪斯的停火協議無關。"}
+{"strategy": "trend", "trend_id": "israeliwoundedinoccupiedwestbankstabbing", "trend_title": "Israeli wounded in occupied West Bank stabbing", "market_title": "", "reason": "LLM 判定不下注：這條新聞是關於約旦河西岸發生的刺傷事件，與停火協議的整體進展關係不大，因此無法直接對現有的停火市場做出判斷。"}
+{"strategy": "trend", "trend_id": "据日本共同社民调显示高市早苗内阁支持率降至502为上任以来最低", "trend_title": "据日本共同社：民调显示，高市早苗内阁支持率降至50.2%，为上任以来最低。", "market_title": "", "reason": "LLM 判定不下注：该话题关于日本内阁支持率的民调，与冲绳县知事选举的两个市场无关。"}
