@@ -6171,3 +6171,5 @@
 {"strategy": "trend", "trend_id": "据阿拉伯天空新闻埃及情报局局长会见了巴勒斯坦副总统兼巴勒斯坦民族委员会主席双方讨论了西岸局势和即将举行的巴勒斯坦选举", "trend_title": "据阿拉伯天空新闻：埃及情报局局长会见了巴勒斯坦副总统兼巴勒斯坦民族委员会主席，双方讨论了西岸局势和即将举行的巴勒斯坦选举。", "market_title": "Israel x Hamas Ceasefire Phase II by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "photosukrainecelebratesnationalflagday", "trend_title": "Photos: Ukraine celebrates National Flag Day", "market_title": "", "reason": "LLM 判定不下注：烏克蘭國旗日慶祝活動是國內民族主義情緒的體現，顯示烏克蘭士氣與國家認同感。然而此事件本身不包含關於停火、和平談判或外交會"}
 {"strategy": "trend", "trend_id": "以军在约旦河西岸打死一名巴勒斯坦少年", "trend_title": "以军在约旦河西岸打死一名巴勒斯坦少年", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及以色列在約旦河西岸軍事行動導致巴勒斯坦少年死亡，主要反映以巴衝突的戰術層面事件。候選市場[0]與[1]皆聚焦"}
+{"strategy": "trend", "trend_id": "土耳其央行将融资利率恢复至37的政策利率", "trend_title": "土耳其央行将融资利率恢复至37%的政策利率", "market_title": "", "reason": "LLM 判定不下注：土耳其央行政策與美聯儲利率決議無直接關聯。該話題涉及土耳其貨幣政策應對通膨，而候選市場全部聚焦於2026年美聯儲會議決策"}
+{"strategy": "trend", "trend_id": "美军称对伊朗海上封锁以来已拦截75艘商船", "trend_title": "美军称对伊朗海上封锁以来已拦截75艘商船", "market_title": "", "reason": "LLM 判定不下注：該話題是關於美軍在伊朗海上封鎖期間攔截商船的軍事行動，與候選市場中關於美伊核協議、外交會議時間和地點的預測沒有直接關聯。"}
