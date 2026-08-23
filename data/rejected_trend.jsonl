@@ -6142,3 +6142,4 @@
 {"strategy": "trend", "trend_id": "外媒被美国批评后以色列再次袭击叙利亚", "trend_title": "外媒：被美国批评后，以色列再次袭击叙利亚", "market_title": "", "reason": "LLM 判定不下注：該話題是關於以色列與敘利亞的衝突，與候選市場的以色列與哈瑪斯的停火協議無關。"}
 {"strategy": "trend", "trend_id": "israeliwoundedinoccupiedwestbankstabbing", "trend_title": "Israeli wounded in occupied West Bank stabbing", "market_title": "", "reason": "LLM 判定不下注：這條新聞是關於約旦河西岸發生的刺傷事件，與停火協議的整體進展關係不大，因此無法直接對現有的停火市場做出判斷。"}
 {"strategy": "trend", "trend_id": "据日本共同社民调显示高市早苗内阁支持率降至502为上任以来最低", "trend_title": "据日本共同社：民调显示，高市早苗内阁支持率降至50.2%，为上任以来最低。", "market_title": "", "reason": "LLM 判定不下注：该话题关于日本内阁支持率的民调，与冲绳县知事选举的两个市场无关。"}
+{"strategy": "trend", "trend_id": "乌克兰总统泽连斯基乌克兰国防部今年面临270亿美元的资金缺口", "trend_title": "乌克兰总统泽连斯基：乌克兰国防部今年面临270亿美元的资金缺口。", "market_title": "", "reason": "LLM 判定不下注：此話題關於烏克蘭國防部的資金缺口，與所有候選市場（均關於俄烏停火或和平談判時間）的相關性不高，無法判斷市場方向。"}
