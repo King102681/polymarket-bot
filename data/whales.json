@@ -232,5 +232,41 @@
       "tech": 0,
       "other": 21
     }
+  },
+  {
+    "proxy_wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "pseudonym": "?",
+    "profit_30d": 266256.6318540449,
+    "volume_30d": 15139085.688761003,
+    "roi_30d": 0.01758736540157833,
+    "wallet_value_now": 61546.9879,
+    "recent_trade_count_7d": 3000,
+    "last_trade_ts": 1787534323,
+    "sports_ratio": 0.7436666666666667,
+    "category_breakdown": {
+      "sports": 2231,
+      "crypto": 0,
+      "politics": 0,
+      "tech": 0,
+      "other": 769
+    }
+  },
+  {
+    "proxy_wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "pseudonym": "quavoo",
+    "profit_30d": 292156.6090829837,
+    "volume_30d": 23447010.012732003,
+    "roi_30d": 0.012460292759048561,
+    "wallet_value_now": 246242.8719,
+    "recent_trade_count_7d": 3000,
+    "last_trade_ts": 1787535000,
+    "sports_ratio": 0.6196666666666667,
+    "category_breakdown": {
+      "sports": 1859,
+      "crypto": 0,
+      "politics": 10,
+      "tech": 0,
+      "other": 1131
+    }
   }
 ]
