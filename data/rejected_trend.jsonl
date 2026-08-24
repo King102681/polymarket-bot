@@ -6261,3 +6261,5 @@
 {"strategy": "trend", "trend_id": "israelirestrictionscausefuelshortageinoccupiedwestbank", "trend_title": "Israeli restrictions cause fuel shortage in occupied West Bank", "market_title": "Israel x Hamas ceasefire cancelled by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "英伟达nvdao美股尾盘跌超3", "trend_title": "英伟达(NVDA.O)美股尾盘跌超3%。", "market_title": "", "reason": "LLM 判定不下注：話題是關於英偉達 (NVDA) 的股價下跌，而候選市場是關於 Ornn B200 Index 的價格。這兩個標的物並不直"}
 {"strategy": "trend", "trend_id": "伊朗经济和财政部长已做好应对美制裁的充分准备", "trend_title": "伊朗经济和财政部长: 已做好应对美制裁的充分准备", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "伊朗最高领袖顾问回应美方威胁将比以往更加坚决", "trend_title": "伊朗最高领袖顾问：回应美方威胁将比以往更加坚决", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "伊朗总统美国恃强凌弱无助于解决问题", "trend_title": "伊朗总统：美国恃强凌弱无助于解决问题", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
