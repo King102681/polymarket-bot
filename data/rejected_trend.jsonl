@@ -6209,3 +6209,5 @@
 {"strategy": "trend", "trend_id": "weknowthismovieiranmockslatestussanctions", "trend_title": "‘We know this movie’: Iran mocks latest US sanctions", "market_title": "", "reason": "LLM 判定不下注：此話題主要在諷刺美國對伊朗的制裁，並未提供有關核協議、外交會議或會議地點的具體新資訊。因此，無法判斷是否應買入 YES "}
 {"strategy": "trend", "trend_id": "消息人士卡塔尔能源公司发布招标出售9月10月在霍尔木兹海峡内装载的原油", "trend_title": "消息人士：卡塔尔能源公司发布招标，出售9月、10月在霍尔木兹海峡内装载的原油。", "market_title": "Iran charges Hormuz fees by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "俄军向士兵投放便携式激光步枪", "trend_title": "俄军向士兵投放便携式激光步枪", "market_title": "", "reason": "LLM 判定不下注：俄军投放便携式激光步枪是战术装备升级新闻，反映俄罗斯在当前冲突中的军事投入强度。这与候选市场所有停火/和平谈判的长期结果"}
+{"strategy": "trend", "trend_id": "burnhamvisitskyivtoreaffirmuksupportforukraine", "trend_title": "Burnham visits Kyiv to reaffirm UK support for Ukraine", "market_title": "Russia x Ukraine ceasefire by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "据国际文传电讯社俄罗斯国防部表示俄罗斯军队在黑海击中货船", "trend_title": "据国际文传电讯社：俄罗斯国防部表示，俄罗斯军队在黑海击中货船。", "market_title": "", "reason": "LLM 判定不下注：該新聞報導俄羅斯在黑海擊中貨船，屬於戰事進展的戰術性事件。候選市場均聚焦於『停火協議』或『和平談判』等戰略性終局結果，與"}
