@@ -6237,3 +6237,4 @@
 {"strategy": "trend", "trend_id": "外媒以色列防长因四只风筝发出威胁", "trend_title": "外媒：以色列防长因“四只风筝”发出威胁", "market_title": "", "reason": "LLM 判定不下注：這則新聞提到以色列國防部長因為「四隻風箏」發出威脅，但並未提及任何關於停火協議的取消或新階段的實現，與兩個候選市場的關聯"}
 {"strategy": "trend", "trend_id": "barrelbombmuftisentencedtolifeinsyria", "trend_title": "‘Barrel bomb mufti’ sentenced to life in Syria", "market_title": "", "reason": "信心 0.30 < 0.35：敘利亞一名被稱為‘汽油彈 mufti’的人被判處終身監禁，這可能導致當地衝突升級"}
 {"strategy": "trend", "trend_id": "iranfacesgreatestfinancialoffensiveeversaysustreasurysecretary", "trend_title": "Iran faces 'greatest financial offensive ever', says US treasury secretary", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "胡塞武装称袭击沙特军队及油轮警告将进一步升级行动", "trend_title": "胡塞武装称袭击沙特军队及油轮，警告将进一步升级行动", "market_title": "Bab el-Mandeb Strait effectively closed by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
