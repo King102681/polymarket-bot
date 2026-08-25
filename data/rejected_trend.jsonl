@@ -6289,3 +6289,5 @@
 {"strategy": "trend", "trend_id": "市场消息伊朗外长会见阿曼外长", "trend_title": "市场消息：伊朗外长会见阿曼外长。", "market_title": "", "reason": "信心 0.30 < 0.35：新闻是伊朗外长与阿曼外长会晤，这是外交活动的一部分，但本身并不能直接或快速地推动"}
 {"strategy": "trend", "trend_id": "anthropicsclaudepluginscommunity", "trend_title": "anthropics /      claude-plugins-community", "market_title": "Will Anthropic IPO by October 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "dietclaude", "trend_title": "Diet Claude", "market_title": "Will Anthropic IPO by October 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "普京签署关键基础设施安全保障令", "trend_title": "普京签署关键基础设施安全保障令", "market_title": "", "reason": "LLM 判定不下注：該話題提到普京簽署了關鍵基礎設施安全保障令，這是一項國內安全措施，與俄烏之間的停火或和平談判沒有直接關聯，因此無法判斷市"}
+{"strategy": "trend", "trend_id": "howtheussanctionsoniranimpactchina", "trend_title": "How the US sanctions on Iran impact China", "market_title": "", "reason": "LLM 判定不下注：該熱門話題討論的是美國對伊朗的制裁如何影響中國，而所有候選市場都聚焦於美伊核協議或雙邊會議的具體時間點，與熱門話題的關聯"}
