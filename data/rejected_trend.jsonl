@@ -6270,3 +6270,5 @@
 {"strategy": "trend", "trend_id": "分析师贝森特对伊朗的经济决战日更像是表演", "trend_title": "分析师：贝森特对伊朗的经济“决战日”更像是表演", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "howussanctionsoniranripplethroughglobalmarketsandconsumers", "trend_title": "How US sanctions on Iran ripple through global markets and consumers", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "以色列黑手党头目遭枪杀现场曝光", "trend_title": "以色列黑手党头目遭枪杀现场曝光", "market_title": "", "reason": "LLM 判定不下注：话题关于以色列黑手党头目被枪杀，与以色列和哈马斯停火的预测市场没有直接关系。"}
+{"strategy": "trend", "trend_id": "花旗把黄金短期目标价上调至4800摩根大通押注大波动", "trend_title": "花旗把黄金短期目标价上调至4800，摩根大通押注大波动！", "market_title": "Will Gold (XAUUSD) hit (HIGH) $4,800 Week of August 24 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "伊朗没有美军基地的国家无需害怕", "trend_title": "伊朗：没有美军基地的国家无需害怕", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於伊朗的聲明，強調無美軍基地的國家無需害怕，主要關乎區域安全和地緣政治的整體氛圍，但並未直接提供任何關於美"}
