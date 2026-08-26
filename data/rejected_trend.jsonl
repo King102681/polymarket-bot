@@ -6354,3 +6354,6 @@
 {"strategy": "trend", "trend_id": "佩斯科夫称普京未与美中情局长会谈", "trend_title": "佩斯科夫称普京未与美中情局长会谈", "market_title": "", "reason": "LLM 判定不下注：该话题关于俄罗斯总统普京是否与美国中央情报局局长会谈，与所有候选市场均无直接关联。候选市场主要涉及中美贸易、中国科技公司"}
 {"strategy": "trend", "trend_id": "黄金不会一直只涨不跌乌兹别克斯坦央行与华尔街巨头商讨投资策略", "trend_title": "“黄金不会一直只涨不跌” 乌兹别克斯坦央行与华尔街巨头商讨投资策略", "market_title": "Will Gold (XAUUSD) hit (HIGH) $4,700 in August?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "济州岛警察渎职擅自结案298起失踪案复查寻获四尸李在明下令改革警制加强问责", "trend_title": "济州岛警察渎职擅自结案  298起失踪案复查寻获四尸 李在明下令改革警制加强问责", "market_title": "", "reason": "LLM 判定不下注：該話題是關於濟州島警察瀆職導致失蹤案偵辦不力，並引發李在明下令改革警制。這與候選市場中關於韓國總統任期、GDP 成長率或"}
+{"strategy": "trend", "trend_id": "泽连斯基授予马斯克自由勋章", "trend_title": "泽连斯基授予马斯克“自由勋章”", "market_title": "", "reason": "LLM 判定不下注：授予马斯克“自由勋章”与俄乌停火或和谈协议的达成没有直接关联。此话题主要关注个人荣誉和对马斯克角色的象征性认可，而非地缘"}
+{"strategy": "trend", "trend_id": "萧美琴吁尽快建置无人机防卫能力勿让北京误判台湾防卫决心", "trend_title": "萧美琴吁尽快建置无人机防卫能力：勿让北京误判台湾防卫决心", "market_title": "Will China invade Taiwan by December 31, 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "childreningazafearflyingtheirkitesafterisraelithreat", "trend_title": "Children in Gaza fear flying their kites after Israeli threat", "market_title": "", "reason": "LLM 判定不下注：話題涉及加薩兒童放風箏被以色列威脅，反映的是人道主義困境與日常生活受限，而非直接指向停火談判的進展或破裂。兩個候選市場都"}
