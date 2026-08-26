@@ -6333,3 +6333,5 @@
 {"strategy": "trend", "trend_id": "topofficialsaysiranomanhaveagreednewtemporaryrouteinhormuz", "trend_title": "Top official says Iran, Oman have agreed new temporary route in Hormuz", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "德商银行伊朗局势传利好德国国债收益率下行", "trend_title": "德商银行：伊朗局势传利好，德国国债收益率下行", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "大陆新增一批台湾文旦柚输陆果园和包装厂", "trend_title": "大陆新增一批台湾文旦柚输陆果园和包装厂", "market_title": "", "reason": "LLM 判定不下注：话题涉及台湾文旦柚输陆，与地缘政治或台湾高层人事变动无直接关联，因此不符合任何现有市场。市场0和1的主题分别是“中国是否"}
+{"strategy": "trend", "trend_id": "spacex计划斥资千亿美元建火箭发射综合体", "trend_title": "SpaceX计划斥资千亿美元建火箭发射综合体", "market_title": "", "reason": "LLM 判定不下注：此話題是關於 SpaceX 的發射綜合體計劃，與候選市場中關於 Tesla 與 SpaceX 合併時間的預測無關。"}
+{"strategy": "trend", "trend_id": "停火谈判重大进展美伊传就霍尔木兹自由通航达成共识伊朗与阿曼拟设临时安全通道布油一度跌6", "trend_title": "停火谈判重大进展！美伊传就霍尔木兹自由通航达成共识、伊朗与阿曼拟设临时安全通道，布油一度跌6%", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
