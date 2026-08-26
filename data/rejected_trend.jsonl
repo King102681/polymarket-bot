@@ -6327,3 +6327,5 @@
 {"strategy": "trend", "trend_id": "国台办民进党当局应正视金门乡亲的利益诉求", "trend_title": "国台办：民进党当局应正视金门乡亲的利益诉求", "market_title": "", "reason": "信心 0.25 < 0.35：国台办声明涉及金门利益诉求，属于政治对话而非军事升级信号。此声明反映官方采取温和"}
 {"strategy": "trend", "trend_id": "russiasamazonwildberriescomesunderukraineattackagain", "trend_title": "Russia’s ‘Amazon’ Wildberries comes under Ukraine attack again", "market_title": "", "reason": "LLM 判定不下注：這則新聞報導的是針對俄羅斯電商 Wildberries 的攻擊，與俄烏停火協議或和談沒有直接關聯，因此選擇 -1。"}
 {"strategy": "trend", "trend_id": "消息人士部分油企将避开使用伊朗列入黑名单的船舶", "trend_title": "消息人士：部分油企将避开使用伊朗列入“黑名单”的船舶", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及油企規避伊朗相關船舶交易，主要反映的是對伊朗制裁的商業應對，而非核談判或外交會議的進展。四個候選市場均針對核"}
+{"strategy": "trend", "trend_id": "openaicodex产品负责人tibo好产品需要时间至少34天", "trend_title": "OpenAI Codex产品负责人Tibo：好产品需要时间。至少34天。", "market_title": "", "reason": "LLM 判定不下注：话题仅涉及OpenAI Codex产品负责人关于'好产品需要时间'的通用观点，未提及IPO时间表、市值估值或硬件产品发布"}
+{"strategy": "trend", "trend_id": "澳新银行现在预计澳洲联储将在11月加息25个基点", "trend_title": "澳新银行现在预计澳洲联储将在11月加息25个基点。", "market_title": "", "reason": "LLM 判定不下注：話題討論的是澳洲聯邦儲備銀行（RBA）11月的加息預期，但所有候選市場都是美聯準（Fed）的利率決策。兩者是完全不同的央"}
