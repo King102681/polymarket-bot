@@ -6351,3 +6351,6 @@
 {"strategy": "trend", "trend_id": "伊朗革命卫队发言人美国正在阻碍阿曼与伊朗之间的谈判进程导致谈判延迟", "trend_title": "伊朗革命卫队发言人：美国正在阻碍阿曼与伊朗之间的谈判进程，导致谈判延迟。", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "伊朗与阿曼接近达成霍尔木兹海峡通航临时协议", "trend_title": "伊朗与阿曼“接近达成”霍尔木兹海峡通航临时协议", "market_title": "", "reason": "LLM 判定不下注：此話題關於伊朗與阿曼就霍爾木茲海峽通航達成的『臨時協議』，這與美國與伊朗之間的『核協議』談判（市場0, 3）或『外交會晤"}
 {"strategy": "trend", "trend_id": "iranomanagreeontemporaryhormuzroutewhatweknow", "trend_title": "Iran, Oman agree on temporary Hormuz route: What we know", "market_title": "", "reason": "LLM 判定不下注：這條新聞是關於伊朗和阿曼之間就霍爾木茲海峽的臨時航線達成協議，這與候選市場中關於美伊核協議或外交會議的議題關聯性較低，無"}
+{"strategy": "trend", "trend_id": "佩斯科夫称普京未与美中情局长会谈", "trend_title": "佩斯科夫称普京未与美中情局长会谈", "market_title": "", "reason": "LLM 判定不下注：该话题关于俄罗斯总统普京是否与美国中央情报局局长会谈，与所有候选市场均无直接关联。候选市场主要涉及中美贸易、中国科技公司"}
+{"strategy": "trend", "trend_id": "黄金不会一直只涨不跌乌兹别克斯坦央行与华尔街巨头商讨投资策略", "trend_title": "“黄金不会一直只涨不跌” 乌兹别克斯坦央行与华尔街巨头商讨投资策略", "market_title": "Will Gold (XAUUSD) hit (HIGH) $4,700 in August?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "济州岛警察渎职擅自结案298起失踪案复查寻获四尸李在明下令改革警制加强问责", "trend_title": "济州岛警察渎职擅自结案  298起失踪案复查寻获四尸 李在明下令改革警制加强问责", "market_title": "", "reason": "LLM 判定不下注：該話題是關於濟州島警察瀆職導致失蹤案偵辦不力，並引發李在明下令改革警制。這與候選市場中關於韓國總統任期、GDP 成長率或"}
