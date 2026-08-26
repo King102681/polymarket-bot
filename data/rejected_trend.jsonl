@@ -6340,3 +6340,6 @@
 {"strategy": "trend", "trend_id": "俄官员证实美中情局局长访问俄罗斯", "trend_title": "俄官员证实美中情局局长访问俄罗斯", "market_title": "", "reason": "LLM 判定不下注：此話題是關於美中情報高層的接觸，與其他選項（關稅、小米、字節跳動、AI 模型、DeepSeek 是否被列入軍事公司名單）"}
 {"strategy": "trend", "trend_id": "伊朗总统强调特殊形势下要着力稳经济", "trend_title": "伊朗总统强调特殊形势下要着力“稳经济”", "market_title": "", "reason": "LLM 判定不下注：此話題是關於伊朗總統強調「穩經濟」，並未提供有關核協議或美伊外交會議的具體新資訊，與候選市場關聯性不高。"}
 {"strategy": "trend", "trend_id": "担忧ai风险比尔盖茨望与习近平讨论监管构想", "trend_title": "担忧AI风险 比尔盖茨望与习近平讨论监管构想", "market_title": "", "reason": "LLM 判定不下注：該話題是關於比爾蓋茨希望與習近平討論AI監管，這與市場『習主席是否在特定日期前會見某位日本官員』的預測完全無關。因此，無"}
+{"strategy": "trend", "trend_id": "ukrainiandroneattackskill3asfiredestroyswildberrieswarehouse", "trend_title": "Ukrainian drone attacks kill 3 as fire destroys Wildberries warehouse", "market_title": "", "reason": "LLM 判定不下注：此話題描述的是烏克蘭對俄羅斯境內 Wildberries 倉庫的無人機襲擊，造成人員傷亡和財產損失。這與俄烏停火或和平談"}
+{"strategy": "trend", "trend_id": "今晚全球瞩目美联储最青睐通胀指标将出炉利率剧本会否改写", "trend_title": "今晚全球瞩目！美联储“最青睐通胀指标”将出炉 利率剧本会否改写？", "market_title": "", "reason": "LLM 判定不下注：這條熱門話題是關於即將公佈的美國通膨數據對未來利率政策的影響，但所有候選市場的到期時間都在 2026 年，遠超通膨數據通"}
+{"strategy": "trend", "trend_id": "thebulgarianvillagethatfearsbecominganiraniantarget", "trend_title": "The Bulgarian village that fears becoming an Iranian target", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是保加利亞村莊對可能成為伊朗目標的擔憂，與美國和伊朗的外交或核協議市場無直接關聯。"}
