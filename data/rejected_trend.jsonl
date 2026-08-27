@@ -6372,3 +6372,4 @@
 {"strategy": "trend", "trend_id": "howa95percentdropinhormuztrafficchangedglobalshipping", "trend_title": "How a 95 percent drop in Hormuz traffic changed global shipping", "market_title": "Strait of Hormuz traffic returns to normal by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "7月pce通胀略超预期美股三大指数微跌存储芯片逆势走强黄金失守4600美元", "trend_title": "7月PCE通胀略超预期，美股三大指数微跌，存储芯片逆势走强，黄金失守4600美元", "market_title": "", "reason": "LLM 判定不下注：該熱門話題討論的是7月份的PCE通脹數據及其對市場的影響，並未提供關於8月份通脹數據的預期或新資訊，因此無法判斷市場方向"}
 {"strategy": "trend", "trend_id": "西媒美国近50年对伊朗制裁徒劳无功", "trend_title": "西媒：美国近50年对伊朗制裁徒劳无功", "market_title": "", "reason": "信心 0.30 < 0.35：這篇新聞指出美國對伊朗長期的制裁是徒勞的，暗示制裁本身無法達到預期效果。這可能增"}
+{"strategy": "trend", "trend_id": "美媒称中情局长警告俄勿攻击北约国家克里姆林宫否认", "trend_title": "美媒称中情局长警告俄“勿攻击北约国家”，克里姆林宫否认", "market_title": "NATO x Russia military clash by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
