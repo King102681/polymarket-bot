@@ -6378,3 +6378,6 @@
 {"strategy": "trend", "trend_id": "gemini35transcribe", "trend_title": "Gemini-3.5-Transcribe", "market_title": "", "reason": "LLM 判定不下注：這則熱門話題是關於 Gemini 3.5 的轉錄功能，而候選市場詢問的是 Gemini Pro 模型的發布時間。話題與市"}
 {"strategy": "trend", "trend_id": "美股收盘英伟达暴涨近9点燃ai行情沃什讲话接棒成市场焦点", "trend_title": "美股收盘：英伟达暴涨近9%点燃AI行情 沃什讲话接棒成市场焦点", "market_title": "", "reason": "LLM 判定不下注：該熱門話題主要關於美股和AI行情，與聯準會升息的市場預期沒有直接關聯。因此，沒有適合的市場可以選擇。"}
 {"strategy": "trend", "trend_id": "金十图示2026年08月28日周五黄金etf持仓报告", "trend_title": "金十图示：2026年08月28日（周五）黄金ETF持仓报告", "market_title": "", "reason": "LLM 判定不下注：该话题是关于黄金ETF持仓报告，这是一个历史数据报告，本身不包含对未来价格走势的新信息，因此无法判断市场方向和信心。"}
+{"strategy": "trend", "trend_id": "沃什杰克逊霍尔首秀放鹰称美联储还有工作要做暗示通胀不快速下降准备加息", "trend_title": "沃什杰克逊霍尔首秀放鹰，称美联储“还有工作要做”，暗示通胀不快速下降准备加息", "market_title": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "乌克兰总统泽连斯基希望乌克兰每天向俄罗斯发射1000架远程无人机", "trend_title": "乌克兰总统泽连斯基：希望乌克兰每天向俄罗斯发射1000架远程无人机。", "market_title": "", "reason": "LLM 判定不下注：该话题关于乌克兰总统希望每天发射无人机，这与是否达成停火或和平谈判没有直接关联，因此不选定任何市场。"}
+{"strategy": "trend", "trend_id": "中共政治局部署西藏泥石流救援习近平李强作救灾指示", "trend_title": "中共政治局部署西藏泥石流救援 习近平李强作救灾指示", "market_title": "", "reason": "LLM 判定不下注：此話題關於中國政治局部署西藏泥石流救援，並無任何資訊與候選市場（涉及日本官員會面或中國官員被判刑）有關聯。"}
