@@ -6399,3 +6399,5 @@
 {"strategy": "trend", "trend_id": "over113000russiansfleetogeorgiaamiddraftrumors", "trend_title": "Over 113,000 Russians Flee to Georgia Amid Draft Rumors", "market_title": "", "reason": "LLM 判定不下注：該熱門話題主要關注俄羅斯因徵兵傳聞而逃往喬治亞的人數，這與俄烏之間的停火協議或和平談判沒有直接關聯，因此選擇最不相關的市"}
 {"strategy": "trend", "trend_id": "欧盟将迅速回应西班牙应对移民危机的求助", "trend_title": "欧盟将迅速回应西班牙应对移民危机的求助", "market_title": "", "reason": "LLM 判定不下注：話題是關於歐盟對西班牙移民危機的回應，這與德國州選舉或科索沃總統選舉無關。"}
 {"strategy": "trend", "trend_id": "warpbuildsselfimprovingagentsonclaude", "trend_title": "Warp builds self-improving agents on Claude", "market_title": "", "reason": "LLM 判定不下注：這則熱門話題是關於 Warp 公司基於 Claude 建構可自我改進的代理人。這與 Anthropic 的市值預測市場（"}
+{"strategy": "trend", "trend_id": "特朗普6月两度交易酷澎恰逢韩国处罚该公司引发两国争端", "trend_title": "特朗普6月两度交易“酷澎”，恰逢韩国处罚该公司引发两国争端", "market_title": "", "reason": "LLM 判定不下注：話題關於特朗普交易\"酷澎\"以及韓國對該公司的處罰，與候選市場中關於特朗普讚揚特定政治人物的預測無關。"}
+{"strategy": "trend", "trend_id": "伊拉克官员伊拉克寻求成为伊朗和美国之间的桥梁", "trend_title": "伊拉克官员：伊拉克寻求成为伊朗和美国之间的“桥梁”", "market_title": "", "reason": "LLM 判定不下注：該話題指出伊拉克尋求扮演伊朗和美國之間的橋樑角色，這是一個外交姿態，但並未提供任何關於核協議談判進展或特定會議發生的具體"}
