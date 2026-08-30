@@ -6410,3 +6410,8 @@
 {"strategy": "trend", "trend_id": "2014年以来俄罗斯遭制裁已超33万项", "trend_title": "2014年以来俄罗斯遭制裁已超3.3万项", "market_title": "", "reason": "LLM 判定不下注：該熱門話題僅是陳述一個事實，即自2014年以來俄羅斯面臨的制裁數量。這與候選市場中關於停火或和平談判的預測沒有直接關聯，"}
 {"strategy": "trend", "trend_id": "台湾竹北市蓝白合破局黄国昌其他县市合作承诺不变", "trend_title": "台湾竹北市蓝白合破局 黄国昌：其他县市合作承诺不变", "market_title": "", "reason": "LLM 判定不下注：話題涉及台灣地方政治（竹北市藍白合破局、黃國昌評論），屬於台灣內部政治動態。候選市場中：[0]涉及中國軍事行動、[1]涉"}
 {"strategy": "trend", "trend_id": "杰克逊霍尔大会结束了除了沃什放鹰还有这些要点", "trend_title": "杰克逊霍尔大会结束了，除了沃什“放鹰”，还有这些要点", "market_title": "Will there be no change in Fed interest rates after the October 2026 meeting?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "欧盟委员会发言人冰岛仍然是欧盟的紧密伙伴", "trend_title": "欧盟委员会发言人：冰岛仍然是欧盟的紧密伙伴。", "market_title": "", "reason": "LLM 判定不下注：該話題關於歐盟與冰島的外交關係，與德國大選或科索沃總統選舉無關。"}
+{"strategy": "trend", "trend_id": "whydidaustraliagivevisastoisraelisoldiersbutnotbassemyoussef", "trend_title": "Why did Australia give visas to Israeli soldiers but not Bassem Youssef?", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是澳洲給予以色列士兵簽證但拒絕給予 Bassem Youssef 簽證的爭議，與是否達成停火協議的市場無關。"}
+{"strategy": "trend", "trend_id": "长鑫存储起诉五角大楼将赫格塞思列为被告", "trend_title": "长鑫存储起诉五角大楼，将赫格塞思列为被告", "market_title": "", "reason": "LLM 判定不下注：話題是關於長鑫存儲起訴五角大樓，這與北約與俄羅斯的軍事衝突或無人機被擊落無關，因此不選擇任何市場。話題本身未提供可判斷市"}
+{"strategy": "trend", "trend_id": "欧盟委员会发言人尊重冰岛人民的选择", "trend_title": "欧盟委员会发言人：尊重冰岛人民的选择。", "market_title": "", "reason": "LLM 判定不下注：话题关于欧盟委员会发言人对冰岛人民选择的评论，与德国州选举或科索沃总统选举的候选项市场没有任何关联。"}
+{"strategy": "trend", "trend_id": "russiaconductsicbmtestfollowingciadirectorsvisit", "trend_title": "Russia Conducts ICBM Test Following CIA Director’s Visit", "market_title": "", "reason": "LLM 判定不下注：此話題是關於俄羅斯試射洲際彈道飛彈，這與俄烏停火或和平談判的市場主題關聯性不高，且話題本身並未提供足夠資訊判斷市場方向。"}
