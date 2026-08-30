@@ -6409,3 +6409,4 @@
 {"strategy": "trend", "trend_id": "沃什放鹰高盛依旧不信9月加息摩根大通称还是要看8月非农和cpi", "trend_title": "沃什“放鹰”，高盛依旧不信“9月加息”、摩根大通称“还是要看8月非农和CPI”", "market_title": "", "reason": "LLM 判定不下注：話題提及的「9月加息」和「8月非農CPI」是針對2024年的近期事件，但候選市場的到期時間均為2026年，時間跨度過大，"}
 {"strategy": "trend", "trend_id": "2014年以来俄罗斯遭制裁已超33万项", "trend_title": "2014年以来俄罗斯遭制裁已超3.3万项", "market_title": "", "reason": "LLM 判定不下注：該熱門話題僅是陳述一個事實，即自2014年以來俄羅斯面臨的制裁數量。這與候選市場中關於停火或和平談判的預測沒有直接關聯，"}
 {"strategy": "trend", "trend_id": "台湾竹北市蓝白合破局黄国昌其他县市合作承诺不变", "trend_title": "台湾竹北市蓝白合破局 黄国昌：其他县市合作承诺不变", "market_title": "", "reason": "LLM 判定不下注：話題涉及台灣地方政治（竹北市藍白合破局、黃國昌評論），屬於台灣內部政治動態。候選市場中：[0]涉及中國軍事行動、[1]涉"}
+{"strategy": "trend", "trend_id": "杰克逊霍尔大会结束了除了沃什放鹰还有这些要点", "trend_title": "杰克逊霍尔大会结束了，除了沃什“放鹰”，还有这些要点", "market_title": "Will there be no change in Fed interest rates after the October 2026 meeting?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
