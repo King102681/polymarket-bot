@@ -6415,3 +6415,4 @@
 {"strategy": "trend", "trend_id": "长鑫存储起诉五角大楼将赫格塞思列为被告", "trend_title": "长鑫存储起诉五角大楼，将赫格塞思列为被告", "market_title": "", "reason": "LLM 判定不下注：話題是關於長鑫存儲起訴五角大樓，這與北約與俄羅斯的軍事衝突或無人機被擊落無關，因此不選擇任何市場。話題本身未提供可判斷市"}
 {"strategy": "trend", "trend_id": "欧盟委员会发言人尊重冰岛人民的选择", "trend_title": "欧盟委员会发言人：尊重冰岛人民的选择。", "market_title": "", "reason": "LLM 判定不下注：话题关于欧盟委员会发言人对冰岛人民选择的评论，与德国州选举或科索沃总统选举的候选项市场没有任何关联。"}
 {"strategy": "trend", "trend_id": "russiaconductsicbmtestfollowingciadirectorsvisit", "trend_title": "Russia Conducts ICBM Test Following CIA Director’s Visit", "market_title": "", "reason": "LLM 判定不下注：此話題是關於俄羅斯試射洲際彈道飛彈，這與俄烏停火或和平談判的市場主題關聯性不高，且話題本身並未提供足夠資訊判斷市場方向。"}
+{"strategy": "trend", "trend_id": "德媒民调显示德国选择党将赢得萨克森安哈尔特州议会选举", "trend_title": "德媒：民调显示德国选择党将赢得萨克森-安哈尔特州议会选举", "market_title": "", "reason": "LLM 判定不下注：話題是關於德國的選舉，與以色列的選舉無關，因此市場索引為 -1。因為話題與市場完全無關，所以無法判斷方向或信心。"}
