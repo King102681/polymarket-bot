@@ -6401,3 +6401,8 @@
 {"strategy": "trend", "trend_id": "warpbuildsselfimprovingagentsonclaude", "trend_title": "Warp builds self-improving agents on Claude", "market_title": "", "reason": "LLM 判定不下注：這則熱門話題是關於 Warp 公司基於 Claude 建構可自我改進的代理人。這與 Anthropic 的市值預測市場（"}
 {"strategy": "trend", "trend_id": "特朗普6月两度交易酷澎恰逢韩国处罚该公司引发两国争端", "trend_title": "特朗普6月两度交易“酷澎”，恰逢韩国处罚该公司引发两国争端", "market_title": "", "reason": "LLM 判定不下注：話題關於特朗普交易\"酷澎\"以及韓國對該公司的處罰，與候選市場中關於特朗普讚揚特定政治人物的預測無關。"}
 {"strategy": "trend", "trend_id": "伊拉克官员伊拉克寻求成为伊朗和美国之间的桥梁", "trend_title": "伊拉克官员：伊拉克寻求成为伊朗和美国之间的“桥梁”", "market_title": "", "reason": "LLM 判定不下注：該話題指出伊拉克尋求扮演伊朗和美國之間的橋樑角色，這是一個外交姿態，但並未提供任何關於核協議談判進展或特定會議發生的具體"}
+{"strategy": "trend", "trend_id": "朝鲜国防部长努光铁遭解职执政党内部同样降职", "trend_title": "朝鲜国防部长努光铁遭解职 执政党内部同样降职", "market_title": "", "reason": "LLM 判定不下注：该话题涉及朝鲜国防部长被解职和内部降职，但并未提供任何关于朝鲜未来核试验次数或美国前总统特朗普是否会访问朝鲜的信息。因此"}
+{"strategy": "trend", "trend_id": "israelisettlersattackinternationalnewsteaminoccupiedwestbank", "trend_title": "Israeli settlers attack international news team in occupied West Bank", "market_title": "", "reason": "LLM 判定不下注：該話題關於以色列定居者襲擊新聞團隊，與停火協議無關。"}
+{"strategy": "trend", "trend_id": "沃什杰克逊霍尔讲完美联储9月不加也得加", "trend_title": "沃什“杰克逊霍尔”讲完，美联储9月“不加也得加”？", "market_title": "", "reason": "LLM 判定不下注：话题讨论的是9月份的议息会议，但所有提供的市场都是针对2026年10月或12月的会议，时间跨度过大，无法直接对应。且话题"}
+{"strategy": "trend", "trend_id": "芬兰总统俄罗斯不会攻击北约", "trend_title": "芬兰总统：俄罗斯不会攻击北约", "market_title": "", "reason": "LLM 判定不下注：芬兰总统的言论是关于俄罗斯不会攻击北约，这与现有市场关于俄乌停火或和谈的议题没有直接关联。因此，无法判断该话题对现有市场"}
+{"strategy": "trend", "trend_id": "台湾特稿台湾生育率滑至全球最低养儿太重本年轻人拒买单", "trend_title": "台湾特稿：台湾生育率滑至全球最低 养儿太重本年轻人拒买单", "market_title": "", "reason": "LLM 判定不下注：熱門話題討論台灣生育率創全球新低，反映人口老化與年輕人負擔過重等社會問題。候選市場涵蓋中國侵台、台灣政治人事、川普出訪等"}
