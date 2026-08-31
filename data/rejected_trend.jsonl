@@ -6433,3 +6433,7 @@
 {"strategy": "trend", "trend_id": "usandirantradestrikesforfirsttimeinweeks", "trend_title": "US and Iran trade strikes for first time in weeks", "market_title": "", "reason": "信心 0.30 < 0.35：新聞提到美伊數週來首次進行軍事打擊，這顯示雙方關係緊張，並非趨緩。這可能延遲任何"}
 {"strategy": "trend", "trend_id": "trumpsaysiranisdeadvowstorespondafterrenewedclashes", "trend_title": "Trump says Iran is ‘dead’, vows to respond after renewed clashes", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於川普對伊朗局勢的評論，與候選市場中關於川普與其他領導人會面的預測沒有任何關聯性。"}
 {"strategy": "trend", "trend_id": "日元再破160贝森特发声日元已得到控制日本央行将做正确的事安倍经济学已走到尽头", "trend_title": "日元再破160！贝森特发声：日元“已得到控制”，日本央行“将做正确的事”，“安倍经济学”已走到尽头", "market_title": "Bank of Japan increases interest rates by 25 bps after the October 2026 meeting?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "极端天气致以色列多地供水受影响", "trend_title": "极端天气致以色列多地供水受影响", "market_title": "", "reason": "LLM 判定不下注：話題是關於以色列極端天氣影響供水，與停火協議無關。"}
+{"strategy": "trend", "trend_id": "一个多月来首次美国空袭伊朗拉腊克岛油价应声走高", "trend_title": "一个多月来首次！美国空袭伊朗拉腊克岛，油价应声走高", "market_title": "", "reason": "LLM 判定不下注：文章提到美國空襲伊朗，但候選市場皆與伊核協議或外交會議相關，與實際事件關聯性不高，故無法判斷。"}
+{"strategy": "trend", "trend_id": "美国一个月来首次打击伊朗伊方随后反击", "trend_title": "美国一个月来首次打击伊朗 伊方随后反击", "market_title": "", "reason": "LLM 判定不下注：話題描述的是美國與伊朗的軍事衝突，與核協議談判的市場（[0] 和 [1]）關聯性不高，因此選擇市場索引為 -1。目前沒有"}
+{"strategy": "trend", "trend_id": "杨瀚森绝杀中国男篮险胜黎巴嫩", "trend_title": "杨瀚森绝杀 中国男篮险胜黎巴嫩", "market_title": "", "reason": "LLM 判定不下注：话题是关于中国男篮比赛的绝杀，与黎巴嫩、以色列军事行动毫无关联。因此选择 None。"}
