@@ -6449,3 +6449,7 @@
 {"strategy": "trend", "trend_id": "台湾加权指数9月1日周二收盘上涨82025点涨幅178报4694872点", "trend_title": "台湾加权指数9月1日（周二）收盘上涨820.25点，涨幅1.78%，报46948.72点。", "market_title": "", "reason": "LLM 判定不下注：台灣加權指數單日上漲是股市技術面表現，反映短期市場情緒與資金流動，與任何候選市場無直接因果關係。候選市場皆為地緣政治或政"}
 {"strategy": "trend", "trend_id": "特朗普称美正评估对英阿争议岛屿立场", "trend_title": "特朗普称美正评估对英阿争议岛屿立场", "market_title": "", "reason": "LLM 判定不下注：話題涉及特朗普對英阿福克蘭群島爭議的立場評估，屬於國際外交政策層面。候選市場全部聚焦於『特朗普是否在2026年與特定人物"}
 {"strategy": "trend", "trend_id": "赖清德台湾以民主法治为基础稳定供应全球半导体市场", "trend_title": "赖清德：台湾以民主法治为基础 稳定供应全球半导体市场", "market_title": "Will China invade Taiwan by December 31, 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "普京称俄愿意将中俄间的免签制度转为永久性安排外交部回应", "trend_title": "普京称俄愿意将中俄间的免签制度转为永久性安排，外交部回应", "market_title": "", "reason": "LLM 判定不下注：此話題關於俄烏之間的免簽制度，與俄烏戰爭的停火協議或和平談判無關，因此選擇市場索引 -1。"}
+{"strategy": "trend", "trend_id": "阿曼石油产量截至7月底同比增长113平均油价上涨157", "trend_title": "阿曼石油产量截至7月底同比增长11.3% 平均油价上涨15.7%", "market_title": "Will WTI Crude Oil (WTI) hit (HIGH) $90 in September?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "israeliattacksongazakillatleastfourincludingchildren", "trend_title": "Israeli attacks on Gaza kill at least four, including children", "market_title": "Israel x Hamas Ceasefire Phase II by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "据日本共同社日本首相高市早苗称日本将实现强劲经济与财政可持续性", "trend_title": "据日本共同社：日本首相高市早苗称，日本将实现强劲经济与财政可持续性。", "market_title": "", "reason": "LLM 判定不下注：話題是關於日本首相的經濟政策聲明，與沖繩知事選舉無關。"}
