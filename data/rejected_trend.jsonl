@@ -6497,3 +6497,10 @@
 {"strategy": "trend", "trend_id": "上合组织峰会战争赋予习近平更大影响力", "trend_title": "上合组织峰会：战争赋予习近平更大影响力", "market_title": "", "reason": "LLM 判定不下注：該話題是關於上合組織峰會賦予習近平的影響力，與其是否被判刑、與特定人士會面或訪問美國的市場預測無直接關聯。"}
 {"strategy": "trend", "trend_id": "小非农低于预期美国8月adp新增就业38万人创下今年以来最低单月增长纪录", "trend_title": "“小非农”低于预期！美国8月ADP新增就业3.8万人，创下今年以来最低单月增长纪录", "market_title": "US recession by end of 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美国法官阻止环保署将加州标志性汽车排放法规提交共和党控制的国会阻止其可能被废除", "trend_title": "美国法官阻止环保署将加州标志性汽车排放法规提交共和党控制的国会，阻止其可能被废除。", "market_title": "", "reason": "LLM 判定不下注：此話題是關於美國法官阻止環保署將汽車排放法規提交國會，這與參議院或眾議院的控制權選舉沒有直接關聯。因此，沒有市場能夠真正"}
+{"strategy": "trend", "trend_id": "伊朗警告美伊对抗可能成为更大规模战争的前奏", "trend_title": "伊朗警告：美伊对抗可能成为“更大规模战争的前奏”", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "乌克兰两大情报机构爆发枪战泽连斯基发声", "trend_title": "乌克兰两大情报机构爆发枪战，泽连斯基发声", "market_title": "", "reason": "LLM 判定不下注：此話題描述烏克蘭內部情報機構的衝突，與俄烏停火或和談市場無直接關聯。市場定價反映的是俄烏之間的外交進展，而非烏克蘭內政。"}
+{"strategy": "trend", "trend_id": "美国商务部长台湾下周宣布加码投资多达300亿美元", "trend_title": "美国商务部长：台湾下周宣布加码投资多达300亿美元", "market_title": "", "reason": "LLM 判定不下注：話題是關於台灣的投資，與候選市場中美國前總統川普的訪問行程無關。"}
+{"strategy": "trend", "trend_id": "stephenasmithontrumpdemocratsandthepoliticsofchaos", "trend_title": "Stephen A. Smith on Trump, Democrats and the politics of chaos", "market_title": "", "reason": "LLM 判定不下注：話題是Stephen A. Smith評論Trump、民主黨與政治混亂，屬於美國國內政治評論。候選市場[0]和[1]均涉"}
+{"strategy": "trend", "trend_id": "wti原油日内跌幅达100现报8823美元桶", "trend_title": "WTI原油日内跌幅达1.00%，现报88.23美元/桶。", "market_title": "Will WTI Crude Oil (WTI) hit (HIGH) $95 in September?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "特朗普提出将霍尔木兹海峡更名为特朗普海峡", "trend_title": "特朗普提出将霍尔木兹海峡更名为“特朗普海峡”", "market_title": "", "reason": "LLM 判定不下注：该话题是关于特朗普提议更改海峡名称，与特朗普是否会与普京会面或在何处会面没有直接关系，因此不选择任何市场。"}
+{"strategy": "trend", "trend_id": "中国大陆在台湾以东海域开展海洋地球物理综合调查", "trend_title": "中国大陆在台湾以东海域开展海洋地球物理综合调查", "market_title": "", "reason": "信心 0.28 < 0.35：中国在台湾以东海域开展海洋地球物理综合调查，体现军事侦察和海域控制权争夺升级，属"}
