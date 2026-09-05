@@ -6552,3 +6552,4 @@
 {"strategy": "trend", "trend_id": "今晚美国非农大考好消息也是坏消息", "trend_title": "今晚美国非农大考，“好消息”也是“坏消息”！", "market_title": "US recession by end of 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "和平委员会资助以军清理加沙废墟引争议", "trend_title": "“和平委员会”资助以军清理加沙废墟引争议", "market_title": "Israel x Hamas Ceasefire Phase II by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "russiastrikesukraineintelligencehqinmajorescalation", "trend_title": "Russia strikes Ukraine intelligence HQ in ‘major escalation’", "market_title": "", "reason": "LLM 判定不下注：話題提及俄羅斯對烏克蘭情報總部發動攻擊，屬於衝突升級的行動，但所有候選市場都與停火協議的達成時間有關。此話題並未提供任何"}
+{"strategy": "trend", "trend_id": "扎波罗热核电站周边实施临时停火以抢修外部供电线路", "trend_title": "扎波罗热核电站周边实施临时停火 以抢修外部供电线路", "market_title": "", "reason": "LLM 判定不下注：话题是关于扎波罗热核电站的临时停火，与候选项中关于美伊之间停火的市场无关。"}
