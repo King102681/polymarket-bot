@@ -6593,3 +6593,8 @@
 {"strategy": "trend", "trend_id": "人民日报上半年台湾民众赴陆人次同比增249", "trend_title": "人民日报：上半年台湾民众赴陆人次同比增24.9%", "market_title": "", "reason": "信心 0.25 < 0.35：台湾民众赴陆人次增加24.9%反映两岸交流增温，社会融合度提升，这与军事冲突风险"}
 {"strategy": "trend", "trend_id": "下周美国cpi会触发9月加息吗美银花旗给出两个相反剧本", "trend_title": "下周美国CPI会触发9月加息吗？美银、花旗给出两个相反剧本", "market_title": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "gpt6astraonrobotarms", "trend_title": "GPT-6 Astra on robot arms", "market_title": "Will the highest score achieved by an OpenAI model on Humanity’s Last Exam in 20", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "土耳其副总统耶尔马兹战争对通胀的直接和间接影响估计约为7个百分点", "trend_title": "土耳其副总统耶尔马兹：战争对通胀的直接和间接影响估计约为7个百分点。", "market_title": "Will annual inflation be 3.3% in August?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "俄首次通过管道将原油输送至北冰洋码头", "trend_title": "俄首次通过管道将原油输送至北冰洋码头", "market_title": "Will WTI Crude Oil (WTI) hit (LOW) $80 in September?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "usenvoyssetforukrainetalksaftermeetingputininrussia", "trend_title": "US envoys set for Ukraine talks after meeting Putin in Russia", "market_title": "", "reason": "信心 0.30 < 0.35：美國官員將在會見普丁後與烏克蘭進行會談，這顯示了外交努力的進展。雖然具體結果未知"}
+{"strategy": "trend", "trend_id": "美债抛售只是暂时现象贝森特伊朗战事结束后油价或跌至40美元", "trend_title": "美债抛售只是暂时现象？贝森特：伊朗战事结束后油价或跌至40美元", "market_title": "", "reason": "LLM 判定不下注：该话题主要讨论美债抛售和油价，与核协议市场无关。"}
+{"strategy": "trend", "trend_id": "伊朗发动袭击回击美国", "trend_title": "伊朗发动袭击回击美国", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於伊朗與美國的軍事衝突，而候選市場是關於核協議的達成時間。兩者並無直接關聯性，因此選擇 -1。"}
