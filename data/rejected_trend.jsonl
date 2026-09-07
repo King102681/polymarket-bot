@@ -6633,3 +6633,5 @@
 {"strategy": "trend", "trend_id": "中国央行加快增持黄金规模创三年来最高", "trend_title": "中国央行加快增持黄金 规模创三年来最高", "market_title": "Will Gold (XAUUSD) hit (HIGH) $4,650 Week of September 7 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "伊朗公布一款新型导弹", "trend_title": "伊朗公布一款新型导弹", "market_title": "", "reason": "LLM 判定不下注：伊朗公布新型導彈與核協議的市場預測關係不大，該話題無法提供足夠的資訊來判斷市場方向。"}
 {"strategy": "trend", "trend_id": "伊朗警告韩国不要向霍尔木兹海峡派兵", "trend_title": "伊朗警告韩国不要向霍尔木兹海峡派兵", "market_title": "", "reason": "LLM 判定不下注：此話題關於伊朗警告韓國不要向霍爾木茲海峽派兵，與美國與伊朗核協議的市場毫無關聯。因此選擇 index -1。"}
+{"strategy": "trend", "trend_id": "消息人士乌克兰基辅拉响防空警报", "trend_title": "消息人士：乌克兰基辅拉响防空警报。", "market_title": "", "reason": "LLM 判定不下注：这条热门话题是关于乌克兰基辅拉响防空警报，这与是否签订停火协议或进行和平谈判没有直接关联，因此不选择任何市场。"}
+{"strategy": "trend", "trend_id": "特朗普晒ai图谈炒股我已为美国赚取数千亿美元", "trend_title": "特朗普晒AI图谈炒股：“我已为美国赚取数千亿美元”", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於特朗普談論炒股並聲稱他為美國賺取了巨額資金，並附帶了 AI 生成的圖片。這個話題與「安娜·凱利是否會成為"}
