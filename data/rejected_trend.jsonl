@@ -6641,3 +6641,5 @@
 {"strategy": "trend", "trend_id": "iranwarliveqatarwarnsofindustrialcatastropheifcrisiscontinues", "trend_title": "Iran war live: Qatar warns of ‘industrial catastrophe’ if crisis continues", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "黄仁勋agi已到来openaiastra背后是英伟达40万张gpu即将上线", "trend_title": "黄仁勋：AGI已到来！OpenAI Astra背后是英伟达，40万张GPU即将上线", "market_title": "OpenAI announces it has achieved AGI before 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "台湾加权指数9月8日周二开盘上涨7757点涨幅016报4740384点", "trend_title": "台湾加权指数9月8日（周二）开盘上涨77.57点，涨幅0.16%，报47403.84点。", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於台灣加權指數的開盤漲幅，這是一則關於股市的短期資訊，與候選市場中關於政治事件（如軍事侵略、領導人訪問"}
+{"strategy": "trend", "trend_id": "外媒暂停三日后俄罗斯恢复空袭基辅", "trend_title": "外媒：暂停三日后，俄罗斯恢复空袭基辅", "market_title": "", "reason": "LLM 判定不下注：此新聞是關於俄羅斯恢復空襲，這顯然不利於停火或和平談判的達成。然而，候選市場皆是關於『達成停火協議』或『開啟和平談判』的"}
+{"strategy": "trend", "trend_id": "外媒欧盟宣布对格陵兰岛2亿欧元投资计划", "trend_title": "外媒：欧盟宣布对格陵兰岛2亿欧元投资计划", "market_title": "", "reason": "LLM 判定不下注：該新聞是關於歐盟對格陵蘭的投資計劃，與所有候選市場（德國州選舉或科索沃總統）均無關聯。"}
