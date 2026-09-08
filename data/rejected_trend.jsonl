@@ -6651,3 +6651,5 @@
 {"strategy": "trend", "trend_id": "以色列外交部长以色列将从加沙支援中心撤回英国员工", "trend_title": "以色列外交部长：以色列将从加沙支援中心撤回英国员工。", "market_title": "Israel x Hamas ceasefire cancelled by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "十一黄金周前香港旅监局严打业界强迫购物违规行为", "trend_title": "十一黄金周前 香港旅监局严打业界强迫购物违规行为", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於香港旅遊業監管措施，與黃金價格（XAUUSD）的預測市場完全無關。"}
 {"strategy": "trend", "trend_id": "浙江一公司收到美国366亿元关税退税", "trend_title": "浙江一公司收到美国3.66亿元关税退税", "market_title": "US x China tariff agreement by December 31?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "ukannouncessanctionsonwestbanksettlementspromptingfuriousisraeliresponse", "trend_title": "UK announces sanctions on West Bank settlements prompting furious Israeli response", "market_title": "", "reason": "LLM 判定不下注：話題是關於英國對約旦河西岸定居點的制裁以及以色列的回應，這與以色列和哈馬斯停火的市場無關。"}
+{"strategy": "trend", "trend_id": "沙特能源设施遭袭推升油价美股指涨跌互现高通涨7日元一度升破153黄金冲高回落", "trend_title": "沙特能源设施遭袭推升油价，美股指涨跌互现，高通涨7%，日元一度升破153，黄金冲高回落", "market_title": "Will Gold (XAUUSD) hit (HIGH) $4,600 in September?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
