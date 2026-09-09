@@ -6673,3 +6673,10 @@
 {"strategy": "trend", "trend_id": "whataretheholesintheuksbanonimportsfromisraelisettlements", "trend_title": "What are the holes in the UK’s ban on imports from Israeli settlements?", "market_title": "", "reason": "LLM 判定不下注：此話題討論的是英國對以色列定居點進口的禁令存在漏洞，與目前候選市場的以哈停火協議無直接關聯。"}
 {"strategy": "trend", "trend_id": "英国首相伯纳姆谈以色列制裁英国在国际舞台上展现领导力", "trend_title": "英国首相伯纳姆谈以色列制裁：英国在国际舞台上展现领导力。", "market_title": "Israel x Hamas Ceasefire Phase II by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "台湾新竹县蓝白合作破局黄国昌不影响其他县市", "trend_title": "台湾新竹县蓝白合作破局 黄国昌：不影响其他县市", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於台灣新竹縣藍白合作破局，黃國昌表示不影響其他縣市。此話題與所有候選市場（涉及中國侵台、川普訪問以色列"}
+{"strategy": "trend", "trend_id": "俄罗斯诺沃罗西斯克粮食码头在无人机袭击中受损", "trend_title": "俄罗斯诺沃罗西斯克粮食码头在无人机袭击中受损。", "market_title": "", "reason": "LLM 判定不下注：该话题讨论的是俄罗斯港口的无人机袭击事件，与候选市场提出的关于俄罗斯与乌克兰停火协议的时间无关。因此，没有可以直接关联的"}
+{"strategy": "trend", "trend_id": "德媒德国要求乌克兰购买更多德国武器", "trend_title": "德媒：德国要求乌克兰购买更多德国武器", "market_title": "", "reason": "LLM 判定不下注：此話題是關於德國要求烏克蘭購買德國武器，這與是否有俄烏停火協議的市場無直接關聯，因此選擇 -1。"}
+{"strategy": "trend", "trend_id": "trumpwelcomeselectionvictoryoffarrightfriendsofputiningermany", "trend_title": "Trump welcomes election victory of far-right \"friends of Putin\" in Germany", "market_title": "Will Trump and Putin not meet?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美伊互袭持续升温国际油价重返100美元伊朗划设海上新制裁区", "trend_title": "美伊互袭持续升温！国际油价重返100美元 伊朗划设海上新“制裁区”", "market_title": "", "reason": "LLM 判定不下注：美伊衝突升溫與國際油價變動，與核協議的簽署無直接關聯，該市場可能已被市場定價，且當前話題與其關聯性不高。"}
+{"strategy": "trend", "trend_id": "欧盟碳市场改革草案拟放缓减排速度", "trend_title": "欧盟碳市场改革草案拟放缓减排速度", "market_title": "", "reason": "LLM 判定不下注：該熱門話題與所有候選市場無關。話題討論的是歐盟碳市場改革，而市場皆為德國 AfD 在德國州選舉的結果或科索沃總統人選。因"}
+{"strategy": "trend", "trend_id": "伊朗称捕获最先进美军无人潜航器", "trend_title": "伊朗称捕获“最先进”美军无人潜航器", "market_title": "", "reason": "LLM 判定不下注：此話題涉及伊朗捕獲美軍無人潛航器，與美伊核協議的進展無直接關聯，市場關聯度低。"}
+{"strategy": "trend", "trend_id": "谷立言台海若爆冲突对全球经济冲击恐超二战", "trend_title": "谷立言：台海若爆冲突 对全球经济冲击恐超二战", "market_title": "Will China invade Taiwan by December 31, 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
