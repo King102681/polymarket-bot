@@ -6715,3 +6715,5 @@
 {"strategy": "trend", "trend_id": "上海黄金交易所黄金td9月11日周五早盘盘初下跌17报93702元克br上海黄金交易所白银td9月11日周五早盘盘初下跌513报155290元千克", "trend_title": "上海黄金交易所黄金T+D 9月11日（周五）早盘盘初下跌1.7%报937.02元/克；<br/>上海黄金交易所白银T+D 9月11日（周五）早盘盘初下跌5.13%报15529.0元/千克。", "market_title": "Will Gold (XAUUSD) hit (LOW) $3,900 in September?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "特朗普祝贺德极右翼后被默茨取消通话", "trend_title": "特朗普祝贺德极右翼后被默茨取消通话", "market_title": "", "reason": "LLM 判定不下注：此話題是關於特朗普與德國政界人士的互動，與候選市場關於特朗普是否會與普丁會面的問題無關。"}
 {"strategy": "trend", "trend_id": "cantrumpreallypay5000toeveryamericanadult", "trend_title": "Can Trump really pay $5,000 to every American adult?", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及特朗普向美國成年人支付5000美元的可行性，這是關於美國國內政策/經濟承諾的問題。候選市場[0]和[1]都聚"}
+{"strategy": "trend", "trend_id": "特朗普缺席纽约911纪念活动", "trend_title": "特朗普缺席纽约“9·11”纪念活动", "market_title": "", "reason": "LLM 判定不下注：話題是關於特朗普缺席911紀念活動，與特朗普是否與普丁會面無關。"}
+{"strategy": "trend", "trend_id": "普京与莫迪11天连见两次有何意味", "trend_title": "普京与莫迪11天连见两次有何意味", "market_title": "", "reason": "LLM 判定不下注：熱門話題關於普丁與莫迪的會面，這與俄烏停火協議的市場預測沒有直接關聯。市場候選皆是關於俄烏停火的時間點，但話題本身並未提"}
