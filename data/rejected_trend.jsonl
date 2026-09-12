@@ -6758,3 +6758,5 @@
 {"strategy": "trend", "trend_id": "willthehouthiattacksactivatethemeccapact", "trend_title": "Will the Houthi attacks activate the Mecca Pact?", "market_title": "", "reason": "LLM 判定不下注：話題詢問胡塞武裝的襲擊是否會觸發「麥加公約」，但候選市場僅關注曼德海峽的關閉時間。這兩者之間缺乏直接的關聯性，話題並未提"}
 {"strategy": "trend", "trend_id": "高盛也改口了下周美联储会加息", "trend_title": "高盛也“改口”了：下周美联储会加息！", "market_title": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "习近平会见印度总理莫迪", "trend_title": "习近平会见印度总理莫迪", "market_title": "", "reason": "LLM 判定不下注：此話題是關於習近平與莫迪的會見，與所有候選市場皆無直接關聯。候選市場討論的是習近平的美國之行、張又俠的刑期，以及習近平與"}
+{"strategy": "trend", "trend_id": "据伊朗国家媒体在格什姆岛听到两声爆炸声声音来自海上", "trend_title": "据伊朗国家媒体：在格什姆岛听到两声爆炸声，声音来自海上。", "market_title": "", "reason": "LLM 判定不下注：爆炸聲在地點和來源（海上）上並不直接指向伊朗核協議的進展，市場相關性低。"}
+{"strategy": "trend", "trend_id": "达里奥奥尔特曼马斯克相继呼吁放缓ai模型发展速度", "trend_title": "达里奥、奥尔特曼、马斯克相继呼吁放缓AI模型发展速度", "market_title": "", "reason": "LLM 判定不下注：該熱門話題討論的是AI模型發展速度，與特斯拉和SpaceX的合併或Cybercab的推出無直接關聯。話題中提及的Elon"}
