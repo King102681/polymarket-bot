@@ -6773,3 +6773,7 @@
 {"strategy": "trend", "trend_id": "据伊朗国家电视台一艘伊朗商船在格什姆岛附近被击中造成1人死亡3人受伤", "trend_title": "据伊朗国家电视台：一艘伊朗商船在格什姆岛附近被击中，造成1人死亡、3人受伤。", "market_title": "", "reason": "LLM 判定不下注：此事件為單純的船隻遇襲，與伊朗核協議談判無直接關聯，市場定價應不受影響。"}
 {"strategy": "trend", "trend_id": "据半岛电视台吉布提经济和财政部长表示由于也门政府军与胡塞武装之间的战斗约有1400人逃离也门前往吉布提", "trend_title": "据半岛电视台：吉布提经济和财政部长表示，由于也门政府军与胡塞武装之间的战斗，约有1400人逃离也门前往吉布提。", "market_title": "Bab el-Mandeb Strait effectively closed by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "胡塞大军1天推进上百公里博主解读", "trend_title": "胡塞大军1天推进上百公里？博主解读", "market_title": "Bab el-Mandeb Strait effectively closed by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "伊朗一货轮遭袭致1死4伤", "trend_title": "伊朗一货轮遭袭致1死4伤", "market_title": "", "reason": "LLM 判定不下注：此事件關於伊朗貨輪遇襲，與美伊核協議的進展無直接關聯，因此選定為不相關市場。"}
+{"strategy": "trend", "trend_id": "报告美中位列全球太空基础设施评估前二", "trend_title": "报告：美中位列全球太空基础设施评估前二", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是太空基礎設施的排名，與提供的市場選項（關稅、軍工名單、領導人訪問、AI模型）無直接關聯。因此，無法判斷哪個"}
+{"strategy": "trend", "trend_id": "死敌罕见联手马斯克altman支持darioamodei全球放缓ai呼吁", "trend_title": "死敌罕见联手！马斯克、Altman支持Dario Amodei“全球放缓AI”呼吁", "market_title": "OpenAI announces it has achieved AGI before 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "分析师anthropic关于ai的警告或拖累芯片股但行业趋势料保持完好", "trend_title": "分析师：Anthropic关于AI的警告或拖累芯片股，但行业趋势料保持完好", "market_title": "", "reason": "LLM 判定不下注：話題討論的是Anthropic對AI的警告可能拖累芯片股，但行業趨勢保持完好。這是關於AI產業前景和芯片市場的評論，與A"}
