@@ -6769,3 +6769,7 @@
 {"strategy": "trend", "trend_id": "莫迪会见普京称愿支持俄乌和平努力", "trend_title": "莫迪会见普京称“愿支持俄乌和平努力”", "market_title": "Russia x Ukraine ceasefire agreement by March 31, 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "输油管遇袭胡塞夺红海要地沙特油路两头承压", "trend_title": "输油管遇袭胡塞夺红海要地 沙特油路两头承压", "market_title": "Bab el-Mandeb Strait effectively closed by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "印度称对台湾问题政策立场没有改变", "trend_title": "印度称对台湾问题政策立场没有改变", "market_title": "Will China invade Taiwan by December 31, 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "石油市场已达转折点", "trend_title": "石油市场已达“转折点”？", "market_title": "Will WTI Crude Oil (WTI) hit (HIGH) $105 in September?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "据伊朗国家电视台一艘伊朗商船在格什姆岛附近被击中造成1人死亡3人受伤", "trend_title": "据伊朗国家电视台：一艘伊朗商船在格什姆岛附近被击中，造成1人死亡、3人受伤。", "market_title": "", "reason": "LLM 判定不下注：此事件為單純的船隻遇襲，與伊朗核協議談判無直接關聯，市場定價應不受影響。"}
+{"strategy": "trend", "trend_id": "据半岛电视台吉布提经济和财政部长表示由于也门政府军与胡塞武装之间的战斗约有1400人逃离也门前往吉布提", "trend_title": "据半岛电视台：吉布提经济和财政部长表示，由于也门政府军与胡塞武装之间的战斗，约有1400人逃离也门前往吉布提。", "market_title": "Bab el-Mandeb Strait effectively closed by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "胡塞大军1天推进上百公里博主解读", "trend_title": "胡塞大军1天推进上百公里？博主解读", "market_title": "Bab el-Mandeb Strait effectively closed by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
