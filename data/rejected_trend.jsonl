@@ -6814,3 +6814,4 @@
 {"strategy": "trend", "trend_id": "阿曼液化天然气公司高管霍尔木兹海峡危机将很快到来", "trend_title": "阿曼液化天然气公司高管：霍尔木兹海峡危机将很快到来。", "market_title": "Iran blockade lifted before Iran-Oman Hormuz agreement?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "以色列最年长大屠杀幸存者去世终年107岁", "trend_title": "以色列最年长大屠杀幸存者去世，终年107岁", "market_title": "", "reason": "LLM 判定不下注：此話題是關於一位百歲人瑞的逝世，與當前候選市場（以色列與哈瑪斯停火協議）無直接關聯，因此無法判斷市場方向或信心。"}
 {"strategy": "trend", "trend_id": "德国拟推动欧盟采取对华新策或寻求加征更多关税", "trend_title": "德国拟推动欧盟采取对华新策 或寻求加征更多关税", "market_title": "", "reason": "LLM 判定不下注：話題是關於德國尋求歐盟對中國採取新政策，可能涉及加徵關稅。然而，候選市場是關於「美中關稅協議」，這與話題內容並無直接關聯"}
+{"strategy": "trend", "trend_id": "ukrainestrikesrussianrefineryaircraftplantandozonfacilityinmassiveovernightattack", "trend_title": "Ukraine Strikes Russian Refinery, Aircraft Plant and Ozon Facility in Massive Overnight Attack", "market_title": "", "reason": "LLM 判定不下注：此話題描述的是俄烏衝突中的軍事行動，與停火協議市場的預期沒有直接關聯，因此排除所有市場。"}
