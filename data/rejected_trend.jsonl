@@ -6891,3 +6891,11 @@
 {"strategy": "trend", "trend_id": "30分钟光速散会沃什创最短发布会记录未来真要不开了", "trend_title": "30分钟“光速散会”！沃什创最短发布会记录 未来真要不开了？", "market_title": "", "reason": "LLM 判定不下注：熱門話題是關於沃什創辦人舉辦超短發布會的企業新聞，涉及發布會形式與未來策略變化。候選市場全數為美聯儲利率決策市場（202"}
 {"strategy": "trend", "trend_id": "普京国家杜马选举应彰显国家团结", "trend_title": "普京：国家杜马选举应彰显国家团结", "market_title": "", "reason": "LLM 判定不下注：普京关于国家杜马选举的言论仅涉及俄罗斯国内政治团结，与俄乌停火协议无关，因此排除所有候选市场。"}
 {"strategy": "trend", "trend_id": "扎帕罗夫总统吉尔吉斯斯坦对韩国企业的长期驻存感兴趣", "trend_title": "扎帕罗夫总统：吉尔吉斯斯坦对韩国企业的长期驻存感兴趣", "market_title": "", "reason": "LLM 判定不下注：該話題是關於吉爾吉斯斯坦總統對韓國企業的長期駐存感興趣，這是一個政治和外交新聞，與通膨或GDP成長的經濟指標市場完全不相"}
+{"strategy": "trend", "trend_id": "日媒韩国抗议亚运会表演出现丰臣秀吉", "trend_title": "日媒：韩国抗议亚运会表演出现丰臣秀吉", "market_title": "", "reason": "LLM 判定不下注：該話題涉及韓國對亞運會表演中出現豐臣秀吉的抗議，這是一個文化和政治事件，與候選市場中關於韓國銀行利率、GDP 增長和通脹"}
+{"strategy": "trend", "trend_id": "媒体围绕伊朗的冲突推高超级油轮需求", "trend_title": "媒体：围绕伊朗的冲突推高超级油轮需求", "market_title": "", "reason": "LLM 判定不下注：這則新聞提到地緣政治衝突推高了油輪需求，但這與核協議的市場並無直接關聯。市場主要關注的是核協議的進展，而不是短期油價波動"}
+{"strategy": "trend", "trend_id": "王毅与卢比欧通话筹备习近平下周访美", "trend_title": "王毅与卢比欧通话筹备习近平下周访美", "market_title": "", "reason": "LLM 判定不下注：該話題提到王毅與盧比歐通話，並籌備習近平訪美，這與候選市場中關於川普和習近平握手時間的預測無關。"}
+{"strategy": "trend", "trend_id": "中美外长通电话", "trend_title": "中美外长通电话", "market_title": "", "reason": "信心 0.30 < 0.35：中美外长通电话通常是为了缓解紧张关系，不太可能立即导致关税协议的达成，目前市场对"}
+{"strategy": "trend", "trend_id": "carneysayscanadawilldecideitsownpartnershipsaftertrumpcallseuproposallaughable", "trend_title": "Carney says Canada will decide its own partnerships after Trump calls EU proposal ‘laughable’", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於加拿大與歐盟的潛在合作，以及川普對歐盟提議的評論。然而，所有候選市場都詢問川普是否會在特定日期前公開侮辱"}
+{"strategy": "trend", "trend_id": "据axios网站美国总统特朗普表示伊朗战争正接近关键节点他需要决定是否恢复大规模军事行动以推动冲突结束", "trend_title": "据Axios网站：美国总统特朗普表示，伊朗战争正接近关键节点，他需要决定是否恢复大规模军事行动，以推动冲突结束。", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於美國總統特朗普對伊朗戰爭的評估，以及是否可能恢復大規模軍事行動。這與候選市場中關於特朗普是否會公開侮"}
+{"strategy": "trend", "trend_id": "阿根廷总统向国会提交马尔维纳斯群岛主权法案", "trend_title": "阿根廷总统向国会提交马尔维纳斯群岛主权法案", "market_title": "", "reason": "LLM 判定不下注：话题关于阿根廷马尔维纳斯群岛主权法案，与所有美国中期选举、政府关门、参议院法案相关的市场均无关联。"}
+{"strategy": "trend", "trend_id": "王毅中美双方要筹备好下阶段高层交往", "trend_title": "王毅：中美双方要筹备好下阶段高层交往", "market_title": "", "reason": "LLM 判定不下注：此新聞提到中美高層交往，與關稅協議、軍事公司列表、AI模型限制等具體市場無直接關聯，無法判斷對哪個市場有影響。"}
