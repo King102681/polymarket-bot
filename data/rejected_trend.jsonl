@@ -6923,3 +6923,8 @@
 {"strategy": "trend", "trend_id": "russiasparliamentaryelectionwhosontheballotandwhyitmatters", "trend_title": "Russia’s parliamentary election: Who’s on the ballot, and why it matters", "market_title": "Russia x Ukraine ceasefire agreement by June 30, 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美股收盘华尔街走出加息阴霾科技股集体反弹纳指大涨近17", "trend_title": "美股收盘：华尔街走出加息阴霾 科技股集体反弹纳指大涨近1.7%", "market_title": "", "reason": "LLM 判定不下注：热门话题讨论的是美股短期日内走势（科技股反弹、纳指上涨1.7%），反映市场对加息担忧的短期缓解。但所有候选市场均涉及20"}
 {"strategy": "trend", "trend_id": "王毅与鲁比奥通话筹备中美元首会晤", "trend_title": "王毅与鲁比奥通话筹备中美元首会晤", "market_title": "US x China tariff agreement by December 31?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美国拒发签证巴勒斯坦总统将以视频连线方式出席联合国大会", "trend_title": "美国拒发签证，巴勒斯坦总统将以视频连线方式出席联合国大会", "market_title": "", "reason": "LLM 判定不下注：該話題關於美國拒絕向巴勒斯坦總統發放簽證，導致其無法親自出席聯合國大會，改為視訊連線。這與以色列和哈馬斯停火談判的兩個候"}
+{"strategy": "trend", "trend_id": "俄国防部防空系统一周内击落乌军44枚航空炸弹和5700多架无人机", "trend_title": "俄国防部：防空系统一周内击落乌军44枚航空炸弹和5700多架无人机", "market_title": "", "reason": "LLM 判定不下注：這則新聞是關於俄軍防空系統的戰果，與是否達成停火協議的市場無直接關聯，因此選擇無相關市場。"}
+{"strategy": "trend", "trend_id": "李在明举行记者会否认连任意图并回应多项争议", "trend_title": "李在明举行记者会否认连任意图并回应多项争议", "market_title": "", "reason": "LLM 判定不下注：该话题是关于韩国政坛人物李在明的记者会，内容涉及其否认连任意图和回应争议。而所有候选市场都与韩国的宏观经济指标（GDP、"}
+{"strategy": "trend", "trend_id": "俄国防部乌军一周内在特别军事行动中损失约9325名军人", "trend_title": "俄国防部：乌军一周内在特别军事行动中损失约9325名军人", "market_title": "", "reason": "LLM 判定不下注：該話題是關於烏克蘭軍隊的損失，與停火協議的市場選項沒有直接關聯。市場選項是關於停火協議的達成時間，而該話題只提供了單方面"}
+{"strategy": "trend", "trend_id": "胡塞武装控制曼德海峡切断沙特石油通道", "trend_title": "胡塞武装控制曼德海峡切断沙特石油通道", "market_title": "Bab el-Mandeb Strait effectively closed by October 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
