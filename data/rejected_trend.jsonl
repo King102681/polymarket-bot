@@ -6967,3 +6967,9 @@
 {"strategy": "trend", "trend_id": "法媒法国敦促俄罗斯撤销扣押法企资产", "trend_title": "法媒：法国敦促俄罗斯撤销扣押法企资产", "market_title": "", "reason": "LLM 判定不下注：該話題僅提及法國敦促俄羅斯撤銷扣押法企資產，與俄烏停火協議無直接關聯，市場價格未對此消息產生預期。"}
 {"strategy": "trend", "trend_id": "anthropicsclaudecode", "trend_title": "anthropics /      claude-code", "market_title": "Will Anthropic IPO by November 15, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "trumpsaysheisbanningcnnandpoliticofromwhitehouse", "trend_title": "Trump says he is banning CNN and Politico from White House", "market_title": "", "reason": "LLM 判定不下注：話題涉及Trump與媒體的紛爭（禁止CNN和Politico進入白宮），是政治溝通層面的衝突。四個候選市場都聚焦於具體外"}
+{"strategy": "trend", "trend_id": "特朗普签署法案授权对俄油买家加征最高100关税", "trend_title": "特朗普签署法案授权对俄油买家加征最高100%关税", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於特朗普簽署對俄油買家加征關稅的法案，這與所有候選市場（關於特朗普的格陵蘭交易、與金正恩或沙爾曼的會面"}
+{"strategy": "trend", "trend_id": "childamongthreepalestinianskilledinisraeliattacksacrossgaza", "trend_title": "Child among three Palestinians killed in Israeli attacks across Gaza", "market_title": "", "reason": "信心 0.30 < 0.35：這則新聞指出以色列的攻擊造成巴勒斯坦人傷亡，其中包含兒童。這類消息通常會增加停火"}
+{"strategy": "trend", "trend_id": "昨天发布会的三个字和一句回答整个华尔街都在琢磨沃什的路数", "trend_title": "昨天发布会的“三个字”和“一句回答”--整个华尔街都在琢磨“沃什的路数”", "market_title": "", "reason": "LLM 判定不下注：該熱門話題提及華爾街對「沃什的路數」進行解讀，但並未提供具體信息，且與聯準會升息的市場預期無直接關聯。"}
+{"strategy": "trend", "trend_id": "俄媒俄罗斯针对欧盟制裁出台反制措施", "trend_title": "俄媒：俄罗斯针对欧盟制裁出台反制措施", "market_title": "", "reason": "LLM 判定不下注：這則新聞是關於俄羅斯對歐盟的制裁進行反制，與俄烏停火協議的市場無關。"}
+{"strategy": "trend", "trend_id": "俄中选委俄国家杜马选举投票率现已接近36", "trend_title": "俄中选委：俄国家杜马选举投票率现已接近36%", "market_title": "", "reason": "LLM 判定不下注：此話題關於俄羅斯國家杜馬選舉投票率，與候選市場中關於以色列選舉及川普表態的內容完全無關。"}
+{"strategy": "trend", "trend_id": "名古屋亚运会误播朝鲜国歌向韩方致歉", "trend_title": "名古屋亚运会误播朝鲜国歌向韩方致歉", "market_title": "Will North and South Korea engage in direct talks by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
