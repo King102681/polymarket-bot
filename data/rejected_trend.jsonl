@@ -6993,3 +6993,8 @@
 {"strategy": "trend", "trend_id": "美方将2026年格雷厄姆制裁俄罗斯和伊朗法案签署成法商务部回应", "trend_title": "美方将《2026年格雷厄姆制裁俄罗斯和伊朗法案》签署成法，商务部回应", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "伊朗向美国开出7项谈判条件", "trend_title": "伊朗向美国开出7项谈判条件", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "多家银行上调存款利率", "trend_title": "多家银行上调存款利率", "market_title": "", "reason": "LLM 判定不下注：热门话题讨论的是『多家银行上调存款利率』，这是商业银行的市场化定价行为，反映流动性和竞争状况。而候选市场全部聚焦于『美联"}
+{"strategy": "trend", "trend_id": "中国至9月21日五年期贷款市场报价利率35预期350前值350", "trend_title": "中国至9月21日五年期贷款市场报价利率 3.5%，预期3.50%，前值3.50%。", "market_title": "", "reason": "LLM 判定不下注：該話題是中國的五年期貸款市場報價利率，與候選市場討論的美國聯準會（Fed）利率決策無關。"}
+{"strategy": "trend", "trend_id": "伊朗向美国提出谈判7项条件", "trend_title": "伊朗向美国提出谈判7项条件", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "中国至9月21日一年期贷款市场报价利率3预期300前值300", "trend_title": "中国至9月21日一年期贷款市场报价利率 3%，预期3.00%，前值3.00%。", "market_title": "", "reason": "LLM 判定不下注：話題為中國一年期貸款市場報價利率(LPR)公告，實際利率維持在3.00%，與預期一致，無新增信息。候選市場全為美國聯邦準"}
+{"strategy": "trend", "trend_id": "北约军事委员会主席称北约兵力已做好应对欧洲冲突的准备", "trend_title": "北约军事委员会主席称北约兵力已做好应对欧洲冲突的准备", "market_title": "NATO x Russia military clash by October 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "胡塞武装向利雅得发射弹道导弹遭拦截", "trend_title": "胡塞武装向利雅得发射弹道导弹遭拦截", "market_title": "Bab el-Mandeb Strait effectively closed by October 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
