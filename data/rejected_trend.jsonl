@@ -6998,3 +6998,10 @@
 {"strategy": "trend", "trend_id": "中国至9月21日一年期贷款市场报价利率3预期300前值300", "trend_title": "中国至9月21日一年期贷款市场报价利率 3%，预期3.00%，前值3.00%。", "market_title": "", "reason": "LLM 判定不下注：話題為中國一年期貸款市場報價利率(LPR)公告，實際利率維持在3.00%，與預期一致，無新增信息。候選市場全為美國聯邦準"}
 {"strategy": "trend", "trend_id": "北约军事委员会主席称北约兵力已做好应对欧洲冲突的准备", "trend_title": "北约军事委员会主席称北约兵力已做好应对欧洲冲突的准备", "market_title": "NATO x Russia military clash by October 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "胡塞武装向利雅得发射弹道导弹遭拦截", "trend_title": "胡塞武装向利雅得发射弹道导弹遭拦截", "market_title": "Bab el-Mandeb Strait effectively closed by October 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "早报公积金新规今日实施史上最大ipo时间推迟黄仁勋减持英伟达", "trend_title": "【早报】公积金新规，今日实施；史上最大IPO，时间推迟；黄仁勋减持英伟达", "market_title": "", "reason": "LLM 判定不下注：該熱門話題主要討論公積金新規、IPO推遲以及黃仁勳減持英偉達股票。候選市場均與 \"Ornn RTX 5090 Index"}
+{"strategy": "trend", "trend_id": "新西兰军舰过航台湾海峡解放军全程跟监警戒", "trend_title": "新西兰军舰过航台湾海峡，解放军全程跟监警戒", "market_title": "Will China invade Taiwan by December 31, 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "在白宫附近被捕的一名男子试图与特朗普交谈", "trend_title": "在白宫附近被捕的一名男子试图与特朗普交谈", "market_title": "", "reason": "LLM 判定不下注：这条新闻报道只是'在白宫附近被捕的一名男子试图与特朗普交谈'，是随机安全事件，不涉及具体政策、交易或会晤承诺。候选市场都"}
+{"strategy": "trend", "trend_id": "特朗普宣布组建ai部队并任命ai事务总管", "trend_title": "特朗普宣布组建AI部队并任命AI事务总管", "market_title": "", "reason": "LLM 判定不下注：話題討論特朗普組建AI部隊與任命AI事務總管，涉及美國AI政策與治理。候選市場全部聚焦於特朗普與格陵蘭交易、國際會晤等地"}
+{"strategy": "trend", "trend_id": "据伊朗媒体farsnews伊朗议会议长在德黑兰的条件得到满足之前霍尔木兹海峡将保持关闭", "trend_title": "据伊朗媒体Fars News：伊朗议会议长：在德黑兰的条件得到满足之前，霍尔木兹海峡将保持关闭。", "market_title": "Will no qualifying diplomatic US-Iran meeting occur by September 30, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "布罗伊尔当选北约军事委员会主席", "trend_title": "布罗伊尔当选北约军事委员会主席", "market_title": "NATO x Russia military clash by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "特朗普宣布美国获得格陵兰安全事务永久控制权", "trend_title": "特朗普宣布美国获得格陵兰安全事务永久控制权", "market_title": "Trump x Greenland deal signed by September 25?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
