@@ -7022,3 +7022,9 @@
 {"strategy": "trend", "trend_id": "中美经贸磋商在美国纽约举行", "trend_title": "中美经贸磋商在美国纽约举行", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於中美經貿磋商，這是一個宏觀的貿易談判事件。而所有候選市場都聚焦於特定的中國科技公司（小米、字節跳動、"}
 {"strategy": "trend", "trend_id": "武契奇希望与普京进行电话交谈", "trend_title": "武契奇希望与普京进行电话交谈", "market_title": "", "reason": "LLM 判定不下注：此話題僅提到塞爾維亞總統希望與普丁通話，並未提及任何關於俄烏停火協議的具體資訊或進展，與所有候選市場關聯性極低。"}
 {"strategy": "trend", "trend_id": "特朗普权衡对伊朗发动大规模打击以结束战争", "trend_title": "特朗普权衡对伊朗发动大规模打击以结束战争", "market_title": "Trump invokes war powers in Yemen by September 30?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "法国外交部法国将首先召见伊朗大使", "trend_title": "法国外交部：法国将首先召见伊朗大使。", "market_title": "", "reason": "LLM 判定不下注：法国召见伊朗大使是外交层面的事件，与核协议或外交会议的长期结果关联不大，尤其是与2026年的具体时间线关联性低。目前市场"}
+{"strategy": "trend", "trend_id": "拉夫罗夫相信杜马选举结果将反映对普京施政的支持", "trend_title": "拉夫罗夫相信杜马选举结果将反映对普京施政的支持", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是杜馬選舉結果是否會反映對普京施政的支持，這與俄烏停火協議市場無關。"}
+{"strategy": "trend", "trend_id": "trumponiranmyquestionisifandwhendoiblowtheentirenationup", "trend_title": "Trump on Iran: ‘My question is, if and when do I blow the entire nation up?’", "market_title": "Trump invokes war powers in Yemen by September 30?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "qatarpmdescribesfalloutofusisraelwaroniranasearthquake", "trend_title": "Qatar PM describes fallout of US-Israel war on Iran as ‘earthquake’", "market_title": "", "reason": "LLM 判定不下注：卡達總理稱以哈戰爭對伊朗的影響是『地震級』，但這並未直接關聯到停火協議的達成與否，與現有市場選項關聯性低。"}
+{"strategy": "trend", "trend_id": "法国外交部在伊朗关闭德黑兰语言中心后法国将采取适当措施回应", "trend_title": "法国外交部：在伊朗关闭德黑兰语言中心后，法国将采取适当措施回应。", "market_title": "", "reason": "LLM 判定不下注：话题关于法国对伊朗关闭语言中心的报复措施，而候选项市场都关于美伊核协议或外交会议，两者关联性不强。因此选择-1。"}
+{"strategy": "trend", "trend_id": "中选委投票站关闭时杜马选举投票率为5666", "trend_title": "中选委：投票站关闭时杜马选举投票率为56.66%", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及俄羅斯杜馬選舉投票率，與兩個候選市場都無關聯。候選市場 [0] 和 [1] 均討論川普在2026年以色列選舉"}
