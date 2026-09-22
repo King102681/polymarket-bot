@@ -7066,3 +7066,7 @@
 {"strategy": "trend", "trend_id": "特朗普禁止三家媒体进入白宫引发联合抵制", "trend_title": "特朗普禁止三家媒体进入白宫引发联合抵制", "market_title": "", "reason": "LLM 判定不下注：此話題關於特朗普禁止三家媒體進入白宮，與候選市場『特朗普是否會與普丁會面』及『特朗普是否會與普丁在中國會面』兩者皆無直接"}
 {"strategy": "trend", "trend_id": "belarussaysnopotashleftaftertrumpclaimsmassivedealforfertilizer", "trend_title": "Belarus says no potash left after Trump claims massive deal for fertilizer", "market_title": "", "reason": "LLM 判定不下注：話題是關於白俄羅斯鉀肥出口，與川普和普丁是否會面無關。"}
 {"strategy": "trend", "trend_id": "据伊朗媒体farsnews沙特空军对也门西南部穆哈市进行了至少3次空袭造成14名平民伤亡其中包括妇女和儿童", "trend_title": "据伊朗媒体Fars News：沙特空军对也门西南部穆哈市进行了至少3次空袭，造成14名平民伤亡，其中包括妇女和儿童。", "market_title": "", "reason": "LLM 判定不下注：此新聞報導沙特與葉門的軍事衝突，與候選市場中關於美國與伊朗核協議或外交會議的議題無直接關聯，因此選擇無相關市場。"}
+{"strategy": "trend", "trend_id": "美媒俄罗斯仍是美国浓缩铀最大供应国", "trend_title": "美媒：俄罗斯仍是美国浓缩铀最大供应国", "market_title": "", "reason": "LLM 判定不下注：這則新聞關於俄羅斯是美國濃縮鈾的最大供應國，與俄烏停火協議的市場無關。"}
+{"strategy": "trend", "trend_id": "高市早苗与特朗普在纽约举行日美首脑会谈", "trend_title": "高市早苗与特朗普在纽约举行日美首脑会谈", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及日本首相高市早苗與特朗普在紐約的日美首腦會談，與候選市場皆無直接對應關係。市場[0]和[1]均聚焦於特朗普與"}
+{"strategy": "trend", "trend_id": "claudestatuselevatederrorsformultiplemodels", "trend_title": "Claude Status – Elevated errors for multiple models", "market_title": "", "reason": "LLM 判定不下注：話題是 Claude 多個模型出現服務異常/錯誤提升，屬短期技術問題。候選市場全部聚焦於 Anthropic IPO 估"}
+{"strategy": "trend", "trend_id": "白宫公布习近平访美安排将举行阅兵及军机飞越仪式", "trend_title": "白宫公布习近平访美安排 将举行阅兵及军机飞越仪式", "market_title": "", "reason": "LLM 判定不下注：话题涉及习近平访美的安排（阅兵、军机飞越仪式），但候选市场都是关于具体参与者出席或握手细节的微观事件。这些市场与话题的对"}
