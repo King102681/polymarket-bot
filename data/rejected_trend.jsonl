@@ -7204,3 +7204,8 @@
 {"strategy": "trend", "trend_id": "蔡恩泽习近平访美不靠豪华企业家代表团壮声威", "trend_title": "蔡恩泽：习近平访美不靠豪华企业家代表团壮声威", "market_title": "", "reason": "LLM 判定不下注：該新聞報導習近平訪美時不依賴豪華企業家代表團，重點在外交策略與代表團組成，與候選市場『川習握手持續時間』完全無關。兩者話"}
 {"strategy": "trend", "trend_id": "泽连斯基联大宣布朝鲜战俘移送韩国", "trend_title": "泽连斯基联大宣布朝鲜战俘移送韩国", "market_title": "", "reason": "LLM 判定不下注：泽连斯基联大宣布朝鲜战俘移送韩国，这是关于朝鲜参战和战俘处置的新闻，反映冲突升级和国际参与扩大。但所有候选市场都是俄乌停"}
 {"strategy": "trend", "trend_id": "习近平美方应慎重处理台湾问题", "trend_title": "习近平：美方应慎重处理台湾问题", "market_title": "", "reason": "信心 0.25 < 0.35：习近平声明要求美方慎重处理台湾问题，措辞相对温和谨慎，反映中方目前采取战略克制态"}
+{"strategy": "trend", "trend_id": "习近平与特朗普华盛顿会晤延长贸易休战", "trend_title": "习近平与特朗普华盛顿会晤延长贸易休战", "market_title": "", "reason": "LLM 判定不下注：這則熱門話題關於習近平與特朗普討論貿易休戰，而候選市場都關於特朗普與普京的會晤或AI命名，與熱門話題無關。"}
+{"strategy": "trend", "trend_id": "习近平与特朗普达成很多新的共识", "trend_title": "习近平：与特朗普达成很多新的共识", "market_title": "", "reason": "LLM 判定不下注：習近平與特朗普達成共識的消息，主要涉及中美關係。候選市場[0][1]都聚焦於Trump與Putin的會面，屬於不同地緣政"}
+{"strategy": "trend", "trend_id": "xigottrumpsredcarpetwelcomebutnoteverythinghewanted", "trend_title": "Xi got Trump's red carpet welcome - but not everything he wanted", "market_title": "Will Trump and Putin meet next in China?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "multipleregionsinrussiacomeunderukrainiandroneattacks", "trend_title": "Multiple regions in Russia come under Ukrainian drone attacks", "market_title": "", "reason": "LLM 判定不下注：該話題描述的是烏克蘭對俄羅斯境內的無人機襲擊，這屬於軍事行動的升級，與尋求停火協議的市場預測方向相反。目前的市場選項都集"}
+{"strategy": "trend", "trend_id": "习近平在白宫欢迎仪式上的致辞全文", "trend_title": "习近平在白宫欢迎仪式上的致辞（全文）", "market_title": "", "reason": "LLM 判定不下注：话题讨论的是习近平在白宫欢迎仪式上的致辞内容，这是一个已经发生的事件报道。而候选市场[0]询问的是特朗普与习近平握手时长"}
