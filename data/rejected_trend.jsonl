@@ -7289,3 +7289,4 @@
 {"strategy": "trend", "trend_id": "特朗普拒绝伊朗停火七天建议恫言11月选举后恢复打伊", "trend_title": "特朗普拒绝伊朗停火七天建议 恫言11月选举后恢复打伊", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題關於特朗普拒絕伊朗停火建議，並威脅在選舉後恢復打擊伊朗。這與候選市場中關於特朗普重新命名 AI 或發布 T"}
 {"strategy": "trend", "trend_id": "japanconfusedbytrumpcallingchinawwiially", "trend_title": "Japan Confused by Trump Calling China WWII Ally", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及Trump對中國二戰歷史的評論，引發日本混淆。候選市場皆無關：市場[0-1]聚焦AI改名，市場[2-4]聚焦"}
 {"strategy": "trend", "trend_id": "伊朗外长霍尔木兹海峡开放取决于伊方条件是否满足", "trend_title": "伊朗外长： 霍尔木兹海峡开放取决于伊方条件是否满足", "market_title": "Will no qualifying US-Iran senior diplomatic meeting take place by December 31, ", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "伊朗选手打赢张本冲日本教练面前庆祝", "trend_title": "伊朗选手打赢张本冲日本教练面前庆祝", "market_title": "", "reason": "LLM 判定不下注：此話題關於體育賽事，與美國伊朗外交會晤無關。"}
