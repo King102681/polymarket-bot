@@ -7290,3 +7290,7 @@
 {"strategy": "trend", "trend_id": "japanconfusedbytrumpcallingchinawwiially", "trend_title": "Japan Confused by Trump Calling China WWII Ally", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及Trump對中國二戰歷史的評論，引發日本混淆。候選市場皆無關：市場[0-1]聚焦AI改名，市場[2-4]聚焦"}
 {"strategy": "trend", "trend_id": "伊朗外长霍尔木兹海峡开放取决于伊方条件是否满足", "trend_title": "伊朗外长： 霍尔木兹海峡开放取决于伊方条件是否满足", "market_title": "Will no qualifying US-Iran senior diplomatic meeting take place by December 31, ", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "伊朗选手打赢张本冲日本教练面前庆祝", "trend_title": "伊朗选手打赢张本冲日本教练面前庆祝", "market_title": "", "reason": "LLM 判定不下注：此話題關於體育賽事，與美國伊朗外交會晤無關。"}
+{"strategy": "trend", "trend_id": "早报中美达成八点成果共识", "trend_title": "【早报】中美达成八点成果共识", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於中美達成八點成果共識，這是一項廣泛的外交與經濟協議。而候選市場全部是關於特定中國公司（如 ByteDan"}
+{"strategy": "trend", "trend_id": "俄国防部防空系统一夜间在多地上空共击落96架乌军无人机", "trend_title": "俄国防部：防空系统一夜间在多地上空共击落96架乌军无人机", "market_title": "", "reason": "LLM 判定不下注：這則新聞是關於俄烏衝突中，俄羅斯聲稱擊落了大量烏克蘭無人機。這與是否有停火協議的到期時間預測沒有直接關聯。因此，在提供的"}
+{"strategy": "trend", "trend_id": "习近平访美与特朗普峰会达成多项共识", "trend_title": "习近平访美与特朗普峰会达成多项共识", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於習近平與特朗普的峰會，但候選市場均與此無關，而是關於特朗普的AI命名或Truth Social發文數"}
+{"strategy": "trend", "trend_id": "iranwaitingforofficialusresponseaftertrumprejectshormuzdealministersays", "trend_title": "Iran waiting for official US response after Trump rejects Hormuz deal, minister says", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及伊朗、美國、荷莫茲海峽地緣政治衝突，屬於國際外交/軍事風險事件。候選市場全部聚焦於：(1)Trump重新命名"}
