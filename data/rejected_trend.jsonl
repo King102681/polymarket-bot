@@ -7366,3 +7366,8 @@
 {"strategy": "trend", "trend_id": "jerusalemdailyisraeliworshippersattackpalestinianman", "trend_title": "Jerusalem Daily: Israeli worshippers attack Palestinian man", "market_title": "", "reason": "LLM 判定不下注：此新聞是關於單獨的衝突事件，與目前候選的『以色列與哈瑪斯停火第二階段』市場關聯性不高，無法判斷市場走向。"}
 {"strategy": "trend", "trend_id": "中国央行出手降息加大六张网金融支持扩大再贷款额度", "trend_title": "中国央行“出手”：“降息”、加大“六张网”金融支持、扩大“再贷款额度”", "market_title": "", "reason": "LLM 判定不下注：該熱門話題關於中國央行的貨幣政策調整，包括降息、增加金融支持和擴大再貸款額度。然而，所有候選市場都與美國聯邦儲備委員會（"}
 {"strategy": "trend", "trend_id": "消息人士伊朗与美国的矛盾点集中在放弃施压工具问题上", "trend_title": "消息人士：伊朗与美国的矛盾点集中在放弃施压工具问题上", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "欧盟贸易专员塞夫科维奇推动在g20和wto框架内进行改革以应对工业产能过剩问题", "trend_title": "欧盟贸易专员塞夫科维奇：推动在G20和WTO框架内进行改革，以应对工业产能过剩问题。", "market_title": "", "reason": "LLM 判定不下注：話題是關於歐盟貿易專員推動G20和WTO改革以應對工業產能過剩，與候選市場中關於科索沃總統選舉完全無關。"}
+{"strategy": "trend", "trend_id": "俄工贸部长俄罗斯与金砖国家轻工业贸易额四年增长四分之一", "trend_title": "俄工贸部长：俄罗斯与金砖国家轻工业贸易额四年增长四分之一", "market_title": "", "reason": "LLM 判定不下注：話題是關於俄羅斯與金磚國家在輕工業貿易的增長，這與烏克蘭停火協議的預測市場無關。"}
+{"strategy": "trend", "trend_id": "中美公布300亿美元对等降税清单并延长贸易休战", "trend_title": "中美公布300亿美元对等降税清单并延长贸易休战", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於中美貿易降稅，與候選市場中列出的公司或 AI 模型是否被列入美國軍事公司名單或被移除公開權限無直接關聯，"}
+{"strategy": "trend", "trend_id": "欧盟贸易专员塞夫科维奇与美国及其他盟友合作确保供应链安全避免关键矿产的武器化", "trend_title": "欧盟贸易专员塞夫科维奇：与美国及其他盟友合作，确保供应链安全，避免关键矿产的武器化。", "market_title": "", "reason": "LLM 判定不下注：话题涉及欧盟贸易专员关于供应链安全的表态，与科索沃总统选举完全无关。"}
+{"strategy": "trend", "trend_id": "马斯克预言人工智能将开启富足时代和全民富裕", "trend_title": "马斯克预言人工智能将开启“富足时代”和全民富裕", "market_title": "", "reason": "LLM 判定不下注：話題內容是關於馬斯克對人工智能的預言，與特斯拉和 SpaceX 合併的市場選項毫無關聯。"}
