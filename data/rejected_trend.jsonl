@@ -7379,3 +7379,9 @@
 {"strategy": "trend", "trend_id": "国足亚运队遭韩国逆转无缘决赛", "trend_title": "国足亚运队遭韩国逆转 无缘决赛", "market_title": "", "reason": "LLM 判定不下注：此話題是關於中國國家足球隊在亞運會上被韓國隊逆轉，無緣決賽。這是一個體育賽事結果，與候選市場中關於韓國銀行利率、貨幣政策"}
 {"strategy": "trend", "trend_id": "美股收盘加息预期降温美债收益率依旧走高三大指数小幅收跌", "trend_title": "美股收盘：加息预期降温 美债收益率依旧走高 三大指数小幅收跌", "market_title": "", "reason": "LLM 判定不下注：熱門話題討論的是近期（標題未指明具體日期，但通常美股收盤新聞指的就是當天或近期）美股收盤情況以及加息預期的降溫，但所有候"}
 {"strategy": "trend", "trend_id": "伊朗政府发言人伊朗外长阿拉格齐已向伊朗内阁通报收到美国提案", "trend_title": "伊朗政府发言人：伊朗外长阿拉格齐已向伊朗内阁通报收到美国提案。", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美股三大指数两连跌30年期美债利率触及2002年高位原油先涨后跌黄金反弹", "trend_title": "美股三大指数两连跌，30年期美债利率触及2002年高位，原油先涨后跌，黄金反弹", "market_title": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "习近平加强普惠性基础性兜底性民生建设", "trend_title": "习近平：加强普惠性、基础性、兜底性民生建设", "market_title": "", "reason": "LLM 判定不下注：該話題是關於習近平強調民生建設，與候選市場「習近平是否會與高市早苗在2026年底前會面」完全無關。"}
+{"strategy": "trend", "trend_id": "港报社论元首外交为中美关系夯实根基", "trend_title": "港报社论：元首外交为中美关系夯实根基", "market_title": "", "reason": "LLM 判定不下注：熱門話題是關於元首外交對中美關係的正面影響，但所有候選市場都與中國公司被列入美國軍事公司名單或美國政府限制中國AI模型有"}
+{"strategy": "trend", "trend_id": "解放军22架艘次军机舰船位台岛周边活动", "trend_title": "解放军22架艘次军机舰船位台岛周边活动", "market_title": "", "reason": "信心 0.28 < 0.35：解放军22架艘次军机舰船环台活动属于军事升级信号，直接关联中国对台武统动向。然而"}
+{"strategy": "trend", "trend_id": "nvidiaopenshell", "trend_title": "NVIDIA /      OpenShell", "market_title": "", "reason": "LLM 判定不下注：話題\"NVIDIA / OpenShell\" 與候選市場\"DOJ fines Nvidia over Groq deal"}
+{"strategy": "trend", "trend_id": "以色列国防部长迪拜航空公司航班的紧急事件是预谋杀害乘客的恐袭", "trend_title": "以色列国防部长：迪拜航空公司航班的紧急事件是预谋杀害乘客的恐袭", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及迪拜航班恐襲事件，與以色列-哈馬斯停火協議無直接因果關係。停火進展由多層政治談判決定，單一恐襲事件雖可能影響"}
