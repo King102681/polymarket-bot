@@ -7386,3 +7386,5 @@
 {"strategy": "trend", "trend_id": "nvidiaopenshell", "trend_title": "NVIDIA /      OpenShell", "market_title": "", "reason": "LLM 判定不下注：話題\"NVIDIA / OpenShell\" 與候選市場\"DOJ fines Nvidia over Groq deal"}
 {"strategy": "trend", "trend_id": "以色列国防部长迪拜航空公司航班的紧急事件是预谋杀害乘客的恐袭", "trend_title": "以色列国防部长：迪拜航空公司航班的紧急事件是预谋杀害乘客的恐袭", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及迪拜航班恐襲事件，與以色列-哈馬斯停火協議無直接因果關係。停火進展由多層政治談判決定，單一恐襲事件雖可能影響"}
 {"strategy": "trend", "trend_id": "whatweknowaboutstabbingonflydubaiflighttoisrael", "trend_title": "What we know about stabbing on Flydubai flight to Israel", "market_title": "", "reason": "LLM 判定不下注：該話題是關於一起在飛往以色列的航班上發生的刺傷事件，與以色列和哈馬斯停火協議的進展無直接關聯。話題本身並未提供支持停火協"}
+{"strategy": "trend", "trend_id": "美通胀降温提振风险资产亚洲股市10月开局料震荡", "trend_title": "美通胀降温提振风险资产 亚洲股市10月开局料震荡", "market_title": "Will annual inflation be 3.6% in September?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "iranofficialwarnsstarlinkcouldendstatecontrolofinternet", "trend_title": "Iran official warns Starlink could end state control of internet", "market_title": "", "reason": "LLM 判定不下注：该话题讨论的是伊朗官方对 Starlink 可能终结国家互联网控制的警告。这与美国和伊朗之间的核协议或外交会议没有直接关"}
