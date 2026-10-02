@@ -7431,3 +7431,10 @@
 {"strategy": "trend", "trend_id": "非农仅增29万人且前值大幅下修9月报告还有何看点", "trend_title": "非农仅增2.9万人且前值大幅下修，9月报告还有何看点？", "market_title": "US recession by end of 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美国促欧洲释放柴油储备欧盟表态坚决拒绝", "trend_title": "美国促欧洲释放柴油储备 欧盟表态坚决拒绝", "market_title": "", "reason": "LLM 判定不下注：此話題是關於美國要求歐盟釋放柴油儲備，但歐盟堅決拒絕。這與科索沃總統候選人無關，因此市場索引為 -1。"}
 {"strategy": "trend", "trend_id": "普京建议西方国家清醒评估局势", "trend_title": "普京建议西方国家清醒评估局势", "market_title": "Russia x Ukraine ceasefire agreement by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "非农大幅低于预期美国9月新增就业29万预期9万美债收益率下行美股期货上涨", "trend_title": "非农大幅低于预期！美国9月新增就业2.9万，预期9万，美债收益率下行，美股期货上涨", "market_title": "US recession by end of 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "朝鲜领导人之妹朝鲜不会与敌对国家讨论军事主权问题", "trend_title": "朝鲜领导人之妹：朝鲜不会与敌对国家讨论军事主权问题", "market_title": "Will North and South Korea engage in direct talks by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "israelibarriercutsoffwatertowestbankpalestiniansbeforeelections", "trend_title": "Israeli barrier cuts off water to West Bank Palestinians before elections", "market_title": "", "reason": "LLM 判定不下注：此話題主要關於以色列關閉加薩走廊的供水，並無直接關聯到候選市場關於以哈停火的議題。因此，無法判斷市場方向或信心。"}
+{"strategy": "trend", "trend_id": "针对美国武器储备特朗普最新表态", "trend_title": "针对美国武器储备，特朗普最新表态", "market_title": "", "reason": "LLM 判定不下注：該熱門話題僅提及特朗普對美國武器儲備的最新表態，但沒有具體說明表態內容，也未指向任何與候選市場中的特定人物通話的可能性。"}
+{"strategy": "trend", "trend_id": "下午察高市早苗还有机会在深圳会晤习近平吗", "trend_title": "下午察：高市早苗还有机会在深圳会晤习近平吗？", "market_title": "", "reason": "信心 0.30 < 0.35：新聞標題是『高市早苗还有机会在深圳会晤习近平吗？』，暗示這是一個不確定且可能發生"}
+{"strategy": "trend", "trend_id": "israelssupremecourtoverturnselectionpanelbanonarabparties", "trend_title": "Israel’s Supreme Court overturns election panel ban on Arab parties", "market_title": "", "reason": "LLM 判定不下注：此熱門話題關於以色列最高法院的裁決，與美國北卡羅來納州最高法院的選舉結果無關。因此，沒有相關的市場可供選擇。"}
+{"strategy": "trend", "trend_id": "普京很快所有人都得开中国车", "trend_title": "普京：很快所有人都得开中国车", "market_title": "", "reason": "LLM 判定不下注：該話題是關於俄羅斯總統普丁表示未來大家都會開中國車，這與俄烏停火協議的市場主題完全無關。"}
