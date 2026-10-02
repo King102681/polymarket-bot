@@ -7425,3 +7425,9 @@
 {"strategy": "trend", "trend_id": "二号三号高管连续放鸽压制一众鹰派发声美联储平息10月加息预期", "trend_title": "\"二号、三号高管\"连续放鸽，压制一众鹰派发声，美联储平息\"10月加息\"预期", "market_title": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "欧盟与乌克兰称已设法填补资金缺口", "trend_title": "欧盟与乌克兰称已设法填补资金缺口", "market_title": "", "reason": "LLM 判定不下注：話題涉及歐盟與烏克蘭填補資金缺口的合作進展，屬於財政/援助層面的支持性政策新聞，而非停火協議本身的談判進展。五個候選市場"}
 {"strategy": "trend", "trend_id": "大陆渔船进入东沙附近台海巡称多次广播无效后水炮驱离", "trend_title": "大陆渔船进入东沙附近 台海巡称多次广播无效后水炮驱离", "market_title": "", "reason": "信心 0.25 < 0.35：大陸漁船進入東沙附近並被台灣海巡水炮驅離是低強度邊界摩擦事件，屬於既有的灰色地帶"}
+{"strategy": "trend", "trend_id": "特斯拉tslao盘前涨17因交付量超出预期", "trend_title": "特斯拉(TSLA.O)盘前涨1.7%，因交付量超出预期。", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於特斯拉的交付量超出預期，導致股價盤前上漲。然而，所有候選市場都與特斯拉和 SpaceX 合併的宣布時間有"}
+{"strategy": "trend", "trend_id": "默茨俄乌战事关乎欧洲安全德国将继续支持乌克兰", "trend_title": "默茨：俄乌战事关乎欧洲安全 德国将继续支持乌克兰", "market_title": "", "reason": "LLM 判定不下注：該新聞是關於德國總理默茨重申德國對烏克蘭的支持，以及認為俄烏戰爭關乎歐洲安全。這屬於持續性的政治表態，並未提供關於停火協"}
+{"strategy": "trend", "trend_id": "harvardparticlephysicistmatthewschwartzdrops36papersauthoredwithclaude", "trend_title": "Harvard particle physicist Matthew Schwartz drops 36 papers authored with Claude", "market_title": "", "reason": "LLM 判定不下注：該話題涉及Harvard物理學家與Claude AI合作發表論文，反映Claude AI模型的研究能力與使用熱度。然而候"}
+{"strategy": "trend", "trend_id": "非农仅增29万人且前值大幅下修9月报告还有何看点", "trend_title": "非农仅增2.9万人且前值大幅下修，9月报告还有何看点？", "market_title": "US recession by end of 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美国促欧洲释放柴油储备欧盟表态坚决拒绝", "trend_title": "美国促欧洲释放柴油储备 欧盟表态坚决拒绝", "market_title": "", "reason": "LLM 判定不下注：此話題是關於美國要求歐盟釋放柴油儲備，但歐盟堅決拒絕。這與科索沃總統候選人無關，因此市場索引為 -1。"}
+{"strategy": "trend", "trend_id": "普京建议西方国家清醒评估局势", "trend_title": "普京建议西方国家清醒评估局势", "market_title": "Russia x Ukraine ceasefire agreement by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
