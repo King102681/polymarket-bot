@@ -7438,3 +7438,6 @@
 {"strategy": "trend", "trend_id": "下午察高市早苗还有机会在深圳会晤习近平吗", "trend_title": "下午察：高市早苗还有机会在深圳会晤习近平吗？", "market_title": "", "reason": "信心 0.30 < 0.35：新聞標題是『高市早苗还有机会在深圳会晤习近平吗？』，暗示這是一個不確定且可能發生"}
 {"strategy": "trend", "trend_id": "israelssupremecourtoverturnselectionpanelbanonarabparties", "trend_title": "Israel’s Supreme Court overturns election panel ban on Arab parties", "market_title": "", "reason": "LLM 判定不下注：此熱門話題關於以色列最高法院的裁決，與美國北卡羅來納州最高法院的選舉結果無關。因此，沒有相關的市場可供選擇。"}
 {"strategy": "trend", "trend_id": "普京很快所有人都得开中国车", "trend_title": "普京：很快所有人都得开中国车", "market_title": "", "reason": "LLM 判定不下注：該話題是關於俄羅斯總統普丁表示未來大家都會開中國車，這與俄烏停火協議的市場主題完全無關。"}
+{"strategy": "trend", "trend_id": "2027年乌克兰国防开支将占预算支出的672", "trend_title": "2027年乌克兰国防开支将占预算支出的67.2%", "market_title": "", "reason": "LLM 判定不下注：此話題是關於烏克蘭的國防開支佔比，與停火協議的市場並無直接關聯，因此選擇無關的市場。"}
+{"strategy": "trend", "trend_id": "美国9月非农就业增长显著低于市场预期", "trend_title": "美国9月非农就业增长显著低于市场预期", "market_title": "US recession by end of 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美媒台湾25年来首次从美国接收f16战机", "trend_title": "美媒：台湾25年来首次从美国接收F-16战机", "market_title": "", "reason": "LLM 判定不下注：該新聞是關於台灣接收F-16戰機，與中國是否入侵台灣、賴清德訪美、台灣行政院長異動、或川普的國外訪問等選項關聯性不高，因"}
