@@ -7441,3 +7441,7 @@
 {"strategy": "trend", "trend_id": "2027年乌克兰国防开支将占预算支出的672", "trend_title": "2027年乌克兰国防开支将占预算支出的67.2%", "market_title": "", "reason": "LLM 判定不下注：此話題是關於烏克蘭的國防開支佔比，與停火協議的市場並無直接關聯，因此選擇無關的市場。"}
 {"strategy": "trend", "trend_id": "美国9月非农就业增长显著低于市场预期", "trend_title": "美国9月非农就业增长显著低于市场预期", "market_title": "US recession by end of 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美媒台湾25年来首次从美国接收f16战机", "trend_title": "美媒：台湾25年来首次从美国接收F-16战机", "market_title": "", "reason": "LLM 判定不下注：該新聞是關於台灣接收F-16戰機，與中國是否入侵台灣、賴清德訪美、台灣行政院長異動、或川普的國外訪問等選項關聯性不高，因"}
+{"strategy": "trend", "trend_id": "美国记者塔克卡尔森英国在军事上无力对抗俄罗斯", "trend_title": "美国记者塔克·卡尔森：英国在军事上无力对抗俄罗斯", "market_title": "", "reason": "LLM 判定不下注：该话题是关于俄罗斯和英国的军事能力对比，与俄乌停火协议的预测市场没有直接关联。"}
+{"strategy": "trend", "trend_id": "美国9月非农就业仅增加29万人", "trend_title": "美国9月非农就业仅增加2.9万人", "market_title": "", "reason": "LLM 判定不下注：该话题讨论的是美国9月非农就业数据，但候选项市场是关于2027年底美国是否会陷入衰退。两者之间没有直接的、即时的关联性，"}
+{"strategy": "trend", "trend_id": "europeanunionandcanadaplantolinknextgenpaymentsystemseasingtransactions", "trend_title": "European Union and Canada plan to link next-gen payment systems, easing transactions", "market_title": "", "reason": "LLM 判定不下注：此熱門話題與歐洲支付系統的連結，與歐洲國家領導人的政治預測市場完全無關。因此，沒有可預測的市場標的。"}
+{"strategy": "trend", "trend_id": "欧洲正在准备与中国打贸易战的机制", "trend_title": "欧洲正在准备与中国打贸易战的机制", "market_title": "", "reason": "LLM 判定不下注：話題是關於歐洲與中國的貿易戰，與美國關稅無直接關聯，因此無法判斷。"}
