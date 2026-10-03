@@ -7445,3 +7445,8 @@
 {"strategy": "trend", "trend_id": "美国9月非农就业仅增加29万人", "trend_title": "美国9月非农就业仅增加2.9万人", "market_title": "", "reason": "LLM 判定不下注：该话题讨论的是美国9月非农就业数据，但候选项市场是关于2027年底美国是否会陷入衰退。两者之间没有直接的、即时的关联性，"}
 {"strategy": "trend", "trend_id": "europeanunionandcanadaplantolinknextgenpaymentsystemseasingtransactions", "trend_title": "European Union and Canada plan to link next-gen payment systems, easing transactions", "market_title": "", "reason": "LLM 判定不下注：此熱門話題與歐洲支付系統的連結，與歐洲國家領導人的政治預測市場完全無關。因此，沒有可預測的市場標的。"}
 {"strategy": "trend", "trend_id": "欧洲正在准备与中国打贸易战的机制", "trend_title": "欧洲正在准备与中国打贸易战的机制", "market_title": "", "reason": "LLM 判定不下注：話題是關於歐洲與中國的貿易戰，與美國關稅無直接關聯，因此無法判斷。"}
+{"strategy": "trend", "trend_id": "俄国防部防空系统一夜间在多地上空共摧毁218架乌克兰无人机", "trend_title": "俄国防部：防空系统一夜间在多地上空共摧毁218架乌克兰无人机", "market_title": "", "reason": "LLM 判定不下注：该话题是关于乌克兰无人机被俄方击落，但所有候选市场都与俄乌停火协议相关，话题与市场不相关。"}
+{"strategy": "trend", "trend_id": "七国集团协调释放一亿桶石油储备", "trend_title": "七国集团协调释放一亿桶石油储备", "market_title": "Will WTI Crude Oil (WTI) hit (LOW) $75 in October?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "russiastrikessecondmajorbridgeinkyivmayorsays", "trend_title": "Russia strikes second major bridge in Kyiv, mayor says", "market_title": "Russia x Ukraine ceasefire agreement by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "报告中加贸易协议带动特斯拉model3在加拿大第三季强劲销量", "trend_title": "报告：中加贸易协议带动特斯拉Model 3在加拿大第三季强劲销量", "market_title": "", "reason": "LLM 判定不下注：熱門話題報導的是中加貿易協議帶動特斯拉Model 3在加拿大的銷售表現，屬於特斯拉營運數據和區域市場動態。所有5個候選市"}
+{"strategy": "trend", "trend_id": "台媒台独是统一最大障碍", "trend_title": "台媒：“台独”是统一最大障碍", "market_title": "Will China invade Taiwan by December 31, 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
