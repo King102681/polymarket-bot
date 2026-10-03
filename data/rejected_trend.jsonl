@@ -7457,3 +7457,9 @@
 {"strategy": "trend", "trend_id": "非农爆冷美债收益率却跌不动华尔街真正担心的事来了", "trend_title": "非农爆冷，美债收益率却跌不动：华尔街真正担心的事来了", "market_title": "US recession by end of 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "最新拉美民调显示中美影响力出现反转", "trend_title": "最新拉美民调显示：中美影响力出现反转", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於拉美地區中美影響力的民調變化，這與所有候選市場（皆涉及美國將特定中國科技公司列入軍事公司名單或特定政"}
 {"strategy": "trend", "trend_id": "朝中社朝鲜试射中程战略导弹", "trend_title": "朝中社：朝鲜试射中程战略导弹", "market_title": "Will there be exactly 3 North Korea tests in October 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "乌克兰总统泽连斯基俄罗斯对欧洲的混合攻击旨在进行分裂削弱欧洲对乌克兰的支持", "trend_title": "乌克兰总统泽连斯基：俄罗斯对欧洲的混合攻击旨在进行分裂，削弱欧洲对乌克兰的支持。", "market_title": "", "reason": "LLM 判定不下注：該話題提到俄羅斯對歐洲的「混合攻擊」意在製造分裂、削弱歐洲對烏的支持，但這與是否有停火協議的市場選項沒有直接關聯。停火協"}
+{"strategy": "trend", "trend_id": "两艘油轮先后在霍尔木兹海峡及阿曼以东遇袭", "trend_title": "两艘油轮先后在霍尔木兹海峡及阿曼以东遇袭", "market_title": "Iran blockade lifted before Iran-Oman Hormuz agreement?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "乌克兰总统泽连斯基乌克兰已稳定顿涅茨克东部的前线局势维瓦尔第行动取得成功目前仍在进行中", "trend_title": "乌克兰总统泽连斯基：乌克兰已稳定顿涅茨克东部的前线局势，“维瓦尔第行动”取得成功，目前仍在进行中。", "market_title": "", "reason": "LLM 判定不下注：这条新闻是关于乌克兰前线局势的短期进展，但所有候选市场都是关于长期的停火协议。因此，该话题与市场关联性不大，且不提供任何"}
+{"strategy": "trend", "trend_id": "台海巡署以水炮驱离大陆渔船引台湾强硬执法讨论", "trend_title": "台海巡署以水炮驱离大陆渔船 引台湾强硬执法讨论", "market_title": "", "reason": "LLM 判定不下注：此話題是關於台灣海巡署驅離大陸漁船，屬於兩岸的例行性執法衝突，並未直接預示或影響上述任何一個市場的結果，因此無法判斷任何"}
+{"strategy": "trend", "trend_id": "美媒俄美正在讨论一项数十亿美元的石油交易", "trend_title": "美媒：俄美正在讨论一项数十亿美元的石油交易", "market_title": "Will WTI Crude Oil (WTI) hit (HIGH) $100 in October?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "一国两制台湾方案在岛内引热议", "trend_title": "“一国两制”台湾方案在岛内引热议", "market_title": "", "reason": "LLM 判定不下注：話題是關於\"一國兩制\"台灣方案的討論，這與中國是否會入侵台灣（市場0）、賴清德是否訪美（市場1, 2）、台灣閣揆是否下台"}
