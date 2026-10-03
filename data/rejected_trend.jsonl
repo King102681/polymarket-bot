@@ -7450,3 +7450,10 @@
 {"strategy": "trend", "trend_id": "russiastrikessecondmajorbridgeinkyivmayorsays", "trend_title": "Russia strikes second major bridge in Kyiv, mayor says", "market_title": "Russia x Ukraine ceasefire agreement by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "报告中加贸易协议带动特斯拉model3在加拿大第三季强劲销量", "trend_title": "报告：中加贸易协议带动特斯拉Model 3在加拿大第三季强劲销量", "market_title": "", "reason": "LLM 判定不下注：熱門話題報導的是中加貿易協議帶動特斯拉Model 3在加拿大的銷售表現，屬於特斯拉營運數據和區域市場動態。所有5個候選市"}
 {"strategy": "trend", "trend_id": "台媒台独是统一最大障碍", "trend_title": "台媒：“台独”是统一最大障碍", "market_title": "Will China invade Taiwan by December 31, 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "外交部中方欢迎普京总统出席apec深圳峰会", "trend_title": "外交部：中方欢迎普京总统出席APEC深圳峰会", "market_title": "", "reason": "LLM 判定不下注：此新聞僅為中國外交部表示歡迎俄羅斯總統普丁出席 APEC 峰會，此為外交禮儀性發言，並未提供任何關於俄烏戰爭停火協議的新"}
+{"strategy": "trend", "trend_id": "普京现场观摩中部2026战略演习", "trend_title": "普京现场观摩“中部-2026”战略演习", "market_title": "", "reason": "LLM 判定不下注：此話題為俄羅斯總統觀摩軍演，與俄烏停火協議的到期時間無直接關聯，市場定價與話題無關。"}
+{"strategy": "trend", "trend_id": "马斯克证实与台积电探索合作", "trend_title": "马斯克证实与台积电探索合作", "market_title": "", "reason": "LLM 判定不下注：話題內容是馬斯克探索與台積電的合作，但候選市場的題目都是關於 Tesla 和 SpaceX 的合併。話題與市場毫無關聯。"}
+{"strategy": "trend", "trend_id": "乌克兰国家债务在十年内增长四多倍", "trend_title": "乌克兰国家债务在十年内增长四多倍", "market_title": "", "reason": "LLM 判定不下注：該話題討論烏克蘭國家債務的增長，與俄烏停火協議市場無直接關聯。市場定價與話題無關，無法判斷方向。"}
+{"strategy": "trend", "trend_id": "非农爆冷美债收益率却跌不动华尔街真正担心的事来了", "trend_title": "非农爆冷，美债收益率却跌不动：华尔街真正担心的事来了", "market_title": "US recession by end of 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "最新拉美民调显示中美影响力出现反转", "trend_title": "最新拉美民调显示：中美影响力出现反转", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於拉美地區中美影響力的民調變化，這與所有候選市場（皆涉及美國將特定中國科技公司列入軍事公司名單或特定政"}
+{"strategy": "trend", "trend_id": "朝中社朝鲜试射中程战略导弹", "trend_title": "朝中社：朝鲜试射中程战略导弹", "market_title": "Will there be exactly 3 North Korea tests in October 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
