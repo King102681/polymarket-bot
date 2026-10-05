@@ -7511,3 +7511,6 @@
 {"strategy": "trend", "trend_id": "researcheratrussianplaguelaboratorydiesofunknowninfection", "trend_title": "Researcher at Russian plague laboratory dies of ‘unknown’ infection", "market_title": "", "reason": "LLM 判定不下注：話題涉及俄羅斯研究人員死於不明感染，引發生物安全疑慮。但所有候選市場都是關於烏俄停火協議的具體時間點。這條話題與停火協議"}
 {"strategy": "trend", "trend_id": "早报外交部中方欢迎普京总统出席apec深圳峰会商务部对原产于欧盟的进口对硝基甲苯发起反倾销调查", "trend_title": "【早报】外交部：中方欢迎普京总统出席APEC深圳峰会；商务部对原产于欧盟的进口对硝基甲苯发起反倾销调查", "market_title": "", "reason": "LLM 判定不下注：话题涉及普京出席APEC深圳峰会和贸易反倾销调查，都是外交经贸层面的常规外交活动。这些信息对俄乌停火协议的时间预测没有直"}
 {"strategy": "trend", "trend_id": "民进党用高压水炮对大陆渔船喷射90秒", "trend_title": "民进党用高压水炮对大陆渔船喷射90秒", "market_title": "", "reason": "LLM 判定不下注：該話題描述的是一起特定事件，民进党对大陆渔船喷水，这与候选市场中提到的“中国是否会入侵台湾”、“赖清德是否访问美国”或“"}
+{"strategy": "trend", "trend_id": "早报特朗普宣布成立超级智能特别工作组马斯克称spacexai将更名为spacexsi", "trend_title": "【早报】特朗普宣布成立“超级智能特别工作组”；马斯克称“SpaceXAI”将更名为“SpaceXSI”", "market_title": "", "reason": "LLM 判定不下注：當前熱門話題與提供的候選市場（關於特朗普是否會公開侮辱特定人物）沒有任何關聯。話題聚焦於特朗普成立「超級智能特別工作組」"}
+{"strategy": "trend", "trend_id": "经济学家欧元区服务业增长加速令加息预期升温", "trend_title": "经济学家：欧元区服务业增长加速 令加息预期升温", "market_title": "", "reason": "LLM 判定不下注：話題討論的是歐元區服務業和加息預期，而所有候選市場都關於美聯儲（Fed）的利率決策，兩者關聯性不高。"}
+{"strategy": "trend", "trend_id": "媒体欧盟或在乌克兰入盟后限制其进入农业市场", "trend_title": "媒体：欧盟或在乌克兰入盟后限制其进入农业市场", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是歐盟可能限制烏克蘭農產品進入市場，與俄烏停火協議無關。"}
