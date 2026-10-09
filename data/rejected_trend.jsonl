@@ -7598,3 +7598,8 @@
 {"strategy": "trend", "trend_id": "俄伊总统通话普京称愿帮助调解中东战争", "trend_title": "俄伊总统通话，普京称愿帮助调解中东战争", "market_title": "", "reason": "LLM 判定不下注：话题内容是俄伊总统通话、普京表示愿意调解中东战争，与中东地区冲突相关。所有候选市场均为俄乌停火协议的相关市场，与话题主题"}
 {"strategy": "trend", "trend_id": "中国驻韩大使与韩国执政党共同民主党党首金民锡会面", "trend_title": "中国驻韩大使与韩国执政党共同民主党党首金民锡会面", "market_title": "", "reason": "LLM 判定不下注：话题是关于中国驻韩大使与韩国执政党党首会面，这是一个外交层面的互动。候选市场主要关注朝鲜与韩国的外交、韩国银行的货币政策"}
 {"strategy": "trend", "trend_id": "法防长将于11月开始培训乌克兰飞行员驾驶阵风战斗机", "trend_title": "法防长：将于11月开始培训乌克兰飞行员驾驶“阵风”战斗机", "market_title": "", "reason": "LLM 判定不下注：話題討論法國將訓練烏克蘭飛行員駕駛陣風戰機，這是軍事援助加強的信號。所有候選市場均為『停火協議』相關，不是軍事支援升級或"}
+{"strategy": "trend", "trend_id": "乘联分会特斯拉在9月份售出95366辆中国制造的汽车", "trend_title": "乘联分会：特斯拉在9月份售出95,366辆中国制造的汽车。", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於特斯拉9月份在中國的汽車銷量，與候選市場中關於特斯拉與SpaceX合併或Roadster交付時間的預測市"}
+{"strategy": "trend", "trend_id": "韩国宣布将召回驻乌大使", "trend_title": "韩国宣布将召回驻乌大使", "market_title": "", "reason": "LLM 判定不下注：該話題是關於韓國召回駐烏克蘭大使，與地緣政治和外交關係相關，但候選市場均與韓國的貨幣政策、GDP 增長或朝韓關係有關，並"}
+{"strategy": "trend", "trend_id": "俄军自从在哈尔科夫州部分区域包围乌军以来已解放20个居民点", "trend_title": "俄军自从在哈尔科夫州部分区域包围乌军以来已解放20个居民点", "market_title": "", "reason": "LLM 判定不下注：該熱門話題主要報導俄軍在哈爾科夫地區的軍事進展，聲稱解放了20個居民點。然而，所有候選市場都圍繞著俄烏之間『停火協議』的"}
+{"strategy": "trend", "trend_id": "yandextakesaseconddatacenterhitin48hoursnowitsbiggestrussiansiteisdamaged", "trend_title": "Yandex Takes a Second Data Center Hit in 48 Hours—Now Its Biggest Russian Site Is Damaged", "market_title": "", "reason": "LLM 判定不下注：熱門話題討論的是 Yandex 數據中心受損事件，與俄烏停火協議的候選市場沒有直接關聯性。因此，選擇市場 index -"}
+{"strategy": "trend", "trend_id": "媒体特朗普特使将与基辅和欧盟讨论冲突调解", "trend_title": "媒体：特朗普特使将与基辅和欧盟讨论冲突调解", "market_title": "", "reason": "LLM 判定不下注：话题提及特朗普特使与乌克兰及欧盟讨论调解冲突，与候选市场关注的特朗普与普京是否会面、以及在何处会面（特别是中国）没有直接"}
