@@ -7623,3 +7623,9 @@
 {"strategy": "trend", "trend_id": "俄总统助理普京和特朗普谁都不想先挂断电话", "trend_title": "俄总统助理：普京和特朗普“谁都不想先挂断电话”", "market_title": "Will Trump speak to Volodymyr Zelenskyy by October 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "韩国驻乌大使回国朝鲜战俘移交风波持续升级", "trend_title": "韩国驻乌大使回国 朝鲜战俘移交风波持续升级", "market_title": "Will North and South Korea engage in direct talks by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "俄总统助理认为美方还将就俄罗斯柴油供应问题作出进一步说明", "trend_title": "俄总统助理认为美方还将就俄罗斯柴油供应问题作出进一步说明", "market_title": "", "reason": "LLM 判定不下注：該新聞討論的是俄羅斯柴油供應問題，與俄烏停火協議無直接關聯。市場上也沒有直接對應此話題的預測市場。"}
+{"strategy": "trend", "trend_id": "韩国超市建筑部分坍塌致多人受伤", "trend_title": "韩国超市建筑部分坍塌致多人受伤", "market_title": "", "reason": "LLM 判定不下注：話題內容是韓國超市建築坍塌導致多人受傷，此事件與韓國央行升息或 GDP 成長率無任何直接關聯，候選市場皆不相關。"}
+{"strategy": "trend", "trend_id": "追捧lululemon与宠物进入生活朝鲜年轻一代消费观念悄然改变", "trend_title": "追捧Lululemon与宠物进入生活 朝鲜年轻一代消费观念悄然改变", "market_title": "", "reason": "LLM 判定不下注：此話題主要討論朝鮮年輕一代的消費觀念變化，包含對 Lululemon 和寵物的追捧。候選市場全部圍繞朝鮮的軍事測試或外交"}
+{"strategy": "trend", "trend_id": "俄原子能公司普京与特朗普的通话体现出两位对话极具成效", "trend_title": "俄原子能公司：普京与特朗普的通话体现出两位对话极具成效", "market_title": "", "reason": "LLM 判定不下注：該熱門話題討論的是普丁與川普之間的電話，但所有候選市場均與川普與其他國際領導人的通話有關，與此話題直接相關性不高。即使該"}
+{"strategy": "trend", "trend_id": "特朗普与普京通话非常成功全世界的柴油价格都将大幅快速下跌俄方表态泽连斯基回应", "trend_title": "特朗普：与普京通话非常成功，全世界的柴油价格都将大幅、快速下跌！俄方表态；泽连斯基回应", "market_title": "Will Trump speak to Volodymyr Zelenskyy by October 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "巴西总统大选决选在即卢拉宣布暂停征收汽油税一个月", "trend_title": "巴西总统大选决选在即 卢拉宣布暂停征收汽油税一个月", "market_title": "", "reason": "LLM 判定不下注：此話題關於巴西總統大選，與以色列選舉無關，因此選擇無相關市場。"}
+{"strategy": "trend", "trend_id": "北约军事委员会主席北约并未准备封锁加里宁格勒", "trend_title": "北约军事委员会主席：北约并未准备封锁加里宁格勒", "market_title": "NATO x Russia military clash by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
