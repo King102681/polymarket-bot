@@ -7641,3 +7641,7 @@
 {"strategy": "trend", "trend_id": "俄罗斯可在第一阶段向世界市场供应50万吨柴油", "trend_title": "俄罗斯可在第一阶段向世界市场供应50万吨柴油", "market_title": "", "reason": "LLM 判定不下注：此熱門話題關於俄羅斯向世界市場供應柴油，與俄烏停火協議市場完全無關。"}
 {"strategy": "trend", "trend_id": "沙特通报利雅得机场遇袭致12死309伤胡塞武装称负责", "trend_title": "沙特通报利雅得机场遇袭致12死309伤，胡塞武装称负责", "market_title": "Perim Island no longer under Houthi control by October 31?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "iranwarlive12killedinriyadhusweighsjoiningfightagainsthouthis", "trend_title": "Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis", "market_title": "", "reason": "LLM 判定不下注：該熱門話題主要關注美國與葉門胡塞武裝之間的衝突，以及對沙烏地阿拉伯的襲擊事件，並未直接與美國和伊朗之間關於核協議的談判或"}
+{"strategy": "trend", "trend_id": "俄罗斯国防部我们在夜间击落了479架乌克兰无人机", "trend_title": "俄罗斯国防部：我们在夜间击落了479架乌克兰无人机。", "market_title": "", "reason": "LLM 判定不下注：该消息仅报告俄罗斯声称击落了大量乌克兰无人机，这是军事冲突的常规信息，并未直接指向任何关于停火或和平谈判的预期，因此与所"}
+{"strategy": "trend", "trend_id": "五角大楼更新伊朗战争中死亡军人人数", "trend_title": "五角大楼更新伊朗战争中死亡军人人数", "market_title": "", "reason": "LLM 判定不下注：此話題是關於五角大樓更新在伊朗戰爭中死亡的軍人人數，這是一個歷史或統計數據的更新，與候選的三個市場（關於美伊核協議、高級"}
+{"strategy": "trend", "trend_id": "俄罗斯与中国计划为阿穆尔虎建立生态廊道", "trend_title": "俄罗斯与中国计划为阿穆尔虎建立生态廊道", "market_title": "", "reason": "LLM 判定不下注：此話題關於俄羅斯和中國計劃為阿穆爾虎建立生態廊道，與候選市場中關於俄烏戰爭停火協議或和平談判的市場無關。"}
+{"strategy": "trend", "trend_id": "赖清德双十演说强调强化台湾自我防卫", "trend_title": "赖清德双十演说强调强化台湾自我防卫", "market_title": "Will China invade Taiwan by December 31, 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
