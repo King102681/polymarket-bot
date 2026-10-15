@@ -7761,3 +7761,6 @@
 {"strategy": "trend", "trend_id": "mitchdanielsrebukesjdvanceoverfreemarketretreat", "trend_title": "Mitch Daniels rebukes JD Vance over free-market retreat", "market_title": "", "reason": "LLM 判定不下注：此話題是關於 Mitch Daniels 對 JD Vance 在自由市場立場上的批評，主要聚焦於 Vance 的政治立"}
 {"strategy": "trend", "trend_id": "willisraelivoterspunishbenjaminnetanyahu", "trend_title": "Will Israeli voters punish Benjamin Netanyahu?", "market_title": "", "reason": "LLM 判定不下注：該話題是關於以色列選民是否會懲罰內塔尼亞胡，這是一個政治層面的問題，與停火協議的達成與否沒有直接關聯，因此不選市場。"}
 {"strategy": "trend", "trend_id": "也门南部总统府遇袭造成两人死亡", "trend_title": "也门南部总统府遇袭造成两人死亡", "market_title": "", "reason": "信心 0.30 < 0.35：新闻提到也门南部总统府遇袭，这与也门南部局势有关，可能间接影响到曼德海峡的通行，"}
+{"strategy": "trend", "trend_id": "胡塞武装导弹袭击亚丁总统府致5死16伤沙特机场本月遭袭20余次", "trend_title": "胡塞武装导弹袭击亚丁总统府致5死16伤，沙特机场本月遭袭20余次", "market_title": "", "reason": "LLM 判定不下注：話題提及胡塞武裝襲擊葉門亞丁總統府，並提到沙特機場遭襲，這與曼德海峽是否關閉的市場主題關聯性不高。市場主題是關於曼德海峽"}
+{"strategy": "trend", "trend_id": "thisisaseriousmistakezelenskyyslamsstarlinkrestrictions", "trend_title": "“This is a Serious Mistake”: Zelenskyy Slams Starlink Restrictions", "market_title": "", "reason": "LLM 判定不下注：雖然話題提到了澤倫斯基和俄烏衝突，但核心是關於 Starlink 的使用限制，這與是否達成停火協議沒有直接或明顯的關聯。"}
+{"strategy": "trend", "trend_id": "东盟秘书长成员国希望与俄罗斯展开能源合作", "trend_title": "东盟秘书长：成员国希望与俄罗斯展开能源合作", "market_title": "", "reason": "LLM 判定不下注：此話題是關於東盟希望與俄羅斯進行能源合作，與俄烏停火協議的市場無關。"}
