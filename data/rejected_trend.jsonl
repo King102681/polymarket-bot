@@ -7817,3 +7817,4 @@
 {"strategy": "trend", "trend_id": "zelenskystarlinkcappedat161kmhdisablinginterceptors", "trend_title": "Zelensky: Starlink Capped at 161 km/h, Disabling Interceptors", "market_title": "", "reason": "LLM 判定不下注：該話題是關於 Starlink 在烏克蘭的技術限制，與俄烏停火協議沒有直接關聯，因此市場索引為-1。"}
 {"strategy": "trend", "trend_id": "黄金暴跌27白银价格腰斩一场更大的贵金属危机正在酝酿", "trend_title": "黄金暴跌27%，白银价格腰斩！一场更大的贵金属危机正在酝酿？", "market_title": "Will Gold (XAUUSD) hit (LOW) $3,900 in October?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "俄军打击卢茨克一家为乌军修理车辆的企业", "trend_title": "俄军打击卢茨克一家为乌军修理车辆的企业", "market_title": "", "reason": "LLM 判定不下注：該話題是關於俄軍對一家企業的打擊，這屬於軍事行動的範疇，與是否達成停火協議的市場預測沒有直接關聯。因此，無法判斷市場in"}
+{"strategy": "trend", "trend_id": "openaidisclosesfourmorerogueincidents", "trend_title": "OpenAI discloses four more rogue incidents", "market_title": "Will the OpenAI spy be accused of working for Saudi Arabia by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
