@@ -7796,3 +7796,5 @@
 {"strategy": "trend", "trend_id": "哈萨克斯坦正在就对华中转俄石油增加25进行谈判", "trend_title": "哈萨克斯坦正在就对华中转俄石油增加25%进行谈判", "market_title": "Will WTI Crude Oil (WTI) hit (HIGH) $105 in October?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "howisraelispywareusedzeroclickhackonaljazeerastaff", "trend_title": "How Israeli spyware used ‘zero click’ hack on Al Jazeera staff", "market_title": "", "reason": "LLM 判定不下注：此話題關於間諜軟體攻擊，與以哈停火協商無關，因此市場指標選擇 -1。"}
 {"strategy": "trend", "trend_id": "习近平在内蒙古乌兰察布考察", "trend_title": "习近平在内蒙古乌兰察布考察", "market_title": "", "reason": "LLM 判定不下注：話題僅提及習近平在內蒙古的考察，與其他市場標的（高市、張又俠、中國政變）無直接關聯，無法判斷市場方向。"}
+{"strategy": "trend", "trend_id": "中国商务部回应欧盟对华双轨思路不能幻想以施压换取好处", "trend_title": "中国商务部回应欧盟对华“双轨”思路：不能幻想以施压换取好处", "market_title": "", "reason": "LLM 判定不下注：该话题与欧盟对华政策有关，与罗马尼亚总理任命或瑞典提前大选无关，因此选择 -1。"}
+{"strategy": "trend", "trend_id": "俄气石油公司计划2026年将经北方海路的石油供应量增加35", "trend_title": "俄气石油公司计划2026年将经北方海路的石油供应量增加35%", "market_title": "", "reason": "LLM 判定不下注：该话题涉及俄气2026年北方海路石油供应计划，是中期战略性信息。所有候选市场均为WTI原油10月短期价格触及特定点位的预"}
