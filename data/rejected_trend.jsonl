@@ -7798,3 +7798,6 @@
 {"strategy": "trend", "trend_id": "习近平在内蒙古乌兰察布考察", "trend_title": "习近平在内蒙古乌兰察布考察", "market_title": "", "reason": "LLM 判定不下注：話題僅提及習近平在內蒙古的考察，與其他市場標的（高市、張又俠、中國政變）無直接關聯，無法判斷市場方向。"}
 {"strategy": "trend", "trend_id": "中国商务部回应欧盟对华双轨思路不能幻想以施压换取好处", "trend_title": "中国商务部回应欧盟对华“双轨”思路：不能幻想以施压换取好处", "market_title": "", "reason": "LLM 判定不下注：该话题与欧盟对华政策有关，与罗马尼亚总理任命或瑞典提前大选无关，因此选择 -1。"}
 {"strategy": "trend", "trend_id": "俄气石油公司计划2026年将经北方海路的石油供应量增加35", "trend_title": "俄气石油公司计划2026年将经北方海路的石油供应量增加35%", "market_title": "", "reason": "LLM 判定不下注：该话题涉及俄气2026年北方海路石油供应计划，是中期战略性信息。所有候选市场均为WTI原油10月短期价格触及特定点位的预"}
+{"strategy": "trend", "trend_id": "openai工程师涉嫌窃听被捕", "trend_title": "OpenAI工程师涉嫌窃听被捕", "market_title": "", "reason": "LLM 判定不下注：該話題是關於 OpenAI 員工被指控竊聽並被捕，但候選市場均與此類負面事件無直接關聯，市場主要集中在 OpenAI 的"}
+{"strategy": "trend", "trend_id": "特斯拉飞车秀的力学现实与适航困局", "trend_title": "特斯拉飞车秀的力学现实与适航困局", "market_title": "", "reason": "LLM 判定不下注：話題討論特斯拉飛車秀的力學原理與適航困難，是技術層面的評論。候選市場全部聚焦Tesla-SpaceX合併時間表，與飛車技"}
+{"strategy": "trend", "trend_id": "普京继续打击乌军工设施不会与乌讨论安全区问题", "trend_title": "普京：继续打击乌军工设施，不会与乌讨论安全区问题", "market_title": "Russia x Ukraine ceasefire agreement by March 31, 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
