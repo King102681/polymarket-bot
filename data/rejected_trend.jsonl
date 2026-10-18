@@ -7823,3 +7823,8 @@
 {"strategy": "trend", "trend_id": "europeandiplomatsattackedbyisraelisettlersinwestbank", "trend_title": "European diplomats attacked by Israeli settlers in West Bank", "market_title": "", "reason": "LLM 判定不下注：該話題描述的是歐洲外交官在約旦河西岸被以色列定居者襲擊的事件，與「以色列與哈瑪斯停火第二階段」的市場預測沒有直接關聯。因"}
 {"strategy": "trend", "trend_id": "也门议会议长敦促埃及勿卷入战争", "trend_title": "也门议会议长敦促埃及勿卷入战争", "market_title": "", "reason": "信心 0.30 < 0.35：也门议会议长呼吁埃及不要卷入战争，这表明当地局势可能趋于缓和，而非加剧。这与 \""}
 {"strategy": "trend", "trend_id": "据俄新社俄罗斯内务部表示黑市充斥着来自乌克兰冲突区的武器", "trend_title": "据俄新社：俄罗斯内务部表示，黑市充斥着来自乌克兰冲突区的武器。", "market_title": "", "reason": "LLM 判定不下注：話題報道烏克蘭衝突區武器流入黑市，反映戰爭持續造成的武器擴散問題，但這是衝突長期化的表現而非停火進展的新信息。武器黑市充"}
+{"strategy": "trend", "trend_id": "美国务卿俄罗斯柴油无论如何都将进入全球市场", "trend_title": "美国务卿：俄罗斯柴油无论如何都将进入全球市场", "market_title": "", "reason": "LLM 判定不下注：話題是關於俄羅斯柴油進入全球市場，與俄烏停火協議無關。"}
+{"strategy": "trend", "trend_id": "iranwarlivetankershitinhormuzisraelisettlersattackeudiplomats", "trend_title": "Iran war live: Tankers hit in Hormuz; Israeli settlers attack EU diplomats", "market_title": "", "reason": "LLM 判定不下注：話題提到伊朗、霍爾木茲海峽、以色列襲擊，但市場是關於以色列和哈馬斯停火，兩者關聯性不足。且話題本身描述的是衝突升級，與停"}
+{"strategy": "trend", "trend_id": "国际特稿楼价狂飙边界炸雷李在明陷内外交困", "trend_title": "国际特稿：楼价狂飙边界炸雷 李在明陷内外交困", "market_title": "Will South Korea’s 2026 Annual Inflation be between 2.7% and 2.9%?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "俄内务部黑市充斥着来自乌克兰冲突区的武器", "trend_title": "俄内务部：黑市充斥着来自乌克兰冲突区的武器", "market_title": "", "reason": "LLM 判定不下注：俄内务部报告黑市武器充斥反映冲突持续、走私活动猖獗，但这是战争长期状态的表现，不是停火谈判进展的新信号。该消息不直接指向"}
+{"strategy": "trend", "trend_id": "普京称赞包围消灭2000乌军战果", "trend_title": "普京称赞包围消灭2000乌军战果", "market_title": "", "reason": "LLM 判定不下注：普京称赞军事战果是典型的宣传言论，反映俄方对战事的官方叙事，但不提供关于停火协议具体时间线的新信息。该言论既不直接表明停"}
