@@ -7848,3 +7848,7 @@
 {"strategy": "trend", "trend_id": "传阿联酋同意重返也门冲突为南方部队重启资金支持", "trend_title": "传阿联酋同意重返也门冲突 为南方部队重启资金支持", "market_title": "Bab el-Mandeb Strait effectively closed by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "拉夫罗夫泽连斯基不想谈判已多次破坏谈判进程", "trend_title": "拉夫罗夫：泽连斯基不想谈判， 已多次破坏谈判进程", "market_title": "Russia x Ukraine ceasefire agreement by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "韩媒称三星用台积电3纳米工艺造英伟达hbm基础晶粒", "trend_title": "韩媒称三星用台积电3纳米工艺造英伟达HBM基础晶粒", "market_title": "", "reason": "LLM 判定不下注：该话题讨论的是三星使用台积电的3纳米工艺为英伟达制造HBM基础晶粒，这与当前的候选市场（主要涉及DOJ罚款、Nvidia"}
+{"strategy": "trend", "trend_id": "俄国防部俄防空系统12小时摧毁41架乌克兰无人机", "trend_title": "俄国防部：俄防空系统12小时摧毁41架乌克兰无人机", "market_title": "", "reason": "LLM 判定不下注：該話題提到俄羅斯擊落烏克蘭無人機，屬於軍事行動的細節，與停火協議的市場無直接關聯。無法判斷市場方向。"}
+{"strategy": "trend", "trend_id": "usresumesintelligencesharingwithukrainezelenskysays", "trend_title": "US Resumes Intelligence Sharing With Ukraine, Zelensky Says", "market_title": "", "reason": "LLM 判定不下注：這則話題是關於美國恢復與烏克蘭的情報共享，這是一個短期內增強烏克蘭防禦能力的事件。然而，所有候選市場都關於『停火協議』的"}
+{"strategy": "trend", "trend_id": "俄记者乌克兰政权的脊梁已断", "trend_title": "俄记者：乌克兰政权的脊梁已断", "market_title": "", "reason": "LLM 判定不下注：該話題屬於俄羅斯官方媒體的宣傳，聲稱烏克蘭政權的軍事能力已經瓦解。這是一個關於戰場局勢的論述，但與是否達成停火協議的市場"}
+{"strategy": "trend", "trend_id": "特朗普支持内坦亚胡竞选连任以色列总理", "trend_title": "特朗普支持内坦亚胡竞选连任以色列总理", "market_title": "", "reason": "LLM 判定不下注：此話題與美國總統特朗普及俄羅斯總統普丁無關，與烏克蘭總統澤倫斯基亦無直接關聯，因此與所有候選市場均不相關。"}
