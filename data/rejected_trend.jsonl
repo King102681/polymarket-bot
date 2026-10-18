@@ -7857,3 +7857,6 @@
 {"strategy": "trend", "trend_id": "fireengulfsalbaniassupremecourtasprotestsenterfifthday", "trend_title": "Fire engulfs Albania’s Supreme Court as protests enter fifth day", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於阿爾巴尼亞最高法院發生的火災，但候選市場都與美國北卡羅來納州的最高法院選舉有關。兩者之間沒有關聯性，"}
 {"strategy": "trend", "trend_id": "伊朗海军发布油轮在海峡南部触雷视频", "trend_title": "伊朗海军发布油轮在海峡南部触雷视频", "market_title": "", "reason": "LLM 判定不下注：此新聞事件涉及伊朗海軍在海峽南部觸雷，但候選市場皆與美伊核協議或外交會晤的長期進展相關，並非直接關於即時軍事衝突或其影響"}
 {"strategy": "trend", "trend_id": "泽连斯基表示有意参加乌克兰选举但选举并非发起", "trend_title": "泽连斯基表示有意参加乌克兰选举，但选举并非发起", "market_title": "", "reason": "LLM 判定不下注：话题是关于泽连斯基是否愿意参加乌克兰选举，而候选项市场都是关于俄乌停火协议的时间。这两个议题之间没有直接关联性，因此无法"}
+{"strategy": "trend", "trend_id": "伊朗警告新一轮反击将更具毁灭性不再遵循熟悉的规则", "trend_title": "伊朗警告新一轮反击将更具毁灭性，“不再遵循熟悉的规则”！", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "泽连斯基与美方特使通话商讨外交解决危机", "trend_title": "泽连斯基与美方特使通话商讨外交解决危机", "market_title": "", "reason": "LLM 判定不下注：話題提到澤倫斯基與美方特使通話，討論外交解決危機。這是一個持續性的外交努力，並未提供任何具體的時間表或突破性進展，因此無"}
+{"strategy": "trend", "trend_id": "特朗普乌克兰问题调解取得重大进展两年前泽连斯基本可以达成比现在更有利的协议", "trend_title": "特朗普：乌克兰问题调解取得重大进展，两年前泽连斯基本可以达成比现在更有利的协议", "market_title": "", "reason": "LLM 判定不下注：特朗普關於烏克蘭調解進展的言論，主要涉及烏克蘭與俄羅斯的和平談判動態，而非直接涉及特朗普與普京的會面。候選市場[0]和["}
