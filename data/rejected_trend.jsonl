@@ -7860,3 +7860,4 @@
 {"strategy": "trend", "trend_id": "伊朗警告新一轮反击将更具毁灭性不再遵循熟悉的规则", "trend_title": "伊朗警告新一轮反击将更具毁灭性，“不再遵循熟悉的规则”！", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "泽连斯基与美方特使通话商讨外交解决危机", "trend_title": "泽连斯基与美方特使通话商讨外交解决危机", "market_title": "", "reason": "LLM 判定不下注：話題提到澤倫斯基與美方特使通話，討論外交解決危機。這是一個持續性的外交努力，並未提供任何具體的時間表或突破性進展，因此無"}
 {"strategy": "trend", "trend_id": "特朗普乌克兰问题调解取得重大进展两年前泽连斯基本可以达成比现在更有利的协议", "trend_title": "特朗普：乌克兰问题调解取得重大进展，两年前泽连斯基本可以达成比现在更有利的协议", "market_title": "", "reason": "LLM 判定不下注：特朗普關於烏克蘭調解進展的言論，主要涉及烏克蘭與俄羅斯的和平談判動態，而非直接涉及特朗普與普京的會面。候選市場[0]和["}
+{"strategy": "trend", "trend_id": "原油etf", "trend_title": "原油ETF", "market_title": "Will WTI Crude Oil (WTI) hit (HIGH) $100 in October?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
