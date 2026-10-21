@@ -7911,3 +7911,9 @@
 {"strategy": "trend", "trend_id": "伊朗提议斡旋沙特与胡塞武装谈判至今未获回应", "trend_title": "伊朗提议斡旋沙特与胡塞武装谈判 至今未获回应", "market_title": "", "reason": "LLM 判定不下注：話題是關於伊朗提議斡旋沙特與胡塞武裝談判，此與候選市場中關於美伊核協議或美伊外交會議的議題無直接關聯。市場定價與話題無關"}
 {"strategy": "trend", "trend_id": "中国经济因人工智能行业加速发展", "trend_title": "中国经济因人工智能行业加速发展", "market_title": "", "reason": "LLM 判定不下注：該話題討論中國經濟與AI行業發展，與候選市場中關於特定公司AI模型優劣的預測無直接關聯。市場預測是針對2026年底的AI"}
 {"strategy": "trend", "trend_id": "美国副总统万斯称乌克兰不应加入北约", "trend_title": "美国副总统万斯称乌克兰不应加入北约", "market_title": "", "reason": "LLM 判定不下注：話題是關於美國副總統萬斯對烏克蘭加入北約的看法，這與 2028 年美國總統大選候選人 JD Vance 或 Alexan"}
+{"strategy": "trend", "trend_id": "外媒披露特朗普叫停以色列重启打击伊朗计划", "trend_title": "外媒披露：特朗普叫停以色列重启打击伊朗计划", "market_title": "", "reason": "LLM 判定不下注：此話題關於特朗普叫停以色列打擊伊朗的計劃，與候選市場中關於特朗普與普丁會面或與澤倫斯基通話的內容無直接關聯。"}
+{"strategy": "trend", "trend_id": "韩国釜山鲨鱼受困运河逾一个月终获救重返大海", "trend_title": "韩国釜山鲨鱼受困运河逾一个月 终获救重返大海", "market_title": "", "reason": "LLM 判定不下注：話題內容關於一隻鯊魚獲救，與所有候選市場（包含外交、經濟、貨幣政策）均無關聯。"}
+{"strategy": "trend", "trend_id": "集安组织秘书长集安组织对北约在其西部边界增加兵力的问题表示关切", "trend_title": "集安组织秘书长：集安组织对北约在其西部边界增加兵力的问题表示关切", "market_title": "NATO x Russia military clash by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "merzsaysforcingukrainetosurrenderwouldbeadefeatforallofeurope", "trend_title": "Merz Says Forcing Ukraine to Surrender Would Be a Defeat for All of Europe", "market_title": "", "reason": "LLM 判定不下注：該話題是關於一位政治人物對烏克蘭局勢的評論，指出強迫烏克蘭投降將是歐洲的失敗。這與市場上關於停火協議的預測沒有直接關聯，"}
+{"strategy": "trend", "trend_id": "uscitizenstephenhubbardfreedbyrussiaastrumpenvoymeetsputin", "trend_title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin", "market_title": "Will Trump and Putin not meet?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "普京将与威特科夫讨论在中国与特朗普会晤的可能性", "trend_title": "普京：将与威特科夫讨论在中国与特朗普会晤的可能性", "market_title": "Will Trump and Putin not meet?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
