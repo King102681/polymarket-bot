@@ -7980,3 +7980,8 @@
 {"strategy": "trend", "trend_id": "伊朗总统办港口遭封锁后物资进口量仅下降25", "trend_title": "伊朗总统办：港口遭封锁后物资进口量仅下降25%", "market_title": "", "reason": "信心 0.30 < 0.35：雖然話題提到港口封鎖，但重點是物資進口僅下降25%，顯示影響比預期小，這對伊朗來"}
 {"strategy": "trend", "trend_id": "欧盟多国部长主张与北京协商限制多行业进口", "trend_title": "欧盟多国部长主张与北京协商限制多行业进口", "market_title": "", "reason": "LLM 判定不下注：此話題與瑞典選舉無關，話題內容是關於歐盟與中國的貿易協商，而市場是關於瑞典的選舉時間，兩者沒有關聯性。"}
 {"strategy": "trend", "trend_id": "马斯克批基辅政权借冲突牟利精英暴富民众子弟却被送进战壕", "trend_title": "马斯克批基辅政权借冲突牟利：精英暴富，民众子弟却被送进战壕", "market_title": "", "reason": "LLM 判定不下注：該熱門話題討論的是烏克蘭的政治和軍事局勢，以及馬斯克對其的批評，與特斯拉和 SpaceX 的合併預測市場毫無關聯。"}
+{"strategy": "trend", "trend_id": "马斯克称美国援乌资金经洗钱回流资助政治竞选", "trend_title": "马斯克称美国援乌资金经“洗钱”回流资助政治竞选", "market_title": "", "reason": "LLM 判定不下注：該熱門話題與所有候選市場均無關。話題是關於馬斯克對美國援烏資金的評論，而候選市場皆關於 Tesla 和 SpaceX 的"}
+{"strategy": "trend", "trend_id": "法广报道巴瑞克称美国本周末可能攻击伊朗", "trend_title": "法广报道巴瑞克称美国本周末可能攻击伊朗", "market_title": "", "reason": "LLM 判定不下注：該話題是關於美國可能在本週末攻擊伊朗，這是一個突發軍事事件的預期。而所有候選市場都關注的是 2026 年底前美國與伊朗之"}
+{"strategy": "trend", "trend_id": "whyisisraelincreasingitspresenceinthebalkans", "trend_title": "Why is Israel increasing its presence in the Balkans?", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是以色列在巴爾幹地區的軍事部署，與以色列和哈瑪斯之間停火協議的市場無直接關聯。"}
+{"strategy": "trend", "trend_id": "伊拉克总理霍尔木兹海峡危机令伊拉克错失油价上涨收益将推进石油出口渠道多元化", "trend_title": "伊拉克总理：霍尔木兹海峡危机令伊拉克错失油价上涨收益，将推进石油出口渠道多元化", "market_title": "", "reason": "LLM 判定不下注：话题讨论的是伊拉克因霍尔木兹海峡危机而错失油价上涨收益，并计划实现石油出口多元化。这与霍尔木兹海峡的“伊朗封锁解除”市场"}
+{"strategy": "trend", "trend_id": "专家持久解决乌克兰问题须确立安全不可分割原则", "trend_title": "专家：持久解决乌克兰问题须确立安全不可分割原则", "market_title": "Russia-Ukraine peace talks by November 30, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
