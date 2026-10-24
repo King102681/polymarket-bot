@@ -7993,3 +7993,7 @@
 {"strategy": "trend", "trend_id": "howbenjaminnetanyahureshapedisraelsinstitutions", "trend_title": "How Benjamin Netanyahu reshaped Israel’s institutions", "market_title": "", "reason": "信心 0.15 < 0.35：話題聚焦Netanyahu重塑以色列機構改革，屬制度層面政治新聞，與加沙停火協議"}
 {"strategy": "trend", "trend_id": "欧盟誓言通过与北京对话应对中国冲击20", "trend_title": "欧盟誓言通过与北京对话 应对“中国冲击2.0”", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於歐盟回應中國的經濟挑戰，與瑞典是否會提前舉行國會大選無關。"}
 {"strategy": "trend", "trend_id": "朝鲜举行人民军第三次连长大会金正恩宣布建设最强军队", "trend_title": "朝鲜举行人民军第三次连长大会，金正恩宣布建设最强军队", "market_title": "Will there be exactly 3 North Korea tests in October 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "俄国防部乌军一天在特别军事行动中损失约1190名军人", "trend_title": "俄国防部：乌军一天在特别军事行动中损失约1190名军人", "market_title": "", "reason": "LLM 判定不下注：该话题是关于俄军报告的乌军损失，而候选市场均是关于停火或和谈协议的达成时间。话题内容与市场完全无关，无法判断方向或给予信"}
+{"strategy": "trend", "trend_id": "hackerreversessamsungtvfindsonboardailisteningopenaiaccountsuspended", "trend_title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended", "market_title": "", "reason": "LLM 判定不下注：這則熱門話題討論的是 Samsung TV 被駭客發現有 AI 監聽功能，且 OpenAI 帳號被停用。這與所有候選市場"}
+{"strategy": "trend", "trend_id": "伊朗股市大幅收跌", "trend_title": "伊朗股市大幅收跌", "market_title": "", "reason": "LLM 判定不下注：話題是關於伊朗股市下跌，這與核協議或外交會議的市場並無直接關聯。股市下跌可能受多種經濟或政治因素影響，但該話題本身並未提"}
+{"strategy": "trend", "trend_id": "俄国防部防空系统一昼夜击落1297架乌克兰无人机", "trend_title": "俄国防部：防空系统一昼夜击落1297架乌克兰无人机", "market_title": "", "reason": "LLM 判定不下注：這條新聞是關於俄羅斯聲稱擊落烏克蘭無人機，這是一條軍事行動的消息，與是否達成停火協議或和平談判的市場完全無關。因此，無法"}
