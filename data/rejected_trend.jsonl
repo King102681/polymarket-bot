@@ -8035,3 +8035,8 @@
 {"strategy": "trend", "trend_id": "乌克兰空军昨晚俄罗斯用153架无人机袭击了乌克兰多地其中119架被击落", "trend_title": "乌克兰空军：昨晚，俄罗斯用153架无人机袭击了乌克兰多地，其中119架被击落。", "market_title": "", "reason": "LLM 判定不下注：該話題描述俄羅斯對烏克蘭發動大規模無人機襲擊，但候選市場均為停火或和平談判的協議時間，與話題內容無直接關聯。話題顯示衝突"}
 {"strategy": "trend", "trend_id": "外媒以色列爆发反内塔尼亚胡集会", "trend_title": "外媒：以色列爆发反内塔尼亚胡集会", "market_title": "", "reason": "LLM 判定不下注：該話題是關於以色列國內的政治集會，與停火協議的市場主題關聯性不大，且話題本身並未提供足以判斷停火協議走向的新資訊。"}
 {"strategy": "trend", "trend_id": "专家中国或邀请金正恩出席apec领导人非正式会议", "trend_title": "专家：中国或邀请金正恩出席APEC领导人非正式会议", "market_title": "Will North and South Korea engage in direct talks by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "普京称欧洲政客的错误是欧洲骚乱的原因", "trend_title": "普京称欧洲政客的错误是欧洲骚乱的原因", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是普丁對歐洲政客的批評，認為這是歐洲動亂的原因。這與俄烏停火或和平談判的市場沒有直接關聯，因此選擇 inde"}
+{"strategy": "trend", "trend_id": "人造黄金会不会击穿金价", "trend_title": "人造黄金会不会击穿金价", "market_title": "Will Gold (XAUUSD) hit (LOW) $3,900 in October?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "muskclaimsukrainebreachedstarlinktermskyivrebuts", "trend_title": "Musk Claims Ukraine Breached Starlink Terms, Kyiv Rebuts", "market_title": "", "reason": "LLM 判定不下注：該話題是關於 Musk 和烏克蘭之間在 Starlink 條款方面的爭議，與俄烏之間的停火或和平談判無直接關聯。因此，無"}
+{"strategy": "trend", "trend_id": "centcomreportedlyhasplansforiranstrikeswilltrumpapprovethem", "trend_title": "CENTCOM reportedly has plans for Iran strikes: Will Trump approve them?", "market_title": "", "reason": "LLM 判定不下注：此話題關注的是CENTCOM針對伊朗的潛在軍事行動以及川普是否批准。候選市場皆關於川普與普丁的會面，與此話題無關。"}
+{"strategy": "trend", "trend_id": "博弈选举美以伊下大棋", "trend_title": "博弈选举，美以伊“下大棋”", "market_title": "", "reason": "LLM 判定不下注：該熱門話題討論的是美以伊關係和博弈選舉，與所有候選市場（皆為美國各州選舉）均無直接關聯。因此無法判斷市場方向或信心。"}
