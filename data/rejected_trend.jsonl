@@ -8030,3 +8030,8 @@
 {"strategy": "trend", "trend_id": "俄外交部发言人俄中美元首或将会晤为世界向稳定过渡带来希望", "trend_title": "俄外交部发言人：俄中美元首或将会晤，为世界向稳定过渡带来希望", "market_title": "", "reason": "LLM 判定不下注：话题讨论俄中美三国元首可能会晤以促进世界稳定，主要涉及地缘政治外交动向。候选市场全部聚焦于中国公司是否被列入军事名单，或"}
 {"strategy": "trend", "trend_id": "逆差创新高压力下欧盟不排除单方面对华贸易行动", "trend_title": "逆差创新高压力下，欧盟不排除单方面对华贸易行动", "market_title": "", "reason": "LLM 判定不下注：該話題是關於歐盟與中國的貿易行動，與瑞典選舉無關。"}
 {"strategy": "trend", "trend_id": "俄外交部欧盟在乌克兰问题上的解决立场将自身排除在谈判之外", "trend_title": "俄外交部：欧盟在乌克兰问题上的解决立场将自身排除在谈判之外", "market_title": "Russia-Ukraine peace talks by November 30, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "伊朗巴基斯坦边境重新开放", "trend_title": "伊朗-巴基斯坦边境重新开放", "market_title": "", "reason": "LLM 判定不下注：话题提及伊朗-巴基斯坦边境重开，但所有候选市场均与美国-伊朗的核协议或外交会议相关，没有直接关联的市场。"}
+{"strategy": "trend", "trend_id": "马斯克称欧洲人是嗜血的战争贩子", "trend_title": "马斯克称欧洲人是“嗜血的战争贩子”", "market_title": "", "reason": "LLM 判定不下注：該熱門話題關於馬斯克對歐洲的言論，與候選的特斯拉和 SpaceX 合併市場完全無關。"}
+{"strategy": "trend", "trend_id": "乌克兰空军昨晚俄罗斯用153架无人机袭击了乌克兰多地其中119架被击落", "trend_title": "乌克兰空军：昨晚，俄罗斯用153架无人机袭击了乌克兰多地，其中119架被击落。", "market_title": "", "reason": "LLM 判定不下注：該話題描述俄羅斯對烏克蘭發動大規模無人機襲擊，但候選市場均為停火或和平談判的協議時間，與話題內容無直接關聯。話題顯示衝突"}
+{"strategy": "trend", "trend_id": "外媒以色列爆发反内塔尼亚胡集会", "trend_title": "外媒：以色列爆发反内塔尼亚胡集会", "market_title": "", "reason": "LLM 判定不下注：該話題是關於以色列國內的政治集會，與停火協議的市場主題關聯性不大，且話題本身並未提供足以判斷停火協議走向的新資訊。"}
+{"strategy": "trend", "trend_id": "专家中国或邀请金正恩出席apec领导人非正式会议", "trend_title": "专家：中国或邀请金正恩出席APEC领导人非正式会议", "market_title": "Will North and South Korea engage in direct talks by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
