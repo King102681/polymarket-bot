@@ -8082,3 +8082,8 @@
 {"strategy": "trend", "trend_id": "据泰晤士报英国正与欧盟就恢复人员自由流动举行会谈", "trend_title": "据泰晤士报：英国正与欧盟就恢复人员自由流动举行会谈。", "market_title": "", "reason": "LLM 判定不下注：该话题与瑞典提前大选无关。"}
 {"strategy": "trend", "trend_id": "暗批沈伯洋为选举换人设蒋万安自称不诡辩不包装不表演", "trend_title": "暗批沈伯洋为选举换人设 蒋万安自称不诡辩不包装不表演", "market_title": "", "reason": "LLM 判定不下注：該熱門話題與所有候選市場無關。話題內容為台灣政治人物的評價，而候選市場皆為美國選舉結果。"}
 {"strategy": "trend", "trend_id": "马斯克诸多文化因低生育率正走向消亡", "trend_title": "马斯克：诸多文化因低生育率正走向消亡", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是低生育率對文化的影響，與特斯拉和 SpaceX 的合併毫無關聯。"}
+{"strategy": "trend", "trend_id": "沙特土耳其巴基斯坦赴德黑兰求降温美伊据报被推动五天内互让", "trend_title": "沙特、土耳其、巴基斯坦赴德黑兰求降温！美伊据报被推动五天内互让", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "约旦空军空袭叙利亚境内恐怖分子以回应卡拉克一座教堂附近遇袭事件", "trend_title": "约旦空军空袭叙利亚境内恐怖分子以回应卡拉克一座教堂附近遇袭事件", "market_title": "", "reason": "LLM 判定不下注：此話題涉及約旦而非以色列對敘利亞的軍事行動，與所有候選市場均無關。"}
+{"strategy": "trend", "trend_id": "brazilflaviobolsonarowholostthepresidentialelectionorderedtosurrenderhispassport", "trend_title": "Brazil: Flavio Bolsonaro, who lost the presidential election, ordered to surrender his passport", "market_title": "", "reason": "LLM 判定不下注：該話題是關於巴西政治人物的，與美國總統大選市場完全無關。"}
+{"strategy": "trend", "trend_id": "anthropic正式提交ipo申请股票代码ant上半年净亏807亿美元警示人类生存危机", "trend_title": "Anthropic正式提交IPO申请！股票代码“ANT”，上半年净亏807亿美元，警示人类“生存危机”", "market_title": "Will Anthropic IPO by November 30, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "俄外交部北约日益加强在波罗的海的军事活动", "trend_title": "俄外交部：北约日益加强在波罗的海的军事活动", "market_title": "NATO x Russia military clash by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
