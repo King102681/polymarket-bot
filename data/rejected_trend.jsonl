@@ -8066,3 +8066,4 @@
 {"strategy": "trend", "trend_id": "netanyahurivaleisenkotholdsfinalrallybeforeisraelielection", "trend_title": "Netanyahu rival Eisenkot holds final rally before Israeli election", "market_title": "", "reason": "LLM 判定不下注：此熱門話題關於以色列的競選活動，與停火協議的市場無關。"}
 {"strategy": "trend", "trend_id": "金正恩访中国丹东中朝同日举行志愿军烈士陵园修缮竣工仪式", "trend_title": "金正恩访中国丹东 中朝同日举行志愿军烈士陵园修缮竣工仪式", "market_title": "Will North and South Korea engage in direct talks by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "卢拉达席尔瓦赢得巴西总统选举", "trend_title": "卢拉·达席尔瓦赢得巴西总统选举", "market_title": "", "reason": "LLM 判定不下注：熱門話題是關於盧拉·達席爾瓦贏得巴西總統選舉，屬於巴西政治事件。候選市場全部聚焦於2028年美國總統選舉相關議題，與巴西"}
+{"strategy": "trend", "trend_id": "震惊市场巴西总统卢拉在二轮选举中意外逆袭创纪录赢得第四任期", "trend_title": "震惊市场！巴西总统卢拉在二轮选举中意外逆袭，创纪录赢得第四任期", "market_title": "", "reason": "LLM 判定不下注：该热门话题是关于巴西总统选举结果，而所有候选市场都与美国阿拉斯加州和佐治亚州、爱荷华州的选举相关，两者之间没有任何关联性"}
