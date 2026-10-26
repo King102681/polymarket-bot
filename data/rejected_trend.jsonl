@@ -8076,3 +8076,9 @@
 {"strategy": "trend", "trend_id": "克里姆林宫奥列什基停火协议可为类似停火开创先例", "trend_title": "克里姆林宫：奥列什基停火协议可为类似停火开创先例", "market_title": "Saudi-Houthi ceasefire agreement announced by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "克宫俄乌美三方和谈不限制各方继续军事行动", "trend_title": "克宫：俄乌美三方和谈不限制各方继续军事行动", "market_title": "Russia x Ukraine ceasefire agreement by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "俄副外长俄美中都不会推选欧尔班担任联合国秘书长", "trend_title": "俄副外长：俄美中都不会推选欧尔班担任联合国秘书长", "market_title": "", "reason": "LLM 判定不下注：该话题关于俄罗斯副外长就谁不会被推选为联合国秘书长发表的评论，与所有提供的市场（小米、字节跳动、DeepSeek、Moo"}
+{"strategy": "trend", "trend_id": "伊朗最高国家安全委员会副秘书巴盖里地区内构建安全是德黑兰会议的重要议题之一", "trend_title": "伊朗最高国家安全委员会副秘书巴盖里：地区内构建安全是德黑兰会议的重要议题之一。", "market_title": "", "reason": "信心 0.30 < 0.35：伊朗官員表示將在德黑蘭會議上討論地區安全，這與其長期以來與美國在核協議上的對峙和"}
+{"strategy": "trend", "trend_id": "联合国委员会认定以色列犯战争罪并持续实施种族灭绝", "trend_title": "联合国委员会认定以色列犯战争罪并持续实施种族灭绝", "market_title": "Israel x Hamas Ceasefire Phase II by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "unpanelsaysrussiaiscommittingcrimesagainsthumanitybytargetingciviliansinukraine", "trend_title": "UN panel says Russia is committing crimes against humanity by targeting civilians in Ukraine", "market_title": "", "reason": "LLM 判定不下注：該新聞是關於俄羅斯在烏克蘭犯下危害人類罪的指控，這與停火協議的達成時程沒有直接關聯。目前的市場是關於停火協議的達成時間，"}
+{"strategy": "trend", "trend_id": "据泰晤士报英国正与欧盟就恢复人员自由流动举行会谈", "trend_title": "据泰晤士报：英国正与欧盟就恢复人员自由流动举行会谈。", "market_title": "", "reason": "LLM 判定不下注：该话题与瑞典提前大选无关。"}
+{"strategy": "trend", "trend_id": "暗批沈伯洋为选举换人设蒋万安自称不诡辩不包装不表演", "trend_title": "暗批沈伯洋为选举换人设 蒋万安自称不诡辩不包装不表演", "market_title": "", "reason": "LLM 判定不下注：該熱門話題與所有候選市場無關。話題內容為台灣政治人物的評價，而候選市場皆為美國選舉結果。"}
+{"strategy": "trend", "trend_id": "马斯克诸多文化因低生育率正走向消亡", "trend_title": "马斯克：诸多文化因低生育率正走向消亡", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是低生育率對文化的影響，與特斯拉和 SpaceX 的合併毫無關聯。"}
