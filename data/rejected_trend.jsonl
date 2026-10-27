@@ -8090,3 +8090,10 @@
 {"strategy": "trend", "trend_id": "欧盟拨款47亿欧元补偿对乌军援供应国", "trend_title": "欧盟拨款47亿欧元补偿对乌军援供应国", "market_title": "", "reason": "LLM 判定不下注：此話題是關於歐盟對烏克蘭軍援供應國的資金補貼，與俄烏停火協議的市場選項關聯性較低，無法判斷買賣方向。"}
 {"strategy": "trend", "trend_id": "anthropicipo重燃ai情绪美股指反弹芯片指数涨近3美债油价齐回落", "trend_title": "Anthropic IPO重燃AI情绪，美股指反弹，芯片指数涨近3%，美债、油价齐回落", "market_title": "Will Anthropic IPO by November 30, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "美股收盘anthropic招股书点燃ai行情三大指数集体上涨", "trend_title": "美股收盘：Anthropic招股书点燃AI行情 三大指数集体上涨", "market_title": "Will Anthropic IPO by November 20, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "欧盟对美国信任急剧下降", "trend_title": "欧盟对美国信任急剧下降", "market_title": "", "reason": "LLM 判定不下注：该热门话题关于欧盟对美国信任度下降，与瑞典和葡萄牙是否会提前举行立法选举的市场无关。"}
+{"strategy": "trend", "trend_id": "以色列大选开始投票", "trend_title": "以色列大选开始投票", "market_title": "", "reason": "LLM 判定不下注：此新聞為以色列大選開始投票，但候選市場皆關於以哈停火協議。此話題與停火協議的進展無直接關聯，因此無法判斷對停火協議的影響"}
+{"strategy": "trend", "trend_id": "俄军打击基辅一处中远程无人机装配作坊", "trend_title": "俄军打击基辅一处中远程无人机装配作坊", "market_title": "", "reason": "LLM 判定不下注：該話題提到俄軍摧毀烏克蘭的無人機工廠，這屬於軍事行動的進展，與俄烏停火協議的市場預測沒有直接關聯。市場預測的是停火協議的"}
+{"strategy": "trend", "trend_id": "bolsonaroeffectivelyconcedesinbrazilaftertrumpsuggestshewonthelp", "trend_title": "Bolsonaro effectively concedes in Brazil after Trump suggests he won’t help", "market_title": "", "reason": "LLM 判定不下注：討論話題是關於巴西總統 Bolsonaro 的讓步，以及川普是否會提供幫助。這與候選市場中關於川普解密 UFO 文件或發"}
+{"strategy": "trend", "trend_id": "lulascomebackinbrazildentstrumpsambitionsforlatinamerica", "trend_title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America", "market_title": "", "reason": "LLM 判定不下注：熱門話題是關於巴西總統 Lula 的崛起對川普在拉丁美洲的影響，與所有候選市場（均與 UFO 或川普的 Truth So"}
+{"strategy": "trend", "trend_id": "特朗普翻修高尔夫球场计划受阻法官禁止继续砍树", "trend_title": "特朗普翻修高尔夫球场计划受阻 法官禁止继续砍树", "market_title": "", "reason": "LLM 判定不下注：此話題關於特朗普的高爾夫球場計劃受阻，與候選市場均無關。"}
+{"strategy": "trend", "trend_id": "openai推出terra模型并将api价格减半", "trend_title": "OpenAI推出Terra模型并将API价格减半", "market_title": "", "reason": "LLM 判定不下注：話題是關於OpenAI推出新模型Terra並降低API價格，這是一項技術和商業上的更新。候選市場的標題都與OpenAI的"}
