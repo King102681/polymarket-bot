@@ -8104,3 +8104,8 @@
 {"strategy": "trend", "trend_id": "ai牵动全球情绪高盛半导体对金融市场的影响力已远超石油", "trend_title": "AI牵动全球情绪！高盛：半导体对金融市场的影响力已远超石油", "market_title": "", "reason": "信心 0.30 < 0.35：話題強調半導體影響力超越石油，與石油價格預測市場無關，但若市場將此理解為『大宗商"}
 {"strategy": "trend", "trend_id": "巨额神秘资金涌入美国中期选举", "trend_title": "巨额“神秘资金”涌入美国中期选举", "market_title": "", "reason": "LLM 判定不下注：話題提到「美國中期選舉」，但候選市場都只鎖定在「明尼蘇達州」或「緬因州」或「堪薩斯州」的特定選舉結果，未能涵蓋「巨额‘神"}
 {"strategy": "trend", "trend_id": "普京欧盟经济曾依托煤炭实现增长如今欧洲却禁止其他国家使用碳氢化合物", "trend_title": "普京：欧盟经济曾依托煤炭实现增长 如今欧洲却禁止其他国家使用碳氢化合物", "market_title": "", "reason": "LLM 判定不下注：此話題是關於普京對歐盟能源政策的評論，提及過去的經濟增長和對碳氫化合物的禁令。這與俄烏停火協議的市場主題沒有直接關聯，因"}
+{"strategy": "trend", "trend_id": "据华盛顿邮报美国总统特朗普将宣布放宽石油公司甲烷泄漏相关规定", "trend_title": "据华盛顿邮报：美国总统特朗普将宣布放宽石油公司甲烷泄漏相关规定。", "market_title": "", "reason": "LLM 判定不下注：該熱門話題與美國總統特朗普放寬石油公司甲烷泄漏相關規定有關，而候選市場均為關於特朗普在特定日期發布Truth Socia"}
+{"strategy": "trend", "trend_id": "韩国外交部韩国不排除完全断绝与乌克兰的外交关系", "trend_title": "韩国外交部：韩国不排除完全断绝与乌克兰的外交关系", "market_title": "", "reason": "LLM 判定不下注：此話題為韓國外交部考慮斷絕與烏克蘭外交關係，與俄烏停火協議的市場無直接關聯，因此無法判斷市場方向與信心。"}
+{"strategy": "trend", "trend_id": "norwayandfinlandleadersholdrarecallwithputin", "trend_title": "Norway and Finland leaders hold rare call with Putin", "market_title": "Russia x Ukraine ceasefire agreement by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "据以色列媒体截至当地时间晚上8点以色列选举的投票率达到743", "trend_title": "据以色列媒体：截至当地时间晚上8点，以色列选举的投票率达到74.3%。", "market_title": "", "reason": "LLM 判定不下注：投票率數據本身無法直接判斷停火協議是否會取消或進入第二階段。此話題與候選市場關聯性低。"}
+{"strategy": "trend", "trend_id": "特朗普承诺正式禁用人工智能一词", "trend_title": "特朗普承诺正式禁用“人工智能”一词", "market_title": "", "reason": "LLM 判定不下注：話題是關於特朗普禁止使用“人工智能”一詞的承諾，這與候選市場中關於不明飛行物文件解密或特朗普在特定日期範圍內的社交媒體發"}
