@@ -8146,3 +8146,4 @@
 {"strategy": "trend", "trend_id": "英国首相伯纳姆我们正尽一切努力缓和局势支持霍尔木兹海峡全面重新开放", "trend_title": "英国首相伯纳姆：我们正尽一切努力缓和局势，支持霍尔木兹海峡全面重新开放。", "market_title": "US announces end of Iranian blockade by December 31, 2026?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "伊朗称三艘油轮在霍尔木兹海峡触雷起火", "trend_title": "伊朗称三艘油轮在霍尔木兹海峡触雷起火", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "加纳总统加纳与俄罗斯在多个领域的合作潜力巨大", "trend_title": "加纳总统：加纳与俄罗斯在多个领域的合作潜力巨大", "market_title": "", "reason": "LLM 判定不下注：話題是關於加納與俄羅斯的合作，與俄烏停火協議無關。"}
+{"strategy": "trend", "trend_id": "俄罗斯驻摩尔多瓦大使俄罗斯不会放弃对德涅斯特河沿岸的支持", "trend_title": "俄罗斯驻摩尔多瓦大使：俄罗斯不会放弃对德涅斯特河沿岸的支持", "market_title": "", "reason": "LLM 判定不下注：該話題是關於俄羅斯對德涅斯特河沿岸的支持，這是一個地區性問題，而候選市場全部是關於俄烏停火協議。兩者沒有直接關聯，因此選"}
