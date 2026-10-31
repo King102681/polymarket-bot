@@ -8173,3 +8173,6 @@
 {"strategy": "trend", "trend_id": "iransaysfourtankersonfireafterstrikingminesinhormuz", "trend_title": "Iran says four tankers on fire after striking mines in Hormuz", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題關於伊朗油輪在地緣政治緊張的荷姆茲海峽遇襲起火，這是一則突發的軍事與地緣政治事件。而候選市場均為關於美伊核"}
 {"strategy": "trend", "trend_id": "费丹与鲁比奥会谈重点讨论美伊谈判进展", "trend_title": "费丹与鲁比奥会谈，重点讨论美伊谈判进展", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "乌克兰无人机袭击俄三座炼油厂及天然气化工综合体", "trend_title": "乌克兰无人机袭击俄三座炼油厂及天然气化工综合体", "market_title": "", "reason": "LLM 判定不下注：該話題是關於烏克蘭襲擊俄羅斯煉油廠，這與停火協議的市場沒有直接關聯。襲擊事件可能加劇衝突，但對停火時間表的影響尚不明確，"}
+{"strategy": "trend", "trend_id": "乌克兰总统泽连斯基俄罗斯袭击了乌克兰能源设施近28万户乌克兰家庭断电", "trend_title": "乌克兰总统泽连斯基：俄罗斯袭击了乌克兰能源设施，近28万户乌克兰家庭断电。", "market_title": "", "reason": "LLM 判定不下注：此新聞關於俄羅斯襲擊烏克蘭能源設施導致停電，與是否有停火協議的市場無直接關聯，因此選擇無相關市場。"}
+{"strategy": "trend", "trend_id": "俄国防部俄军过去一昼夜对乌军使用的交通基础设施实施打击", "trend_title": "俄国防部：俄军过去一昼夜对乌军使用的交通基础设施实施打击", "market_title": "", "reason": "LLM 判定不下注：該話題僅提及俄軍對烏克蘭的基礎設施進行打擊，屬於持續的軍事行動，並未提供任何有關停火協議的新資訊。候選市場均為停火協議相"}
+{"strategy": "trend", "trend_id": "美石油巨头炼油相关指标创新高", "trend_title": "美石油巨头炼油相关指标创新高", "market_title": "Will WTI Crude Oil (WTI) hit (HIGH) $105 in November?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
