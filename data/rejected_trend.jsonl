@@ -8193,3 +8193,8 @@
 {"strategy": "trend", "trend_id": "wecamebackfromhellsayukrainiansafteryearsinrussiaoccupiedfrontlinecity", "trend_title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city", "market_title": "", "reason": "LLM 判定不下注：這條新聞是關於烏克蘭人民在被佔領城市經歷的苦難，並未提供任何關於停火協議的新資訊，因此與市場預測的停火協議時間點無關。"}
 {"strategy": "trend", "trend_id": "消息人士透露特朗普正计划在美国中期选举之后恢复对伊朗的打击打击最快可能会发生在11月4日", "trend_title": "消息人士透露：特朗普正计划在美国中期选举之后恢复对伊朗的打击，打击最快可能会发生在11月4日", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於特朗普計劃在中期選舉後對伊朗採取軍事行動，並未提及任何關於特朗普與其他國家領導人會面的信息，因此與所"}
 {"strategy": "trend", "trend_id": "鲁比奥为邀请俄罗斯参与g20会议辩护会面不代表认同", "trend_title": "鲁比奥为邀请俄罗斯参与G20会议辩护：会面不代表认同", "market_title": "Russia x Ukraine ceasefire agreement by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "朝鲜进行重要武器系统威力评估试验", "trend_title": "朝鲜进行重要武器系统威力评估试验", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是一個具體的、近期發生的武器試驗，而所有候選市場的到期日都設定在 2026 年底，並且與試驗的具體次數或外交"}
+{"strategy": "trend", "trend_id": "特朗普认为马斯克应当执掌cnn", "trend_title": "特朗普认为马斯克应当执掌CNN", "market_title": "", "reason": "信心 0.30 < 0.35：馬斯克與川普的關係通常是互相尊重的，但川普希望馬斯克執掌CNN，這更像是一種諷刺"}
+{"strategy": "trend", "trend_id": "黑色星期五的导火索anthropic只能垃圾级", "trend_title": "“黑色星期五”的导火索：Anthropic只能“垃圾级”？", "market_title": "", "reason": "LLM 判定不下注：话题讨论Anthropic产品质量问题（'垃圾级'评价），这是对其技术能力的负面评论。但候选市场都聚焦IPO时间和IPO"}
+{"strategy": "trend", "trend_id": "美国指控朝鲜窃取币安交易所加密货币", "trend_title": "美国指控朝鲜窃取币安交易所加密货币", "market_title": "", "reason": "LLM 判定不下注：話題是關於朝鮮竊取加密貨幣的指控，但候選市場均與朝鮮的核試驗或外交會議有關，與話題無直接關聯。"}
+{"strategy": "trend", "trend_id": "鲁比奥称特朗普未决定是否对伊朗再动武", "trend_title": "鲁比奥称特朗普未决定是否对伊朗再动武", "market_title": "", "reason": "LLM 判定不下注：話題涉及特朗普對伊朗軍事決策的不確定性，但候選市場均為『特朗普是否在2026年11月前與特定人物會面』的會議類市場。此話"}
