@@ -8198,3 +8198,7 @@
 {"strategy": "trend", "trend_id": "黑色星期五的导火索anthropic只能垃圾级", "trend_title": "“黑色星期五”的导火索：Anthropic只能“垃圾级”？", "market_title": "", "reason": "LLM 判定不下注：话题讨论Anthropic产品质量问题（'垃圾级'评价），这是对其技术能力的负面评论。但候选市场都聚焦IPO时间和IPO"}
 {"strategy": "trend", "trend_id": "美国指控朝鲜窃取币安交易所加密货币", "trend_title": "美国指控朝鲜窃取币安交易所加密货币", "market_title": "", "reason": "LLM 判定不下注：話題是關於朝鮮竊取加密貨幣的指控，但候選市場均與朝鮮的核試驗或外交會議有關，與話題無直接關聯。"}
 {"strategy": "trend", "trend_id": "鲁比奥称特朗普未决定是否对伊朗再动武", "trend_title": "鲁比奥称特朗普未决定是否对伊朗再动武", "market_title": "", "reason": "LLM 判定不下注：話題涉及特朗普對伊朗軍事決策的不確定性，但候選市場均為『特朗普是否在2026年11月前與特定人物會面』的會議類市場。此話"}
+{"strategy": "trend", "trend_id": "美媒叙利亚考虑加入麦加共同防务协议", "trend_title": "美媒：叙利亚考虑加入《麦加共同防务协议》", "market_title": "Israel military action against Syria by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "10月俄军14次打击乌克兰军工系统使用的变电站", "trend_title": "10月俄军14次打击乌克兰军工系统使用的变电站", "market_title": "", "reason": "LLM 判定不下注：此新聞提到俄軍攻擊烏克蘭軍工變電站，屬於軍事行動的細節，與停火協議的預測市場關聯性低，無法判斷對停火協議的支持或反對方向"}
+{"strategy": "trend", "trend_id": "伊朗宣布将英国海军和空军列为恐怖组织", "trend_title": "伊朗宣布将英国海军和空军列为“恐怖组织”", "market_title": "", "reason": "LLM 判定不下注：此話題是關於伊朗將英國海軍和空軍列為恐怖組織，這是一項主權國家之間的外交和安全聲明。候選市場均圍繞美國與伊朗的核協議或外"}
+{"strategy": "trend", "trend_id": "美伊冲突与俄乌战争加剧分歧g20外长会无联合公报", "trend_title": "美伊冲突与俄乌战争加剧分歧 G20外长会无联合公报", "market_title": "", "reason": "LLM 判定不下注：這則新聞主要講述 G20 外長會議因美伊衝突與俄烏戰爭而無聯合公報，這與候選市場中關於美伊核協議的具體時間點或外交會議的"}
