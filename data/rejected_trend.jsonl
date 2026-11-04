@@ -8266,3 +8266,6 @@
 {"strategy": "trend", "trend_id": "zelenskymuskincontactwithputinsincewarsstart", "trend_title": "Zelensky: Musk in Contact With Putin Since War’s Start", "market_title": "", "reason": "LLM 判定不下注：這則熱門話題提到澤倫斯基表示馬斯克自戰爭開始以來一直與普丁保持聯繫，但並未直接提及或預示任何關於俄烏和平談判的進展或時間"}
 {"strategy": "trend", "trend_id": "presidentzelenskyysaysuselectionswillimpactwarinukraine", "trend_title": "President Zelenskyy says US elections will impact war in Ukraine", "market_title": "", "reason": "LLM 判定不下注：此話題指出美國大選將影響烏克蘭戰爭，但並未提供任何關於和平談判是否會發生的具體時間點或地點的新資訊。候選市場均為和平談判"}
 {"strategy": "trend", "trend_id": "美国至10月30日当周api库欣原油库存511万桶前值453万桶", "trend_title": "美国至10月30日当周API库欣原油库存 51.1万桶，前值-45.3万桶。", "market_title": "", "reason": "信心 0.30 < 0.35：API原油庫存超預期增加，短期內可能對油價造成壓力，與市場對低於$85機率的定價"}
+{"strategy": "trend", "trend_id": "美国中期选举cnn出口民调选民普遍不满特朗普表现", "trend_title": "【美国中期选举】CNN出口民调：选民普遍不满特朗普表现", "market_title": "Will Trump and Putin not meet?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "分析师乌克兰脱离俄罗斯是更广泛地缘政治战略的一部分", "trend_title": "分析师：乌克兰脱离俄罗斯是更广泛地缘政治战略的一部分", "market_title": "", "reason": "LLM 判定不下注：该话题讨论的是乌克兰脱离俄罗斯的地缘政治战略，并未直接提及或暗示俄乌和平谈判的进展或可能性。因此，与所有候选项市场的相关"}
+{"strategy": "trend", "trend_id": "彭博社称欧盟拟改规则降低对华依赖", "trend_title": "彭博社称欧盟拟改规则降低对华依赖", "market_title": "", "reason": "LLM 判定不下注：熱門話題涉及歐盟對華貿易政策調整，屬於宏觀經濟/地緣政治領域。候選市場全部聚焦於瑞士聯邦委員會補選的個人候選人，與中歐貿"}
