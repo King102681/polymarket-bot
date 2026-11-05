@@ -8299,3 +8299,7 @@
 {"strategy": "trend", "trend_id": "台湾7所高校跻身qs亚洲百强", "trend_title": "台湾7所高校跻身QS亚洲百强", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於台灣高校在QS亞洲大學排名中的表現，與所有候選市場的政治或外交事件均無直接關聯。"}
 {"strategy": "trend", "trend_id": "美国国会翻盘台湾学者吁政府及早经营跨党派关系", "trend_title": "美国国会翻盘 台湾学者吁政府及早经营跨党派关系", "market_title": "", "reason": "LLM 判定不下注：话题是关于美国国会可能发生的变化对台湾跨党派关系的影响，与参议院少数党领袖的选举没有直接关联。市场价格0.83也表明市场"}
 {"strategy": "trend", "trend_id": "克宫普京与土总统暂无接触计划但可迅速安排", "trend_title": "克宫：普京与土总统暂无接触计划 但可迅速安排", "market_title": "", "reason": "LLM 判定不下注：话题提及普京与土耳其总统暂无接触计划，但可迅速安排。这并未直接影响停火协议的可能性或时间表，市场上的停火协议预测也不直接"}
+{"strategy": "trend", "trend_id": "民主党大胜引发芯片股抛售狂潮纳斯达克100跌超5费半重挫10英伟达大跌8黄金站上4100", "trend_title": "民主党大胜引发芯片股抛售狂潮，纳斯达克100跌超5%，费半重挫10%，英伟达大跌8%，黄金站上4100", "market_title": "Will Gold (XAUUSD) hit (LOW) $3,900 in November?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "日媒韩国海军将扩大在中东行动范围", "trend_title": "日媒：韩国海军将扩大在中东行动范围", "market_title": "", "reason": "LLM 判定不下注：該話題是關於韓國海軍在中東的行動範圍擴大，這屬於軍事和地緣政治範疇，與候選市場中關於韓國通膨和利率決策的經濟指標無關。"}
+{"strategy": "trend", "trend_id": "芬兰政治家乌克兰酷刑室构成反人类罪", "trend_title": "芬兰政治家：乌克兰酷刑室构成反人类罪", "market_title": "", "reason": "LLM 判定不下注：这条热门话题讨论的是乌克兰酷刑室构成反人类罪，这与俄罗斯和乌克兰是否达成停火协议的市场主题不直接相关。因此，无法判断是否"}
+{"strategy": "trend", "trend_id": "ukraineknocksout15russianrefineries23billionindamage", "trend_title": "Ukraine Knocks Out 15 Russian Refineries, $23 Billion in Damage", "market_title": "", "reason": "LLM 判定不下注：這則新聞是關於烏克蘭對俄羅斯煉油廠的攻擊，而非停火協議。因此，與所有提供的市場都不相關。"}
