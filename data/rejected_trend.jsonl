@@ -8303,3 +8303,6 @@
 {"strategy": "trend", "trend_id": "日媒韩国海军将扩大在中东行动范围", "trend_title": "日媒：韩国海军将扩大在中东行动范围", "market_title": "", "reason": "LLM 判定不下注：該話題是關於韓國海軍在中東的行動範圍擴大，這屬於軍事和地緣政治範疇，與候選市場中關於韓國通膨和利率決策的經濟指標無關。"}
 {"strategy": "trend", "trend_id": "芬兰政治家乌克兰酷刑室构成反人类罪", "trend_title": "芬兰政治家：乌克兰酷刑室构成反人类罪", "market_title": "", "reason": "LLM 判定不下注：这条热门话题讨论的是乌克兰酷刑室构成反人类罪，这与俄罗斯和乌克兰是否达成停火协议的市场主题不直接相关。因此，无法判断是否"}
 {"strategy": "trend", "trend_id": "ukraineknocksout15russianrefineries23billionindamage", "trend_title": "Ukraine Knocks Out 15 Russian Refineries, $23 Billion in Damage", "market_title": "", "reason": "LLM 判定不下注：這則新聞是關於烏克蘭對俄羅斯煉油廠的攻擊，而非停火協議。因此，與所有提供的市場都不相關。"}
+{"strategy": "trend", "trend_id": "泽连斯基不排除在乌克兰举行线上选举的可能性", "trend_title": "泽连斯基不排除在乌克兰举行线上选举的可能性", "market_title": "", "reason": "LLM 判定不下注：话题是关于泽连斯基不排除在乌克兰举行线上选举的可能性，这与候选市场讨论的俄乌停火协议的到期时间没有直接关联。因此，选择-"}
+{"strategy": "trend", "trend_id": "月之暗面据报洽谈租用欧洲英伟达芯片算力", "trend_title": "月之暗面据报洽谈租用欧洲英伟达芯片算力", "market_title": "", "reason": "LLM 判定不下注：該話題涉及月之暗面（一個中國的AI公司）租用NVIDIA的GPU算力，這可能會對NVIDIA的營收和GPU價格產生影響。"}
+{"strategy": "trend", "trend_id": "claudecodesendsyouremailaddresstowebsites", "trend_title": "Claude Code sends your email address to websites", "market_title": "", "reason": "LLM 判定不下注：此話題是關於 Claude Code 將電子郵件地址發送給網站，這是一個隱私或安全性問題，但與 Anthropic 的 "}
