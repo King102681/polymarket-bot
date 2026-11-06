@@ -8306,3 +8306,5 @@
 {"strategy": "trend", "trend_id": "泽连斯基不排除在乌克兰举行线上选举的可能性", "trend_title": "泽连斯基不排除在乌克兰举行线上选举的可能性", "market_title": "", "reason": "LLM 判定不下注：话题是关于泽连斯基不排除在乌克兰举行线上选举的可能性，这与候选市场讨论的俄乌停火协议的到期时间没有直接关联。因此，选择-"}
 {"strategy": "trend", "trend_id": "月之暗面据报洽谈租用欧洲英伟达芯片算力", "trend_title": "月之暗面据报洽谈租用欧洲英伟达芯片算力", "market_title": "", "reason": "LLM 判定不下注：該話題涉及月之暗面（一個中國的AI公司）租用NVIDIA的GPU算力，這可能會對NVIDIA的營收和GPU價格產生影響。"}
 {"strategy": "trend", "trend_id": "claudecodesendsyouremailaddresstowebsites", "trend_title": "Claude Code sends your email address to websites", "market_title": "", "reason": "LLM 判定不下注：此話題是關於 Claude Code 將電子郵件地址發送給網站，這是一個隱私或安全性問題，但與 Anthropic 的 "}
+{"strategy": "trend", "trend_id": "iranssecuritychiefmeetsputindeliversmessagefromkhamenei", "trend_title": "Iran’s security chief meets Putin, delivers message from Khamenei", "market_title": "Will no qualifying US-Iran senior diplomatic meeting take place by December 31, ", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "欧洲议会前副议长泽连斯基领导的是法西斯政府", "trend_title": "欧洲议会前副议长：泽连斯基领导的是法西斯政府", "market_title": "", "reason": "LLM 判定不下注：這條新聞是關於對烏克蘭總統的負面評價，但與歐洲議會是否達成停火協議沒有直接關聯，因此不選擇任何市場。"}
