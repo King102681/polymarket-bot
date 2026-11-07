@@ -8326,3 +8326,8 @@
 {"strategy": "trend", "trend_id": "stephenmillersrisetochiefofstaffindicatestrumpisntreadytomoveon", "trend_title": "Stephen Miller’s rise to chief of staff indicates Trump isn’t ready to move on", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是 Stephen Miller 的職位變動，與候選市場中詢問的官員離職時間點無關。候選市場與熱門話題關聯性"}
 {"strategy": "trend", "trend_id": "usurgeschinatohonourbusantradedealcommitments", "trend_title": "US urges China to honour Busan trade deal commitments", "market_title": "", "reason": "LLM 判定不下注：該新聞討論的是美國敦促中國遵守關於釜山貿易協議的承諾。候選市場均與北約、烏克蘭或俄羅斯有關，與新聞主題無直接關聯。"}
 {"strategy": "trend", "trend_id": "撞上ai崩盘今晚一份强劲非农报告或给美股又一重击", "trend_title": "撞上AI崩盘！今晚，一份强劲非农报告，或给美股又一重击", "market_title": "US recession by end of 2027?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "特朗普美国将办全球最大航空航天业展会", "trend_title": "特朗普：美国将办全球最大航空航天业展会", "market_title": "", "reason": "LLM 判定不下注：話題關於特朗普將主辦航空航天展會，與候選市場均無關。"}
+{"strategy": "trend", "trend_id": "特朗普承认美国对格什姆岛上的伊朗防空设施实施定点打击", "trend_title": "特朗普承认美国对格什姆岛上的伊朗防空设施实施定点打击", "market_title": "", "reason": "LLM 判定不下注：該熱門話題關於特朗普政府對格什姆島的軍事行動，與候選市場中關於美國政府官員是否離職的預測完全無關。"}
+{"strategy": "trend", "trend_id": "台湾寺庙地下搜出近800公斤金银", "trend_title": "台湾寺庙地下搜出近800公斤金银", "market_title": "", "reason": "LLM 判定不下注：此話題關於台灣寺廟搜出金銀，與候選的三個市場（賴清德訪美、台灣行政院長人事、川普訪葡萄牙）均無直接關聯性，因此選擇索引 "}
+{"strategy": "trend", "trend_id": "民主党计划调查苹果meta和马斯克特朗普的硅谷盟友面临清算", "trend_title": "民主党计划调查苹果、Meta和马斯克，特朗普的硅谷盟友面临“清算”！", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於民主黨計劃調查一些科技公司及其盟友，但候選市場均為關於特朗普政府內閣成員是否離職，兩者毫無關聯。"}
+{"strategy": "trend", "trend_id": "指大陆施压台湾关闭驻巴新代表处并停止采购液化天然气", "trend_title": "指大陆施压 台湾关闭驻巴新代表处并停止采购液化天然气", "market_title": "", "reason": "LLM 判定不下注：該話題涉及中國大陸對台灣的施壓，導致台灣關閉駐巴拿馬代表處並停止採購液化天然氣，與候選市場（賴清德訪美、台灣行政院長異動"}
