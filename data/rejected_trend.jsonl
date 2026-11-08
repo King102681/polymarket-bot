@@ -8359,3 +8359,8 @@
 {"strategy": "trend", "trend_id": "伊朗革命卫队发言人驳斥美国收紧对伊经济施压的新计划称其只是文字游戏", "trend_title": "伊朗革命卫队发言人驳斥美国收紧对伊经济施压的新计划，称其只是“文字游戏”", "market_title": "", "reason": "LLM 判定不下注：该话题涉及伊朗方面对美国收紧经济施压计划的回应，但该话题本身并未提供任何关于达成核协议的具体信息。候选市场均与2026年"}
 {"strategy": "trend", "trend_id": "formerpalestiniandetaineesatmercyofisraelamidperpetualdetention", "trend_title": "Former Palestinian detainees at mercy of Israel amid perpetual detention", "market_title": "", "reason": "LLM 判定不下注：該熱門話題討論的是以色列對巴勒斯坦被拘留者的待遇，屬於人權和法律層面。而候選市場涉及美國民主黨在國會的選舉結果以及以色列"}
 {"strategy": "trend", "trend_id": "美中央司令部成立特遣队阻止伊朗通过陆路运输先进武器", "trend_title": "美中央司令部成立特遣队，阻止伊朗通过陆路运输先进武器", "market_title": "", "reason": "LLM 判定不下注：該熱門話題討論的是美軍阻止伊朗運送武器，與所有候選市場（包含中國公司、AI 模型、台灣領導人訪美）均無直接關聯性，因此選"}
+{"strategy": "trend", "trend_id": "黎巴嫩外交部长黎巴嫩的利益不应在为他人利益服务的过程中受到损害", "trend_title": "黎巴嫩外交部长：黎巴嫩的利益不应在为他人利益服务的过程中受到损害。", "market_title": "", "reason": "LLM 判定不下注：該話題為黎巴嫩外長關於國家利益的表態，並未提供任何具體衝突時間點或衝突強度的預測，與候選市場（以色列在特定日期對黎巴嫩採"}
+{"strategy": "trend", "trend_id": "伊朗处决三名为美以执行任务的男子", "trend_title": "伊朗处决三名“为美以执行任务”的男子", "market_title": "", "reason": "LLM 判定不下注：該話題涉及伊朗處決被指控為美以工作的男子，這是一個地緣政治事件，但與候選市場中關於伊朗核協議的特定條款（如濃縮鈾、協議時"}
+{"strategy": "trend", "trend_id": "中选之后美国新增算力被锁死马斯克成为ai格局胜负手", "trend_title": "中选之后“美国新增算力被锁死”，马斯克成为“AI格局胜负手”", "market_title": "", "reason": "LLM 判定不下注：话题讨论的是美国大选后AI算力格局以及马斯克在其中的作用，与特斯拉与SpaceX合并的市场没有直接关联。"}
+{"strategy": "trend", "trend_id": "英伟达超7600万元货物离奇失踪", "trend_title": "英伟达超7600万元货物离奇失踪", "market_title": "", "reason": "LLM 判定不下注：該話題關於英偉達的貨物失蹤，與候選市場中關於 Ornn B200 Index 或 NVIDIA Q3 財報的預測無直接關"}
+{"strategy": "trend", "trend_id": "黎巴嫩外交部长黎巴嫩拒绝代其进行谈判或讨价还价", "trend_title": "黎巴嫩外交部长：黎巴嫩拒绝代其进行谈判或讨价还价。", "market_title": "", "reason": "信心 0.30 < 0.35：話題中黎巴嫩外長表示黎巴嫩拒絕代其進行談判，這暗示黎巴嫩政府在主權和談判立場上採"}
