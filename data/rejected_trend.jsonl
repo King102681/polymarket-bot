@@ -8364,3 +8364,6 @@
 {"strategy": "trend", "trend_id": "中选之后美国新增算力被锁死马斯克成为ai格局胜负手", "trend_title": "中选之后“美国新增算力被锁死”，马斯克成为“AI格局胜负手”", "market_title": "", "reason": "LLM 判定不下注：话题讨论的是美国大选后AI算力格局以及马斯克在其中的作用，与特斯拉与SpaceX合并的市场没有直接关联。"}
 {"strategy": "trend", "trend_id": "英伟达超7600万元货物离奇失踪", "trend_title": "英伟达超7600万元货物离奇失踪", "market_title": "", "reason": "LLM 判定不下注：該話題關於英偉達的貨物失蹤，與候選市場中關於 Ornn B200 Index 或 NVIDIA Q3 財報的預測無直接關"}
 {"strategy": "trend", "trend_id": "黎巴嫩外交部长黎巴嫩拒绝代其进行谈判或讨价还价", "trend_title": "黎巴嫩外交部长：黎巴嫩拒绝代其进行谈判或讨价还价。", "market_title": "", "reason": "信心 0.30 < 0.35：話題中黎巴嫩外長表示黎巴嫩拒絕代其進行談判，這暗示黎巴嫩政府在主權和談判立場上採"}
+{"strategy": "trend", "trend_id": "特朗普称美国中期选举是倒退的一步", "trend_title": "特朗普称美国中期选举是倒退的一步", "market_title": "", "reason": "LLM 判定不下注：此熱門話題是關於特朗普對美國中期選舉的評論，與候選市場中關於特定人物是否離開特朗普政府的預測完全無關。因此，無法判斷市場"}
+{"strategy": "trend", "trend_id": "金融时报称anthropic敲定34亿美元采购协议", "trend_title": "金融时报称Anthropic敲定34亿美元采购协议", "market_title": "", "reason": "LLM 判定不下注：該新聞是關於 Anthropic 的採購協議，而非 IPO 的確定消息。雖然這可能影響公司估值，但與市場上所有候選市場（"}
+{"strategy": "trend", "trend_id": "以色列总统授权埃森科特组建政府", "trend_title": "以色列总统授权埃森科特组建政府", "market_title": "", "reason": "LLM 判定不下注：該話題是關於以色列總統授權組建政府，這與停火協議無直接關聯，因此選擇市場索引 -1。"}
