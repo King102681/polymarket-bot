@@ -8374,3 +8374,5 @@
 {"strategy": "trend", "trend_id": "hundredsofthousandsjoinamsterdamsredlineprotestagainstisrael", "trend_title": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel", "market_title": "Israel x Hamas Ceasefire Phase II by December 31?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "lopezdoublefiresbarcelonatowinatatleticomadrid", "trend_title": "Lopez double fires Barcelona to win at Atletico Madrid", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於足球比賽的賽果，與所有候選市場（皆與北約、俄羅斯、烏克蘭相關）完全無關。"}
 {"strategy": "trend", "trend_id": "美国总统特朗普谈伊朗从历史的角度来看这将作为我们所做过的最棒的事情之一载入史册", "trend_title": "美国总统特朗普：（谈伊朗）从历史的角度来看，这将作为我们所做过的最棒的事情之一，载入史册。", "market_title": "", "reason": "LLM 判定不下注：討論的是伊朗政策，與候選市場的官員離職預測無關。"}
+{"strategy": "trend", "trend_id": "特朗普不掌控星链也不知道是谁减缓乌克兰网速", "trend_title": "特朗普：不掌控星链，也不知道是谁减缓乌克兰网速", "market_title": "", "reason": "LLM 判定不下注：話題關於特朗普對星鏈的聲明，與所有候選市場（皆關於特定人士離開特朗普政府的時間）無關。"}
+{"strategy": "trend", "trend_id": "外媒伊朗向美国发出最后通牒", "trend_title": "外媒：伊朗向美国发出“最后通牒”", "market_title": "US-Iran Final Nuclear Deal by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
