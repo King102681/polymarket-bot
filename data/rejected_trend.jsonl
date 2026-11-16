@@ -8542,3 +8542,8 @@
 {"strategy": "trend", "trend_id": "欧盟委员会主席冯德莱恩我们致力于为乌克兰提供最大的支持", "trend_title": "欧盟委员会主席冯德莱恩：我们致力于为乌克兰提供最大的支持。", "market_title": "", "reason": "LLM 判定不下注：欧盟委员会主席冯德莱恩关于支持乌克兰的声明，并未直接指向任何一个关于俄乌欧三方外交会议的具体时间或地点的预测市场。声明是"}
 {"strategy": "trend", "trend_id": "福布斯杂志英伟达的3位前任及现任高管已不再是亿万富翁", "trend_title": "《福布斯》杂志：英伟达的3位前任及现任高管已不再是亿万富翁", "market_title": "", "reason": "LLM 判定不下注：該熱門話題指出英偉達的高管不再是億萬富翁，這與公司領導層的變動或CEO繼任問題無關，因此與所有候選市場的關聯性都不高。"}
 {"strategy": "trend", "trend_id": "爱沙尼亚将关闭与俄罗斯所有边境口岸", "trend_title": "爱沙尼亚将关闭与俄罗斯所有边境口岸", "market_title": "", "reason": "LLM 判定不下注：话题是关于爱沙尼亚关闭与俄罗斯的边境口岸，与所有候选的关于俄乌欧三方外交会议的市场都无关。"}
+{"strategy": "trend", "trend_id": "英伟达据报曾就员工涉向中国大陆走私晶片案向台湾官员求助", "trend_title": "英伟达据报曾就员工涉向中国大陆走私晶片案向台湾官员求助", "market_title": "", "reason": "LLM 判定不下注：该话题讨论的是英伟达因员工走私芯片事件向台湾官员求助，这与‘台湾行政院长是否在2026年12月31日前下台’或‘特朗普是"}
+{"strategy": "trend", "trend_id": "习近平将同普京特朗普会晤", "trend_title": "习近平将同普京特朗普会晤", "market_title": "", "reason": "LLM 判定不下注：此話題提及的領導人會晤，與是否彈劾特朗普（Impeachment）並無直接關聯，且彈劾的時程設定也與此次會晤的預期影響範"}
+{"strategy": "trend", "trend_id": "伊朗外交部美国欲扩大其在里海地区的影响力", "trend_title": "伊朗外交部：美国欲扩大其在里海地区的影响力", "market_title": "Will Dilution of Iranian Uranium be in a US-Iran deal in 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "美股芯片股暗盘大涨英伟达直线拉升", "trend_title": "美股芯片股暗盘大涨 英伟达直线拉升", "market_title": "", "reason": "LLM 判定不下注：該熱門話題討論的是美股芯片股（包括英偉達）的盤後股價表現，與管理層的CEO任命無直接關聯。因此，候選市場均不相關。"}
+{"strategy": "trend", "trend_id": "whatsnextfornvidia", "trend_title": "What's Next for Nvidia?", "market_title": "", "reason": "LLM 判定不下注：話題『What's Next for Nvidia』太寬泛，涵蓋產品、戰略、市場等多個方向，並非聚焦於CEO交接問題。三"}
