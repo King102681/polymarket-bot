@@ -8603,3 +8603,11 @@
 {"strategy": "trend", "trend_id": "美国总统特朗普谈及近期宕机事件中人们讨论囤积食物和水放轻松一切都很好", "trend_title": "美国总统特朗普：（谈及近期宕机事件中人们讨论囤积食物和水）放轻松，一切都很好。", "market_title": "", "reason": "LLM 判定不下注：话题关于特朗普总统对人们囤积食物和水的看法，与两个关于他与中国领导人习近平握手持续时间的市场完全无关。"}
 {"strategy": "trend", "trend_id": "俄外交部德国回避就北溪管道爆炸案与俄罗斯协作", "trend_title": "俄外交部：德国回避就“北溪”管道爆炸案与俄罗斯协作", "market_title": "", "reason": "LLM 判定不下注：俄外交部關於北溪管道爆炸案的指控涉及俄德關係及國際調查問題，與三個候選市場（都是關於俄烏高級外交會議地點）沒有直接對應關"}
 {"strategy": "trend", "trend_id": "卡尼称加拿大希望尽快签署与台湾贸易框架协议", "trend_title": "卡尼称加拿大希望尽快签署与台湾贸易框架协议", "market_title": "", "reason": "LLM 判定不下注：話題關於加拿大與台灣的貿易協議，與候選市場中關於川普在APEC的發言或台灣行政院長任期完全無關。"}
+{"strategy": "trend", "trend_id": "黄仁勋辞职后英伟达召开首次全员大会", "trend_title": "黄仁勋辞职后，英伟达召开首次全员大会", "market_title": "", "reason": "LLM 判定不下注：此話題僅提到黃仁勳辭職後英偉達召開全體大會，並未提供任何關於繼任CEO的具體信息或對股價有影響的新聞。因此，無法判斷任何"}
+{"strategy": "trend", "trend_id": "chartingtheworldsbiggestiposasanthropicovertakesspacex", "trend_title": "Charting the world’s biggest IPOs as Anthropic overtakes SpaceX", "market_title": "Will Anthropic's market cap be between $1.25T and $1.5T at market close on IPO d", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "英伟达拖累美股标普五连跌纳指逆势微涨网络安全股票大涨黄金重挫创十四个月新低", "trend_title": "英伟达拖累美股，标普五连跌，纳指逆势微涨，网络安全股票大涨，黄金重挫创十四个月新低", "market_title": "", "reason": "信心 0.30 < 0.35：話題提到黃金重挫創十四個月新低，但市場對黃金在 11 月跌至 $3,600 的機"}
+{"strategy": "trend", "trend_id": "英伟达临时ceo呼吁向前看arm掌门人据悉获猎头接洽", "trend_title": "英伟达临时CEO呼吁“向前看” Arm掌门人据悉获猎头接洽", "market_title": "Will Rene Haas be the next CEO of NVIDIA?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "石油贸易商与卡塔尔能源公司洽谈长期供应合同", "trend_title": "石油贸易商与卡塔尔能源公司洽谈长期供应合同", "market_title": "Will WTI Crude Oil (WTI) hit (LOW) $80 in November?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "艾森科特或将出任以色列轮值总理", "trend_title": "艾森科特或将出任以色列“轮值总理”", "market_title": "", "reason": "LLM 判定不下注：話題涉及以色列政治人事變動（艾森科特可能出任輪值總理），與候選市場無真實對應關係。候選市場0和1均混合了『民主黨掃除眾參"}
+{"strategy": "trend", "trend_id": "习近平普京和特朗普在三方会晤中将同桌而坐", "trend_title": "习近平、普京和特朗普在三方会晤中将同桌而坐", "market_title": "", "reason": "LLM 判定不下注：話題涉及習近平、普京、特朗普三方會晤，但候選市場[0]僅針對Trump-Xi握手時長在APEC的specific eve"}
+{"strategy": "trend", "trend_id": "特朗普与普京在深圳举行42分钟会谈", "trend_title": "特朗普与普京在深圳举行42分钟会谈", "market_title": "", "reason": "LLM 判定不下注：話題涉及特朗普與普京在深圳會談，但候選市場[0]詢問的是特朗普與習近平在APEC握手時間。兩者事件完全不同（普京vs習近"}
