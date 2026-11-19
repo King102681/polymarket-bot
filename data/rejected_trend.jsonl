@@ -8611,3 +8611,9 @@
 {"strategy": "trend", "trend_id": "艾森科特或将出任以色列轮值总理", "trend_title": "艾森科特或将出任以色列“轮值总理”", "market_title": "", "reason": "LLM 判定不下注：話題涉及以色列政治人事變動（艾森科特可能出任輪值總理），與候選市場無真實對應關係。候選市場0和1均混合了『民主黨掃除眾參"}
 {"strategy": "trend", "trend_id": "习近平普京和特朗普在三方会晤中将同桌而坐", "trend_title": "习近平、普京和特朗普在三方会晤中将同桌而坐", "market_title": "", "reason": "LLM 判定不下注：話題涉及習近平、普京、特朗普三方會晤，但候選市場[0]僅針對Trump-Xi握手時長在APEC的specific eve"}
 {"strategy": "trend", "trend_id": "特朗普与普京在深圳举行42分钟会谈", "trend_title": "特朗普与普京在深圳举行42分钟会谈", "market_title": "", "reason": "LLM 判定不下注：話題涉及特朗普與普京在深圳會談，但候選市場[0]詢問的是特朗普與習近平在APEC握手時間。兩者事件完全不同（普京vs習近"}
+{"strategy": "trend", "trend_id": "日本在日中关系冰冷之际加强与盟友协调高市早苗访华", "trend_title": "日本在日中关系冰冷之际加强与盟友协调：高市早苗访华", "market_title": "", "reason": "LLM 判定不下注：话题内容是关于日本高官访华，与“日本国会是否在2026年解散”的市场完全无关。"}
+{"strategy": "trend", "trend_id": "asburnhamheadstobrusselsarenewbrexitwarsabouttobegin", "trend_title": "As Burnham heads to Brussels, are new Brexit wars about to begin?", "market_title": "", "reason": "LLM 判定不下注：此話題與英國脫歐 (Brexit) 的談判和潛在衝突有關，而候選市場中沒有任何一個直接或間接提及此類事件。話題僅提到 \""}
+{"strategy": "trend", "trend_id": "详讯丨习近平会见美国总统特朗普", "trend_title": "详讯丨习近平会见美国总统特朗普", "market_title": "", "reason": "LLM 判定不下注：熱門話題是關於習近平與美國總統特朗普的會面，這與候選市場中提到的與澤連斯基、Sam Altman 或 Elon Musk"}
+{"strategy": "trend", "trend_id": "乌克兰总统泽连斯基下一轮与俄罗斯的谈判必须包括欧洲", "trend_title": "乌克兰总统泽连斯基：下一轮与俄罗斯的谈判必须包括欧洲。", "market_title": "", "reason": "LLM 判定不下注：話題提到『下一輪談判』，但所有候選市場的到期日都是 2027 年，且市場關乎的是『高級外交會議』是否在特定地點舉行，並未"}
+{"strategy": "trend", "trend_id": "沙特为与胡塞武装长期交战做准备", "trend_title": "沙特为与胡塞武装长期交战做准备", "market_title": "", "reason": "LLM 判定不下注：此話題關於沙特與胡塞武裝的衝突，與巴拿馬運河是否關閉無關。"}
+{"strategy": "trend", "trend_id": "德国总理默茨在柏林主持乌克兰支持峰会", "trend_title": "德国总理默茨在柏林主持乌克兰支持峰会", "market_title": "", "reason": "LLM 判定不下注：話題是關於德國總理主持烏克蘭支持峰會，這與其他市場中提出的『下次俄烏高級外交會議地點』並無直接關聯。提供的候選市場似乎都"}
