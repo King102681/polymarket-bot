@@ -8632,3 +8632,8 @@
 {"strategy": "trend", "trend_id": "特朗普亚洲行日程太满未能见金正恩未来仍会促成会谈", "trend_title": "特朗普：亚洲行日程太满未能见金正恩 未来仍会促成会谈", "market_title": "", "reason": "LLM 判定不下注：此新聞討論的是特朗普與金正恩的會晤，與候選市場中的 Sam Altman 和 Elon Musk 無關。"}
 {"strategy": "trend", "trend_id": "美国参议院否决限制特朗普对伊朗战争权力决议", "trend_title": "美国参议院否决限制特朗普对伊朗战争权力决议", "market_title": "", "reason": "LLM 判定不下注：該話題是關於美國參議院對伊朗戰爭權力的決議，與候選市場中關於特朗普與Sam Altman或Elon Musk見面的話題無"}
 {"strategy": "trend", "trend_id": "普京中俄美元首会晤前所未有", "trend_title": "普京：中俄美元首会晤前所未有", "market_title": "", "reason": "LLM 判定不下注：提供的熱門話題是關於普京與中國領導人的會晤，強調其『前所未有』的性質。然而，候選市場均為『俄烏高級外交會議』的舉行地點與"}
+{"strategy": "trend", "trend_id": "据塔斯社俄罗斯敦促荷兰认真对待其关于外国外交官撤离基辅的建议", "trend_title": "据塔斯社：俄罗斯敦促荷兰认真对待其关于外国外交官撤离基辅的建议。", "market_title": "Next Russia-Ukraine-EU Trilateral Diplomatic Meeting by December 31, 2026?", "reason": "進場價 0.995 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "视频中美元首共同观看特朗普竞选神曲ymca歌舞表演", "trend_title": "【视频】中美元首共同观看特朗普竞选神曲《YMCA》歌舞表演", "market_title": "", "reason": "LLM 判定不下注：該話題描述的是中美元首共同觀看一段表演，與美國官員是否會離開特朗普政府或特朗普是否會見馬斯克沒有直接關聯。話題的內容與候"}
+{"strategy": "trend", "trend_id": "美联储官员主张进一步收紧但加息节奏存分歧", "trend_title": "美联储官员主张进一步收紧但加息节奏存分歧", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是美聯儲官員關於進一步收緊貨幣政策以及加息節奏的分歧，但所有候選市場的到期時間均為 2027 年。目前話題討"}
+{"strategy": "trend", "trend_id": "brexitdebatereturnsasukpmseeksclosereuties", "trend_title": "Brexit debate returns as UK PM seeks closer EU ties", "market_title": "", "reason": "LLM 判定不下注：話題涉及英國首相尋求與歐盟更密切關係的 Brexit 政策進展。候選市場涵蓋以色列領導層更替、英國下議院補選、社群媒體禁"}
+{"strategy": "trend", "trend_id": "特朗普刚返美就发重大预告", "trend_title": "特朗普刚返美就发重大预告", "market_title": "", "reason": "LLM 判定不下注：該話題僅提到特朗普返美並發出“重大預告”，但沒有具體內容，因此無法判斷預告內容是否對任一候選市場產生影響。候選市場0和1"}
