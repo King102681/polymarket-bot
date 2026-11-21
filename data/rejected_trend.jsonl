@@ -8649,3 +8649,7 @@
 {"strategy": "trend", "trend_id": "techstockselloffdragsmarketsdownasanthropicsharesslide", "trend_title": "Tech stock sell-off drags markets down as Anthropic shares slide", "market_title": "", "reason": "LLM 判定不下注：討論主題是 Anthropic 股價下跌，但候選市場大多是關於破產或 IPO，且時間點遙遠，目前話題並未提供足夠的直接資"}
 {"strategy": "trend", "trend_id": "ai做空交易开始获利了结大空头burry称英伟达半导体etf看跌期权均减半", "trend_title": "AI做空交易开始获利了结？“大空头”Burry称英伟达、半导体ETF看跌期权均减半", "market_title": "", "reason": "LLM 判定不下注：該話題提及Michael Burry減持英偉達（NVIDIA）和半導體ETF的看跌期權，顯示其對這些資產的看跌情緒。然而"}
 {"strategy": "trend", "trend_id": "欧洲地中海地震中心俄罗斯堪察加半岛东海岸发生了44级地震震源深度889公里", "trend_title": "欧洲地中海地震中心：俄罗斯堪察加半岛东海岸发生了4.4级地震；震源深度88.9公里。", "market_title": "", "reason": "LLM 判定不下注：地震消息與俄烏外交會議無關，因此無法判斷市場方向。"}
+{"strategy": "trend", "trend_id": "俄国防部俄防空系统一天内击落乌军464架无人机俄新社", "trend_title": "俄国防部：俄防空系统一天内击落乌军464架无人机。（俄新社）", "market_title": "", "reason": "LLM 判定不下注：該熱門話題是關於俄羅斯防空系統擊落烏克蘭無人機的軍事行動消息，與所有候選市場（均為俄烏高級外交會議的日期與地點）沒有直接"}
+{"strategy": "trend", "trend_id": "俄国防部乌军一天在特别军事行动中损失约1185名军人", "trend_title": "俄国防部：乌军一天在特别军事行动中损失约1185名军人", "market_title": "", "reason": "LLM 判定不下注：該話題是關於俄軍聲稱烏軍損失情況，與所有候選市場（關於未來外交會議）均無關聯。"}
+{"strategy": "trend", "trend_id": "特朗普称中国核武十年内将追上美国", "trend_title": "特朗普称中国核武十年内将追上美国", "market_title": "", "reason": "LLM 判定不下注：話題是關於特朗普對中國核武的看法，與所有候選市場（涉及與Sam Altman、Jensen Huang、Elon Mus"}
+{"strategy": "trend", "trend_id": "黄金为啥突然不香了", "trend_title": "黄金为啥突然不香了", "market_title": "Will Gold (XAUUSD) hit (LOW) $3,300 in November?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
