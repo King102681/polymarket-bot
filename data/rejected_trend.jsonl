@@ -8686,3 +8686,4 @@
 {"strategy": "trend", "trend_id": "美国收紧晶片管制英伟达供应商暂停对东南亚出货", "trend_title": "美国收紧晶片管制 英伟达供应商暂停对东南亚出货", "market_title": "", "reason": "LLM 判定不下注：话题是关于英伟达供应商暂停对东南亚出货，这可能影响供应链，但并未直接指向英伟达CEO的任命。因此，该话题与所有提供的市场"}
 {"strategy": "trend", "trend_id": "英伟达董事会启动ceo外部遴选程序", "trend_title": "英伟达董事会启动CEO外部遴选程序", "market_title": "", "reason": "LLM 判定不下注：該話題是關於輝達（NVIDIA）董事會啟動 CEO 外部遴選程序，但提供的候選市場都聚焦於特定個人（Rene Haas,"}
 {"strategy": "trend", "trend_id": "黄金这波暴跌割了谁的韭菜", "trend_title": "黄金这波暴跌割了谁的韭菜", "market_title": "Will Gold (XAUUSD) hit (LOW) $3,400 in November?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "日媒逐帧解析特朗普无视高市", "trend_title": "日媒逐帧解析特朗普无视高市", "market_title": "", "reason": "LLM 判定不下注：該話題是關於日本媒體逐幀解析特朗普無視高市的行為，與候選市場中關於特朗普在特定時間段內發布Truth Social帖子的"}
