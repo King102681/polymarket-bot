@@ -8687,3 +8687,7 @@
 {"strategy": "trend", "trend_id": "英伟达董事会启动ceo外部遴选程序", "trend_title": "英伟达董事会启动CEO外部遴选程序", "market_title": "", "reason": "LLM 判定不下注：該話題是關於輝達（NVIDIA）董事會啟動 CEO 外部遴選程序，但提供的候選市場都聚焦於特定個人（Rene Haas,"}
 {"strategy": "trend", "trend_id": "黄金这波暴跌割了谁的韭菜", "trend_title": "黄金这波暴跌割了谁的韭菜", "market_title": "Will Gold (XAUUSD) hit (LOW) $3,400 in November?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "日媒逐帧解析特朗普无视高市", "trend_title": "日媒逐帧解析特朗普无视高市", "market_title": "", "reason": "LLM 判定不下注：該話題是關於日本媒體逐幀解析特朗普無視高市的行為，與候選市場中關於特朗普在特定時間段內發布Truth Social帖子的"}
+{"strategy": "trend", "trend_id": "早报稳股市组合拳来了三项新政发布韩国已准备好立即部署市场稳定基金", "trend_title": "【早报】“稳股市”组合拳来了，三项新政发布；韩国已准备好立即部署市场稳定基金", "market_title": "", "reason": "LLM 判定不下注：這則新聞關於韓國政府準備部署市場穩定基金以及中國股市的相關消息，與其他候選市場（如通膨率、基準利率、失業率）沒有直接關聯"}
+{"strategy": "trend", "trend_id": "贝森特警告美联储过度紧缩恐犯错但抗通胀优先股市恐等不到救援", "trend_title": "贝森特警告美联储过度紧缩恐犯错！但抗通胀优先，股市恐等不到救援", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是美聯儲過度緊縮的風險以及抗通脹的優先級，並提及股市可能得不到救援。然而，所有候選市場都集中在 2027 年"}
+{"strategy": "trend", "trend_id": "美政府十年驱逐逾43万名乌克兰人", "trend_title": "美政府十年驱逐逾4.3万名乌克兰人", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是美國驅逐烏克蘭人，與俄烏外交會議無關，因此選擇無相關市場。"}
+{"strategy": "trend", "trend_id": "特朗普深圳行照片14张是中美元首互动", "trend_title": "特朗普深圳行照片14张是中美元首互动", "market_title": "", "reason": "LLM 判定不下注：提供的新聞話題是關於特朗普與中美元首互動的照片，與候選市場中所有關於 Jensen Huang 或 Truth Soci"}
