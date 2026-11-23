@@ -8691,3 +8691,9 @@
 {"strategy": "trend", "trend_id": "贝森特警告美联储过度紧缩恐犯错但抗通胀优先股市恐等不到救援", "trend_title": "贝森特警告美联储过度紧缩恐犯错！但抗通胀优先，股市恐等不到救援", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是美聯儲過度緊縮的風險以及抗通脹的優先級，並提及股市可能得不到救援。然而，所有候選市場都集中在 2027 年"}
 {"strategy": "trend", "trend_id": "美政府十年驱逐逾43万名乌克兰人", "trend_title": "美政府十年驱逐逾4.3万名乌克兰人", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是美國驅逐烏克蘭人，與俄烏外交會議無關，因此選擇無相關市場。"}
 {"strategy": "trend", "trend_id": "特朗普深圳行照片14张是中美元首互动", "trend_title": "特朗普深圳行照片14张是中美元首互动", "market_title": "", "reason": "LLM 判定不下注：提供的新聞話題是關於特朗普與中美元首互動的照片，與候選市場中所有關於 Jensen Huang 或 Truth Soci"}
+{"strategy": "trend", "trend_id": "特朗普称只想向中国出售相对落后的芯片外交部回应", "trend_title": "特朗普称只想向中国出售相对落后的芯片，外交部回应", "market_title": "", "reason": "LLM 判定不下注：此熱門話題與候選市場的國家領導人（澤倫斯基、馬杜羅）無直接關聯，因此無法判斷市場方向與信心。"}
+{"strategy": "trend", "trend_id": "铜矿平均c1现金成本升至239美元磅创历史新高成本通胀加剧矿企利润压力", "trend_title": "铜矿平均C1现金成本升至2.39美元/磅创历史新高，成本通胀加剧矿企利润压力", "market_title": "", "reason": "LLM 判定不下注：該話題討論的是銅礦成本，與候選市場中的通膨數據（CPI）沒有直接關聯，無法判斷市場方向。"}
+{"strategy": "trend", "trend_id": "王毅吁瑞士反对台独协助化解中欧经贸分歧", "trend_title": "王毅吁瑞士反对台独 协助化解中欧经贸分歧", "market_title": "", "reason": "LLM 判定不下注：此話題是關於中國外交部長王毅呼籲瑞士支持中國的立場，並協助化解中歐經貿分歧。候選市場一個是關於台灣行政院長任期，另一個是"}
+{"strategy": "trend", "trend_id": "民主党拟查特朗普政府关税与减税政策", "trend_title": "民主党拟查特朗普政府关税与减税政策", "market_title": "", "reason": "LLM 判定不下注：話題是關於民主黨計畫調查特朗普政府的關稅與減稅政策，這與候選市場中的特朗普與烏克蘭總統澤倫斯基或委內瑞拉總統馬杜羅的通話"}
+{"strategy": "trend", "trend_id": "russianwarshiphitbyukrainiandronesinlibyazelenskysays", "trend_title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says", "market_title": "", "reason": "LLM 判定不下注：新聞報導俄羅斯軍艦被烏克蘭無人機擊中，與候選市場關於『俄烏外交會議』的預測毫無關聯。提供的訊息無法判斷任何一個市場的方向"}
+{"strategy": "trend", "trend_id": "俄国防部俄防空系统夜间击落192架乌克兰无人机", "trend_title": "俄国防部：俄防空系统夜间击落192架乌克兰无人机", "market_title": "", "reason": "LLM 判定不下注：此熱門話題是關於俄羅斯防空系統擊落烏克蘭無人機的軍事行動，與候選市場中所有關於俄烏之間『外交會議』的議題均無直接關聯。因"}
