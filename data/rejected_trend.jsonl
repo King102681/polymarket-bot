@@ -8735,3 +8735,7 @@
 {"strategy": "trend", "trend_id": "美媒内塔尼亚胡告诉库什纳他准备执行美国的加沙和平计划", "trend_title": "美媒：内塔尼亚胡告诉库什纳他准备执行美国的加沙和平计划", "market_title": "Will the Democrats sweep the House and Senate and Israel and Hamas agree to ceas", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
 {"strategy": "trend", "trend_id": "金正恩要求朝鲜扩大多领域战术核武器运用", "trend_title": "金正恩要求朝鲜扩大多领域战术核武器运用", "market_title": "", "reason": "LLM 判定不下注：此新聞主題是關於戰術核武器的運用，與候選市場中預測的導彈試驗次數或外交會議時間點，關聯性不高，且新聞中的『要求』不代表已"}
 {"strategy": "trend", "trend_id": "普京爱吃粤菜离开前还打包上飞机", "trend_title": "普京爱吃粤菜离开前还打包上飞机", "market_title": "", "reason": "LLM 判定不下注：此話題關於普京的飲食偏好，與俄烏外交會議的市場無關。"}
+{"strategy": "trend", "trend_id": "美联储传声筒两周后沃什或将反对2018年的自己", "trend_title": "“美联储传声筒”：两周后，沃什或将反对2018年的自己", "market_title": "", "reason": "LLM 判定不下注：該新聞標題提及的是“2018年”的沃什，但候選市場的利率決策均為“2027年”，時間跨度過大，無法直接判斷對2027年利"}
+{"strategy": "trend", "trend_id": "立陶宛有权撤销台湾代表处法律地位", "trend_title": "立陶宛：有权撤销“台湾代表处”法律地位", "market_title": "", "reason": "LLM 判定不下注：此新聞是關於立陶宛與台灣之間的政治外交關係，並未直接提及或預示任何關於美國總統賴清德訪問美國、中國封鎖台灣、台灣現任行政"}
+{"strategy": "trend", "trend_id": "insideliberlandthecryptocountryfewhaveheardof", "trend_title": "Inside Liberland, the crypto ‘country’ few have heard of", "market_title": "", "reason": "LLM 判定不下注：該話題是關於一個名為 Liberland 的加密貨幣『國家』，文章內容是介紹其現況。候選市場全部是關於『總加密貨幣市值』"}
+{"strategy": "trend", "trend_id": "俄外长美国在就乌克兰问题开展对话时认识到需消除其根源", "trend_title": "俄外长：美国在就乌克兰问题开展对话时认识到需消除其根源", "market_title": "", "reason": "信心 0.30 < 0.35：俄外长言论强调对话需触及根源，这暗示了短期内达成实质性外交进展的可能性降低，因为"}
