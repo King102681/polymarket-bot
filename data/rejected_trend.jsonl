@@ -8754,3 +8754,7 @@
 {"strategy": "trend", "trend_id": "央行新规取消贷款罚息利率上下限", "trend_title": "央行新规取消贷款罚息利率上下限", "market_title": "", "reason": "LLM 判定不下注：話題是關於中國央行取消貸款罰息利率上下限，而候選市場均為美國聯準會（Fed）的利率決策，兩者毫無關聯。"}
 {"strategy": "trend", "trend_id": "据胡塞武装旗下媒体也门塔伊兹省的穆哈发电站遭3次空袭", "trend_title": "据胡塞武装旗下媒体：也门塔伊兹省的穆哈发电站遭3次空袭。", "market_title": "", "reason": "LLM 判定不下注：话题是关于也门胡塞武装的空袭，与巴拿马运河的通航问题毫无关联。"}
 {"strategy": "trend", "trend_id": "openai反诉苹果窃取机密", "trend_title": "OpenAI反诉苹果窃取机密", "market_title": "", "reason": "LLM 判定不下注：此話題是關於 OpenAI 與 Apple 之間的法律訴訟，內容涉及專利和機密資訊的竊取。然而，所有提供的市場都與 Op"}
+{"strategy": "trend", "trend_id": "首尔密切关注金正恩可能访华迹象", "trend_title": "首尔密切关注金正恩可能访华迹象", "market_title": "Will North and South Korea engage in direct talks by December 31?", "reason": "進場價 0.999 不在 [0.1, 0.9]"}
+{"strategy": "trend", "trend_id": "意媒意大利总理因乌军袭击利比亚港口一事大为愤怒", "trend_title": "意媒：意大利总理因乌军袭击利比亚港口一事大为愤怒", "market_title": "", "reason": "LLM 判定不下注：這則新聞標題提到意大利總理因烏軍襲擊利比亞港口而憤怒，但所有候選市場都圍繞著俄烏的外交會議，與此新聞事件的直接關聯性不高"}
+{"strategy": "trend", "trend_id": "全球大救市独缺美联储", "trend_title": "全球大救市，独缺美联储", "market_title": "", "reason": "LLM 判定不下注：該熱門話題談論的是『全球大救市，獨缺美聯儲』，暗示市場對美聯儲的行動有所期待或失望，但並未直接提及美聯儲在未來某個具體時"}
+{"strategy": "trend", "trend_id": "普京直播连线活动已收到超20万提问", "trend_title": "普京直播连线活动已收到超20万提问", "market_title": "", "reason": "LLM 判定不下注：此話題與普丁的直播連線提問數量有關，但與俄烏外交會議的市場無直接關聯性，因此無法判斷方向。"}
