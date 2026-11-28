@@ -8750,3 +8750,7 @@
 {"strategy": "trend", "trend_id": "英伟达nvdao盘初迅速转跌现跌约16", "trend_title": "英伟达(NVDA.O)盘初迅速转跌，现跌约1.6%。", "market_title": "", "reason": "LLM 判定不下注：該話題僅是關於英偉達股價的短期波動，與所有候選市場預測的事件（如中國AI晶片出貨、董事會變動、股價歷史低點）均無直接關聯"}
 {"strategy": "trend", "trend_id": "俄副外长爱沙尼亚关闭与俄罗斯间的口岸是政治荒唐之举", "trend_title": "俄副外长：爱沙尼亚关闭与俄罗斯间的口岸是政治荒唐之举", "market_title": "", "reason": "LLM 判定不下注：该话题关于爱沙尼亚与俄罗斯之间的口岸关闭，与俄罗斯和乌克兰的高级别外交会议地点和时间无关。因此，没有相关的市场可供选择。"}
 {"strategy": "trend", "trend_id": "usairforcescloudcomputingplatformhacked", "trend_title": "US Air Force's cloud computing platform hacked", "market_title": "", "reason": "LLM 判定不下注：該熱門話題與候選市場（俄烏外交會議）無任何關聯性，因此無法判斷市場方向和信心。"}
+{"strategy": "trend", "trend_id": "台湾九合一选举卢秀燕配蓝营候选人投票", "trend_title": "台湾九合一选举：卢秀燕配蓝营候选人投票", "market_title": "", "reason": "LLM 判定不下注：这条热门话题是关于台湾地方选举中蓝营候选人的投票情况，与所有提供的市场预测（例如中国封锁台湾、政治人物出访或特定言论）均"}
+{"strategy": "trend", "trend_id": "央行新规取消贷款罚息利率上下限", "trend_title": "央行新规取消贷款罚息利率上下限", "market_title": "", "reason": "LLM 判定不下注：話題是關於中國央行取消貸款罰息利率上下限，而候選市場均為美國聯準會（Fed）的利率決策，兩者毫無關聯。"}
+{"strategy": "trend", "trend_id": "据胡塞武装旗下媒体也门塔伊兹省的穆哈发电站遭3次空袭", "trend_title": "据胡塞武装旗下媒体：也门塔伊兹省的穆哈发电站遭3次空袭。", "market_title": "", "reason": "LLM 判定不下注：话题是关于也门胡塞武装的空袭，与巴拿马运河的通航问题毫无关联。"}
+{"strategy": "trend", "trend_id": "openai反诉苹果窃取机密", "trend_title": "OpenAI反诉苹果窃取机密", "market_title": "", "reason": "LLM 判定不下注：此話題是關於 OpenAI 與 Apple 之間的法律訴訟，內容涉及專利和機密資訊的竊取。然而，所有提供的市場都與 Op"}
